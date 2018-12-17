@@ -1,0 +1,81 @@
+enable : true
+
+item :
+
+languageName : CA
+
+PageHeaderSpeakers : Conferenciants
+
+ItemSpeakerTitle01 : Oriol Marimon
+ItemSpeakerSubtitle01 : Big Van Ciencia
+ItemSpeakerText01 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+ItemSpeakerTitle02 : Helena González-Burón
+ItemSpeakerSubtitle02 : Big Van Ciencia
+ItemSpeakerText02 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+ItemSpeakerTitle03 : Sam Aaron
+ItemSpeakerSubtitle03 : Sonic Pi
+ItemSpeakerText03 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+ItemSpeakerTitle04 : Karen Wilkinson
+ItemSpeakerSubtitle04 : Exploratorium
+ItemSpeakerText04 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+ItemSpeakerTitle05 : Mike Petrich
+ItemSpeakerSubtitle05 : Exploratorium
+ItemSpeakerText05 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+ItemSpeakerTitle06: Anna Cutler
+ItemSpeakerSubtitle06 : TATE
+ItemSpeakerText06 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+ItemSpeakerTitle07 : Gever Tulley
+ItemSpeakerSubtitle07 : Brightworks
+ItemSpeakerText07 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+ItemSpeakerTitle08 : Mackenzie Price
+ItemSpeakerSubtitle08 : Brightworks
+ItemSpeakerText08 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+
+ItemSpeakerTitle09 : Juuso Henrik Nieminen
+ItemSpeakerSubtitle09 : University of Melbourne
+ItemSpeakerText09 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+ItemSpeakerTitle10 : Kaleb Rashad
+ItemSpeakerSubtitle10 : High Tech High
+ItemSpeakerText10 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+# HOW TO ARRIVE
+
+HomeFooterSectionTitle01 : How to arrive
+
+HomeFooterSectionTitle02 : By Highway
+HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
+
+HomeFooterSectionTitle03 : By Bus
+
+HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Parking
+HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
+
+# FOOTER
+
+HomeSubFooterTitle : Contact

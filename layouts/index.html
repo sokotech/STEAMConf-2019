@@ -1,0 +1,28 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.index }}
+
+    {{ partial "home-header.html" . }}
+
+  </head>
+  <body>
+
+    {{ partial "home-nav.html" . }}
+
+    {{ partial "home-bg.html" . }}
+
+    {{ partial "home-main-description.html" . }}
+
+    {{ partial "home-speakers.html" . }}
+
+    {{ partial "home-workshops.html" . }}
+
+    {{ partial "home-organizers.html" . }}
+
+    {{ partial "js.html" . }}
+
+    {{ partial "home-footer.html" . }}
+
+  </body>
+</html>
+
+{{ end }}

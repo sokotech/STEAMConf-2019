@@ -1,0 +1,138 @@
+baseURL = "localhost:1313"
+languageCode = "en-US"
+title = "STEAMConf 2019"
+license = "GNU General Public License v3.0"
+tags = "educacion, steam, education, steam"
+tagline = "STEAMConf, 5th. International Education Conference"
+description = "STEAMConf wants to visualize the vital importance of implementing programs and resources, which help to minimize the digital divide, gender imbalances and promote equal opportunities."
+DefaultContentLanguage = "en"
+copyright = "© STEAMConf 2018"
+
+# Build robots.txt file
+enableRobotsTXT = true
+# google analytics tracking id
+googleAnalytics = ""
+
+
+[Languages]
+
+  [Languages.en]
+    title = "STEAMConf"
+    weight = 1
+    name = "EN"
+    languageCode = "en-US"
+
+      [Languages.en.params]
+
+        # BG
+
+        BgSubtitle01 = "5th. International Education Conference"
+        BgSubtitle02 = "CosmoCaixa, Barcelona, Abril 14 -19"
+
+        # PAGE HEADER
+
+        PageHeaderAbout = "About STEAMConf"
+        PageHeaderProgram = "Program"
+        PageHeaderSchedule = "Schedule"
+        PageHeaderWorkshops = "Workshops"
+        PageHeaderSpeakers = "Speakers"
+        PageHeaderRegister = "Register"
+
+
+        # HOW TO ARRIVE
+
+        HomeFooterSectionTitle01 = "How to arrive"
+
+        HomeFooterSectionTitle02 = "By Highway"
+        HomeFooterSectionText02 = "Exit 6 / 7 on Ronda de Dalt"
+
+        HomeFooterSectionTitle03 = "By Bus"
+
+        HomeFooterSectionTitle04 = "By Ferrocarriles de la Generalitat"
+
+        HomeFooterSectionTitle05 = "Parking"
+        HomeFooterSectionText05 = "Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot."
+
+        # FOOTER
+
+        HomeSubFooterTitle = "Contact"
+
+  [Languages.es]
+    title = "STEAMConf"
+    weight = 2
+    name = "ES"
+    languageCode = "es-ES"
+
+      [Languages.es.params]
+
+        # BG
+
+        BgSubtitle01 = "5th. International Education Conference"
+        BgSubtitle02 = "CosmoCaixa, Barcelona, Abril 14 -19"
+
+        # PAGE HEADER
+
+        PageHeaderAbout = "Sobre STEAMConf"
+        PageHeaderProgram = "Programa"
+        PageHeaderSchedule = "Horario"
+        PageHeaderWorkshops = "Talleres"
+        PageHeaderSpeakers = "Conferenciantes"
+        PageHeaderRegister = "Registrate"
+
+        # COMO LLEGAR
+
+        HomeFooterSectionTitle01 = "Como llegar"
+
+        HomeFooterSectionTitle02 = "Por Carretera"
+        HomeFooterSectionText02 = "Sortides 6 / 7 en Ronda de Dalt"
+
+        HomeFooterSectionTitle03 = "En Autobus"
+
+        HomeFooterSectionTitle04 = "Por Ferrocarriles de la Generalitat"
+
+        HomeFooterSectionTitle05 = "Aparcament"
+        HomeFooterSectionText05 = "Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA."
+
+        # FOOTER
+
+        HomeSubFooterTitle = "Contacte"
+
+    [Languages.ca]
+      title = "STEAMConf"
+      weight = 3
+      name = "CA"
+      languageCode = "ca-CA"
+
+        [Languages.ca.params]
+
+          # BG
+
+          BgSubtitle01 = "5th. International Education Conference"
+          BgSubtitle02 = "CosmoCaixa, Barcelona, Abril 14 -19"
+
+          # PAGE HEADER
+
+          PageHeaderAbout = "Sobre STEAMConf"
+          PageHeaderProgram = "Programa"
+          PageHeaderSchedule = "Horari"
+          PageHeaderWorkshops = "Tallers"
+          PageHeaderSpeakers = "Conferenciants"
+          PageHeaderRegister = "Registra't"
+
+          # COMO LLEGAR
+
+          HomeFooterSectionTitle01 = "Como llegar"
+
+          HomeFooterSectionTitle02 = "Por Carretera"
+          HomeFooterSectionText02 = "Sortides 6 / 7 en Ronda de Dalt"
+
+          HomeFooterSectionTitle03 = "En Autobus"
+
+          HomeFooterSectionTitle04 = "Por Ferrocarriles de la Generalitat"
+
+          HomeFooterSectionTitle05 = "Aparcament"
+          HomeFooterSectionText05 = "Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA."
+
+          # FOOTER
+
+          HomeSubFooterTitle = "Contacte"

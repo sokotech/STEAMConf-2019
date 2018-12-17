@@ -1,0 +1,1014 @@
+/* ------------------ Fonts ----------------------------------------------- Fonts ----------------------------- */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Raleway:600,700,900');
+
+/* ------------------ General ----------------------------------------------- General ----------------------------- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    background-image: url("../img/03/steamconf-page-white-background.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+button {
+  background: #fd7e14;
+  border-radius: 30px;
+  padding: 5px 30px;
+  border: 3px #fd7e14 solid;
+  color: white;
+  font-size: 1.2em;
+  transition: all .2s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.1);
+}
+
+.page-body {
+  background-image: url("../img/03/steamconf-page-white-background.svg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+}
+
+#bg-button-01, #bg-button-02, #bg-button-03 {
+  margin: 3% auto;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+  #bg-button-01, #bg-button-02, #bg-button-03 {
+    margin: 0;
+  }
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+  #bg-button-01, #bg-button-02, #bg-button-03 {
+    margin: 0;
+  }
+
+  button {
+    font-size: 1.4em;
+  }
+
+}
+
+
+/* ------------- home-bg ----------------------------------------- home-bg ----------------------------- */
+
+.bg-section {
+    background-image: url("../img/01/steamconf_bg_01.jpg");
+    background-color: #37145d !important;
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+.bg-information {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg-info-title {
+ color: white;
+}
+
+.bg-info-title h1{
+  font-weight: 700;
+  font-size: 2.3em;
+  text-align: center;
+}
+
+
+.bg-info-subtitle {
+  color: white;
+}
+
+.bg-info-subtitle h4{
+  font-size: 1.48em;
+  text-align: center;
+}
+
+.bg-info-buttons {
+  margin: 5% 0 0 0;
+}
+
+.bg-info-button-element {
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+  .bg-information {
+      top: 50%;
+  }
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+.bg-info-title h1{
+  font-weight: 700;
+  font-size: 3.5em;
+  text-align: left;
+}
+
+.bg-info-subtitle h4{
+  font-size: 24px;
+  text-align: left;
+}
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+.bg-section {
+    height: 750px;
+  }
+
+.bg-info-button-element {
+  width: 200px;
+}
+
+.bg-info-title h1{
+  font-size: 3.5em;
+  text-align: left;
+}
+
+.bg-info-subtitle h4{
+  font-size: 24px;
+  text-align: left;
+}
+
+}
+
+/* ------------- nav-bar ----------------------------------------- nav-bar ----------------------------- */
+
+.navbar {
+  height: 60px;
+  width: 100%;
+  margin: 0 0 0 0;
+  right: 0;
+  position: fixed;
+  z-index: 99;
+  opacity: 0.95;
+}
+
+.navbar-brand {
+  width: 77px;
+  margin-left: 0;
+  padding: 0;
+}
+
+.nav-item-02, .nav-item-03 {
+  width: 115px;
+}
+
+.nav-item-04 {
+  width: 140px;
+}
+
+.nav-item-01  {
+  width: 180px;
+}
+
+.dropdown-menu {
+    min-width: 7rem;
+    padding: 0.5rem 4px;
+}
+
+.breadcrumbs-bar {
+  position: fixed;
+  display: block;
+  background-color: #EB7B39;
+
+}
+
+.program-dropdown {
+  width: 119px;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+  .navbar-brand {
+    width: 90px;
+    margin-left: 5%;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+}
+
+/* ------------- home-description ----------------------------------------- home-description ----------------------------- */
+
+.home-description-section {
+  background-color: #d6d6d6;
+background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23c2c2c2' fill-opacity='0.56' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='3'/%3E%3Ccircle cx='13' cy='13' r='3'/%3E%3C/g%3E%3C/svg%3E");
+position: relative;
+
+}
+
+.home-description-section-text {
+  padding: 15% 0;
+  text-align: center;
+}
+
+.home-description-section-img img {
+  display: none;
+  position: absolute;
+  top: 8%;
+  right: 55%;
+  left: -17%;
+}
+
+.home-description-title, .organizers-section-title {
+  margin-bottom: 5%;
+  font-weight: 600;
+}
+
+.home-description-text, .home-workshops-text  {
+  font-size: 1.4em;
+  margin-bottom: 5%;
+  line-height: 1.6em;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+  .home-description-section-img img {
+    display: block;
+  }
+
+  .home-description-section-text {
+    padding: 12% 0 12% 40%;
+    text-align: right;
+  }
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+}
+
+/* ------------- speakers-section ----------------------------------------- speakers-section ----------------------------- */
+
+
+.home-speakers-section {
+  position: relative;
+  height: 2950px;
+}
+
+.home-speakers-section-title {
+  margin: 7% 0 1.5% 0;
+  text-align: center;
+  font-weight: 600;
+}
+
+.title-dots {
+  width: 8%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-dots {
+  width: 8%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+}
+
+.spacer {
+  height: 30px;
+}
+
+
+.home-speakers-section-robot {
+  display: block;
+  position: absolute;
+  top: 30%;
+  right: 0;
+  left: 65%;
+}
+
+  #home-speakers-section-items-container {
+    margin-top: 3%;
+  }
+
+  .speaker-item {
+    display: block;
+    position: relative;
+  }
+
+  .speaker-item img{
+    border-radius: 50%;
+    width: 50%;
+    z-index: 5;
+    display: block;
+    position: relative;
+  }
+
+
+  .circle {
+  width: 23%;
+  height: 103%;
+  overflow: hidden;
+  line-height: 16px;
+  border-radius: 100%;
+  box-sizing: border-box;
+  }
+
+  .speaker-item-text {
+    display: block;
+    position: absolute;
+    z-index: 4;
+  }
+
+
+  #speaker-col-01, #speaker-col-02, #speaker-col-03, #speaker-col-04, #speaker-col-05, #speaker-col-06, #speaker-col-07, #speaker-col-08, #speaker-col-09 {
+    display: block;
+    position: relative;
+  }
+
+
+  #speaker-item-01 {
+  display: block;
+  position: absolute;
+  right: 0;
+  }
+
+    #speaker-item-neongreen-circle {
+    background-color: #2CFF84;
+    z-index: 3;
+    position: absolute;
+    left: 21%;
+    top: -8%;
+    width: 53%;
+    }
+
+      #speaker-item-text-01 {
+        top: 15%;
+        left: 60%;
+      }
+
+
+#speaker-col-02 {
+  padding-left: 10%;
+}
+
+  #speaker-item-02 {
+    display: block;
+    position: absolute;
+    width: 50%;
+    left: 10%;
+    top: 235px;
+  }
+
+    #speaker-item-lightpurple-circle {
+    background-color: #AD87EA;
+    z-index: 3;
+    position: absolute;
+    left: -18%;
+    top: -13%;
+    width: 53%;
+    }
+
+      #speaker-item-text-02 {
+        top: 24%;
+        left: 54%;
+      }
+
+
+  #speaker-item-03 {
+    display: block;
+    position: absolute;
+    width: 50%;
+    right: -5%;
+    top: 370px;
+  }
+
+    #speaker-item-img-03 {
+      right: -30%;
+    }
+
+    #speaker-item-lightblue-circle {
+    background-color: #2990d2;
+    z-index: 3;
+    position: absolute;
+    right: 33%;
+    bottom: -18%;
+    width: 53%;
+    }
+
+      #speaker-item-text-03 {
+        top: 55%;
+        left: -3%;
+      }
+
+
+  #speaker-item-04 {
+    display: block;
+    position: absolute;
+    width: 50%;
+    left: 30%;
+    top: 680px;
+  }
+
+    #speaker-item-lightred-circle {
+    background-color: #d23d3d;
+    z-index: 3;
+    position: absolute;
+    right: 65%;
+    top: -12%;
+    width: 53%;
+    }
+
+      #speaker-item-text-04 {
+        top: 95%;
+        left: -39%;
+      }
+
+
+  #speaker-item-05 {
+    display: block;
+    position: relative;
+    width: 50%;
+    top: 1110px;
+    left: 25%;
+    }
+
+      #speaker-item-lightpink-circle {
+      background-color: #36b6a8;
+      z-index: 3;
+      position: absolute;
+      left: -20%;
+      top: 18%;
+      width: 53%;
+      }
+
+        #speaker-item-text-05 {
+          top: 80%;
+          left: -40%;
+        }
+
+
+  #speaker-item-06 {
+    display: block;
+    position: relative;
+    width: 50%;
+    top: 1145px;
+    left: 57%;
+  }
+
+    #speaker-item-bluegreen-circle {
+    background-color: #f5f211;
+    z-index: 3;
+    position: absolute;
+    right: 30%;
+    top: 11%;
+    width: 53%;
+    }
+
+        #speaker-item-text-06 {
+          top: 103%;
+          left: 6%;
+        }
+
+
+  #speaker-item-07 {
+    display: block;
+    position: relative;
+    width: 50%;
+    top: 1083px;
+    left: 9%;
+
+  }
+
+    #speaker-item-brown-circle {
+    background-color: #ac7e47;
+    z-index: 3;
+    position: absolute;
+    left: 17%;
+    top: 16%;
+    width: 50%;
+    }
+
+        #speaker-item-text-07 {
+          top: 103%;
+          left: 6%;
+        }
+
+
+  #speaker-item-08 {
+    display: block;
+    position: relative;
+    width: 50%;
+    top: 1100px;
+    left: 52%;
+
+  }
+
+    #speaker-item-electricblue-circle {
+    background-color: #38e3ff;
+    z-index: 3;
+    position: absolute;
+    left: 21%;
+    top: -15%;
+    width: 53%;
+    }
+
+          #speaker-item-text-08 {
+            top: 103%;
+            left: 20%;
+          }
+
+    #speaker-item-09 {
+      display: block;
+      position: relative;
+      width: 50%;
+      top: 1085px;
+      left: 5%;
+    }
+
+          #speaker-item-green-circle {
+          background-color: #16c64a;
+          z-index: 3;
+          position: absolute;
+          left: 21%;
+          top: -15%;
+          width: 53%;
+          }
+
+            #speaker-item-text-09 {
+              top: 103%;
+              left: 6%;
+              width: 50%;
+              top: 252px;
+              left: 41%;
+            }
+
+
+      #speaker-item-10 {
+        display: block;
+        position: relative;
+        width: 50%;
+        top: 1050px;
+        left: 57%;
+      }
+
+        #speaker-item-pink-circle {
+        background-color: #ff3870;
+        z-index: 3;
+        position: absolute;
+        left: 15%;
+        top: 15%;
+        width: 53%;
+        }
+
+              #speaker-item-text-10 {
+                top: 103%;
+                left: 6%;
+                width: 50%;
+                top: 252px;
+                left: 43%;
+              }
+
+
+        #speaker-item-text-01 h3, #speaker-item-text-02 h3, #speaker-item-text-03 h3, #speaker-item-text-04 h3, #speaker-item-text-05 h3, #speaker-item-text-06 h3, #speaker-item-text-07 h3, #speaker-item-text-08 h3, #speaker-item-text-09 h3, #speaker-item-text-10 h3{
+          font-size: 2em;
+          font-weight: 600;
+          color: black;
+        }
+
+        #speaker-item-text-01 h6, #speaker-item-text-02 h6, #speaker-item-text-03 h6, #speaker-item-text-04 h6, #speaker-item-text-05 h6, #speaker-item-text-06 h6, #speaker-item-text-07 h6, #speaker-item-text-08 h6, #speaker-item-text-09 h6, #speaker-item-text-10 h6{
+          font-weight: 600;
+          color: black;
+        }
+
+
+.home-speaker-button img:hover {
+  transform: scale(1.1);
+  transition: all .2s ease-in-out;
+}
+
+.home-speaker-button .speaker-item-text h3:hover {
+  color: #EB7B39 !important;
+  transition: all .2s ease-in-out;
+}
+
+.speakers-page {
+  margin: 0% 0 10% 0 !important;
+}
+
+.speakers-first-image {
+  margin:  0 auto 5% auto !important;
+}
+
+.speakers-page-p {
+  margin-top: 3%;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+}
+
+/* ------------- workshops-section ----------------------------------------- workshops-section ----------------------------- */
+
+.home-workshops-section {
+  background-color: #8b4e92;
+background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%239C92AC' fill-opacity='0.4' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='3'/%3E%3Ccircle cx='13' cy='13' r='3'/%3E%3C/g%3E%3C/svg%3E");
+position: relative;
+}
+
+.home-workshops-section-text {
+  padding: 15% 0;
+  text-align: center;
+  color: white;
+}
+
+
+
+.home-workshops-section-img img {
+  display: block;
+  position: absolute;
+  top: -35%;
+  right: 55%;
+  left: -17%;
+  width: 58%;
+}
+
+.home-workshops-title, .home-workshops-section-title {
+  margin-bottom: 5%;
+  font-weight: 600;
+}
+
+.home-workshops-text  {
+  font-size: 1.4em;
+  margin-bottom: 5%;
+  line-height: 1.6em;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+  .home-workshops-section-img img {
+    top: -18%;
+    right: 55%;
+    left: -24%;
+    width: 67%;
+  }
+
+  .home-workshops-section-text {
+    padding: 12% 0;
+    text-align: right;
+    color: white;
+  }
+
+  .home-workshops-text {
+    padding-left: 0%;
+  }
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+.home-workshops-section-img img {
+  display: block;
+  position: absolute;
+  top: -42%;
+  right: 55%;
+  left: -17%;
+  width: 58%;
+}
+
+.home-workshops-section-text {
+  padding: 7% 0 7% 40%;
+  text-align: right;
+  color: white;
+}
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+}
+
+
+
+/* ------------- organizers-section ----------------------------------------- organizers-section ----------------------------- */
+
+.home-organizers-section {
+  height: 900px;
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.home-organizers-section-title {
+  margin: 7% 0 1.5% 0;
+  text-align: center;
+  font-weight: 600;
+}
+
+#organizers-logos, #collaborators-logos {
+  margin-top: 5%;
+}
+
+#home-organizers-section-logo {
+  padding: : 5% 5% !important;
+}
+
+#home-organizers-section-logo img {
+  width: 80%;
+}
+
+
+.page-header-section-about{
+  background-image: url("../img/03/steamconf-page-08.jpg");
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  box-shadow: 0px 11px 23px grey;
+}
+
+.page-header-section-registry{
+  background-image: url("../img/03/steamconf-page-05.jpg");
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  box-shadow: 0px 11px 23px grey;
+}
+
+
+.page-header-section-speakers{
+  background-image: url("../img/03/steamconf-page-09.jpg");
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  box-shadow: 0px 11px 23px grey;
+}
+
+
+.page-header-title {
+  color: white;
+  display: block;
+  position: absolute;
+  text-align: center;
+  z-index: 900;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.page-dots {
+  margin: 3% auto 5% auto;
+}
+
+.page-text-container {
+  padding: 0 11%;
+  margin-bottom: 8%;
+  text-align: center;
+}
+
+.page-text-container p{
+  line-height: 1.7em;
+}
+
+.page-text-container-h3 {
+  font-weight: 600 !important;
+}
+
+.page-text-container-section {
+  margin: 10% 0;
+}
+
+.page-text-container-title {
+  font-weight: 600;
+  color: #EB7B39;
+}
+
+.page-text-container-subtitle {
+  font-weight: 600;
+}
+
+.steering-committe-section-p {
+  margin-top: 3%;
+}
+
+.page-text-container-image {
+  border-radius: 50%;
+  width: 250px;
+  margin: 5% auto;
+  }
+
+.page-text-container-group {
+    margin-bottom: 5%;
+  }
+
+.page-text-container-section-a {
+  color: rgb(140, 138, 138);
+}
+
+.page-text-container-section-a:hover {
+  color: #EB7B39;
+}
+
+.page-text-container-section-h1 {
+  font-weight: 600;
+}
+
+.page-text-container-section-h3 {
+  font-weight: 600;
+}
+
+.page-h2-highlight {
+  color: #EB7B39;
+  text-align: center;
+  margin: 5% auto;
+}
+
+
+/* ------------- registry ---------------- */
+
+.register-call-to-action button {
+  margin: 5% 0;
+  padding: 2% 10%;
+}
+
+.register-call-to-action button p {
+  margin: 0;
+  font-size: 0.8em;
+}
+
+.register-text-h5 {
+  font-weight: 600;
+  margin-top: 5%;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+}
+
+
+/* ------------- footer-section ----------------------------------------- footer-section ----------------------------- */
+
+.home-footer-section {
+  background-color: #d6d6d6;
+background-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23c2c2c2' fill-opacity='0.56' fill-rule='evenodd'%3E%3Ccircle cx='3' cy='3' r='3'/%3E%3Ccircle cx='13' cy='13' r='3'/%3E%3C/g%3E%3C/svg%3E");
+border-top: 9px purple solid;
+position: relative;
+display: block;
+}
+
+.home-footer-title-01 {
+  font-weight: 600;
+}
+
+.home-footer-section-text {
+  text-align: left;
+  padding: 5% 60% 2% 0;
+}
+
+.footer-map {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 10%;
+}
+
+.footer-map img{
+  width: 75%;
+  float: right;
+}
+
+.home-sub-footer {
+  background-color: #1E1E1E;
+  padding: 5% 0 3% 5%;
+  color: white;
+}
+
+.home-sub-footer-title {
+  margin: 0 0 2% 0;
+  font-weight: 600;
+}
+
+.home-sub-footer-text {
+  font-size: 1.3em
+}
+
+.home-sub-footer-item {
+  color: white;
+}
+
+.home-sub-footer-item-01, .home-sub-footer-item-02, .home-sub-footer-item-03, .home-sub-footer-item-04, .home-sub-footer-item-05, .home-sub-footer-item-06, .home-sub-footer-item-07, .home-sub-footer-item-08 {
+  color: white;
+}
+
+.home-sub-footer-item-01:hover, .home-sub-footer-item-02:hover, .home-sub-footer-item-03:hover, .home-sub-footer-item-04:hover, .home-sub-footer-item-05:hover, .home-sub-footer-item-06:hover, .home-sub-footer-item-07:hover, .home-sub-footer-item-08:hover {
+  color: #fd7e14;
+}
+
+.home-sub-footer-item:hover {
+  color: #fd7e14;
+}
+
+.home-sub-footer-submenu {
+  margin-top: 3%;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media screen and  (min-width: 768px) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and  (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media screen and  (min-width: 1200px) {
+
+}

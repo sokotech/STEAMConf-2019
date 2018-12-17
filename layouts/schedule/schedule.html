@@ -1,0 +1,23 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.schedule }}
+
+    {{ partial "page-header.html" . }}
+
+  </head>
+    <body class="page-body">
+
+      {{ partial "page-nav.html" . }}
+
+      <div class="page-header-section">
+        <img class="img-fluid" src="../../../img/03/steamconf-page-02.jpg" alt="steamconf-header-about">
+        <h1 class="page-header-title">{{ .PageHeaderSpeakers }}</h1>
+      </div>
+
+      {{ partial "js.html" . }}
+
+      {{ partial "page-footer.html" . }}
+
+    </body>
+  </html>
+
+{{ end }}

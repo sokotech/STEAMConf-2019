@@ -1,0 +1,58 @@
+enable: true
+
+item:
+
+PageHeaderRegister : Registra't
+
+Info01 : Aquesta activitat està reconeguda pel Departament d’Ensenyament com a formació permanent del professorat.
+
+Info02 : Auditorium 312 places / Els espais s’ompliran per ordre d’inscripció.
+
+ButtonTitle01 : Registra't
+ButtonSubtitle01 : (Traducció simultània català, castellà, anglès)
+
+Info03 : Les conferències inclou (dijous tarda, divendres tarda i dissabte matí)
+
+ListTitle01 : Públic General
+ListText01 : 70 €
+
+ListTitle02 : Docents i clients CaixaBank
+ListText02 : 35€ (Codi promocional docents STEAMPROF19)
+
+ButtonTitle02 : EdCamp STEAMConf
+ButtonSubtitle02 : Registra't aquí
+
+ListTitle03 : Tallers (divendres matí)
+ListText03 : 25€ cada taller
+
+ListTitle04 : Docents i clients CaixaBank
+ListText04 : 12,50€ each workshop (Promo code for teachers STEAMPROF19).
+
+Info05 : En els tallers no hi ha traducció simultània, cada taller serà amb l’idioma que l’imparteix el professor. Per accedir al preu promocional de professors, cal introduir el codi STEAMPROF1718 a la seva compra on-line.
+
+Info06 : Els professors interessats en rebre els crèdits, hauran de signar el full d’assistència cada dia.
+
+ListTitle05 : LUNCH (divendres)
+ListText05 : exclusiu pels assistents a les dues activitats (jornades + tallers).
+
+ButtonTitle03 : Inscripció gratuïta a l’ Obertura pública de la conferencia
+ButtonSubtitle03 : (Traducció simultània català, castellà, anglès)
+
+
+# COMO LLEGAR
+
+HomeFooterSectionTitle01 : Como arribar
+
+HomeFooterSectionTitle02 : Per Carretera
+HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+
+HomeFooterSectionTitle03 : En Autobus
+
+HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Aparcament
+HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
+
+# FOOTER
+
+HomeSubFooterTitle : Contacte

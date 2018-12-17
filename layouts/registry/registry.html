@@ -1,0 +1,84 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.registry }}
+
+    {{ partial "page-header.html" . }}
+
+  </head>
+  <body class="page-body">
+
+    {{ partial "page-nav.html" . }}
+
+    <div class="page-header-section-registry">
+      <h1 class="page-header-title">{{ .PageHeaderRegister }}</h1>
+    </div>
+
+    <div class="title-dots page-dots">
+      <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+    </div>
+
+
+      <div class="container page-text-container">
+
+            <h3 class="page-text-container-h3">{{ .Info01 }}</h3>
+
+            <h5 class="register-text-h5">{{ .Info02 }}</h5>
+
+            <a class="register-call-to-action" href="#">
+               <button type="button" name="button">
+                 <h4>{{ .ButtonTitle01 }}</h4>
+                 <p>{{ .ButtonSubtitle01 }}</p>
+               </button>
+            </a>
+
+            <p>{{ .Info03 }}</p>
+
+
+              <h5 class="register-text-h5">{{ .ListTitle01 }}</h5>
+              <p>{{ .ListText01 }}</p>
+
+              <h5 class="register-text-h5">{{ .ListTitle02 }}</h5>
+              <p>{{ .ListText02 }}</p>
+
+
+              <a class="register-call-to-action" href="#">
+                 <button type="button" name="button">
+                   <h4>{{ .ButtonTitle02 }}</h4>
+                   <p>{{ .ButtonSubtitle02 }}</p>
+
+                 </button>
+              </a>
+
+              <h5 class="register-text-h5">{{ .ListTitle03 }}</h5>
+              <p>{{ .ListText03 }}</p>
+
+              <h5 class="register-text-h5">{{ .ListTitle04 }}</h5>
+              <p>{{ .ListText04 }}</p>
+
+
+
+              <h5 class="register-text-h5">{{ .Info05 }}</h5>
+
+              <p>{{ .Info06 }}</p>
+
+              <h5 class="register-text-h5">{{ .ListTitle05 }}</h5>
+              <p>{{ .ListText05 }}</p>
+
+
+            <a class="register-call-to-action"href="#">
+               <button type="button" name="button">
+                 <h4>Inscripción gratuita a la Apertura pública de la conferencia</h4>
+                 <p>(Traducción simultánea catalán, castellano, inglés)</p>
+               </button>
+            </a>
+
+        </div> <!-- page-text-container-section -->
+
+
+    {{ partial "js.html" . }}
+
+    {{ partial "page-footer.html" . }}
+
+  </body>
+</html>
+
+{{ end }}

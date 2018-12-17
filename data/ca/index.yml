@@ -1,0 +1,49 @@
+enable: true
+
+item:
+
+  # BG
+
+  BgSubtitle01: 5th. Conferència Internacional de Educació
+  BgSubtitle02: CosmoCaixa, Barcelona, Abril 14 -19
+
+  # Home DESCRIPTION
+
+  HomeDescriptionTitle: La Cinquena Edició
+
+  HomeDescriptionText: STEAMConf 2019, wants to visualitzi the vital importance of implementing programs and resources, which help to minimize the digital divideix, gender imbalances and promote equal opportunities.
+
+  HomeDescriptionButton: Llegir més
+
+  # Home SPEAKERS
+
+  HomeSpeakersSectionTitle: Conferenciants
+
+  # Home WORKSHOPS
+
+  HomeWorkshopsSectionTitle: Tallers
+  HomeWorkshopsText: Els tallers són de caràcter eminentment pràctic i presenten una sèrie de projectes, eines i idees que es poden aplicar fàcilment a l’aula. Mostren allò que s’està fent tant localment com arreu. Són font d’inspiració, i permeten també contrastar i compartir les pròpies idees amb les dels altres participants.
+  HomeWorkshopsButton: Llegir més
+
+  # Home ORGANIZERS
+
+  HomeOrganizersSectionTitle: Organitzadors
+  HomeCollaboratorsSectionTitle: Col·laboradors
+
+  # Home COMO LLEGAR
+
+  HomeFooterSectionTitle01: Como llegar
+
+  HomeFooterSectionTitle02: Por Carretera
+  HomeFooterSectionText02: Sortides 6 / 7 en Ronda de Dalt
+
+  HomeFooterSectionTitle03: En Autobus
+
+  HomeFooterSectionTitle04: Por Ferrocarriles de la Generalitat
+
+  HomeFooterSectionTitle05: Aparcament
+  HomeFooterSectionText05: Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
+
+  # Home FOOTER CONTACT MENU
+
+  HomeSubFooterTitle: Contacte

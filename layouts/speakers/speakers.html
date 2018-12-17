@@ -1,0 +1,210 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.speakers }}
+
+    {{ partial "page-header.html" . }}
+
+  </head>
+  <body class="page-body">
+
+    {{ partial "page-nav.html" . }}
+
+    <div class="page-header-section-speakers">
+      <h1 class="page-header-title">{{ .PageHeaderSpeakers }}</h1>
+    </div>
+
+    <div class="title-dots page-dots">
+      <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+    </div>
+
+    <div class="container page-text-container">
+
+      <p>{{ .Info01 }}</p>
+
+      <h2 class="page-h2-highlight">{{ .Info02 }}</h2>
+
+      <p>{{ .Info03 }}</p>
+
+      <div class="page-text-container-section speaker-committe-section speakers-page">
+
+          <div class="page-text-container-group" id="oriol">
+
+              <img class="page-text-container-image speakers-first-image" src="../../../img/02/oriol_marimon.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle01 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle01 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText01 }}</p>
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+          <div class="page-text-container-group" id="helena">
+
+              <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle02 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle02 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText02 }}</p>
+
+              <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+          </div> <!-- page-text-container-group -->
+
+
+
+          <div class="page-text-container-group" id="sam">
+
+              <img class="page-text-container-image" src="../../../img/02/sam_aaron.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle03 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle03 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText03 }}</p>
+
+              <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/samaaron">@samaaron</a>
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+          <div class="page-text-container-group" id="karen">
+
+              <img class="page-text-container-image" src="../../../img/02/karen_wilkinson.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle04 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle04 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText04 }}</p>
+
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+          <div class="page-text-container-group" id="mike">
+
+              <img class="page-text-container-image" src="../../../img/02/mike_petrich.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle05 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle05 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText05 }}</p>
+
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+          <div class="page-text-container-group" id="anna">
+
+              <img class="page-text-container-image" src="../../../img/02/anna_cutler.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle06 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle06 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText06 }}</p>
+
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+          <div class="page-text-container-group" id="gever">
+
+              <img class="page-text-container-image" src="../../../img/02/gever_tulley.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle07 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle07 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText07 }}</p>
+
+              <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/gever">@gever</a>
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+
+          <div class="page-text-container-group" id="mackenzie">
+
+              <img class="page-text-container-image" src="../../../img/02/mackenzie_price.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle08 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle08 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText08 }}</p>
+
+
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+
+          <div class="page-text-container-group" id="juuso">
+
+              <img class="page-text-container-image" src="../../../img/02/juuso_henrik_nieminen.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle09 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle09 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText09 }}</p>
+
+              <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/JuusoNieminen">@JuusoNieminen</a>
+
+          </div> <!-- page-text-container-group -->
+
+
+
+
+
+
+          <div class="page-text-container-group" id="kaleb">
+
+              <img class="page-text-container-image" src="../../../img/02/kaleb_rashad.jpg" alt="SteamConf Speaker committe">
+
+              <h4 class="page-text-container-title">{{ .ItemSpeakerTitle10 }}</h4>
+
+              <h6 class="page-text-container-subtitle">{{ .ItemSpeakerSubtitle10 }}</h6>
+
+              <p class="Speaker-committe-section-p speakers-page-p">{{ .ItemSpeakerText10 }}</p>
+
+              <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/kalebrashad">@kalebrashad</a>
+
+          </div> <!-- page-text-container-group -->
+
+
+
+      </div> <!-- page-text-container-section -->
+
+
+
+    </div>
+
+    {{ partial "js.html" . }}
+
+    {{ partial "page-footer.html" . }}
+
+  </body>
+</html>
+
+{{ end }}

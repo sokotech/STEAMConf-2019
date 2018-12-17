@@ -1,0 +1,26 @@
+[home]
+other = "Inici"
+
+[about]
+other = "Sobre SteamConf"
+
+[program]
+other = "Programa"
+
+[schedule]
+other = "Horari"
+
+[workshops]
+other = "Tallers"
+
+[speakers]
+other = "Conferenciants"
+
+[registry]
+other = "Registra't"
+
+[arrive]
+other = "Com Arribar"
+
+[language]
+other = "Idioma"

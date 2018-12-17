@@ -1,0 +1,58 @@
+enable: true
+
+item:
+
+PageHeaderRegister : Register
+
+Info01 : This event is recognized by the Department of Education as in-service teacher training.
+
+Info02 : Auditorium 312 places / Spaces will be filled in order of registration.
+
+ButtonTitle01 : Register
+ButtonSubtitle01 : (Simultaneous translation Catalan, Spanish, English)
+
+Info03 : The conference ticket includes (Thursday afternoon, Friday afternoon and Saturday morning)
+
+ListTitle01 : General Public
+ListText01 : 70 €
+
+ListTitle02 : Teachers & CaixaBank Clients
+ListText02 : 35€ (Promo code for teachers STEAMPROF19)
+
+ButtonTitle02 : EdCamp STEAMConf
+ButtonSubtitle02 : Register here.
+
+ListTitle03 : Workshops (Friday morning)
+ListText03 : 25€ euros each workshop
+
+ListTitle04 : Teachers & CaixaBank Clients
+ListText04 : 12,50€ each workshop (Promo code for teachers STEAMPROF19).
+
+Info05 : During the workshops there is no simultaneous translation, each workshop will be in the language taught by the teacher. To access the promotional price of teachers, you must enter the code STEAMPROF1718 to your online purchase.
+
+Info06 : Teachers interested in receiving credits must sign the attendance sheet every day.
+
+ListTitle05 : LUNCH (Friday)
+ListText05 : exclusive for those attending the two activities (workshops + conferences)
+
+ButtonTitle03 : Free registration to the Public Conference opening
+ButtonSubtitle03 : (Simultaneous translation Catalan, Spanish, English)
+
+
+# HOW TO ARRIVE
+
+HomeFooterSectionTitle01 : How to arrive
+
+HomeFooterSectionTitle02 : By Highway
+HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
+
+HomeFooterSectionTitle03 : By Bus
+
+HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Parking
+HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
+
+# FOOTER
+
+HomeSubFooterTitle : Contact

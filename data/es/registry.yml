@@ -1,0 +1,58 @@
+enable: true
+
+item:
+
+PageHeaderRegister : Registrate
+
+Info01 : Esta actividad está reconocida por el Departamento de Enseñanza como formación permanente del profesorado.
+
+Info02 : Auditorio 312 plazas / Los espacios se llenarán por orden de inscripción.
+
+ButtonTitle01 : Registrate
+ButtonSubtitle01 : (Traducción simultánea catalán, castellano, inglés)
+
+Info03 : Las sesiones incluyen (jueves tarde, viernes tarde y sábado mañana)
+
+ListTitle01 : Público General
+ListText01 : 70 €
+
+ListTitle02 : Docentes y clientes CaixaBank
+ListText02 : 35€ (Código promocional docentes STEAMPROF19)
+
+ButtonTitle02 : EdCamp STEAMConf
+ButtonSubtitle02 : Registrarse aquí
+
+ListTitle03 : Talleres (viernes mañana)
+ListText03 : 25€ euros cada taller
+
+ListTitle04 : Docentes y clientes CaixaBank
+ListText04 : 12,50€ cada taller (Código promocional profesores STEAMPROF19).
+
+Info05 : En los talleres no hay traducción simultánea, cada taller se impartirá en el idioma del profesor. Para acceder al precio promocional de profesores, hay que introducir el código STEAMPROF19 a su compra on-line.
+
+Info06 : Los profesores interesados en recibir los créditos, deberán firmar la hoja de asistencia cada día.
+
+ListTitle05 : LUNCH (viernes)
+ListText05 : Exclusivo para los asistentes a las dos actividades (jornadas + talleres)
+
+ButtonTitle03 : Inscripción gratuita a la Apertura pública de la conferencia
+ButtonSubtitle03 : (Traducción simultánea catalán, castellano, inglés)
+
+
+# COMO LLEGAR
+
+HomeFooterSectionTitle01 : Como llegar
+
+HomeFooterSectionTitle02 : Por Carretera
+HomeFooterSectionText02 : Salidas 6 / 7 en Ronda de Dalt
+
+HomeFooterSectionTitle03 : En Autobus
+
+HomeFooterSectionTitle04 : Por Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Aparcamiento
+HomeFooterSectionText05 : Tarifa reducida para participantes de SteamConf (1 € / h). Hay que presentar la entrada SteamConf en la ventanilla del parking SABA.
+
+# FOOTER
+
+HomeSubFooterTitle : Contacto

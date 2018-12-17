@@ -1,0 +1,81 @@
+enable : true
+
+item :
+
+languageName : ES
+
+PageHeaderAbout : About SteamConf
+
+Info01 : STEAMConf 2018, en su quinta edición, quiere visualizar la vital importancia de implementar programas y recursos, que permitan contribuir a minimizar la brecha digital, los desequilibrios de género y promover la igualdad de oportunidades. Por ello, STEAMConf 2018 programa 3 encuentros sobre Aprendizaje, Tecnología y Género en torno a Ada Augusta Byron Lovelace Matemática y Física que desarrolló lo que hoy se considera el primer algoritmo para uso de una máquina.
+
+Info02 : “Las manos son los instrumentos de la inteligencia humana” Maria Montessori, 1870-1952
+
+Info03 : STEAMConf 2018 pone también el acento a través de sus talleres y sesiones en Aprender haciendo, manipular, experimentar, crear, equivocarse… y volver a empezar… Hablamos de Tinkering & Making, “un método para explorar y comprender nuestro mundo cambiante mediante la ciencia, la ingeniería, la tecnología, el arte y las matemáticas” i que, fomenta el trabajo en equipo y la automotivación, recompensa la persistencia, el ingenio y la autosuficiencia y desvela la pasión por aprender a largo plazo.
+
+SteeringTitle01 : Steering Committe
+SteeringSubtitle01 : Dirección y Producción
+
+ItemSteeringTitle01 : Mariona Cíller
+ItemSteeringSubtitle01 : Fundadora y Directora de SokoTech
+ItemSteeringText01 : Fundadora y directora de SokoTech, le encantan el hardware y el software libre, y es diseñadora gráfica y web, programadora y productora de eventos de ciencia y tecnología. Diseña también iniciativas para niñas, niños y jóvenes. Graduada cum laude por la Universidad de Illinois, con doble titulación en Bachelor of Fine Arts y posteriormente Master of Science, es también graduada por la Fab Academy del Massachussets Institute of Technology (MIT). Su tesis, «Free Culture Project», que fusiona el poder de la tecnología con el poder transformador de la educación, es un punto de inflexión en su trayectoria, hacia territorios de reinvención del mundo de la docencia y el aprendizaje, en el que ensaya nuevos modelos, siempre de la mano de las tecnologías más avanzadas.
+
+
+ItemSteeringTitle02 : Paca Cíller
+ItemSteeringSubtitle02 : Activista de la cultura científica y tecnológica
+ItemSteeringText02 : Ha sido directora del Departamento de Comunicación de la Fundación ”la Caixa”, directora de Relaciones Internacionales y Programas de CosmoCaixa, el Museo de la Ciencia de Barcelona, y directora ejecutiva de la Red Europea de Centros y Museos de Ciencia (ECSITE).
+
+SteeringSubtitle02 : Comité Asesor
+
+ItemSteeringTitle03 : Jordi Albó
+ItemSteeringText03 : Es profesor asociado de La Salle Campus Barcelona-Universidad Ramon Llull (URL), director de Robótica en La Salle Almere y gerente de innovación de Robótica Social en Everis-NTT Data. Es doctor en Ingeniería Mecatrónica, Robótica y Automatización, máster de Telecomunicaciones y licenciado en Ingeniería Electrónica, en los tres casos por La Salle-Universidad Ramon Llull (Barcelona).
+
+
+ItemSteeringTitle04 : Begonya Folch
+ItemSteeringText04 : Música, implicada en la transformación educativa y en el impacto del arte en la educación de las personas, es profesora de educación primaria y secundaria, formadora de maestros y ha sido profesora en la Facultad del Profesorado de la UB. También ha trabajado en el Servicio de Innovación e Investigación del Departamento de Educación, en el Consejo Escolar de Catalunya y en la Fundación Jaume Bofill, en el programa Escola Nova 21. Ha sido formadora del ICE de la UAB, de la Asociación de Maestros Rosa Sensat y del Departamento de Educación. Ha colaborado con el Educators Advisory Team del ICFO y ha formado parte del consejo de redacción de la revista Perspectiva Escolar. Actualmente trabaja en el Área de Innovación, Programas y Formación del Consorcio de Educación de Barcelona, en el programa Xarxes per al canvi (#Xarxesperalcanvi).
+
+
+ItemSteeringTitle05 : Boris Mir
+ItemSteeringText05 : Apasionado de la educación, es profesor de educación secundaria. Ha sido uno de los iniciadores del Institut-Escola Les Vinyes de Castellbisbal, un centro de la red de institutos innovadores de la Universidad Autónoma de Barcelona. Ha impulsado proyectos sobre la evaluación formativa, las estrategias de aprendizaje y la creatividad en el aula. Colabora con centros, instituciones y colectivos para ayudarlos a transformar la educación. Actualmente es el director adjunto del programa Escola Nova 21.
+
+ItemSteeringTitle06: Lluis Mora
+ItemSteeringText06 : Es director del CESIRE (Generalitat de Catalunya) desde el 2015. Sus proyectos personales se centran, por una parte, en investigar maneras de enseñar estadística y probabilidad a los alumnos de primaria y secundaria para hacer que mejoren sus habilidades, capacidad de resolución de problemas y uso de medios digitales como herramienta de aprendizaje; y, por otra parte, la evaluación del aprendizaje.
+
+
+ItemSteeringTitle07 : Sergi del Moral
+ItemSteeringText07 : Es profesor de matemáticas y proyectos en el Institut-Escola Les Vinyes, así como profesor asociado de la Universidad de Barcelona y del máster de Formación del Profesorado de Secundaria de esta universidad. Se interesa por los procesos de transformación que contribuyen a compensar el peso, las materias tradicionales y los contenidos en favor de otros centrados en la acción, la resolución de problemas y el aprendizaje. Asimismo le interesa investigar cómo se puede modificar la evaluación para que sea más diagnóstica y menos coercitiva, y cómo se puede dar más protagonismo y responsabilidad a los jóvenes.
+
+
+
+ItemSteeringTitle08 : Coral Regí Rodríguez
+ItemSteeringText08 : Bióloga de formación y educadora de vocación. Directora de la Escola Virolai de Barcelona. Representante en distintas organizaciones educativas FEAEC, Consejo Escolar de Catalunya y Consejo de Ciudad de Barcelona. Como especialista en diferentes temas docentes y educativos, participa en jornadas y congresos educativos.
+
+
+
+ItemSteeringTitle09 : Francesc Sabaté
+ItemSteeringText09 : Es ingeniero industrial por la UPC, y hace más de 20 años que desarrolla y dirige proyectos de automatización. Es asesor en tecnologías de gestión de la producción y en el área de formación de la Fundación CIM. Apasionado de las tecnologías y de su divulgación, juega con LEGO desde que tiene memoria. Es también director del máster en Automatización y Robótica en la Fundación CIM/UPC.
+
+
+
+ItemSteeringTitle10 : Frank Sabaté
+ItemSteeringText10 : Maestro en la Escola Projecte de Barcelona. Apasionado de la programación y la robótica educativa. Es miembro del comité científico del programa Educació Demà de la Fundación Jaume Bofill y del comité impulsor del congreso STEAM Barcelona. Ha formado parte de la organización de las ediciones europeas de la Scratch Conference (Barcelona’13, Ámsterdam’15 y Burdeos’17). Es asesor en la alianza Magnet entre la Escola Montessori de Rubí y el CIM UPC. Comparte sus conocimientos en sesiones presenciales de formación al profesorado y en su canal de Youtube «Scratch en 5 minuts».
+
+
+
+
+# COMO LLEGAR
+
+HomeFooterSectionTitle01 : Como llegar
+
+HomeFooterSectionTitle02 : Por Carretera
+HomeFooterSectionText02 : Salidas 6 / 7 en Ronda de Dalt
+
+HomeFooterSectionTitle03 : En Autobus
+
+HomeFooterSectionTitle04 : Por Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Aparcamiento
+HomeFooterSectionText05 : Tarifa reducida para participantes de SteamConf (1 € / h). Hay que presentar la entrada SteamConf en la ventanilla del parking SABA.
+
+# FOOTER
+
+HomeSubFooterTitle : Contacto

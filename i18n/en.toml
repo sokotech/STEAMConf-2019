@@ -1,0 +1,26 @@
+[home]
+other = "Home"
+
+[about]
+other = "About SteamConf"
+
+[program]
+other = "Program"
+
+[schedule]
+other = "Schedule"
+
+[workshops]
+other = "Workshops"
+
+[speakers]
+other = "Speakers"
+
+[registry]
+other = "Register"
+
+[arrive]
+other = "How to arrive"
+
+[language]
+other = "Language"
