@@ -24,3 +24,6 @@ other = "Com Arribar"
 
 [language]
 other = "Idioma"
+
+[requirements]
+other = "Necessitats"

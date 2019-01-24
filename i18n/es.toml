@@ -24,3 +24,6 @@ other = "Como Llegar"
 
 [language]
 other = "Idioma"
+
+[requirements]
+other = "Necesidades"

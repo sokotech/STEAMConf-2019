@@ -6,43 +6,90 @@
 
       <h1 class="home-footer-title-01">{{ .HomeFooterSectionTitle01 }}</h1>
 
-      <p class="home-footer-text-01">C / Isaac Newton, 26 (Ronda de Dalt)<br>
-      +34 902 22 30 40 93 212 60 50 (centraleta CosmoCaixa) <br>
-      <strong>obrasociallacaixa.org</strong></p>
+      <div class="title-dots page-dots">
+        <img class="t-dots" src="../img/01/title-dots.svg" alt="steamconf dots">
+      </div>
 
-      <h5 id="home-footer-title-02"><strong>{{ .HomeFooterSectionTitle02 }}</strong></h5>
-      <p class="home-footer-text-02">{{ .HomeFooterSectionText02 }}</p>
+      <div class="row">
 
-      <h5 id="home-footer-title-03"><strong>{{ .HomeFooterSectionTitle03 }}</strong></h5>
-      <p class="home-footer-text-03">www.tmb.cat (Nos. 17, 22, 58, 73, 75, 60, 196)</p>
+        <div class="col-lg-3 col-md-6 col-sm-6 arrive-col">
 
-      <h5 id="home-footer-title-04"><strong>{{ .HomeFooterSectionTitle04 }}</strong></h5>
-      <p class="home-footer-text-04">www.fgc.es (Avinguda del Tibidabo)</p>
+            <img class="how-to-arrive-icon" src="../img/01/steamconf-icon-address.svg" alt="STEAMConf address">
 
-      <h5 id="home-footer-title-05"><strong>{{ .HomeFooterSectionTitle05 }}</strong></h5>
-      <p class="home-footer-text-05">{{ .HomeFooterSectionText05 }}</p>
+            <h5 id="home-footer-title-01"><strong>{{ .HomeFooterSectionTitleDirection }}</strong></h5>
+
+            <p class="home-footer-text-01">C / Isaac Newton, 26 (Ronda de Dalt)<br>
+            +34 902 22 30 40 93 212 60 50 (centraleta CosmoCaixa) <br>
+            <strong>obrasociallacaixa.org</strong></p>
+        </div>
+
+
+        <div class="col-lg-3 col-md-6 col-sm-6 arrive-col">
+
+        <img class="how-to-arrive-icon" src="../img/01/steamconf-icon-bus.svg" alt="STEAMConf arrive by bus">
+
+        <h5 id="home-footer-title-03"><strong>{{ .HomeFooterSectionTitle03 }}</strong></h5>
+        <p class="home-footer-text-03">www.tmb.cat (Nos. 17, 22, 58, 73, 75, 60, 196)</p>
+
+        </div>  <!-- col -->
+
+
+        <div class="col-lg-3 col-md-6 col-sm-6 arrive-col">
+
+          <img class="how-to-arrive-icon" src="../img/01/steamconf-icon-car.svg" alt="STEAMConf arrive by car">
+
+          <h5 id="home-footer-title-02"><strong>{{ .HomeFooterSectionTitle02 }}</strong></h5>
+          <p class="home-footer-text-02">{{ .HomeFooterSectionText02 }}</p>
+
+          <h5 id="home-footer-title-05"><strong>{{ .HomeFooterSectionTitle05 }}</strong></h5>
+          <p class="home-footer-text-05">{{ .HomeFooterSectionText05 }}</p>
+
+        </div>  <!-- col -->
+
+
+
+
+        <div class="col-lg-3 col-md-6 col-sm-6 arrive-col">
+
+        <img class="how-to-arrive-icon" src="../img/01/steamconf-icon-train.svg" alt="STEAMConf arrive by train">
+
+          <h5 id="home-footer-title-04"><strong>{{ .HomeFooterSectionTitle04 }}</strong></h5>
+          <p class="home-footer-text-04">www.fgc.es (Avinguda del Tibidabo)</p>
+
+        </div>  <!-- col -->
+
+
+      </div>
+
+
 
     </div> <!-- home-footer-section-text -->
 
   </div> <!-- container  -->
 
-<div class="footer-map">
+  <div class="footer-map">
 
-  <img src="../../img/03/steamconf-cosmocaixa-map.jpg" alt="steamconf cosmocaixa">
+        <a class="footer-map-button" href="https://www.google.com/maps/place/CosmoCaixa+Barcelona/@41.412972,2.1293623,17z/data=!3m2!4b1!5s0x12a4981a6bb7cae9:0xe730d3499041ecab!4m5!3m4!1s0x12a4981a24a1d9cd:0x20158071eb4f77f3!8m2!3d41.412972!4d2.131551" target="_blank"><img src="../img/03/steamconf-cosmocaixa-map.jpg" alt="steamconf cosmocaixa"></a>
 
-</div>
+  <div class="overlay"></div>
+
+  </div>
 
 </div> <!-- home-footer-section  -->
 
 
 
+<div class="home-sub-footer">
 
-
-  <div class="home-sub-footer">
+  <div class="container">
 
     <div class="home-sub-footer-contact">
 
       <h3 class="home-sub-footer-title">{{ .HomeSubFooterTitle }}</h3>
+
+      <div class="title-dots page-dots contact-dots">
+        <img class="t-dots" src="../img/01/title-dots.svg" alt="steamconf dots">
+      </div>
 
       <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@steamconf.com</p></a>
 
@@ -59,4 +106,12 @@
 
     </div> <!-- home-sub-footer -->
 
-  </div> <!-- home-sub-footer-contact -->
+  </div>
+
+<div class="home-sub-footer-robot">
+
+  <img src="../img/01/steamconf-robot-01.svg" alt="steamconfrobot">
+
+</div>
+
+</div> <!-- home-sub-footer-contact -->

@@ -1,4 +1,5 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
+
 {{ with $data.schedule }}
 
     {{ partial "page-header.html" . }}
@@ -8,16 +9,132 @@
 
       {{ partial "page-nav.html" . }}
 
-      <div class="page-header-section">
-        <img class="img-fluid" src="../../../img/03/steamconf-page-02.jpg" alt="steamconf-header-about">
-        <h1 class="page-header-title">{{ .PageHeaderSpeakers }}</h1>
-      </div>
+      <div class="page-header-section-about">
+        <h1 class="page-header-title">{{ .PageHeaderSchedule }}</h1>
+      </div>   <!-- page-header-section-about -->
+
+      <div class="title-dots page-dots">
+        <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+      </div>  <!-- page-dots -->
+
+      <div class="container schedule-container">
+
+        <div class="content-date-title">
+
+          <h2>{{ .Date01 }}</h2>
+
+        </div>  <!-- content-date-title -->
+
+        <hr class="page-hr">
+
+
+<!----------------------------------------------------- 01 -->
+
+        <div class="row schedule-row">
+
+          <div class="col-md-3 content-time">
+
+            <h3>{{ .Time01 }}</h3>
+
+          </div>  <!-- content-time -->
+
+          <div class="col-md-6 content-schedule-info">
+
+            <h3>{{ .Title01 }}</h3>
+            <h4>{{ .Subtitle01 }}</h4>
+
+          </div>  <!-- content-schedule-info -->
+
+          <div class="col-md-3 content-location">
+
+            <h3>{{ .Place01 }}</h3>
+            <h4>{{ .Classroom01 }}</h4>
+
+          </div>  <!-- content-location -->
+
+        </div>  <!-- row -->
+
+
+        <hr class="page-hr">
+
+
+
+        <div class="content-date-title">
+
+          <h2>{{ .Date01 }}</h2>
+
+        </div>  <!-- content-date-title -->
+
+
+<!----------------------------------------------------- 02 -->
+
+        <hr class="page-hr">
+
+        <div class="row schedule-row">
+
+          <div class="col-md-3 content-time">
+
+            <h3>{{ .Time02 }}</h3>
+
+          </div>  <!-- content-time -->
+
+
+          <div class="col-md-6 content-schedule-info">
+
+            <h3>{{ .Title02 }}</h3>
+            <h4>{{ .Subtitle02 }}</h4>
+
+          </div>  <!-- content-schedule-info -->
+
+          <div class="col-md-3 content-location">
+
+            <h3>{{ .Place02 }}</h3>
+            <h4>{{ .Classroom02 }}</h4>
+
+          </div>  <!-- content-location -->
+
+        </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+
+<!----------------------------------------------------- 03 -->
+
+        <div class="row schedule-row">
+
+          <div class="col-md-3 content-time">
+
+            <h3>{{ .Time03 }}</h3>
+
+          </div>  <!-- content-time -->
+
+          <div class="col-md-6 content-schedule-info">
+
+            <h3>{{ .Title03 }}</h3>
+            <h5>{{ .Subtitle03 }}</h5>
+
+          </div>  <!-- content-schedule-info -->
+
+          <div class="col-md-3 content-location">
+
+            <h3>{{ .Place03 }}</h3>
+            <h4>{{ .Classroom03 }}</h4>
+
+          </div>  <!-- content-location -->
+
+        </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+
+    </div>  <!-- schedule-container -->
+
 
       {{ partial "js.html" . }}
 
       {{ partial "page-footer.html" . }}
 
     </body>
-  </html>
+</html>
 
 {{ end }}

@@ -1,23 +1,167 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
+
 {{ with $data.program }}
 
     {{ partial "page-header.html" . }}
 
   </head>
-  <body class="page-body">
+    <body class="page-body">
 
-    {{ partial "page-nav.html" . }}
+      {{ partial "page-nav.html" . }}
 
-    <div class="page-header-section">
-      <img class="img-header" src="../../../img/03/steamconf-page-06.jpg" alt="steamconf-header-about">
-      <h1 class="page-header-title">{{ .PageHeaderProgram }}</h1>
-    </div>
+      <div class="page-header-section-about">
+        <h1 class="page-header-title">{{ .PageHeaderProgram }}</h1>
+      </div>
 
-    {{ partial "js.html" . }}
+      <div class="title-dots page-dots">
+        <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+      </div>
 
-    {{ partial "page-footer.html" . }}
+      <div class="container program-container">
 
-  </body>
+            <div class="content-date-title">
+
+              <h2>{{ .Date01 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+            <hr class="page-hr">
+
+<!------------------------------------------------------------------- 01 ----------->
+
+            <div class="row program-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time01 }}</h3>
+                <h4>{{ .Place01 }}</h4>
+                <h4><span class="orange">{{ .Classroom01 }}</span></h4>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-program-info">
+
+                <h3>{{ .Title01 }}</h3>
+                <h5>{{ .Subtitle01 }}</h5>
+                <p>{{ .Text01 }}</p>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--------------------------------->
+
+            <div class="content-date-title">
+
+              <h2>{{ .Date01 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+<!------------------------------------------------------------------- 02 ----------->
+
+            <hr class="page-hr">
+
+            <div class="row program-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time02 }}</h3>
+                <h4>{{ .Place02 }}</h4>
+                <h4><span class="orange">{{ .Classroom02 }}</span></h4>
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-program-info">
+
+                <h3>{{ .Title02 }}</h3>
+                <h5>{{ .InternationalSpeaker02 }}</h5>
+                <h5><u>Local Peer</u>: {{ .LocalSpeaker02 }}</h5>
+                <p>{{ .Text02 }}</p>
+
+                <div class="row content-program-speaker-row">
+
+                   <div class="col-md-3">
+                     <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+                   </div>  <!-- col -->
+
+                   <div class="col-md-9">
+
+                     <h4 class="page-text-container-title">{{ .InternationalSpeakerTitle02 }}</h4>
+
+                     <p class="Speaker-committe-section-p speakers-page-p">{{ .InternationalSpeakerText02 }}</p>
+
+                     <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                   </div>  <!-- col -->
+
+                </div>  <!-- row -->
+
+
+                <div class="row content-program-speaker-row">
+
+                   <div class="col-md-3">
+                     <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+                   </div>  <!-- col -->
+
+                   <div class="col-md-9">
+
+                     <h4 class="page-text-container-title">{{ .LocalSpeakerTitle02 }}</h4>
+
+                     <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText02 }}</p>
+
+                     <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                   </div>  <!-- col -->
+
+                </div>  <!-- row -->
+
+
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+
+
+
+<!------------------------------------------------------------------ PAUSA CAFE ----------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time02 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--------------------------------->
+
+
+
+      </div> <!-- container -->
+
+
+      {{ partial "js.html" . }}
+
+      {{ partial "page-footer.html" . }}
+
+    </body>
 </html>
 
 {{ end }}

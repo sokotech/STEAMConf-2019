@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Registries on STEAMConf</title>
+    <link>localhost:1313/ca/registry/</link>
+    <description>Recent content in Registries on STEAMConf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-CA</language>
+    <copyright>© STEAMConf 2018</copyright>
+    
+	<atom:link href="localhost:1313/ca/registry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Registra&#39;t</title>
+      <link>localhost:1313/ca/registry/registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/ca/registry/registry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

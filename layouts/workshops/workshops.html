@@ -3,21 +3,341 @@
 
     {{ partial "page-header.html" . }}
 
-  </head>
-  <body>
+    <body class="page-body">
 
-    {{ partial "page-nav.html" . }}
+      {{ partial "page-nav.html" . }}
 
-    <div class="page-header-section">
-      <img class="img-fluid" src="../../../img/03/steamconf-page-01.jpg" alt="steamconf-header-about">
-      <h1 class="page-header-title">{{ .PageHeaderSpeakers }}</h1>
-    </div>
+      <div class="page-header-section-about">
+        <h1 class="page-header-title">{{ .PageHeaderWorkshops }}</h1>
+      </div>
 
-    {{ partial "js.html" . }}
+      <div class="title-dots page-dots">
+        <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+      </div>
 
-    {{ partial "page-footer.html" . }}
+      <div class="container workshops-container">
 
-  </body>
+            <div class="content-date-title">
+
+              <h2>{{ .Date01 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+            <hr class="page-hr">
+
+<!------------------------------------------------------------------- 01 ----------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time01 }}</h3>
+                <h4>{{ .Place01 }}</h4>
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3>{{ .Title01 }}</h3>
+                <h5>{{ .Subtitle01 }}</h5>
+                <p>{{ .Text01 }}</p>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--------------------------------->
+
+            <div class="content-date-title">
+
+              <h2>{{ .Date01 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+<!------------------------------------------------------------------- 02 ----------->
+
+            <hr class="page-hr">
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time02 }}</h3>
+                <h4>{{ .Place02 }}</h4>
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3>{{ .Title02 }}</h3>
+                <h5>{{ .Subtitle02 }}</h5>
+                <p>{{ .Text02 }}</p>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--------------------------------->
+
+            <div class="parallel-workshops-container">
+
+<!---------------------------------------------- paralel workshop 01 ----------->
+
+              <div class="row workshops-row paralel-workshop-row">
+
+                <div class="col-md-3 paralel-content-time">
+
+                  <h1 class="paralel-workshop-number">{{ .WorkshopNum01 }}</h1>
+                  <h3>{{ .WorkshopClassroom01 }}</h3>
+                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage01 }}</h5>
+                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq01 }}</h5>
+
+                </div>  <!-- col content-time -->
+
+                <div class="col-md-9 content-workshops-info paralel-workshops-info">
+
+                  <h3>{{ .WorkshopTitle01 }}</h3>
+                  <h5>{{ .WorkshopSubtitle01 }}</h5>
+                  <p>{{ .WorkshopText01 }}</p>
+
+                </div>  <!-- col content-schedule-info -->
+
+                <!-------------------------- workshops-speakers-row ----------->
+
+                    <div class="container workshops-speakers-area">
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle01B }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText01B }}</p>
+
+                                <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle01A }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText01A }}</p>
+
+                                <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+                      </div> <!-- row workshops-speakers-area -->
+
+                    </div><!-- paralel-workshop-row -->
+
+
+<!---------------------------------------------- paralel workshop 02 ----------->
+
+             <hr class="page-hr">
+
+              <div class="row workshops-row paralel-workshop-row">
+
+                <div class="col-md-3 paralel-content-time">
+
+                  <h1 class="paralel-workshop-number">{{ .WorkshopNum02 }}</h1>
+                  <h3>{{ .WorkshopClassroom02 }}</h3>
+                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage02 }}</h5>
+                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq02 }}</h5>
+
+                </div>  <!-- col content-time -->
+
+                <div class="col-md-9 content-workshops-info paralel-workshops-info">
+
+                  <h3>{{ .WorkshopTitle02 }}</h3>
+                  <h5>{{ .WorkshopSubtitle02 }}</h5>
+                  <p>{{ .WorkshopText02 }}</p>
+
+                </div>  <!-- col content-schedule-info -->
+
+                <!-------------------------- workshops-speakers-row ----------->
+
+                    <div class="container workshops-speakers-area">
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle02B }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText02B }}</p>
+
+                                <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle01A }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText01A }}</p>
+
+                                <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+                      </div> <!-- row workshops-speakers-area -->
+
+                    </div><!-- paralel-workshop-row -->
+
+
+
+<!---------------------------------------------- paralel workshop 03 ----------->
+
+             <hr class="page-hr">
+
+              <div class="row workshops-row paralel-workshop-row">
+
+                <div class="col-md-3 paralel-content-time">
+
+                  <h1 class="paralel-workshop-number">{{ .WorkshopNum03 }}</h1>
+                  <h3>{{ .WorkshopClassroom03 }}</h3>
+                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage03 }}</h5>
+                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq03 }}</h5>
+
+                </div>  <!-- col content-time -->
+
+                <div class="col-md-9 content-workshops-info paralel-workshops-info">
+
+                  <h3>{{ .WorkshopTitle03 }}</h3>
+                  <h5>{{ .WorkshopSubtitle03 }}</h5>
+                  <p>{{ .WorkshopText03 }}</p>
+
+                </div>  <!-- col content-schedule-info -->
+
+                <!-------------------------- workshops-speakers-row ----------->
+
+                    <div class="container workshops-speakers-area">
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle03B }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText03B }}</p>
+
+                                <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle01A }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText01A }}</p>
+
+                                <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+                      </div> <!-- row workshops-speakers-area -->
+
+                    </div><!-- paralel-workshop-row -->
+
+
+
+              </div>  <!-- row -->
+
+              <hr class="page-hr">
+
+
+<!------------------------------------------------------------------ PAUSA CAFE ----------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time02 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--------------------------------->
+
+
+
+      </div> <!-- container -->
+
+      {{ partial "js.html" . }}
+
+      {{ partial "page-footer.html" . }}
+
+      {{ end }}
+
+    </body>
 </html>
-
-{{ end }}

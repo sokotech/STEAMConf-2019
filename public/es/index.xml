@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STEAMConf</title>
+    <link>localhost:1313/es/</link>
+    <description>Recent content on STEAMConf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <copyright>© STEAMConf 2018</copyright>
+    
+	<atom:link href="localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conferenciantes</title>
+      <link>localhost:1313/es/speakers/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/es/speakers/speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horario</title>
+      <link>localhost:1313/es/schedule/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/es/schedule/schedule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programa</title>
+      <link>localhost:1313/es/program/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/es/program/program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registrate</title>
+      <link>localhost:1313/es/registry/registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/es/registry/registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre SteamConf</title>
+      <link>localhost:1313/es/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/es/about/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talleres</title>
+      <link>localhost:1313/es/workshops/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>localhost:1313/es/workshops/workshops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

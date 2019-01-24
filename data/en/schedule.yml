@@ -2,6 +2,50 @@ enable : true
 
 item :
 
+PageHeaderSchedule : Schedule
+
+Date01 : Saturday, April 14
+
+
+
+Time01 : 10.00 - 14.00
+
+Title01 : EdCamp SteamConf
+
+Subtitle01 : Walking towards STEAMConf 2019
+
+Place01 : Cosmocaixa
+
+Classroom01 : Sala Ágora
+
+
+
+Date02 : Wednesday, 18 April
+
+Time02 : 10.00 - 13.00
+
+Title02 : Ada Lovelace at Saló de Cent
+
+Subtitle02 : TEXT PLACEHOLDER
+
+Place02 : Ajuntament de Barcelona
+
+Classroom02 : Saló de Cent
+
+
+
+
+Time03 : 17.30 - 20:00
+
+Title03 : Project STEAM4U
+
+Subtitle03 : Equity in STEAM, How can we make students feel that they can all do STEAM?
+
+Place03 : Cosmocaixa
+
+Classroom03 : Sala Ágora
+
+
 
 # HOW TO ARRIVE
 

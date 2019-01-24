@@ -1,214 +1,250 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
-
 {{ with $data.about }}
 
     {{ partial "page-header.html" . }}
 
-  </head>
-  <body class="page-body">
+    <body class="page-body">
 
-    {{ partial "page-nav.html" . }}
+      {{ partial "page-nav.html" . }}
 
-    <div class="page-header-section-about">
-      <h1 class="page-header-title">{{ .PageHeaderAbout }}</h1>
-    </div>
+      <div class="page-header-section-about">
+        <h1 class="page-header-title">{{ .PageHeaderAbout }}</h1>
+      </div>
 
-    <div class="title-dots page-dots">
-      <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
-    </div>
+      <div class="title-dots page-dots">
+        <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+      </div>
 
-    <div class="container page-text-container">
+      <div class="container page-text-container">
 
-      <p>{{ .Info01 }}</p>
+        <p>{{ .Info01 }}</p>
 
-      <h2 class="page-h2-highlight">{{ .Info02 }}</h2>
+        <h2 class="page-h2-highlight">{{ .Info02 }}</h2>
 
-      <p>{{ .Info03 }}</p>
+        <p>{{ .Info03 }}</p>
 
-      <div class="page-text-container-section steering-committe-section">
+        <div class="page-text-container-section steering-committe-section">
 
-          <h1 class="page-text-container-section-h1">{{ .SteeringTitle01 }}</h1>
+            <h1 class="page-text-container-section-h1">{{ .SteeringTitle01 }}</h1>
 
-          <h3 class="page-text-container-section-h3">{{ .SteeringSubtitle01 }}</h3>
+            <h1 class="page-text-container-section-h2">{{ .SteeringSubtitle01 }}</h1>
 
-          <div class="section-dots">
-            <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
-          </div>
+            <div class="section-dots">
+              <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+            </div>
 
-          <div class="page-text-container-group">
+<!-------------------------------------------- mariona_ciller & paca_ciller ----------------------------->
 
-              <img class="page-text-container-image" src="../../../img/04/mariona_ciller.jpg" alt="SteamConf steering committe">
+            <div class="page-text-container-group">
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle01 }}</h4>
+              <div class="row organizers-row">
 
-              <h6 class="page-text-container-subtitle">{{ .ItemSteeringSubtitle01 }}</h6>
+                <div class="col-md-6 organizer-left">
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText01 }}</p>
+                  <img class="page-text-container-image" src="../../../img/04/mariona_ciller.jpg" alt="SteamConf steering committe">
 
-              <a class="page-text-container-section-a" href="mailto:mariona@2016.steamconf.com">mariona@2016.steamconf.com</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/mariondita">@mariondita</a>
+                  <h2 class="page-text-container-title">{{ .ItemSteeringTitle01 }}</h2>
 
-          </div> <!-- page-text-container-group -->
+                  <h4 class="page-text-container-subtitle">{{ .ItemSteeringSubtitle01 }}</h4>
 
+                  <p class="steering-committe-section-p">{{ .ItemSteeringText01 }}</p>
 
+                  <a class="page-text-container-section-a" href="mailto:mariona@2016.steamconf.com">mariona@2016.steamconf.com</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/mariondita">@mariondita</a>
 
+                </div>  <!-- col -->
 
-          <div class="page-text-container-group">
+                <div class="col-md-6 organizer-right">
 
-              <img class="page-text-container-image" src="../../../img/04/paca_ciller.jpg" alt="SteamConf steering committe">
+                    <img class="page-text-container-image" src="../../../img/04/paca_ciller.jpg" alt="SteamConf steering committe">
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle02 }}</h4>
 
-              <h6 class="page-text-container-subtitle">{{ .ItemSteeringSubtitle02 }}</h6>
+                    <h2 class="page-text-container-title">{{ .ItemSteeringTitle02 }}</h2>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText02 }}</p>
+                    <h4 class="page-text-container-subtitle">{{ .ItemSteeringSubtitle02 }}</h4>
 
-              <a class="page-text-container-section-a" href="mailto:pacaciller@2017.steamconf.com">pacaciller@2017.steamconf.com</a>
+                    <p class="steering-committe-section-p">{{ .ItemSteeringText02 }}</p>
 
-          </div> <!-- page-text-container-group -->
+                    <a class="page-text-container-section-a" href="mailto:pacaciller@2017.steamconf.com">pacaciller@2017.steamconf.com</a>
 
-          <div class="spacer"></div>
 
-          <h3 class="page-text-container-section-h3">{{ .SteeringSubtitle02 }}</h3>
+                </div>  <!-- col -->
 
-          <div class="section-dots">
-            <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
-          </div>
+              </div>
 
+            </div> <!-- page-text-container-group -->
 
-          <div class="page-text-container-group">
 
-              <img class="page-text-container-image" src="../../../img/04/jordi_albo.jpg" alt="SteamConf steering committe">
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle03 }}</h4>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText03 }}</p>
+            <div class="spacer"></div>
 
-              <a class="page-text-container-section-a" href="mailto:jalbo@salle.url.edu">jalbo@salle.url.edu</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/jalbocanals">@jalbocanals</a>
+            <h1 class="page-text-container-section-h2">{{ .SteeringSubtitle02 }}</h1>
 
-          </div> <!-- page-text-container-group -->
+            <div class="section-dots">
+              <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
+            </div>
 
 
 
 
-          <div class="page-text-container-group">
+<!-------------------------------------------- jordi_albo & begonya_folch ----------------------------->
 
-              <img class="page-text-container-image" src="../../../img/04/begonya_folch.jpg" alt="SteamConf steering committe">
+            <div class="page-text-container-group">
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle04 }}</h4>
+              <div class="row organizers-row">
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText04 }}</p>
+                <div class="col-md-6 organizer-left">
 
-              <a class="page-text-container-section-a" href="mailto:b.folch@gmail.com">b.folch@gmail.com </a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/Begonya">@Begonya</a>
+                    <img class="page-text-container-image" src="../../../img/04/jordi_albo.jpg" alt="SteamConf steering committe">
 
-          </div> <!-- page-text-container-group -->
+                    <h2 class="page-text-container-title">{{ .ItemSteeringTitle03 }}</h2>
 
+                    <p class="steering-committe-section-p">{{ .ItemSteeringText03 }}</p>
 
+                    <a class="page-text-container-section-a" href="mailto:jalbo@salle.url.edu">jalbo@salle.url.edu</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/jalbocanals">@jalbocanals</a>
 
+                </div>  <!-- col -->
 
-          <div class="page-text-container-group">
+                <div class="col-md-6 organizer-right">
 
-              <img class="page-text-container-image" src="../../../img/04/boris_mir.jpg" alt="SteamConf steering committe">
+                    <img class="page-text-container-image" src="../../../img/04/begonya_folch.jpg" alt="SteamConf steering committe">
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle05 }}</h4>
+                    <h2 class="page-text-container-title">{{ .ItemSteeringTitle04 }}</h2>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText05 }}</p>
+                    <p class="steering-committe-section-p">{{ .ItemSteeringText04 }}</p>
 
-              <a class="page-text-container-section-a" href="mailto:bmir@lamiradapedagogica.net">bmir@lamiradapedagogica.net</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/lamirada">@lamirada</a>
+                    <a class="page-text-container-section-a" href="mailto:b.folch@gmail.com">b.folch@gmail.com </a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/Begonya">@Begonya</a>
 
-          </div> <!-- page-text-container-group -->
 
+                </div>  <!-- col -->
 
+              </div>
 
+            </div> <!-- page-text-container-group -->
 
-          <div class="page-text-container-group">
 
-              <img class="page-text-container-image" src="../../../img/04/lluis_mora.jpg" alt="SteamConf steering committe">
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle06 }}</h4>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText06 }}</p>
 
-              <a class="page-text-container-section-a" href="mailto:lmora1@xtec.cat ">lmora1@xtec.cat </a>
+<!-------------------------------------------- lluis_mora & boris_mir ----------------------------->
 
-          </div> <!-- page-text-container-group -->
+            <div class="page-text-container-group">
 
+              <div class="row organizers-row">
 
+                <div class="col-md-6 organizer-left">
 
+                  <img class="page-text-container-image" src="../../../img/04/boris_mir.jpg" alt="SteamConf steering committe">
 
-          <div class="page-text-container-group">
+                  <h2 class="page-text-container-title">{{ .ItemSteeringTitle05 }}</h2>
 
-              <img class="page-text-container-image" src="../../../img/04/sergi_moral.jpg" alt="SteamConf steering committe">
+                  <p class="steering-committe-section-p">{{ .ItemSteeringText05 }}</p>
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle07 }}</h4>
+                  <a class="page-text-container-section-a" href="mailto:bmir@lamiradapedagogica.net">bmir@lamiradapedagogica.net</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/lamirada">@lamirada</a>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText07 }}</p>
 
-              <a class="page-text-container-section-a" href="mailto:smoral3@xtec.cat">smoral3@xtec.cat</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/sergidelmoral">@sergidelmoral</a>
+                </div>  <!-- col -->
 
-          </div> <!-- page-text-container-group -->
+                <div class="col-md-6 organizer-right">
 
+                    <img class="page-text-container-image" src="../../../img/04/lluis_mora.jpg" alt="SteamConf steering committe">
 
+                  <h2 class="page-text-container-title">{{ .ItemSteeringTitle06 }}</h2>
 
+                  <p class="steering-committe-section-p">{{ .ItemSteeringText06 }}</p>
 
+                  <a class="page-text-container-section-a" href="mailto:lmora1@xtec.cat ">lmora1@xtec.cat </a>
 
-          <div class="page-text-container-group">
 
-              <img class="page-text-container-image" src="../../../img/04/coral_regi.jpg" alt="SteamConf steering committe">
+                </div>  <!-- col -->
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle08 }}</h4>
+              </div>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText08 }}</p>
+            </div> <!-- page-text-container-group -->
 
-              <a class="page-text-container-section-a" href="mailto:coral.regi@virolai.com">coral.regi@virolai.com</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/coralregi">@coralregi</a>
 
-          </div> <!-- page-text-container-group -->
 
+<!-------------------------------------------- sergi_moral & coral_regi ----------------------------->
 
+            <div class="page-text-container-group">
 
+              <div class="row organizers-row">
 
+                <div class="col-md-6 organizer-left">
 
-          <div class="page-text-container-group">
+                  <img class="page-text-container-image" src="../../../img/04/sergi_moral.jpg" alt="SteamConf steering committe">
 
-              <img class="page-text-container-image" src="../../../img/04/frank_sabate_a.jpg" alt="SteamConf steering committe">
+                  <h2 class="page-text-container-title">{{ .ItemSteeringTitle07 }}</h2>
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle09 }}</h4>
+                  <p class="steering-committe-section-p">{{ .ItemSteeringText07 }}</p>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText09 }}</p>
+                  <a class="page-text-container-section-a" href="mailto:smoral3@xtec.cat">smoral3@xtec.cat</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/sergidelmoral">@sergidelmoral</a>
 
-              <a class="page-text-container-section-a" href="mailto:fsabate@fundaciocim.org">fsabate@fundaciocim.org</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/FSabateD">@FSabateD</a>
 
-          </div> <!-- page-text-container-group -->
+                </div>  <!-- col -->
 
+                <div class="col-md-6 organizer-right">
 
+                      <img class="page-text-container-image" src="../../../img/04/coral_regi.jpg" alt="SteamConf steering committe">
 
+                      <h2 class="page-text-container-title">{{ .ItemSteeringTitle08 }}</h2>
 
+                      <p class="steering-committe-section-p">{{ .ItemSteeringText08 }}</p>
 
+                      <a class="page-text-container-section-a" href="mailto:coral.regi@virolai.com">coral.regi@virolai.com</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/coralregi">@coralregi</a>
 
-          <div class="page-text-container-group">
 
-              <img class="page-text-container-image" src="../../../img/04/frank_sabate_b.jpg" alt="SteamConf steering committe">
+                </div>  <!-- col -->
 
-              <h4 class="page-text-container-title">{{ .ItemSteeringTitle10 }}</h4>
+              </div>
 
-              <p class="steering-committe-section-p">{{ .ItemSteeringText10 }}</p>
+            </div> <!-- page-text-container-group -->
 
-              <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/franksabate">@franksabate</a>
 
-          </div> <!-- page-text-container-group -->
+<!-------------------------------------------- frank_sabate & francesc_sabate ----------------------------->
 
+            <div class="page-text-container-group">
 
+              <div class="row organizers-row">
 
-      </div> <!-- page-text-container-section -->
+                <div class="col-md-6 organizer-left">
 
+                <img class="page-text-container-image" src="../../../img/04/frank_sabate_a.jpg" alt="SteamConf steering committe">
 
+                <h2 class="page-text-container-title">{{ .ItemSteeringTitle09 }}</h2>
 
-    </div>
+                <p class="steering-committe-section-p">{{ .ItemSteeringText09 }}</p>
 
-    {{ partial "js.html" . }}
+                <a class="page-text-container-section-a" href="mailto:fsabate@fundaciocim.org">fsabate@fundaciocim.org</a> / <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/FSabateD">@FSabateD</a>
 
-    {{ partial "page-footer.html" . }}
 
-  </body>
+                </div>  <!-- col -->
+
+                <div class="col-md-6 organizer-right">
+
+                      <img class="page-text-container-image" src="../../../img/04/frank_sabate_b.jpg" alt="SteamConf steering committe">
+
+                      <h2 class="page-text-container-title">{{ .ItemSteeringTitle10 }}</h2>
+
+                      <p class="steering-committe-section-p">{{ .ItemSteeringText10 }}</p>
+
+                      <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/franksabate">@franksabate</a>
+
+
+                </div>  <!-- col -->
+
+              </div>
+
+            </div> <!-- page-text-container-group -->
+
+</div>
+      </div>
+
+      {{ partial "js.html" . }}
+
+      {{ partial "page-footer.html" . }}
+
+      {{ end }}
+
+    </body>
 </html>
-
-{{ end }}

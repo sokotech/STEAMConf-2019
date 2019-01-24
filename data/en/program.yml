@@ -2,6 +2,58 @@ enable: true
 
 item:
 
+PageHeaderProgram : Program
+
+PausaCafe : Coffee Break
+
+
+Date01 : Saturday, April 14
+
+
+# EdCamp
+
+
+Time01 : 10.00 - 14.00
+
+Place01 : Cosmocaixa
+
+Classroom01 : Sala Àgora
+
+Title01 : EdCamp STEAM
+
+Subtitle01 : Path to STEAMConf 2018
+
+Text01 : A meeting fuelled by teachers for teachers. Free and open to everyone for sharing and building knowledge, experiences, ideas, concerns and inspirations, and for preparing the three days of discussions, workshops and conferences.
+
+
+# Vernacular STEAM and its Role in Education
+
+
+Time02 : 10.20 -
+
+Place02 : Cosmocaixa
+
+Classroom02 : Auditorium
+
+Title02 : Vernacular STEAM and its Role in Education
+
+InternationalSpeaker02 : Nettrice Gaskins, digital artist, academic, cultural critic and advocate of STEAM fields, Boston, (USA)
+
+LocalSpeaker02 : Laia Sánchez, associate professor of the Audiovisual Communication Department at Universitat Autònoma de Barcelona (UAB), Bellaterra, (Barcelona)
+
+Text02 : Vernacular STEAM is the integration of cultural or indigenous values identified in product development through the transfer of information. It is through STEAM education that we can explore vernacular knowledge, especially through culturally situated art and design-based inquiry. This presentation explores metaphoric, symbolic or iconic representations of relevant concepts, also called “vernacular science knowledge” or techno-vernacular creativity.
+
+
+InternationalSpeakerTitle02 : Nettrice Gaskins
+
+InternationalSpeakerText02 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+
+LocalSpeakerTitle02 : Laia Sánchez
+
+LocalSpeakerText02 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+
 
 # HOW TO ARRIVE
 
