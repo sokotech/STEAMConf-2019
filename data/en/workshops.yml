@@ -23,7 +23,7 @@ Place01 : Cosmocaixa
 
 Classroom01 :
 
-
+# --------  Paralel Workshops  --------------------
 
 Date02 : Wednesday, 18 April
 
@@ -38,7 +38,7 @@ Place02 : Cosmocaixa
 Classroom02 : Saló de Cent
 
 
-# PARALEL WORKSHOPS
+# --------  01 paralel workshop  --------------------
 
 WorkshopNum01 : 01
 
@@ -63,6 +63,7 @@ WorkshopSpeakerTitle01B : Helena González
 WorkshopSpeakerText01B : Small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
 
 
+# --------  02 paralel workshop  --------------------
 
 
 WorkshopNum02 : 02
@@ -87,6 +88,8 @@ WorkshopSpeakerTitle02B : Helena González
 
 WorkshopSpeakerText02B : Small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
 
+
+# --------  03 paralel workshop  --------------------
 
 
 WorkshopNum03 : 03

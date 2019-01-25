@@ -4,6 +4,116 @@ item:
 
 PageHeaderWorkshops : Tallers
 
+PausaCafe : Coffee Break
+
+
+Date01 : Saturday, April 14
+
+
+
+Time01 : 10.00 - 14.00
+
+Title01 : Workshops and Conference Registration
+
+Subtitle01 :
+
+Text01 : The workshops are designed to be practical and hands-on. They present projects that can be easily applied in the classroom and inspire other projects, and provide tools and ideas that can be introduced right away in class on Monday. They reveal what’s being done locally and elsewhere and provide inspiration through the experiences of other teachers and researchers, comparing ideas with those of other participants and sharing doubts and concerns.
+
+Place01 : Cosmocaixa
+
+Classroom01 :
+
+# --------  Paralel Workshops  --------------------
+
+Date02 : Wednesday, 18 April
+
+Time02 : 10.00 - 13.00
+
+Title02 : Parallel Workshops
+
+Subtitle02 :
+
+Place02 : Cosmocaixa
+
+Classroom02 : Saló de Cent
+
+
+# --------  01 paralel workshop  --------------------
+
+WorkshopNum01 : 01
+
+WorkshopClassroom01 : Sala Ágora
+
+WorkshopLanguage01 : English
+
+WorkshopReq01 : Tablet
+
+WorkshopTitle01 : Learning to live among robots” what is it and how do we present the subject to students
+
+WorkshopSubtitle01 : M. Àngels Fernández, head of the Technology Department; David Hispano, Innovation Department, Fundació Collcerola, Barcelona
+
+WorkshopText01 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+WorkshopSpeakerTitle01A : Helena González
+
+WorkshopSpeakerText01A : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms.
+
+WorkshopSpeakerTitle01B : Helena González
+
+WorkshopSpeakerText01B : Small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+
+# --------  02 paralel workshop  --------------------
+
+
+WorkshopNum02 : 02
+
+WorkshopClassroom02 : Sala Creactivity
+
+WorkshopLanguage02 : English
+
+WorkshopReq02 : Tablet
+
+WorkshopTitle02 : Learning to live among robots” what is it and how do we present the subject to students
+
+WorkshopSubtitle02 : M. Àngels Fernández, head of the Technology Department; David Hispano, Innovation Department, Fundació Collcerola, Barcelona
+
+WorkshopText02 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+WorkshopSpeakerTitle02A : Helena González
+
+WorkshopSpeakerText02A : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms.
+
+WorkshopSpeakerTitle02B : Helena González
+
+WorkshopSpeakerText02B : Small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+
+# --------  03 paralel workshop  --------------------
+
+
+WorkshopNum03 : 03
+
+WorkshopClassroom03 : Sala Pi
+
+WorkshopLanguage03 : English
+
+WorkshopReq03 : Tablet
+
+WorkshopTitle03 : Learning to live among robots” what is it and how do we present the subject to students
+
+WorkshopSubtitle03 : M. Àngels Fernández, head of the Technology Department; David Hispano, Innovation Department, Fundació Collcerola, Barcelona
+
+WorkshopText03 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
+WorkshopSpeakerTitle03A : Helena González
+
+WorkshopSpeakerText03A : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms.
+
+WorkshopSpeakerTitle03B : Helena González
+
+WorkshopSpeakerText03B : Small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
+
 # HOW TO ARRIVE
 
 HomeFooterSectionTitle01 : How to arrive

@@ -5,7 +5,7 @@ license = "GNU General Public License v3.0"
 tags = "educacion, steam, education, steam"
 tagline = "STEAMConf, 5th. International Education Conference"
 description = "STEAMConf wants to visualize the vital importance of implementing programs and resources, which help to minimize the digital divide, gender imbalances and promote equal opportunities."
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ca"
 copyright = "© STEAMConf 2018"
 
 # Build robots.txt file
@@ -122,14 +122,14 @@ googleAnalytics = ""
 
           # COMO LLEGAR
 
-          HomeFooterSectionTitle01 = "Como llegar"
+          HomeFooterSectionTitle01 = "Com arribar"
 
-          HomeFooterSectionTitle02 = "Por Carretera"
+          HomeFooterSectionTitle02 = "Per Carretera"
           HomeFooterSectionText02 = "Sortides 6 / 7 en Ronda de Dalt"
 
           HomeFooterSectionTitle03 = "En Autobus"
 
-          HomeFooterSectionTitle04 = "Por Ferrocarriles de la Generalitat"
+          HomeFooterSectionTitle04 = "Per Ferrocarrils de la Generalitat"
 
           HomeFooterSectionTitle05 = "Aparcament"
           HomeFooterSectionText05 = "Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA."

@@ -19,6 +19,8 @@
 
       <div class="container program-container">
 
+<!--------------- Dissabte 30 de març ------------------>
+
             <div class="content-date-title">
 
               <h2>{{ .Date01 }}</h2>
@@ -27,7 +29,7 @@
 
             <hr class="page-hr">
 
-<!------------------------------------------------------------------- 01 ----------->
+<!-- EDCAMP -------------------------------------------------------------------------->
 
             <div class="row program-row">
 
@@ -42,9 +44,288 @@
 
               <div class="col-md-9 content-program-info">
 
-                <h3>{{ .Title01 }}</h3>
-                <h5>{{ .Subtitle01 }}</h5>
-                <p>{{ .Text01 }}</p>
+                <h3>{{ .Title01A }}</h3>
+                <h6>{{ .Subtitle01A }}</h6>
+                <p>{{ .Text01A }}</p>
+
+                <h3>{{ .Title01B }}</h3>
+                <p>{{ .Text01B }}</p>
+
+                <h3>{{ .Title01C }}</h3>
+                <p>{{ .Text01C }}</p>
+
+                <h3>{{ .Title01D }}</h3>
+                <p>{{ .Text01D }}</p>
+
+                <div id="button-edcamp" class="col-md-3 col-xs-12">
+                    <a href="registry"><button type="button" class="button-edcamp-element">T’ ANIMES? APUNTA’T!</button></a>
+                </div> <!-- col -->
+
+              </div>  <!-- content-schedule-info -->
+
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--------------- Dijous 4 d’abril  ------------------>
+
+            <div class="content-date-title">
+
+              <h2>{{ .Date02 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+<!--- PERFORM-UNESCO Cuando la ciencia pisa escenari -------------------------------------->
+
+            <hr class="page-hr">
+
+            <div class="row program-row">
+
+              <div id="button-edcamp" class="col-md-9 offset-md-3 col-xs-12">
+                  <a href="registry"><button type="button" class="button-unesco-element">Inscripció gratuïta a l’ Obertura pública de la conferencia</button></a>
+              </div> <!-- col -->
+
+            </div> <!-- row -->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time02 }}</h3>
+                  <h4>{{ .Place02 }}</h4>
+                  <h4><span class="orange">{{ .Classroom02 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title02A }}</h3>
+                  <h6 class="content-language-notice">{{ .LanguageNotice02 }}</h6>
+
+                  <h6>{{ .InternationalSpeaker02A }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker02A }}</h6>
+                  <p>{{ .Text02A }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/lluis_noguera.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle02A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText02A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/llnogueras">@llnoguera</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/francesca_bria.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .InternationalSpeakerTitle02A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .InternationalSpeakerText02A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/francesca_bria">@francesca_bria</a>
+
+                     </div>  <!-- col -->
+
+
+                  </div>  <!-- row -->
+
+
+                </div>  <!-- content-schedule-info -->
+
+                <div class="col-md-9 offset-md-3 content-program-info">
+
+                  <h3>{{ .Title02B }}</h3>
+                  <h6>{{ .LocalSpeaker02B }}</h6>
+
+                  <p>{{ .Text02B }}</p>
+                  <p>{{ .Text02C }}</p>
+                  <p>{{ .Text02D }}</p>
+                  <p>{{ .Text02E }}</p>
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle02A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText02A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/oriol_marimon.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle02B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText02B }}</p>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- col -->
+
+            </div>  <!-- row -->
+
+
+<!------------------------------------------------------------------ CONVERSATION ----------->
+
+            <hr class="page-hr">
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time03 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+<!--------------------------------->
+
+<hr class="page-hr">
+
+<!--------------- Dissabte 30 de març  ------------------>
+
+            <div class="content-date-title">
+
+              <h2>{{ .Date03 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+<hr class="page-hr">
+
+<!-- Tallers -------------------------------------------------------------------------->
+
+            <div class="row program-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time04 }}</h3>
+                <h4>{{ .Place04 }}</h4>
+                <h4><span class="orange">{{ .Classroom04 }}</span></h4>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-program-info">
+
+                <h3>{{ .Title04A }}</h3>
+                <h6>{{ .Subtitle04A }}</h6>
+                <p>{{ .Text04A }}</p>
+
+                <div id="button-edcamp" class="col-md-3 col-xs-12">
+                    <a href="../workshops"><button type="button" class="button-edcamp-element">Registra't als tallers aquí</button></a>
+                </div> <!-- col -->
+
+              </div>  <!-- content-schedule-info -->
+
+
+            </div>  <!-- row -->
+
+
+<!------------------------------------------------------------------ TALLERS PARALLELS ----------->
+
+            <hr class="page-hr">
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time05 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3> {{ .ParalelWorkshops }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+<!--------------------------------->
+
+<!------------------------------------------------------------------ PAUSA CAFE ----------->
+
+            <hr class="page-hr">
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time06 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+<!--------------------------------->
+
+<!------------------------------------------------------------------ TALLERS PARALLELS ----------->
+
+            <hr class="page-hr">
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time07 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3> {{ .ParalelWorkshops }}</h3>
 
               </div>  <!-- content-schedule-info -->
 
@@ -54,79 +335,282 @@
 
 <!--------------------------------->
 
-            <div class="content-date-title">
 
-              <h2>{{ .Date01 }}</h2>
-
-            </div>  <!-- content-date-title -->
-
-<!------------------------------------------------------------------- 02 ----------->
-
-            <hr class="page-hr">
+<!-- DINAR -------------------------------------------------------------------------->
 
             <div class="row program-row">
 
               <div class="col-md-3 content-time">
 
-                <h3>{{ .Time02 }}</h3>
-                <h4>{{ .Place02 }}</h4>
-                <h4><span class="orange">{{ .Classroom02 }}</span></h4>
+                <h3>{{ .Time08 }}</h3>
 
               </div>  <!-- content-time -->
 
               <div class="col-md-9 content-program-info">
 
-                <h3>{{ .Title02 }}</h3>
-                <h5>{{ .InternationalSpeaker02 }}</h5>
-                <h5><u>Local Peer</u>: {{ .LocalSpeaker02 }}</h5>
-                <p>{{ .Text02 }}</p>
+                <h3>{{ .Title08 }}</h3>
+                <h6>{{ .Subtitle08 }}</h6>
+                <p>{{ .Text08 }}</p>
 
-                <div class="row content-program-speaker-row">
-
-                   <div class="col-md-3">
-                     <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
-                   </div>  <!-- col -->
-
-                   <div class="col-md-9">
-
-                     <h4 class="page-text-container-title">{{ .InternationalSpeakerTitle02 }}</h4>
-
-                     <p class="Speaker-committe-section-p speakers-page-p">{{ .InternationalSpeakerText02 }}</p>
-
-                     <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
-
-                   </div>  <!-- col -->
-
-                </div>  <!-- row -->
-
-
-                <div class="row content-program-speaker-row">
-
-                   <div class="col-md-3">
-                     <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
-                   </div>  <!-- col -->
-
-                   <div class="col-md-9">
-
-                     <h4 class="page-text-container-title">{{ .LocalSpeakerTitle02 }}</h4>
-
-                     <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText02 }}</p>
-
-                     <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
-
-                   </div>  <!-- col -->
-
-                </div>  <!-- row -->
-
-
+                <div id="button-edcamp" class="col-md-3 col-xs-12">
+                    <a href="../workshops"><button type="button" class="button-dinar-element">Consulta el programa detallat aqui!</button></a>
+                </div> <!-- col -->
 
               </div>  <!-- content-schedule-info -->
+
+
+            </div>  <!-- row -->
+
+<hr class="page-hr">
+
+<!-- Rebuda del professorat de la Fila 0 -------------------------------------------------------->
+
+
+            <div class="row program-row">
+
+            </div> <!-- row -->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time09 }}</h3>
+                  <h4>{{ .Place09 }}</h4>
+                  <h4><span class="orange">{{ .Classroom09 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title09 }}</h3>
+
+                  <h6>{{ .Subtitle09 }}</h6>
+                  <p>{{ .Text02A }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/04/begonya_folch.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle09 }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText09 }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/Begonya">@Begonya</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
 
             </div>  <!-- row -->
 
             <hr class="page-hr">
 
+<!-- Registre i lliurament de documentació -------------------------------------------------------->
 
+
+            <div class="row program-row">
+
+            </div> <!-- row -->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time10 }}</h3>
+                  <h4>{{ .Place10 }}</h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title10 }}</h3>
+                  <h6 class="content-language-notice">{{ .LanguageNotice10 }}</h6>
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+
+<!--- Inauguració de la conferència -------------------------------------->
+
+          <hr class="page-hr">
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time11 }}</h3>
+                  <h4>{{ .Place11 }}</h4>
+                  <h4><span class="orange">{{ .Classroom11 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title11A }}</h3>
+                  <h6>{{ .Subtitle11A }}</h6>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/jordi_portabella_2.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle11A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText11A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/jordiportabella">@jordiportabella</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/ma-del-mar-camacho.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle11B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText11B }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/marett">@marett</a>
+
+                     </div>  <!-- col -->
+
+
+                  </div>  <!-- row -->
+
+
+                </div>  <!-- content-schedule-info -->
+
+                <div class="col-md-9 offset-md-3 content-program-info">
+
+                  <h3>{{ .Title11B }}</h3>
+                  <h6>{{ .Subtitle11B }}</h6>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/04/frank_sabate_b.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle11C }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText11C }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/franksabate">@franksabate</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                </div>  <!-- col -->
+
+            </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+<!--- Session 01 - Make or Break. The Imperative for Change -------------------------------------->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time12 }}</h3>
+                  <h4>{{ .Place12 }}</h4>
+                  <h4><span class="orange">{{ .Classroom12 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title12 }}</h3>
+                  <h6>{{ .Subtitle12 }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker12 }}</h6>
+                  <p>{{ .Text12 }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/anna_cutler.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle12A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText12A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/jordiportabella">@jordiportabella</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle12B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText12B }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/marett">@marett</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+
+<!------------------------------------------------------------------ CONVERSATION ----------->
+
+            <hr class="page-hr">
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time13 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+
+          <hr class="page-hr">
 
 
 <!------------------------------------------------------------------ PAUSA CAFE ----------->
@@ -135,7 +619,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>{{ .Time02 }} </h3>
+                <h3>{{ .Time14 }} </h3>
 
 
               </div>  <!-- content-time -->
@@ -151,6 +635,403 @@
             <hr class="page-hr">
 
 <!--------------------------------->
+
+
+<!--- Session 02 -  -------------------------------------->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time15 }}</h3>
+                  <h4>{{ .Place15 }}</h4>
+                  <h4><span class="orange">{{ .Classroom15 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title15 }}</h3>
+                  <h6>{{ .Subtitle15 }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker15 }}</h6>
+                  <p>{{ .Text15 }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle15A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText15A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle15B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText15B }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+
+          <hr class="page-hr">
+
+<!------------------------------------------------------------------ CONVERSATION ----------->
+
+          <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time16 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+
+<!--- Session 03 -  -------------------------------------->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time17 }}</h3>
+                  <h4>{{ .Place17 }}</h4>
+                  <h4><span class="orange">{{ .Classroom17 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title17 }}</h3>
+                  <h6>{{ .Subtitle17 }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker17 }}</h6>
+                  <p>{{ .Text17 }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle17A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText17A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle15B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText15B }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+
+          <hr class="page-hr">
+
+<!--------------- Disabte 6 d’abril  ------------------>
+
+            <div class="content-date-title">
+
+              <h2>{{ .Date19 }}</h2>
+
+            </div>  <!-- content-date-title -->
+
+          <hr class="page-hr">
+
+
+<!--- Session 04 -  -------------------------------------->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time20 }}</h3>
+                  <h4>{{ .Place20 }}</h4>
+                  <h4><span class="orange">{{ .Classroom17 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title20 }}</h3>
+                  <h6>{{ .Subtitle20 }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker20 }}</h6>
+                  <p>{{ .Text20 }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle20A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText20A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle20B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText20B }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+
+          <hr class="page-hr">
+
+
+<!------------------------------------------------------------------ CONVERSATION ----------->
+
+          <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time22 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+
+<!------------------------------------------------------------------ PAUSA CAFE ----------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time21 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+
+<!--- Session 05 -  -------------------------------------->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time23 }}</h3>
+                  <h4>{{ .Place23 }}</h4>
+                  <h4><span class="orange">{{ .Classroom23 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title23 }}</h3>
+                  <h6>{{ .Subtitle23 }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker23 }}</h6>
+                  <p>{{ .Text23 }}</p>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle23A }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText23A }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/generic_profile_pic.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle23B }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText23B }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+
+<!------------------------------------------------------------------ CONVERSATION ----------->
+
+          <div class="row workshops-row">
+
+              <div class="col-md-3 content-time">
+
+                <h3>{{ .Time24 }} </h3>
+
+
+              </div>  <!-- content-time -->
+
+              <div class="col-md-9 content-workshops-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+<!--------------------------------->
+
+<!--- Closing Session -  -------------------------------------->
+
+            <div class="row program-row">
+
+                <div class="col-md-3 content-time">
+
+                  <h3>{{ .Time25 }}</h3>
+                  <h4>{{ .Place25 }}</h4>
+                  <h4><span class="orange">{{ .Classroom25 }}</span></h4>
+
+                </div>  <!-- content-time -->
+
+                <div class="col-md-9 content-program-info">
+
+                  <h3>{{ .Title25 }}</h3>
+                  <h6>{{ .Subtitle25 }}</h6>
+                  <p>{{ .Text25 }}</p>
+
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/lluis_noguera.jpg" alt="SteamConf Speaker committe">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle25 }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText25 }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
+
+                </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+          <hr class="page-hr">
 
 
 

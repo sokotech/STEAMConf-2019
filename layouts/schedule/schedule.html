@@ -19,45 +19,7 @@
 
       <div class="container schedule-container">
 
-        <div class="content-date-title">
-
-          <h2>{{ .Date01 }}</h2>
-
-        </div>  <!-- content-date-title -->
-
-        <hr class="page-hr">
-
-
-<!----------------------------------------------------- 01 -->
-
-        <div class="row schedule-row">
-
-          <div class="col-md-3 content-time">
-
-            <h3>{{ .Time01 }}</h3>
-
-          </div>  <!-- content-time -->
-
-          <div class="col-md-6 content-schedule-info">
-
-            <h3>{{ .Title01 }}</h3>
-            <h4>{{ .Subtitle01 }}</h4>
-
-          </div>  <!-- content-schedule-info -->
-
-          <div class="col-md-3 content-location">
-
-            <h3>{{ .Place01 }}</h3>
-            <h4>{{ .Classroom01 }}</h4>
-
-          </div>  <!-- content-location -->
-
-        </div>  <!-- row -->
-
-
-        <hr class="page-hr">
-
-
+<!--  saturday, may 30  ------------------------------------------------------->
 
         <div class="content-date-title">
 
@@ -65,19 +27,18 @@
 
         </div>  <!-- content-date-title -->
 
-
-<!----------------------------------------------------- 02 -->
-
         <hr class="page-hr">
+
+
+<!--- EDCAMP ------------------------------------------------------------------>
 
         <div class="row schedule-row">
 
-          <div class="col-md-3 content-time">
+          <div class="col-md-3 content-schedule-time">
 
             <h3>{{ .Time02 }}</h3>
 
-          </div>  <!-- content-time -->
-
+          </div>  <!-- content-schedule-time -->
 
           <div class="col-md-6 content-schedule-info">
 
@@ -95,36 +56,614 @@
 
         </div>  <!-- row -->
 
+
         <hr class="page-hr">
 
 
-<!----------------------------------------------------- 03 -->
+<!--  thursday, april 4th  -------------------------------------------------------->
+
+        <div class="content-date-title">
+
+          <h2>{{ .Date03 }}</h2>
+
+        </div>  <!-- content-date-title -->
+
+
+<!--  PERFOMANCE UNESCO  ------------------------------------------------------>
+
+        <hr class="page-hr">
 
         <div class="row schedule-row">
 
-          <div class="col-md-3 content-time">
+          <div class="col-md-3 content-schedule-time">
 
-            <h3>{{ .Time03 }}</h3>
+            <h3>{{ .Time04 }}</h3>
 
-          </div>  <!-- content-time -->
+          </div>  <!-- content-schedule-time -->
+
 
           <div class="col-md-6 content-schedule-info">
 
-            <h3>{{ .Title03 }}</h3>
-            <h5>{{ .Subtitle03 }}</h5>
+            <h3>{{ .Title04 }}</h3>
+            <h6 class="content-language-notice">{{ .LanguageNotice04 }}</h6>
+
 
           </div>  <!-- content-schedule-info -->
 
           <div class="col-md-3 content-location">
 
-            <h3>{{ .Place03 }}</h3>
-            <h4>{{ .Classroom03 }}</h4>
+            <h3>{{ .Place04 }}</h3>
+            <h4>{{ .Classroom04 }}</h4>
 
           </div>  <!-- content-location -->
 
         </div>  <!-- row -->
 
         <hr class="page-hr">
+
+<!---- CONVERSATION ----------------------------------------------------------->
+
+          <div class="row workshops-row">
+
+            <div class="col-md-3 content-schedule-time">
+
+              <h3>{{ .Time05 }} </h3>
+
+
+            </div>  <!-- content-schedule-time -->
+
+            <div class="col-md-9 content-schedule-info">
+
+              <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+            </div>  <!-- content-schedule-info -->
+
+          </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+
+<!--  friday, april 5th  -------------------------------------------------------->
+
+        <div class="content-date-title">
+
+          <h2>{{ .Date06 }}</h2>
+
+        </div>  <!-- content-date-title -->
+
+        <hr class="page-hr">
+
+<!--  Workshops --------------------------------------------------------------->
+
+        <div class="row schedule-row">
+
+          <div class="col-md-3 content-schedule-time">
+
+            <h3>{{ .Time07 }}</h3>
+
+          </div>  <!-- content-schedule-time -->
+
+          <div class="col-md-6 content-schedule-info">
+
+            <h3>{{ .Title07 }}</h3>
+            <h5>{{ .Subtitle07 }}</h5>
+
+          </div>  <!-- content-schedule-info -->
+
+          <div class="col-md-3 content-location">
+
+            <h3>{{ .Place07 }}</h3>
+            <h4>{{ .Classroom07 }}</h4>
+
+          </div>  <!-- content-location -->
+
+        </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+<!--  Paralel Workshops Morning ----------------------------------------------->
+
+        <div class="row schedule-row">
+
+          <div class="col-md-3 content-schedule-time">
+
+            <h3>{{ .Time08 }}</h3>
+
+          </div>  <!-- content-schedule-time -->
+
+          <div class="col-md-6 content-schedule-info">
+
+            <h3>{{ .Title08 }}</h3>
+            <h5>{{ .Subtitle08 }}</h5>
+
+          </div>  <!-- content-schedule-info -->
+
+          <div class="col-md-3 content-location">
+
+            <h3>{{ .Place08 }}</h3>
+            <h4>{{ .Classroom08 }}</h4>
+
+          </div>  <!-- content-location -->
+
+        </div>  <!-- row -->
+
+        <hr class="page-hr">
+
+<!--  01 ----------------------->
+
+<!------  coffee break  ------------------------------------------------------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-schedule-time">
+
+                <h3>{{ .Time16 }} </h3>
+
+
+              </div>  <!-- content-schedule-time -->
+
+              <div class="col-md-9 content-schedule-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--  Paralel Workshops Aftenoon ---------------------------------------------->
+
+            <div class="row schedule-row">
+
+              <div class="col-md-3 content-schedule-time">
+
+                <h3>{{ .Time17 }}</h3>
+
+              </div>  <!-- content-schedule-time -->
+
+              <div class="col-md-6 content-schedule-info">
+
+                <h3>{{ .Title17 }}</h3>
+                <h5>{{ .Subtitle17 }}</h5>
+
+              </div>  <!-- content-schedule-info -->
+
+              <div class="col-md-3 content-location">
+
+                <h3>{{ .Place17}}</h3>
+                <h4>{{ .Classroom17 }}</h4>
+
+              </div>  <!-- content-location -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--  01 ----------------------->
+
+<!--  Lunch ------------------------------------------------------------------->
+
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time26 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title26 }}</h3>
+           <h5>{{ .Subtitle26 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place26 }}</h3>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+<!--  Row 0 Welcome ------------------------------------------------------------------->
+
+      <hr class="page-hr">
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time27 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title27 }}</h3>
+           <h5>{{ .Subtitle27 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place27 }}</h3>
+           <h4>{{ .Classroom27 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+
+<!--  Conference registry ------------------------------------------------------------------->
+
+      <hr class="page-hr">
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time28 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title28 }}</h3>
+           <h5>{{ .Subtitle28 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place28 }}</h3>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+
+<!--  Conference Opening ------------------------------------------------------------------->
+
+      <hr class="page-hr">
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time29 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title29A }}</h3>
+           <h5>{{ .Subtitle29A }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place29B }}</h3>
+           <h4>{{ .Classroom29B }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+
+<!--  Sesion 01 ------------------------------------------------------------------->
+
+      <hr class="page-hr">
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time30 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title30 }}</h3>
+           <h5>{{ .Subtitle30 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place30 }}</h3>
+           <h4>{{ .Classroom30 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+<!---- CONVERSATION ----------------------------------------------------------->
+
+          <div class="row workshops-row">
+
+            <div class="col-md-3 content-schedule-time">
+
+              <h3>{{ .Time31 }} </h3>
+
+
+            </div>  <!-- content-schedule-time -->
+
+            <div class="col-md-9 content-schedule-info">
+
+              <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+            </div>  <!-- content-schedule-info -->
+
+          </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+<!------  coffee break  ------------------------------------------------------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-schedule-time">
+
+                <h3>{{ .Time32 }} </h3>
+
+
+              </div>  <!-- content-schedule-time -->
+
+              <div class="col-md-9 content-schedule-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--  Sesion 02 ------------------------------------------------------------------->
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time33 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title33 }}</h3>
+           <h5>{{ .Subtitle33 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place33 }}</h3>
+           <h4>{{ .Classroom33 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+<!---- CONVERSATION ----------------------------------------------------------->
+
+          <div class="row workshops-row">
+
+            <div class="col-md-3 content-schedule-time">
+
+              <h3>{{ .Time34 }} </h3>
+
+
+            </div>  <!-- content-schedule-time -->
+
+            <div class="col-md-9 content-schedule-info">
+
+              <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+            </div>  <!-- content-schedule-info -->
+
+          </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+
+<!--  Sesion 03  ------------------------------------------------------------------->
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time35 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title35 }}</h3>
+           <h5>{{ .Subtitle35 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place35 }}</h3>
+           <h4>{{ .Classroom35 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+<!--  saturday, april 6th  ------------------------------------------------------->
+
+        <div class="content-date-title">
+
+          <h2>{{ .Date36 }}</h2>
+
+        </div>  <!-- content-date-title -->
+
+        <hr class="page-hr">
+
+<!--  Sesion 04 ------------------------------------------------------------------->
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time37 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title37 }}</h3>
+           <h5>{{ .Subtitle37 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place37 }}</h3>
+           <h4>{{ .Classroom37 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+<!---- CONVERSATION ----------------------------------------------------------->
+
+          <div class="row workshops-row">
+
+            <div class="col-md-3 content-schedule-time">
+
+              <h3>{{ .Time38 }} </h3>
+
+
+            </div>  <!-- content-schedule-time -->
+
+            <div class="col-md-9 content-schedule-info">
+
+              <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+            </div>  <!-- content-schedule-info -->
+
+          </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+<!------  coffee break  ------------------------------------------------------->
+
+            <div class="row workshops-row">
+
+              <div class="col-md-3 content-schedule-time">
+
+                <h3>{{ .Time39 }} </h3>
+
+
+              </div>  <!-- content-schedule-time -->
+
+              <div class="col-md-9 content-schedule-info">
+
+                <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-coffee-cup.svg" alt="coffee break"></span> {{ .PausaCafe }}</h3>
+
+              </div>  <!-- content-schedule-info -->
+
+            </div>  <!-- row -->
+
+            <hr class="page-hr">
+
+<!--  Sesion 05 ------------------------------------------------------------------->
+
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time40 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title40 }}</h3>
+           <h5>{{ .Subtitle40 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place40 }}</h3>
+           <h4>{{ .Classroom40 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+<!---- CONVERSATION ----------------------------------------------------------->
+
+          <div class="row workshops-row">
+
+            <div class="col-md-3 content-schedule-time">
+
+              <h3>{{ .Time41 }} </h3>
+
+
+            </div>  <!-- content-schedule-time -->
+
+            <div class="col-md-9 content-schedule-info">
+
+              <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .Conversation }}</h3>
+
+            </div>  <!-- content-schedule-info -->
+
+          </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+
+<!--  conference closing ------------------------------------------------------------------->
+
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time42 }}</h3>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title42 }}</h3>
+           <h5>{{ .Subtitle42 }}</h5>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place42 }}</h3>
+           <h4>{{ .Classroom42 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
 
 
     </div>  <!-- schedule-container -->

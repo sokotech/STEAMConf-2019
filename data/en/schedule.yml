@@ -4,46 +4,72 @@ item :
 
 PageHeaderSchedule : Schedule
 
-Date01 : Saturday, April 14
+# --------------------------------- saturday, may 30  --------------------------------
 
+Date01 : Saturday, April 30
 
+# --- EdCamp ---------------------
 
 Time01 : 10.00 - 14.00
-
-Title01 : EdCamp SteamConf
-
-Subtitle01 : Walking towards STEAMConf 2019
 
 Place01 : Cosmocaixa
 
 Classroom01 : Sala Ágora
 
+Title01 : EdCamp SteamConf
 
+Subtitle01 : Walking towards STEAMConf 2019
 
-Date02 : Wednesday, 18 April
+# --------------------------------- thursday, april 4 --------------------------------
 
-Time02 : 10.00 - 13.00
+Date02 : Wednesday, April 4
 
-Title02 : Ada Lovelace at Saló de Cent
+# ------ PERFOMANCE UNESCO Cuando la ciencia pisa escenari
 
-Subtitle02 : TEXT PLACEHOLDER
+Time03 : 18:30 -
 
-Place02 : Ajuntament de Barcelona
+Place03 : Ajuntament de Barcelona
 
-Classroom02 : Saló de Cent
+Classroom03 : Saló de Cent
 
+Title03A : PERFORM-UNESCO
 
+Subtitle03A : Conferència – Espectacle d’inauguració, oberta al públic (traducció simultània en català, castellà i anglès)
 
+Title03B : Quan la ciència trepitja escenaris
 
-Time03 : 17.30 - 20:00
+# ---------- Conversation ----------------
 
-Title03 : Project STEAM4U
+Time4 : 19:45 -
 
-Subtitle03 : Equity in STEAM, How can we make students feel that they can all do STEAM?
+# --------------------------------- friday, april 5 --------------------------------
 
-Place03 : Cosmocaixa
+Date05 : Friday, April 5
 
-Classroom03 : Sala Ágora
+# --------  Workshops  --------------------
+
+Time06 : 9.00 -
+
+Place06 : Cosmocaixa
+
+Classroom06 : Sala Ágora
+
+Title06 : Tallers
+
+Subtitle06 : Registre i lliurament de documentació dels tallers i la conferència
+
+# --------  Paralel Workshops  --------------------
+
+Time07 : 10.00 -
+
+Title07 : Tallers Paral.lels
+
+# --------  01 paralel workshop  --------------------
+
+Time07 : 10.00 -
+
+Title07 : Tallers Paral.lels
+
 
 
 

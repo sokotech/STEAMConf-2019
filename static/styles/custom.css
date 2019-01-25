@@ -1742,6 +1742,14 @@ padding: 0 2% 0 8%;
       margin: 0;
     }
 
+    .content-schedule-info {
+      text-align: left;
+    }
+
+    .content-schedule-time {
+
+    }
+
     .organizer-right, .organizer-left {
       margin: 0 !important;
     }
@@ -1801,12 +1809,12 @@ padding: 0 2% 0 8%;
   margin: 15% 0;
 }
 
-.content-time h3, .content-location h3, .content-schedule-info h3{
+.content-time h3, .content-location h3, .content-schedule-info h3, .content-schedule-time h3 {
   color: #EB7B39;
 }
 
 .content-schedule-info, .content-location {
-  margin: 3% 0;
+  margin: 2% 0;
 }
 
 .schedule-row {
@@ -1847,6 +1855,11 @@ padding: 0 2% 0 8%;
     .content-date-title  {
       text-align: center;
       margin: 5% 0;
+    }
+
+    .content-schedule-time {
+      text-align: center;
+      margin: 3% 0;
     }
   }
 
@@ -1992,8 +2005,12 @@ padding: 0 2% 0 8%;
     margin-bottom: 1%;
 }
 
+.content-program-info h6 {
+    font-weight: 700;
+}
+
 .content-program-info p {
-    margin-top: 3%;
+    margin: 2% 0;
 }
 
 .program-row {
@@ -2002,6 +2019,28 @@ padding: 0 2% 0 8%;
 
 .content-program-speaker-row {
    margin: 5% 0;
+}
+
+.button-edcamp-element {
+  width: 350px;
+  margin: 10% 0;
+}
+
+.button-dinar-element {
+  width: 400px;
+  margin: 10% 0;
+}
+
+.content-language-notice {
+  color: #acacac;
+  font-style: italic;
+  font-weight: 500 !important;
+  margin-bottom: 2%;
+}
+
+.button-unesco-element {
+      width: 80%;
+    margin: 2% 0;
 }
 
 /* Small devices (tablets, 768px and up) */

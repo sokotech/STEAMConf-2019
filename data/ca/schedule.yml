@@ -4,7 +4,511 @@ item :
 
 PageHeaderSchedule : Horari
 
-Date01 : Dissabte 14 d'abril
+PausaCafe : Coffee Break
+
+Conversation : Conversa
+
+ParalelWorkshops : Tallers paral.lels
+
+
+# --------------------------------- Saturday, may 30  --------------------------------
+
+
+Date01 : Dissabte 30 de març
+
+
+# --- EdCamp ---------------------
+
+
+Time02 : 10.00 - 14.00
+
+Place02 : Cosmocaixa
+
+Classroom02 : Sala Ágora
+
+Title02 : EdCamp SteamConf
+
+Subtitle02 : Camí de STEAMConf 2018
+
+
+# --------------------------------- thursday, april 4 --------------------------------
+
+
+Date03 : Dijous 4 d’abril
+
+
+# ------ PERFOMANCE UNESCO Cuando la ciencia pisa escenari
+
+
+Time04 : 18:30 -
+
+Place04 : Ajuntament de Barcelona
+
+Classroom04 : Saló de Cent
+
+Title04 : PERFORM-UNESCO - Quan la ciència trepitja escenaris
+
+LanguageNotice04 : Conferència – Espectacle d’inauguració, oberta al públic (traducció simultània en català, castellà i anglès)
+
+
+# ---------- Conversation ----------------
+
+
+Time05 : 19:45 -
+
+
+# --------------------------------- friday, april 5 --------------------------------
+
+
+Date06 : Divendres, 5 d’abril
+
+
+# --------  Workshops  --------------------
+
+
+Time07 : 9.00 -
+
+Place07 : Cosmocaixa
+
+Classroom07 : Sala Ágora
+
+Title07 : Tallers
+
+Subtitle07 : Registre i lliurament de documentació dels tallers i la conferència
+
+
+# --------  Paralel Workshops  --------------------
+
+
+Time08 : 10.00 -
+
+Title08 : Tallers Paral.lels
+
+Place08 : Cosmocaixa
+
+Classroom08 : Sales múltiples
+
+
+# --------  01 paralel workshop  --------------------
+
+
+WorkshopNum09 : 1
+
+WorkshopClassroom09 : Sala Ágora
+
+Title09 : Workshop Name 01
+
+WorkshopLanguage09 : Define
+
+WorkshopReq09 : Define
+
+
+# --------  02 paralel workshop  --------------------
+
+
+WorkshopNum10 : 2
+
+WorkshopClassroom10 : Sala Ágora
+
+Title10 : Workshop Name 01
+
+WorkshopLanguage10 : Define
+
+WorkshopReq10 : Define
+
+
+# --------  03 paralel workshop  --------------------
+
+
+WorkshopNum11 : 3
+
+WorkshopClassroom11 : Sala Ágora
+
+Title11 : Workshop Name 01
+
+WorkshopLanguage11 : Define
+
+WorkshopReq11 : Define
+
+
+# --------  04 paralel workshop  --------------------
+
+
+WorkshopNum12 : 4
+
+WorkshopClassroom12 : Sala Ágora
+
+Title12 : Workshop Name 01
+
+WorkshopLanguage12 : Define
+
+WorkshopReq12 : Define
+
+
+# --------  05 paralel workshop  --------------------
+
+
+WorkshopNum13 : 5
+
+WorkshopClassroom13 : Sala Ágora
+
+Title13 : Workshop Name 01
+
+WorkshopLanguage13 : Define
+
+WorkshopReq13 : Define
+
+
+# --------  06 paralel workshop  --------------------
+
+
+WorkshopNum14 : 6
+
+WorkshopClassroom14 : Sala Ágora
+
+Title14 : Workshop Name 01
+
+WorkshopLanguage14 : Define
+
+WorkshopReq14 : Define
+
+
+# --------  07 paralel workshop  --------------------
+
+
+WorkshopNum15 : 7
+
+WorkshopClassroom15 : Sala Ágora
+
+Title15 : Workshop Name 01
+
+WorkshopLanguage15 : Define
+
+WorkshopReq15 : Define
+
+
+# --------  Coffee break --------------------
+
+
+Time16 : 11.30 -
+
+
+# --------  Paralel Workshops  --------------------
+
+
+Time17 : 12.00 -
+
+Title17 : Tallers Paral.lels
+
+Place17 : Cosmocaixa
+
+Classroom17 : Sales múltiples
+
+
+# --------  01 paralel workshop  --------------------
+
+
+WorkshopNum18 : 1
+
+WorkshopClassroom18 : Sala Ágora
+
+Title18 : Workshop Name 01
+
+WorkshopLanguage18 : Define
+
+WorkshopReq18 : Define
+
+
+# --------  02 paralel workshop  --------------------
+
+
+WorkshopNum19 : 2
+
+WorkshopClassroom19 : Sala Ágora
+
+Title19 : Workshop Name 01
+
+WorkshopLanguage19 : Define
+
+WorkshopReq19 : Define
+
+
+# --------  03 paralel workshop  --------------------
+
+
+WorkshopNum20 : 3
+
+WorkshopClassroom20 : Sala Ágora
+
+Title20 : Workshop Name 01
+
+WorkshopLanguage20 : Define
+
+WorkshopReq20 : Define
+
+
+# --------  04 paralel workshop  --------------------
+
+
+WorkshopNum21 : 4
+
+WorkshopClassroom21 : Sala Ágora
+
+Title21 : Workshop Name 01
+
+WorkshopLanguage21 : Define
+
+WorkshopReq21 : Define
+
+
+# --------  05 paralel workshop  --------------------
+
+
+WorkshopNum22 : 5
+
+WorkshopClassroom22 : Sala Ágora
+
+Title22 : Workshop Name 01
+
+WorkshopLanguage22 : Define
+
+WorkshopReq22 : Define
+
+
+# --------  06 paralel workshop  --------------------
+
+
+WorkshopNum23 : 6
+
+WorkshopClassroom23 : Sala Ágora
+
+Title23 : Workshop Name 01
+
+WorkshopLanguage23 : Define
+
+WorkshopReq23 : Define
+
+
+# --------  07 paralel workshop  --------------------
+
+
+WorkshopNum24 : 7
+
+WorkshopClassroom24 : Sala Ágora
+
+Title24 : Workshop Name 01
+
+WorkshopLanguage24 : Define
+
+WorkshopReq24 : Define
+
+
+# --------  08 paralel workshop  --------------------
+
+
+WorkshopNum25 : 7
+
+WorkshopClassroom25 : Sala Ágora
+
+Title25 : Workshop Name 01
+
+WorkshopLanguage25 : Define
+
+WorkshopReq25 : Define
+
+
+# --------  Lunch  --------------------
+
+
+Time26 : 13.30 -
+
+Place26 : Cosmocaixa
+
+Title26 : Dinar
+
+Subtitle26 : Exclusiu pels assistents a les dues activitats (Jornades + Tallers)
+
+
+# --------  Row 0 Welcome  --------------------
+
+
+Time27 : 13.45 -
+
+Place27 : Cosmocaixa
+
+Classroom27 : Sala Ágora
+
+Title27 : Rebuda del professorat de la Fila 0
+
+Subtitle27 : A càrrec de Begonya Folch, membre del Comitè Assessor d’STEAMCon
+
+
+# --------  Conference Registry  --------------------
+
+
+Time28 : 14.00 -
+
+Place28 : Cosmocaixa
+
+Title28 : Registre i lliurament de documentació
+
+LanguageNotice28 : Totes les sessions tindran traducció simultània català, castellà, anglès
+
+
+# --------  Conference opening  --------------------
+
+
+Time29 : 15.00 -
+
+Place29 : Cosmocaixa
+
+Classroom29 : Auditorium
+
+Title29A : Inauguració de la conferència
+
+Subtitle29A : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”, M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+
+Title29B : Inauguració de la conferència
+
+Subtitle29B : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”, M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+
+
+# --------  Session 01  --------------------
+
+
+Time30 : 15.20 -
+
+Place30 : Cosmocaixa
+
+Classroom30 : Auditorium
+
+Title30 : Sesion 01 - Make or Break. The Imperative for Change
+
+Subtitle30 : Anna Cutler, director of Learning and Research at Tate, London, UK
+
+LocalPeer30 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+
+# --------  Conversation --------------------
+
+
+Time31 : 00.00 -
+
+
+# --------  Coffee break --------------------
+
+
+Time32 : 00.00 -
+
+
+# --------  Session 02  --------------------
+
+
+Time33 : 00.00 -
+
+Place33 : Cosmocaixa
+
+Classroom33 : Auditorium
+
+Title33 : Sesion 02
+
+Subtitle33 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+LocalPeer33 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+
+# --------  Conversation --------------------
+
+
+Time34 : 00.00 -
+
+
+# --------  Session 03  --------------------
+
+
+Time35 : 00.00 -
+
+Place35 : Cosmocaixa
+
+Classroom35 : Auditorium
+
+Title35 : Sesion 03
+
+Subtitle35 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+LocalPeer35 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+
+# --------------------------------- Saturday, April 6th --------------------------------
+
+
+Date36 : Dissabte, 6 d’abril
+
+
+# --------  Session 04  --------------------
+
+
+Time37 : 00.00 -
+
+Place37 : Cosmocaixa
+
+Classroom37 : Auditorium
+
+Title37 : Sesion 04
+
+Subtitle37 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+LocalPeer37 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+
+# --------  Conversation --------------------
+
+
+Time38 : 00.00 -
+
+
+# --------  Coffee break --------------------
+
+
+Time39 : 00.00 -
+
+
+# --------  Session 05  --------------------
+
+
+Time40 : 00.00 -
+
+Place40 : Cosmocaixa
+
+Classroom40 : Auditorium
+
+Title40 : Sesion 05
+
+Subtitle40 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+LocalPeer40 : Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+
+# --------  Conversation --------------------
+
+
+Time41 : 00.00 -
+
+
+# --------  Conference closing  --------------------
+
+
+Time42 : 14.00 -
+
+Place42 : Cosmocaixa
+
+Classroom42 : Auditorium
+
+Title42 : Cloenda de les sessions
+
+Subtitle42 : A càrrec de Lluís Noguera i Jordana, director del CosmoCaixa, Barcelona
+
+
 
 
 # COMO LLEGAR

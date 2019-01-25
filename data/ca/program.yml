@@ -4,6 +4,361 @@ item:
 
 PageHeaderProgram : Programa
 
+PausaCafe : Coffee Break
+
+Conversation : Conversa
+
+ParalelWorkshops : Tallers paral.lels
+
+
+# --------------------------------- Dissabte 30 de març --------------------------------
+
+Date01 : Dissabte 30 de març
+
+# --- EdCamp ---------------------
+
+Time01 : 10.00 - 14.00
+
+Place01 : Cosmocaixa
+
+Classroom01 : Sala Àgora
+
+Title01A : EdCamp STEAM
+
+Subtitle01A : Camí de STEAMConf 2018
+
+Text01A : Una trobada impulsada per professors i per a professors, gratuïta i oberta a tothom, pensada per compartir i intercanviar coneixements, experiències, idees, preocupacions i inspiracions, i per preparar els tres dies de debats, tallers i conferències.
+
+Title01B : És el teu primer edcamp?
+
+Text01B : Si és així no passa res; aquí tindràs la possibilitat de descobrir-ho i viure’l en primera persona. Un edcamp és una trobada que té la finalitat de compartir aprenentatges, coneixements, inquietuds i passions sobre l’educació. Es basa en un aprenentatge entre iguals, i és desenvolupa a través de la conversa i l’intercanvi en un ambient d’espai obert i estimulant que facilita la lliure circulació d’idees.
+
+Title01C : Hi ha programa?
+
+Text01C : En un edcamp no hi ha un programa definit per l’organització, ja que són els participants els que elaboren conjuntament el programa o mapa de les sessions a partir dels temes, preguntes o inquietuds que són del seu interès.
+
+Title01D : Qui pot iniciar les converses?
+
+Text01D : Tothom és benvingut a liderar i iniciar una sessió a partir de la seva proposta de conversa.
+
+Title01E : Què te n’emportaràs sota el braç?
+
+Text01E : Primer, i de ben segur, un munt de grans idees, nous recursos, noves descobertes i l’entusiasme compartit de trobar gent inquieta com tu! I, a més, la possibilitat d’afegir a la teva agenda alguns noms amb qui compartir un esperit d’innovació educativa!
+
+
+# --------------------------------- Dijous 4 d’abril --------------------------------
+
+Date02 : Dijous 4 d’abril
+
+# PERFOMANCE UNESCO Cuando la ciencia pisa escenari
+
+Time02 : 18.30 -
+
+Place02 : Cosmocaixa
+
+Classroom02 : Auditorium
+
+Title02A : PERFORM-UNESCO
+
+LanguageNotice02 : Conferència – Espectacle d’inauguració, oberta al públic (traducció simultània en català, castellà i anglès)
+
+LocalSpeaker02A : Benvinguda, a càrrec de Lluís Noguera i Jordana, director del CosmoCaixa, Barcelona, Francesca Bria, Comissionada de Tecnologia i Innovació Digital de l’Ajuntament de Barcelona
+
+InternationalSpeakerTitle02A : Francesca Bria
+
+InternationalSpeakerText02A : Investigadora i docent associada en l’Imperial College Business School, a Innovation Studies Centre-Digital Economy Lab. Formada en ciències sociales i en l’economía de la innovació, és doctora per l’Imperial College i MSc in E-business and Innovation por el University College de Londres, Birkbeck. Bria és membre de l’Internet of Things Council i assessora de la Comissió Europea en polítiques del futur d’Internet i les smart cities. També és membre del EC Expert Group on Open Innovation (OISPG) i del European Research Cluster on the Internet of Things (IERC).
+
+LocalSpeakerTitle02A : Lluís Noguera i Jordana
+
+LocalSpeakerText02A : Director del CosmoCaixa, el Museu de la Ciència de la Fundació Bancària ”la Caixa”. Llicenciat en Filosofia per la UAB i màster en Gestió Cultural per la UB i en Gestió Pública per ESADE, també ha estudiat Relacions Culturals Internacionals. Ha estat subdirector de l’Àrea de Ciència, Recerca i Medi Ambient de la Fundació Bancària ”la Caixa”, on ha dut a terme, entre altres projectes, l’avaluació del programa de divulgació científica.
+
+Title02B : Quan la ciència trepitja escenaris
+
+LocalSpeaker02B : Helena González & Oriol Marimon, Vig Van Ciencia, IES Moises Broggi, IES Consell de Cent & IES Castellbisbal.
+
+Text02B : En PERFORM hablamos de ciencia con responsabilidad; abordamos retos sociales, dilemas éticos, desigualdades de género; identificamos pseudociencias y conflictos de intereses. Pero sobretodo, nos lo pasamos en grande, exploramos el humor, construimos historias científicas y las representamos sobre un escenario.
+
+Text02C: El producto final de estas metodologías participativas es una pieza teatral (un monólogo científico, un sketch, una historia…) que puede ser representada sobre un escenario y que habla sobre una investigación científica o tecnológica real. PERFORM ha hecho del aprendizaje una actividad participativa, “humanizada”, contextualizada a las realidades locales de los estudiantes, y ha contribuido al desarrollo de una población reflexiva e informada por la ciencia.
+
+Text02D: La presentación del proyecto PERFORM será un espectáculo. Literalmente. Un espectáculo en el que se intercalarán los monólogos y sketches teatrales realizados por alumnado de secundaria de diversos centros educativos de Barcelona, en los que podremos responder a preguntas como ¿qué podemos hacer para parar el cambio climático? ¿cómo buscamos vida en otros planetas? ¿Qué nuevas tecnologías existen para combatir el cáncer?
+
+Text02E: PERFORM ha sido un proyecto financiado por la Unión Europea, implementado en España, Reino Unido y Francia. El diseño e implementación de las actividades pedagógicas ha sido liderado por Big Van Ciencia (www.bigvanciencia.com)
+
+LocalSpeakerTitle02A : Helena González
+
+LocalSpeakerText02A : Llicenciada en Biologia i en Bioquímica per la Universitat de Salamanca,Doctora en Biomedicina per la Universitat de Barcelona. Apassionada dels gens, la herència, l'enginyeria genètica, la inestabilitat cromosòmica i altres marranades moleculars, es dedica a divulgar ciència a travès de Big Van Ciéncia, associació de la que es directora i fundadora (2013). Està especialment interessada en l'educació científica a primària, perquè la seva ment de deu anys empàtitza perfectament amb aquest tipus de públic.
+
+LocalSpeakerTitle02B : Oriol Marimon
+
+LocalSpeakerText02B : Doctor en Química Orgànica i cofundador del grup de comunicació científica "Big Van, Cientifics Sobre Rodes", És co-director del departament d'I + D + i i Director de Projectes Internacionals de Big Van Ciència; autor i actor de peces teatrals de divulgació científica per a totes les edats, i des de els escenaris,  ha portat la ciència punta a més de 250.000 espectadors.
+
+# Conversa
+
+Time03 : 19.45 -
+
+# --------------------------------- Divendres, 5 d’abril --------------------------------
+
+Date03 : Divendres, 5 d’abril
+
+# tallers
+
+Time04 : 9.00 -
+
+Place04 : Cosmocaixa
+
+Classroom04 : Diferents Aules
+
+Title04A : Tallers
+
+Subtitle04A : Registre i lliurament de documentació dels tallers i la conferència
+
+Text04A : Els tallers són de caràcter eminentment pràctic i presenten una sèrie de projectes, eines i idees que es poden aplicar fàcilment a l’aula. Mostren allò que s’està fent tant localment com arreu. Són font d’inspiració, i permeten també contrastar i compartir les pròpies idees amb les dels altres participants.
+
+# tallers paral•lels (paralel workshops code on top of page)
+
+Time05 : 10.00 -
+
+# pausacafe (coffee break code on top of page)
+
+Time06 : 11.30 -
+
+# tallers paral•lels (paralel workshops code on top of page)
+
+Time07 : 12.00 -
+
+# lunch
+
+Time08 : 13.30 -
+
+Title08 : Dinar
+
+Subtitle08 : Exclusiu pels assistents a les dues activitats (Jornades + Tallers)
+
+Text08 : Escull i inscriu-t’hi! Tens programa doble i pots fer el doblet!
+
+# rebuda del professorat de la Fila 0
+
+Time09 : 13.45 -
+
+Place09 : Cosmocaixa
+
+Classroom09 : Sala Àgora
+
+Title09 : Rebuda del professorat de la Fila 0
+
+Subtitle09 : A càrrec de Begonya Folch, membre del Comitè Assessor d’STEAMCon
+
+LocalSpeakerTitle09 : Begonya Folch
+
+LocalSpeakerText09 : Músic, implicada en la transformació educativa i en l’impacte de l’art en l’educació de les persones, és professora d’educació Primària i Secundària, formadora de mestres i ha estat professora a la Facultat del Professorat de la UB. També ha treballat al Servei d’Innovació i Recerca del Departament d’Ensenyament, al Consell Escolar de Catalunya i a la Fundació Jaume Bofill, en el programa Escola Nova 21. Ha estat formadora de l’ICE de la UAB, de l’Associació de Mestres Rosa Sensat i del Departament d’Ensenyament. Ha col·laborat amb l’Educators Advisory Team de l’ICFO i ha format part del Consell de redacció de la revista Perspectiva Escolar. Actualment treballa a l’Àrea d’Innovació, Programes i Formació del Consorci d’Educació de Barcelona, en el programa Xarxes per al canvi (#Xarxesperalcanvi).
+
+# Registre i lliurament de documentació
+
+Time10 : 14.00 -
+
+Place10 : Cosmocaixa
+
+Title10 : Registre i lliurament de documentació
+
+LanguageNotice10 : Totes les sessions tindran traducció simultània català, castellà, anglès
+
+# Inauguració de la conferència
+
+Time11 : 15.00 -
+
+Place11 : Cosmocaixa
+
+Title11A : Inauguració de la conferència
+
+Subtitle11A : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”,  M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+
+LocalSpeakerTitle11A : Jordi Portabella i Calvete
+
+LocalSpeakerText11A : Licenciado en Biología por la UB. Master en Ingeniería Ambiental por la UPC. Ha sido profesor de Estudios Ambientales de Ingeniería Agrícola en la UIC y actualmente es el Director del Área de Divulgación Científica y CosmoCaixa de la Fundación Bancaria “la Caixa”.
+
+LocalSpeakerTitle11B : M. del Mar Camacho Martí
+
+LocalSpeakerText11B : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Title11B : Benvinguda a la conferència
+
+Subtitle11B : Benvinguda a càrrec de Frank Sabaté, membre del Comitè Assessor, presentador i conductor de la conferència
+
+LocalSpeakerTitle11C : Frank Sabaté
+
+LocalSpeakerText11C : Mestre a l’Escola Projecte de Barcelona. Apassionat de la programació i la robòtica educativa. És membre del comitè científic del programa Educació Demà de la Fundació Jaume Bofill i del comitè impulsor del congrés STEAM Barcelona. Ha format part de l’organització de les edicions europees de la Scratch Conference (Barcelona ’13, Amsterdam ’15 i Bordeus ’17). És assessor en l’aliança magnet entre l’escola Montessori de Rubí i el CIM UPC. Comparteix els seus coneixements en sessions presencials de formació al professorat i en el seu canal de Youtube “Scratch en 5 minuts”.
+
+# Sesion 01 - Make or Break. The Imperative for Change
+
+Time12 : 15.20 -
+
+Place12 : Cosmocaixa
+
+Classroom12 : Auditorium
+
+Title12 : Sesion 01 - Make or Break. The Imperative for Change
+
+Subtitle12 : Anna Cutler,  director of Learning and Research at Tate, London, UK
+
+LocalSpeaker12 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Text12 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle12A : Anna Cutler
+
+LocalSpeakerText12A : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle12B : Local Peer
+
+LocalSpeakerText12B : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Conversa
+
+Time13 : 0.00 -
+
+# pausacafe (coffee break code on top of page)
+
+Time14 : 0.00 -
+
+# Sesion 02 -
+
+Time15 : 0.00 -
+
+Place15 : Cosmocaixa
+
+Classroom15 : Auditorium
+
+Title15 : Sesion 02
+
+Subtitle15 : International speaker, institution.
+
+LocalSpeaker15 : Local peer, institution.
+
+Text15 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle15A : International speaker
+
+LocalSpeakerText15A : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle15B : Local Peer
+
+LocalSpeakerText15B : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Conversa
+
+Time16 : 0.00 -
+
+# Sesion 03 -
+
+Time17 : 0.00 -
+
+Place17 : Cosmocaixa
+
+Classroom17 : Auditorium
+
+Title17 : Sesion 03
+
+Subtitle17 : International speaker, institution.
+
+LocalSpeaker17 : Local speaker, institution.
+
+Text17 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle17A : Intenational Peer
+
+LocalSpeakerText17A : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle17B : Local Peer
+
+LocalSpeakerText17B : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Conversa
+
+Time18 : 0.00 -
+
+# --------------------------------- Dissabte, 6 d’abril --------------------------------
+
+Date19 : Dissabte, 6 d’abril
+
+# ------ Sesion 04 --------------------
+
+Time20 : 0.00 -
+
+Place20 : Cosmocaixa
+
+Classroom20 : Auditorium
+
+Title20 : Sesion 04
+
+Subtitle20 : International speaker, institution.
+
+LocalSpeaker20 : Local speaker, institution.
+
+Text20 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle20A : Intenational Peer
+
+LocalSpeakerText20A : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle20B : Local Peer
+
+LocalSpeakerText20B : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Conversa
+
+Time21 : 0.00 -
+
+# pausacafe (coffee break code on top of page)
+
+Time22 : 0.00 -
+
+# ---- Sesion 05 -------------------
+
+Time23 : 0.00 -
+
+Place23 : Cosmocaixa
+
+Classroom23 : Auditorium
+
+Title23 : Sesion 05
+
+Subtitle23 : International speaker, institution.
+
+LocalSpeaker23 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Text23 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle23A : Intenational Peer
+
+LocalSpeakerText23A : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+LocalSpeakerTitle23B : Local Peer
+
+LocalSpeakerText23B : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# Conversa
+
+Time24 : 0.00 -
+
+# ---- CLOENDA DE LES SESSIONS -------------------
+
+Time25 : 14.00 -
+
+Place25 : Cosmocaixa
+
+Classroom25 : Auditorium
+
+Title25 : Cloenda de les sessions
+
+Subtitle25 : A càrrec de Lluís Noguera i Jordana, director del CosmoCaixa, Barcelona
+
+LocalSpeakerTitle25 : Lluís Noguera i Jordana
+
+LocalSpeakerText25 : Director del CosmoCaixa, el Museu de la Ciència de la Fundació Bancària ”la Caixa”. Llicenciat en Filosofia per la UAB i màster en Gestió Cultural per la UB i en Gestió Pública per ESADE, també ha estudiat Relacions Culturals Internacionals. Ha estat subdirector de l’Àrea de Ciència, Recerca i Medi Ambient de la Fundació Bancària ”la Caixa”, on ha dut a terme, entre altres projectes, l’avaluació del programa de divulgació científic.
+
+
+
+
 # COMO LLEGAR
 
 HomeFooterSectionTitle01 : Como arribar
