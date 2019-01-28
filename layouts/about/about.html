@@ -11,17 +11,25 @@
         <h1 class="page-header-title">{{ .PageHeaderAbout }}</h1>
       </div>
 
-      <div class="title-dots page-dots">
-        <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
-      </div>
+      <div class="title-dots page-dots"></div>
 
       <div class="container page-text-container">
 
-        <p>{{ .Info01 }}</p>
+        <div class="row">
 
-        <h2 class="page-h2-highlight">{{ .Info02 }}</h2>
+          <div class="col-md-6">
 
-        <p>{{ .Info03 }}</p>
+            <h2 class="page-h2-highlight">{{ .Info02 }}</h2>
+            <p class="page-highlight-subtitle">{{ .Info02A }}</p>
+
+          </div> <!-- col -->
+
+          <div class="col-md-6 about-text-container-right">
+            <p>{{ .Info01 }}</p>
+            <p>{{ .Info03 }}</p>
+          </div> <!-- col -->
+
+        </div>
 
         <div class="page-text-container-section steering-committe-section">
 
@@ -29,9 +37,7 @@
 
             <h1 class="page-text-container-section-h2">{{ .SteeringSubtitle01 }}</h1>
 
-            <div class="section-dots">
-              <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
-            </div>
+            <div class="section-dots page-dots"></div>
 
 <!-------------------------------------------- mariona_ciller & paca_ciller ----------------------------->
 

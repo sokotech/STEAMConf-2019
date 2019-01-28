@@ -256,6 +256,10 @@ button:hover {
   background-color: #EB7B39 !important;
 }
 
+.dropdown-item {
+  text-align: center !important;
+}
+
 .language-dropdown {
   border-bottom: none !important;
 }
@@ -369,6 +373,10 @@ position: relative;
   font-weight: 600;
 }
 
+.organizers-row {
+  text-align: left;
+}
+
 .home-description-text, .home-workshops-text  {
   font-size: 1.4em;
   margin-bottom: 5%;
@@ -389,6 +397,10 @@ position: relative;
   .home-description-section-text {
     padding: 12% 0 12% 40%;
     text-align: right;
+  }
+
+  .organizers-row {
+    text-align: center;
   }
 
 }
@@ -515,6 +527,16 @@ z-index: 4;
 
 .speakers-page-p {
   margin-top: 3%;
+}
+
+.speaker-title {
+  font-size: 2em;
+  margin-top: 10%;
+  margin-bottom: 3% !important;
+}
+
+.speaker-subtitle {
+  font-size: 1.5em;
 }
 
 
@@ -924,7 +946,7 @@ height: 85%;
     }
 
     .title-dots {
-      width: 10%;
+      width: 7%;
     }
 
     .section-dots {
@@ -932,9 +954,9 @@ height: 85%;
     }
 
     .contact-dots {
-      width: 10%;
-      margin: 0 !important;
-      padding: 0 0 2% 0 !important;
+      width: 7%;
+      margin: 0 0 2% 0 !important;
+      padding: 0 !important;
     }
 
     .home-speakers-section-robot {
@@ -1581,7 +1603,8 @@ position: relative;
 }
 
 .page-dots {
-  margin: 3% auto 5% auto;
+  margin: 15% auto;
+  border-bottom: 3px solid #EB7B39;
 }
 
 .page-text-container {
@@ -1613,7 +1636,7 @@ position: relative;
 }
 
 .steering-committe-section-p {
-  margin-top: 7%;
+  margin-top: 4%;
 }
 
 
@@ -1665,9 +1688,31 @@ padding: 0 2% 0 8%;
 
 .page-h2-highlight {
   color: #EB7B39;
-  text-align: center;
+  text-align: left;
   margin: 15% auto;
+  margin: 3% 0;
+  font-size: 3em;
 }
+
+.page-highlight-subtitle {
+  font-size: 2em;
+  margin-bottom: 3%;
+  text-align: left;
+}
+
+.about-text-container-right {
+  padding: 0 7%;
+  text-align: left;
+}
+
+.about-text-description {
+  margin-bottom: 3%;
+}
+
+.steering-committe-section {
+  text-align: left;
+}
+
 
 
 
@@ -1716,6 +1761,29 @@ padding: 0 2% 0 8%;
     margin: 0 !important;
   }
 
+  .page-h2-highlight {
+    margin: 3% 0;
+    font-size: 3em;
+  }
+
+  .about-text-container-right {
+    padding: 0 8% 0 4%;
+    text-align: left;
+  }
+
+  .about-text-description {
+    padding: 0 5% 0 7%;
+
+  }
+
+  .steering-committe-section {
+    text-align: center;
+  }
+
+  .page-dots {
+    margin: 7% auto;
+  }
+
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -1746,13 +1814,22 @@ padding: 0 2% 0 8%;
       text-align: left;
     }
 
-    .content-schedule-time {
-
-    }
-
     .organizer-right, .organizer-left {
       margin: 0 !important;
     }
+
+    .page-h2-highlight {
+      margin: 3% 0;
+      font-size: 3.69em;
+    }
+
+    .page-highlight-subtitle {
+      font-size: 2em;
+    }
+
+      .page-dots {
+        margin: 5% auto;
+      }
 
 
 }
@@ -1779,7 +1856,7 @@ padding: 0 2% 0 8%;
 /* ------------- registry ---------------- */
 
 .register-call-to-action button {
-  margin: 5% 0;
+  margin: 3% 0;
   padding: 2% 10%;
 }
 
@@ -1791,6 +1868,18 @@ padding: 0 2% 0 8%;
 .register-text-h5 {
   font-weight: 600;
   margin-top: 5%;
+}
+
+.registry-notice {
+  font-size: 2em;
+}
+
+.registry-hr {
+  margin: 5% 0;
+}
+
+.registry-title-highlight {
+  font-size: 3em;
 }
 
 
@@ -1815,11 +1904,26 @@ padding: 0 2% 0 8%;
 
 .content-schedule-info, .content-location {
   margin: 2% 0;
+  text-align: left;
 }
 
 .schedule-row {
   margin: 3% 0;
   text-align: center;
+}
+
+.content-schedule-info, .content-schedule-time {
+  text-align: left;
+}
+
+.content-schedule-time {
+  margin: 3% 0;
+  text-align: left;
+}
+
+.time-border {
+  border-bottom: 3px solid #CECECE ;
+  margin: 5% 85% 0 0;
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -1828,6 +1932,14 @@ padding: 0 2% 0 8%;
     .content-date-title  {
       text-align: center;
       margin: 5% 0;
+    }
+
+    .time-border {
+      display: none;
+    }
+
+    .content-schedule-info {
+      text-align: left;
     }
 
   }
@@ -1839,9 +1951,7 @@ padding: 0 2% 0 8%;
       height: 310px;
     }
 
-    .page-h2-highlight {
-      margin: 5% auto;
-    }
+
 
     .page-header-title {
       top: 73%;
@@ -1861,6 +1971,7 @@ padding: 0 2% 0 8%;
       text-align: center;
       margin: 3% 0;
     }
+
   }
 
 
@@ -2022,7 +2133,7 @@ padding: 0 2% 0 8%;
 }
 
 .button-edcamp-element {
-  width: 350px;
+  width: 400px;
   margin: 10% 0;
 }
 
@@ -2140,6 +2251,7 @@ display: block;
 .home-sub-footer-title {
   margin: 0 0 2% 0;
   font-weight: 600;
+  font-size: 3em;
 }
 
 .home-sub-footer-text {
@@ -2193,7 +2305,7 @@ display: block;
     }
 
     .home-sub-footer-contact {
-      margin: 40% 0 4% 0;
+      margin: 35% 0 4% 0;
     }
 
 
@@ -2262,7 +2374,7 @@ display: block;
 @media screen and  (min-width: 1400px) {
 
     .home-sub-footer-contact {
-      margin: 40% 0 4% 3%;
+      margin: 35% 0 4% 3%;
     }
 
 }

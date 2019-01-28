@@ -12,64 +12,135 @@
       <h1 class="page-header-title">{{ .PageHeaderRegister }}</h1>
     </div>
 
-    <div class="title-dots page-dots">
-      <img class="t-dots" src="../../img/01/title-dots.svg" alt="steamconf dots">
-    </div>
+    <div class="title-dots page-dots"></div>
 
+<!------------------------------------------------ Section 01 ----------------->
 
       <div class="container page-text-container">
 
-            <h3 class="page-text-container-h3">{{ .Info01 }}</h3>
+        <div class="registry-main-notice">
+          <h3 class="page-text-container-h3 registry-title-highlight">{{ .Info01A }}</h3>
+          <h5 class="register-text-h5">{{ .Info01B }}</h5>
+        </div>
 
-            <h5 class="register-text-h5">{{ .Info02 }}</h5>
+        <hr class="page-hr registry-hr">
 
-            <a class="register-call-to-action" href="#">
-               <button type="button" name="button">
-                 <h4>{{ .ButtonTitle01 }}</h4>
-                 <p>{{ .ButtonSubtitle01 }}</p>
-               </button>
-            </a>
+<!----------------------------------- public opening registry ----------------->
 
-            <p>{{ .Info03 }}</p>
+              <a class="register-call-to-action"href="#">
+                 <button type="button" name="button">
+                   <h4>{{ .ButtonTitle01C }}</h4>
+                   <p>{{ .ButtonSubtitle01C }}</p>
+                 </button>
+              </a>
+
+        <hr class="page-hr registry-hr">
+
+<!-------------------------------------- Section 02 - EdCamp  ----------------->
+
+        <div class="row">
+
+          <div class="col-md-6">
+            <h3 class="page-text-container-h3 registry-title-highlight">{{ .Title04A }}</h3>
+            <h5 class="register-text-h5">{{ .ListTitle04A }}</h5>
+            <p>{{ .ListText04A }}</p>
+
+            <h5 class="register-text-h5">{{ .ListTitle04B }}</h5>
+            <p>{{ .ListText04B }}</p>
+
+          </div> <!-- col -->
+
+          <div class="col-md-6">
+
+              <a class="register-call-to-action" href="#">
+                 <button type="button" name="button">
+                   <h4>{{ .ButtonTitle04F }}</h4>
+                   <p>{{ .ButtonSubtitle04F }}</p>
+                 </button>
+              </a>
+
+          </div> <!-- col -->
+
+        </div> <!-- row -->
+
+        <hr class="page-hr registry-hr">
+
+<!-------------------------------- Section 03 - conference registry ----------->
+
+        <div class="row">
+
+          <div class="col-md-6">
+            <h3 class="page-text-container-h3 registry-title-highlight">{{ .Title02A }}</h3>
+            <h5 class="register-text-h5">{{ .ListTitle02A }}</h5>
+            <p>{{ .ListText02A }}</p>
+
+            <h5 class="register-text-h5">{{ .ListTitle02B }}</h5>
+            <p>{{ .ListText02B }}</p>
+
+            <h5 class="register-text-h5">{{ .Info02C }}</h5>
+
+            <p>{{ .Info02D }}</p>
 
 
-              <h5 class="register-text-h5">{{ .ListTitle01 }}</h5>
-              <p>{{ .ListText01 }}</p>
+          </div> <!-- col -->
 
-              <h5 class="register-text-h5">{{ .ListTitle02 }}</h5>
-              <p>{{ .ListText02 }}</p>
-
+          <div class="col-md-6">
 
               <a class="register-call-to-action" href="#">
                  <button type="button" name="button">
                    <h4>{{ .ButtonTitle02 }}</h4>
                    <p>{{ .ButtonSubtitle02 }}</p>
-
                  </button>
               </a>
 
-              <h5 class="register-text-h5">{{ .ListTitle03 }}</h5>
-              <p>{{ .ListText03 }}</p>
+              <h5 class="register-text-h5">{{ .ListTitle03E }}</h5>
+              <p>{{ .ListText03E }}</p>
 
-              <h5 class="register-text-h5">{{ .ListTitle04 }}</h5>
-              <p>{{ .ListText04 }}</p>
+          </div> <!-- col -->
 
+        </div> <!-- row -->
 
-
-              <h5 class="register-text-h5">{{ .Info05 }}</h5>
-
-              <p>{{ .Info06 }}</p>
-
-              <h5 class="register-text-h5">{{ .ListTitle05 }}</h5>
-              <p>{{ .ListText05 }}</p>
+        <hr class="page-hr registry-hr">
 
 
-            <a class="register-call-to-action"href="#">
-               <button type="button" name="button">
-                 <h4>Inscripción gratuita a la Apertura pública de la conferencia</h4>
-                 <p>(Traducción simultánea catalán, castellano, inglés)</p>
-               </button>
-            </a>
+<!-------------------------------- Section 03 - Workshops registry ------------>
+
+
+          <div class="row">
+
+            <div class="col-md-6">
+              <h3 class="page-text-container-h3 registry-title-highlight">{{ .Title03A }}</h3>
+              <h5 class="register-text-h5">{{ .ListTitle03A }}</h5>
+              <p>{{ .ListText03A }}</p>
+
+              <h5 class="register-text-h5">{{ .ListTitle03B }}</h5>
+              <p>{{ .ListText03B }}</p>
+
+              <h5 class="register-text-h5">{{ .Info03C }}</h5>
+
+              <p>{{ .Info03D }}</p>
+
+
+            </div> <!-- col -->
+
+            <div class="col-md-6">
+
+                <a class="register-call-to-action" href="#">
+                   <button type="button" name="button">
+                     <h4>{{ .ButtonTitle03 }}</h4>
+                     <p>{{ .ButtonSubtitle03 }}</p>
+                   </button>
+                </a>
+
+                <h5 class="register-text-h5">{{ .ListTitle03E }}</h5>
+                <p>{{ .ListText03E }}</p>
+
+            </div> <!-- col -->
+
+          </div> <!-- row -->
+
+          <hr class="page-hr registry-hr">
+
 
         </div> <!-- page-text-container-section -->
 

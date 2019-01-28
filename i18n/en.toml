@@ -27,3 +27,6 @@ other = "Language"
 
 [requirements]
 other = "Requirements"
+
+[conference]
+other = "Conference"
