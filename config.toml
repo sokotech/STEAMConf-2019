@@ -5,7 +5,7 @@ license = "GNU General Public License v3.0"
 tags = "educacion, steam, education, steam"
 tagline = "STEAMConf, 5th. International Education Conference"
 description = "STEAMConf wants to visualize the vital importance of implementing programs and resources, which help to minimize the digital divide, gender imbalances and promote equal opportunities."
-DefaultContentLanguage = "ca"
+DefaultContentLanguage = "en"
 copyright = "© STEAMConf 2018"
 
 # Build robots.txt file
