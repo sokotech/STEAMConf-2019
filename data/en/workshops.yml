@@ -7,29 +7,45 @@ PageHeaderWorkshops: Workshops
 PausaCafe : Coffee Break
 
 
-Date01 : Saturday, April 14
+Date01 : Friday, 5 April
 
 
 
-Time01 : 10.00 - 14.00
+Time01 : 9.00 -
 
 Title01 : Workshops and Conference Registration
 
 Subtitle01 :
 
-Text01 : The workshops are designed to be practical and hands-on. They present projects that can be easily applied in the classroom and inspire other projects, and provide tools and ideas that can be introduced right away in class on Monday. They reveal what’s being done locally and elsewhere and provide inspiration through the experiences of other teachers and researchers, comparing ideas with those of other participants and sharing doubts and concerns.
+Text01 : The workshops are designed to be practical and hands-on. They present projects that can be easily applied in the classroom, inspire other projects and provide tools and ideas that can be introduced right away. They reveal what’s being done locally and elsewhere and provide inspiration through the experiences of other teachers and researchers.
 
 Place01 : Cosmocaixa
 
 Classroom01 :
 
+# --------  One morning workshop   --------------------
+
+Date01A : Wednesday, 18 April
+
+Time01A : 10.00 - 11. 30
+
+Time01B : 12.00 - 13.30
+
+Title01A : One morning workshop
+
+Subtitle01A : 
+
+Place01A : Cosmocaixa
+
+Classroom01A : Saló de Cent
+
 # --------  Paralel Workshops  --------------------
 
 Date02 : Wednesday, 18 April
 
-Time02 : 10.00 - 13.00
+Time02 : 10.00 - 11. 30 and 12.00 - 13.30
 
-Title02 : Parallel Workshops
+Title02 : One morning workshop
 
 Subtitle02 :
 
