@@ -23,25 +23,20 @@ Place01 : Cosmocaixa
 
 Classroom01 :
 
-# --------  One morning workshop   --------------------
+# --------  Paralel Workshops  (first round)  --------------------
 
-Date01A :
+Time02A : 10.00 - 11. 30
 
-Time01A : 10.00 - 11. 30
+Title02A : Parallel Workshops
 
-Time01B : 12.00 - 13.30
+Subtitle02A :
 
-Title01A : One morning workshop
+Place02A : Cosmocaixa
 
-WorkshopLanguage01A : English
+Classroom02A :
 
-Subtitle01A :
 
-Place01A : Cosmocaixa
-
-Classroom01A :
-
-# --------  01 One morning workshop  --------------------
+# --------  01 When Things Fall Apart ( Part One ) --------------------
 
 WorkshopNum01 : 01
 
@@ -51,10 +46,9 @@ WorkshopLanguage01 : English
 
 WorkshopReq01 :
 
-WorkshopTitle01 : When Things Fall Apart
+WorkshopTitle01 : When Things Fall Apart (First Part)
 
-WorkshopSubtitle01 : Gever Tulley, Brightworks School founder and education
-architect, Mackenzie Price, director of the Teachers Institute at Brightworks, San Francisco, USA
+WorkshopSubtitle01 : Gever Tulley, Brightworks School founder and education architect, Mackenzie Price, director of the Teachers Institute at Brightworks, San Francisco, USA
 
 WorkshopText01 : Cracked axles, crashed airplanes and chairs that break. You don't know what you don't know until you make something. In this workshop we will be examining the power of low stakes. Failure and iteration to inspire intrinsic motivation in students.
 
@@ -67,51 +61,37 @@ WorkshopSpeakerTitle01B : Mackenzie Price
 WorkshopSpeakerText01B : More than anything, is an explorer of the world. As a founding member of the teaching staff at Brightworks and working closely with Gever, her experiments and leadership were key to developing the implementation and refining the unique pedagogy of the school. She is the I.A.T Director of the Teachers Institute at Brightworks. Her strengths lie in her willingness to learn alongside the kids with the same excited curiosity and in her careful questioning that guides her students to new discoveries and deep learning.
 
 
-# --------  02 One morning workshop  --------------------
+# --------  02 When Things Fall Apart ( Part Two ) --------------------
 
 
-WorkshopNum02 : 02
+WorkshopNum02B : 01
 
-WorkshopClassroom02 :
+WorkshopClassroom02B :
 
-WorkshopLanguage02 : English
+WorkshopLanguage02B : English
 
-WorkshopReq02 :
+WorkshopReq02B :
 
-WorkshopTitle02 : When Things Fall Apart
+WorkshopTitle02B : When Things Fall Apart (Second Part)
 
-WorkshopSubtitle02 : Gever Tulley, Brightworks School founder and education
-architect, Mackenzie Price, director of the Teachers Institute at Brightworks, San Francisco, USA
+WorkshopSubtitle02B : Gever Tulley, Brightworks School founder and education architect, Mackenzie Price, director of the Teachers Institute at Brightworks, San Francisco, USA
 
-WorkshopText02 : Cracked axles, crashed airplanes and chairs that break. You don't know what you don't know until you make something. In this workshop we will be examining the power of low stakes. Failure and iteration to inspire intrinsic motivation in students.
+WorkshopText02B : Cracked axles, crashed airplanes and chairs that break. You don't know what you don't know until you make something. In this workshop we will be examining the power of low stakes. Failure and iteration to inspire intrinsic motivation in students.
 
-WorkshopSpeakerTitle02A : Gever Tulley
+WorkshopSpeakerTitle02B : Gever Tulley
 
-WorkshopSpeakerText02A : Is an author, speaker and computer scientist. In 2005, he founded Tinkering School, afterschool and summer programmes involving the use of real tools, materials and problems to encourage students' love of learning, curiosity about the world, tenacity to think big and persistence to do amazing things. Most recently in 2011, Gever created Brightworks, a K-12 private school in San Francisco where students explore an idea from multiple perspectives with the help of real-world experts, tools and experiences; collaborate on projects driven by their curiosity; and share their findings with the world.
+WorkshopSpeakerText02B : Is an author, speaker and computer scientist. In 2005, he founded Tinkering School, afterschool and summer programmes involving the use of real tools, materials and problems to encourage students' love of learning, curiosity about the world, tenacity to think big and persistence to do amazing things. Most recently in 2011, Gever created Brightworks, a K-12 private school in San Francisco where students explore an idea from multiple perspectives with the help of real-world experts, tools and experiences; collaborate on projects driven by their curiosity; and share their findings with the world.
 
-WorkshopSpeakerTitle02B : Mackenzie Price
+WorkshopSpeakerTitle02C : Mackenzie Price
 
-WorkshopSpeakerText02B : More than anything, is an explorer of the world. As a founding member of the teaching staff at Brightworks and working closely with Gever, her experiments and leadership were key to developing the implementation and refining the unique pedagogy of the school. She is the I.A.T Director of the Teachers Institute at Brightworks. Her strengths lie in her willingness to learn alongside the kids with the same excited curiosity and in her careful questioning that guides her students to new discoveries and deep learning.
-
-# --------  Paralel Workshops  --------------------
-
-Date02 : Friday, 5 April
-
-Time02 : 10.00 - 11. 30
-
-Title02 : Parallel Workshop
-
-Subtitle02 :
-
-Place02 : Cosmocaixa
-
-Classroom02 :
+WorkshopSpeakerText02C : More than anything, is an explorer of the world. As a founding member of the teaching staff at Brightworks and working closely with Gever, her experiments and leadership were key to developing the implementation and refining the unique pedagogy of the school. She is the I.A.T Director of the Teachers Institute at Brightworks. Her strengths lie in her willingness to learn alongside the kids with the same excited curiosity and in her careful questioning that guides her students to new discoveries and deep learning.
 
 
-# --------  03 paralel workshop  --------------------
+
+# --------  03 Co-creating the assessment cultures of the future  --------------------
 
 
-WorkshopNum03 : 03
+WorkshopNum03 : 02
 
 WorkshopClassroom03 :
 
@@ -123,373 +103,356 @@ WorkshopTitle03 : Co-creating the assessment cultures of the future
 
 WorkshopSubtitle03 : Juuso Henrik Nieminen, Mathematics Education Research Group, University of Helsinki, Finland
 
-WorkshopText03 : What will our assessment methods look like in the future? Our knowledge about pedagogy is shaping curricula around the world but what lags behind is the educational assessment culture. In order to truly promote 21st century skills through education, our understanding of assessment has to change as well.
-
-In this research-based workshop, some Finnish examples of the assessment for learning movement are introduced. It is argued that in order to promote innovative assessment cultures, collaboration between various agents is needed. Thus, the participants will need to collaborate in order to co-create dystopian and utopian assessment cultures for the future. After discovering these extreme futures of assessment, the workshop will focus on the practical side of changing the assessment culture. How could we collaboratively create an assessment culture that would be based on supporting learning inclusively, rather than simply dividing learners into groups based on measuring their skills and knowledge?
+WorkshopText03 : What will our assessment methods look like in the future? Our knowledge about pedagogy is shaping curricula around the world but what lags behind is the educational assessment culture. In order to truly promote 21st century skills through education, our understanding of assessment has to change as well. In this research-based workshop, some Finnish examples of the assessment for learning movement are introduced. It is argued that in order to promote innovative assessment cultures, collaboration between various agents is needed. Thus, the participants will need to collaborate in order to co-create dystopian and utopian assessment cultures for the future. After discovering these extreme futures of assessment, the workshop will focus on the practical side of changing the assessment culture. How could we collaboratively create an assessment culture that would be based on supporting learning inclusively, rather than simply dividing learners into groups based on measuring their skills and knowledge?
 
 WorkshopSpeakerTitle03A : Juuso Henrik Nieminen
 
 WorkshopSpeakerText03A : Is an educational researcher and an assessment innovator from the University of Helsinki. He has taught mathematics and programming at many educational levels in Finland and currently trains future teachers in Helsinki. His research field is assessment of21st century skills, concerning how innovative digital assessment could support the development of critical thinking and lifelong learning. Nieminen also works as a special educator, striving to build a more inclusive world through both his teaching and research. Currently, he is writing books on assessment culture in Finland and on innovative mathematics education, as well as working as a pedagogical specialist at Code School Finland. In addition, he is leading a math revolution with Math Hunger, aiming to make learning mathematics both fun and accessible for everyone. In 2018, Nieminen curated the theme "What should we learn next?" at Dare to Learn, the most innovative learning festival in Finland.
 
-WorkshopSpeakerTitle03B :
 
-WorkshopSpeakerText03B :
+# ---  04 - It is all elemental! An escape room of the periodic table  --------------------
 
-  # --------  04 paralel workshop  --------------------
 
+WorkshopNum04 : 03
 
-  WorkshopNum04 : 04
+WorkshopClassroom04 :
 
-  WorkshopClassroom04 :
+WorkshopLanguage04 : English
 
-  WorkshopLanguage04 : English
+WorkshopReq04 :
 
-  WorkshopReq04 :
+WorkshopTitle04 : It is all elemental! An escape room of the periodic table
 
-  WorkshopTitle04 : It is all elemental!
+WorkshopSubtitle04 : Fina Guitart, Laura Farró, Ester Forné, Joan Jareño, Sílvia Margelí,  Roser Martínez, Jordi Regalès, Pilar Reverté, Elena Gayán i Julio Pérez. CESIRE, Generalitat de Catalunya, Barcelona
 
-  WorkshopSubtitle04 : An escape room of the periodic  table Fina Guitart, Laura Farró, Ester Forné, Joan Jareño, Sílvia Margelí,  Roser Martínez, Jordi Regalès, Pilar Reverté, Elena Gayán i Julio Pérez. CESIRE, Generalitat de Catalunya, Barcelona
+WorkshopText04 : On the occasion of the International Year of the Periodic Table (2019 IYPT), we present a didactic proposal in the form of an escape room that will introduce competences and knowledge on the periodic table and the elements in the classroom. The tasks and situations to be solved integrate knowledge of various fields with the backbone of the key ideas that the periodic table represents for the sciences and specifically for chemistry. The game format aims to involve students and create an enjoyable experience, while sharing knowledge and cooperating with their peers using their abilities and competences in the fields of languages, arts, social sciences, mathematics and technology.
 
-  WorkshopText04 : On the occasion of the International Year of the Periodic Table (2019 IYPT), we present a didactic proposal in the form of an escape room that will introduce competences and knowledge on the periodic table and the elements in the classroom. The tasks and situations to be solved integrate knowledge of various fields with the backbone of the key ideas that the periodic table represents for the sciences and specifically for chemistry. The game format aims to involve students and create an enjoyable experience, while sharing knowledge and cooperating with their peers using their abilities and competences in the fields of languages, arts, social sciences, mathematics and technology.
+WorkshopSpeakerTitle04 : Fina Guitart
 
-  WorkshopSpeakerTitle04A : Fina Guitart
+WorkshopSpeakerText04 : Is a member of CESIRE's area of science, where she coordinates and participates in various interdisciplinary projects and innovation groups. She is an associate professor of UB's Department of Teaching Mathematics and Experimental Sciences on the master's degree in Training Secondary School Teachers (specialising in physics and chemistry). She is the author of articles on science teacher training and co-editor of the EduQ magazine (chemistry education).
 
-  WorkshopSpeakerText04A : Is a member of CESIRE's area of science, where she coordinates and participates in various interdisciplinary projects and innovation groups. She is an associate professor of UB's Department of Teaching Mathematics and Experimental Sciences on the master's degree in Training Secondary School Teachers (specialising in physics and chemistry). She is the author of articles on science teacher training and co-editor of the EduQ magazine (chemistry education).
 
-  WorkshopSpeakerTitle04B :
+# --------  05 - Making Change Happen  --------------------
 
-  WorkshopSpeakerText04B :
 
-    # --------  05 paralel workshop  --------------------
+WorkshopNum05 : 04
 
+WorkshopClassroom05 :
 
-    WorkshopNum05 : 05
+WorkshopLanguage05 : English
 
-    WorkshopClassroom05 :
+WorkshopReq05 :
 
-    WorkshopLanguage05 : English
+WorkshopTitle05 : Making Change Happen
 
-    WorkshopReq05 :
+WorkshopSubtitle05 : Anna Cutler, director of Learning and Research at Tate London, UK
 
-    WorkshopTitle05 : Making Change Happen
+WorkshopText05 : This workshop invites participants to explore ways in which change can be made in different learning contexts. Working together we will look to see what tools we might have and can share so that we can develop the most conducive environments for learning with art - wherever our context.
 
-    WorkshopSubtitle05 : Anna Cutler, director of Learning and Research at Tate London, UK
+WorkshopSpeakerTitle05 : Anna Cutler
 
-    WorkshopText05 : This workshop invites participants to explore ways in which change can be made in different learning contexts. Working together we will look to see what tools we might have and can share so that we can develop the most conducive environments for learning with art - wherever our context.
+WorkshopSpeakerText05 : Is director of learning and research at Tate. She has worked in cultural education for 30 years across a range of disciplines. She is known for her innovative experiments in practice and the building of new theoretical perspectives. In September 2016, she initiated Tate Exchange, a civic space aimed at building dialogue around art, society, and the urgent and complex issues facing us today.
 
-    WorkshopSpeakerTitle05A : Anna Cutler
 
-    WorkshopSpeakerText05A : Is director of learning and research at Tate. She has worked in cultural education for 30 years across a range of disciplines. She is known for her innovative experiments in practice and the building of new theoretical perspectives. In September 2016, she initiated Tate Exchange, a civic space aimed at building dialogue around art, society, and the urgent and complex issues facing us today.
+# --------  06 - Let's learn by mixing music, maths and programming  --------------------
 
-    WorkshopSpeakerTitle05B :
+WorkshopNum06 : 05
 
-    WorkshopSpeakerText05B :
+WorkshopClassroom06 :
 
-      # --------  06 paralel workshop  --------------------
+WorkshopLanguage06 : English
 
+WorkshopReq06 :
 
-      WorkshopNum06 : 06
+WorkshopTitle06 : Let's learn by mixing music, maths and programming
 
-      WorkshopClassroom06 :
+WorkshopSubtitle06 : José Luis Tourón, head of the Science and Technology area at Escola Virolai, Barcelona; Enric Pinto, teacher of mathematics and technology at Escola Virolai, Barcelona
 
-      WorkshopLanguage06 : English
+WorkshopText06 : In this workshop we will explore the possibilities offered by the BBC micro:bit for the realisation of STEAM projects in the classroom. We will show some examples of the use of the micro:bit in Virolai school projects and we will carry out a project with participants that mixes concepts of music, maths and programming. We will learn the basics of programming and explore the relationship between mathematics and music but, above all, we will have fun discovering and assessing our learning process.
 
-      WorkshopReq06 :
+WorkshopSpeakerTitle06A : José Luis Tourón
 
-      WorkshopTitle06 : Let's learn by mixing music, maths and programming
+WorkshopSpeakerText06A : Is head of the Science and Technology area at Escola Virolai. He participates in the educational transformation process that is underway in Catalonia through initiatives such as Escola Nova 21 and recently participated in the European projects, DIYLab and Collaborative Design for Smart Pupils, with the aim of incorporating STEAM contents through a cooperative work method. At school, he works with interdisciplinary teams applying a project-based learning methodology.
 
-      WorkshopSubtitle06 : José Luis Tourón, head of the Science and Technology area at Escola Virolai, Barcelona; Enric Pinto, teacher of mathematics and technology at Escola Virolai, Barcelona
+WorkshopSpeakerTitle06B : Enric Pinto
 
-      WorkshopText06 : In this workshop we will explore the possibilities offered by the BBC micro:bit for the realisation of STEAM projects in the classroom. We will show some examples of the use of the micro:bit in Virolai school projects and we will carry out a project with participants that mixes concepts of music, maths and programming. We will learn the basics of programming and explore the relationship between mathematics and music but, above all, we will have fun discovering and assessing our learning process.
+WorkshopSpeakerText06B : Is a teacher of mathematics and technology at Escola Virolai, Barcelona. He recently participated in educational transformation initiatives by the Bofill Foundation and has participated in the European Erasmus+ Collaborative Design for Smart Pupils project, a project that incorporates STEAM contents with a cooperative way of working in the classroom. At school, he works with interdisciplinary teams applying a project-based learning methodology.
 
-      WorkshopSpeakerTitle06A : José Luis Tourón
+# --------  07 - Let’s go quantum!  --------------------
 
-      WorkshopSpeakerText06A : Is head of the Science and Technology area at Escola Virolai. He participates in the educational transformation process that is underway in Catalonia through initiatives such as Escola Nova 21 and recently participated in the European projects, DIYLab and Collaborative Design for Smart Pupils, with the aim of incorporating STEAM contents through a cooperative work method. At school, he works with interdisciplinary teams applying a project-based learning methodology.
 
-      WorkshopSpeakerTitle06B : Enric Pinto
+WorkshopNum07 : 06
 
-      WorkshopSpeakerText06B : Is a teacher of mathematics and technology at Escola Virolai, Barcelona. He recently participated in educational transformation initiatives by the Bofill Foundation and has participated in the European Erasmus+ Collaborative Design for Smart Pupils project, a project that incorporates STEAM contents with a cooperative way of working in the classroom. At school, he works with interdisciplinary teams applying a project-based learning methodology.
+WorkshopClassroom07 :
 
-      # --------  07 paralel workshop  --------------------
+WorkshopLanguage07 : Catalan
 
+WorkshopReq07 :
 
-      WorkshopNum07 : 07
+WorkshopTitle07 : Let's go quantum! Come and learn how you can bring quantum physics to your classroom.
 
-      WorkshopClassroom07 :
+WorkshopSubtitle07 : Federica Beduini, physicist, outreach team of ICFO; Lydia Sanmartí-Vila, neuroscientist, outreach team of ICFO; Silvia Carrasco, director of KTT, ICFO, Castelldefels (Barcelona)
 
-      WorkshopLanguage07 : Catalan
+WorkshopText07 : Even if it may seem incredible, quantum physics has an important impact on our daily life; without it, we would not have developed useful technologies, like lasers, LEDs and transistors. But hold on! Many more are about to come, like 100% secure online communications and quantum computers, as we are at the beginning of a quantum technological revolution, the so called Second Quantum Revolution. The ICFO outreach team has worked in the last years on many and diverse materials that you can directly bring to the classroom to introduce some of the basic concepts that are at the base of actual research and technological development in quantum physics. With a wide range of classroom activities, from card games up to virtual tours in the quantum world, we will show you how quantum physics can get to your class, so that your students can be part of the upcoming quantum revolution!
 
-      WorkshopReq07 :
 
-      WorkshopTitle07 : Let's go quantum!
+WorkshopSpeakerTitle07A : Federica Beduini
 
-      WorkshopSubtitle07 : Come and learn how you can bring quantum physics to your classroom. Federica Beduini, physicist, outreach team of ICFO; Lydia Sanmartí-Vila, neuroscientist, outreach team of ICFO; Silvia Carrasco, director of KTT, ICFO, Castelldefels (Barcelona)
+WorkshopSpeakerText07A : Is a physicist with a PhD in quantum physics, member of ICFO's outreach team, coordinating educational activities to spread the passion for light and photonics among young students. Among many other programs, she organises the Young Photonic Congress, which takes place every year in ICFO and where students from across Catalonia come to present their photonics projects to other students as well as to investigators of ICFO. She was one of the coordinators of the citizens science experiment The Big Bell Test, in which more than 100.000 people participated in a macro experiment of quantum physics at the international level.
 
-      WorkshopText07 : Even if it may seem incredible, quantum physics has an important impact on our daily life: without it, we would not have developed useful technologies, like lasers, LEDs and transistors. But hold on! Many more are about to come, like 100% secure online communications and quantum computers, as we are at the beginning of a quantum technological revolution, the so called Second Quantum Revolution.
+WorkshopSpeakerTitle07B : Lydia Sanmartí-Vila
 
-      The ICFO outreach team has worked in the last years on many and diverse materials that you can directly bring to the classroom to introduce some of the basic concepts that are at the base of actual research and technological development in quantum physics. With a wide range of classroom activities, from card games up to virtual tours in the quantum world, we will show you how quantum physics can get to your class, so that your students can be part of the upcoming quantum revolution!
+WorkshopSpeakerText07B : Is a chemist with a PhD in neurosciences and member of ICFO’s outreach team, where she manages outreach international projects. She coordinates European outreach projects like the current PHABLABS 4.0, which brings photonics closer to society through photonics workshops and challenges organised in makerspaces like fablabs. She is member of the international team of the Quantum Flagship and she is also Executive Officer for ECOP, the European Alliance of Centres for Outreach in Photonics.
 
+WorkshopSpeakerTitle07C : Silvia Carrasco
 
-      WorkshopSpeakerTitle07A : Federica Beduini
+WorkshopSpeakerText07C : Is director of the KTT Unit at ICFO. Awarded with the "Fem Talent" award in 2013, she is also vice-president of the Spanish mirror of the European Platform Photonics21, a member of the board of SECPhO, the Southern European Cluster in Photonics and Optics, and founder of the "From Science to Business" program launched by ICFO in 2008 with ESADE to promote the entrepreneurial spirit among young scientists.
 
-      WorkshopSpeakerText07A : Is a physicist with a PhD in quantum physics, member of ICFO's outreach team, coordinating educational activities to spread the passion for light and photonics among young students. Among many other programs, she organises the Young Photonic Congress, which takes place every year in ICFO and where students from across Catalonia come to present their photonics projects to other students as well as to investigators of ICFO. She was one of the coordinators of the citizens science experiment The Big Bell Test, in which more than 100.000 people participated in a macro experiment of quantum physics at the international level.
+# --------  Coffee Break  --------------------
 
-      WorkshopSpeakerTitle07B : Silvia Carrasco
+Time07 : 11.30 -
 
-      WorkshopSpeakerText07B : Is director of the KTT Unit at ICFO. Awarded with the "Fem Talent" award in 2013, she is also vice-president of the Spanish mirror of the European Platform Photonics21, a member of the board of SECPhO, the Southern European Cluster in Photonics and Optics, and founder of the "From Science to Business" program launched by ICFO in 2008 with ESADE to promote the entrepreneurial spirit among young scientists.
+# --------  Paralel Workshops (second round) --------------------
 
-      # --------  Coffee Break  --------------------
+Time08A : 12.00 - 13.30
 
-      # --------  Paralel Workshops  --------------------
+Title08A : Parallel Workshops
 
-      Date02 :
+Subtitle08A :
 
-      Time02 : 12.00 - 13. 30
+Place08A : Cosmocaixa
 
-      Title02 : Parallel Workshop
+Classroom08A:
 
-      Subtitle02 :
+# --------  02 Design DOING Jam Session  --------------------
 
-      Place02 : Cosmocaixa
 
-      Classroom02 :
+WorkshopNum08 : 02
 
-      # --------  08 paralel workshop  --------------------
+WorkshopClassroom08 :
 
+WorkshopLanguage08 : English
 
-      WorkshopNum08 : 08
+WorkshopReq08 :
 
-      WorkshopClassroom08 :
+WorkshopTitle08 : Design DOING Jam Session
 
-      WorkshopLanguage08 : English
+WorkshopSubtitle08 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA
 
-      WorkshopReq08 :
+WorkshopText08 : Design is best served by doing!! Let's roll up our sleeves and have some fun together! In this 1.5-hour jam session, we'll practice key aspects of human-centred design, document our learning and create something for someone else. All experience levels are welcome, from novice to expert! Who says you can't play and learn at the same time!
 
-      WorkshopTitle08 : Design DOING Jam Session
+WorkshopSpeakerTitle08 : Kaleb Rashad
 
-      WorkshopSubtitle08 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA
+WorkshopSpeakerText08 : Is a creative director at the Gary and Jerri-Ann Jacobs @hightechhigh, San Diego, CA. Kaleb works alongside the dreamers and doers at High Tech High's Graduate School of Education, Stanford d.School's School Retool, Real World Scholars, Leadership + Design, and WildFire Education. Kaleb has taught secondary mathematics and science, served as a k-12 site leader, and completed a tour in the U.S. Marine Corps. Kaleb holds a BA in Human Development, two master's degrees, and a PhD in Educational Leadership. He is the co-founder of Unlocked, Inc., a San Diego-based non-profit design organisation.
 
-      WorkshopText08 : Design is best served by doing!! Let's roll up our sleeves and have some fun together! In this 1.5-hour jam session, we'll practice key aspects of human-centred design, document our learning and create something for someone else. All experience levels are welcome, from novice to expert! Who says you can't play and learn at the same time!
 
-      WorkshopSpeakerTitle08A : Kaleb Rashad
+# --------  09 paralel workshop  --------------------
 
-      WorkshopSpeakerText08A : Is a creative director at the Gary and Jerri-Ann Jacobs @hightechhigh, San Diego, CA. Kaleb works alongside the dreamers and doers at High Tech High's Graduate School of Education, Stanford d.School's School Retool, Real World Scholars, Leadership + Design, and WildFire Education. Kaleb has taught secondary mathematics and science, served as a k-12 site leader, and completed a tour in the U.S. Marine Corps. Kaleb holds a BA in Human Development, two master's degrees, and a PhD in Educational Leadership. He is the co-founder of Unlocked, Inc., a San Diego-based non-profit design organisation.
 
-      WorkshopSpeakerTitle08B :
+WorkshopNum09 : 03
 
-      WorkshopSpeakerText08B :
+WorkshopClassroom09 :
 
+WorkshopLanguage09 : English
 
-      # --------  09 paralel workshop  --------------------
+WorkshopReq09 :
 
+WorkshopTitle09 : Exploratorium TBD
 
-      WorkshopNum09 : 09
+WorkshopSubtitle09 :
 
-      WorkshopClassroom09 :
+WorkshopText09 :
 
-      WorkshopLanguage09 : English
+WorkshopSpeakerTitle09A :
 
-      WorkshopReq09 :
+WorkshopSpeakerText09A :
 
-      WorkshopTitle09 : Exploratorium TBD
+WorkshopSpeakerTitle09B :
 
-      WorkshopSubtitle09 :
+WorkshopSpeakerText09B :
 
-      WorkshopText09 :
+# --------  10 Building STEAM knowledge: magnets and electrons, electromagnetism  --------------------
 
-      WorkshopSpeakerTitle09A :
 
-      WorkshopSpeakerText09A :
+WorkshopNum10 : 04
 
-      WorkshopSpeakerTitle09B :
+WorkshopClassroom10 :
 
-      WorkshopSpeakerText09B :
+WorkshopLanguage10 : English
 
-      # --------  10 paralel workshop  --------------------
+WorkshopReq10 :
 
+WorkshopTitle10 : Building STEAM knowledge; magnets and electrons, electromagnetism
 
-      WorkshopNum10 : 10
+WorkshopSubtitle10 : Jordi Regales, Jordi Achon and Jaume Riera, Technology Department, CESIRE, Generalitat de Catalunya, Barcelona
 
-      WorkshopClassroom10 :
+WorkshopText10 : This workshop presents a didactic STEAM proposal, which aims to provide students in secondary education with the cognitive construction of knowledge about electricity and magnetism. This knowledge will allow us to understand the functioning of the gadgets of our civilisation, such as the generation, transportation and utilisation of electrical energy in the home, public spaces, industry, commerce and transport. The proposal is characterised by active learning through the construction of devices for experimentation, integrating elements of maker culture and 3D printing, and is reflected in several projects that can be carried out in the technology classroom and science laboratory (with exploration activities using magnets, the construction of electromagnets and motors, discovery of the principle of electromagnetism and construction of an electric generator and a wind turbine).
 
-      WorkshopLanguage10 : English
+WorkshopSpeakerTitle10A : Jordi Regales i Barta
 
-      WorkshopReq10 :
+WorkshopSpeakerText10A : Graduated as an electrical engineer from Universitat Politècnica de Catalunya (UPC). He is a secondary school teacher and a technical teacher at CESIRE’s Technology Department.
 
-      WorkshopTitle10 : Building STEAM knowledge; magnets and electrons, electromagnetism
+WorkshopSpeakerTitle10B : Jordi Achon i Massana
 
-      WorkshopSubtitle10 : Jordi Regales, Jordi Achon and Jaume Riera, Technology Department, CESIRE, Generalitat de Catalunya, Barcelona
+WorkshopSpeakerText10B : Is a secondary education teacher and has a PhD in Educational Sciences from the Universitat de Barcelona (UB). He collaborates with CESIRE’s Technology Department.
 
-      WorkshopText10 : This workshop presents a didactic STEAM proposal, which aims to provide students in secondary education with the cognitive construction of knowledge about electricity and magnetism. This knowledge will allow us to understand the functioning of the gadgets of our civilisation, such as the generation, transportation and utilisation of electrical energy in the home, public spaces, industry, commerce and transport.
+WorkshopSpeakerTitle10C : Jaume Riera i Codina
 
-      The proposal is characterised by active learning through the construction of devices for experimentation, integrating elements of maker culture and 3D printing, and is reflected in several projects that can be carried out in the technology classroom and science laboratory (with exploration activities using magnets, the construction of electromagnets and motors, discovery of the principle of electromagnetism and construction of an electric generator and a wind turbine).
+WorkshopSpeakerText10C : Graduated as an electrical engineer from Universitat Politècnica de Catalunya, (UPC), is a secondary school teacher and collaborates with CESIRE’s Technology Department.
 
-      WorkshopSpeakerTitle10A : Jordi Regales i Barta
+# --------  05 - TAC resources as tools for support and creation in the artistic environment  --------------------
 
-      WorkshopSpeakerText10A : Graduated as an electrical engineer from Universitat Politècnica de Catalunya (UPC). He is a secondary school teacher and a technical teacher at CESIRE's Technology Department. Jordi Achon i Massana is a secondary education teacher and has a PhD in Educational Sciences from the Universitat de Barcelona (UB). He collaborates with CESIRE's Technology Department. Jaume Riera i Codina graduated as an electrical engineer from Universitat Politècnica de Catalunya, (UPC), is a secondary school teacher and collaborates with CESIRE's Technology Department.
 
-      WorkshopSpeakerTitle10B :
+WorkshopNum11 : 05
 
-      WorkshopSpeakerText10B :
+WorkshopClassroom11 :
 
-      # --------  11 paralel workshop  --------------------
+WorkshopLanguage11 : Catalan
 
+WorkshopReq11 :
 
-      WorkshopNum11 : 11
+WorkshopTitle11 : TAC resources as tools for support and creation in the artistic environment
 
-      WorkshopClassroom11 :
+WorkshopSubtitle11 : Eugènia Mestre, coordinator of Visual Plastic Education; Carme Mercè, coordinator and specialist of Sensory Plastic Education; David Hispano, responsible for educational innovation projects, Fundació Collserola, Barcelona
 
-      WorkshopLanguage11 : Catalan
+WorkshopText11 : Technological resources are steadily moving forward and securing an indisputable place in the way in which children interact with their natural environment. Normalising their use in school allows us to create learning situations closer to the concerns and interests of the students and helps us to connect with their way of interacting with the world and to approach situations of significant learning. We understand technological tools to be resources throughout the processes of artistic learning. We propose small experiences using these resources, based on activities that we have carried out at our schools, in the context of Artistic-Plastic education. The proposals cover different moments of artistic practice; the analysis, observation and perception of the models; the tasks of designing and producing the work and the use of technologically-generated resources as teaching materials to accompany and facilitate the learning of of every student.
 
-      WorkshopReq11 :
+WorkshopSpeakerTitle11A : Eugènia Mestre
 
-      WorkshopTitle11 : TAC resources as tools for support and creation in the artistic environment
+WorkshopSpeakerText11A : Is a graduate in psychology and in teaching and plastic arts. She works as a specialist in Visual and Plastic Education, is the subject coordinator and Head of Department (Primary) at Fundació Collserola. In recent years, she has devoted her time to the training of trainers and to the research and creation of new didactic materials for art in the school; Art being an opportunity to develop free thinking and criteria, a window to understanding the world and diversity, a pretext for putting into play ingenuity and individual and collective capacities.
 
-      WorkshopSubtitle11 : Eugènia Mestre, coordinator of Visual Plastic Education; Carme Mercè, coordinator and specialist of Sensory Plastic Education; David Hispano, responsible for educational innovation projects, Fundació Collserola, Barcelona
+WorkshopSpeakerTitle11B : Carme Marcè
 
-      WorkshopText11 : Technological resources are steadily moving forward and securing an indisputable place in the way in which children interact with their natural environment. Normalising their use in school allows us to create learning situations closer to the concerns and interests of the students and helps us to connect with their way of interacting with the world and to approach situations of significant learning. We understand technological tools to be resources throughout the processes of artistic learning. We propose small experiences using these resources, based on activities that we have carried out at our schools, in the context of Artistic-Plastic education.
+WorkshopSpeakerText11B : Is a specialist teacher in attention to diversity, with more than 20 years of experience in the world of education, teacher training and education research. Currently she is coordinator and specialist for Sensory Plastic Education at Fundació Collserola. She is responsible for designing the contents based on UDL (Universal Design or Learning) so that they are accessible to all students. She is convinced that LKT (Learning and Knowledge Technology) tools have an important role in UDL, as a support and inclusion tool and as an artistic creation resource.
 
-      The proposals cover different moments of artistic practice; the analysis, observation and perception of the models; the tasks of designing and producing the work and the use of technologically-generated resources as teaching materials to accompany and facilitate the learning of of every student.
+WorkshopSpeakerTitle11C : David Hispano
 
-      WorkshopSpeakerTitle11A : Eugènia Mestre
+WorkshopSpeakerText11C : Is a graduate in Spanish Philology, a computer and robotics teacher for secondary school students and a teacher trainer. Currently he is responsible for education innovation projects at Fundació Collserola and is passionate about on-line work linked to teaching.
 
-      WorkshopSpeakerText11A : Is a graduate in psychology and in teaching and plastic arts. She works as a specialist in Visual and Plastic Education, is the subject coordinator and Head of Department (Primary) at Fundació Collserola. In recent years, she has devoted her time to the training of trainers and to the research and creation of new didactic materials for art in the school; Art being an opportunity to develop free thinking and criteria, a window to understanding the world and diversity, a pretext for putting into play ingenuity and individual and collective capacities.
+# --------  06 - Why not build our own computer?  --------------------
 
-      WorkshopSpeakerTitle11B : Carme Marcè
 
-      WorkshopSpeakerText11B : Is a specialist teacher in attention to diversity, with more than 20 years of experience in the world of education, teacher training and education research. Currently she is coordinator and specialist for Sensory Plastic Education at Fundació Collserola. She is responsible for designing the contents based on UDL (Universal Design or Learning) so that they are accessible to all students. She is convinced that LKT (Learning and Knowledge Technology) tools have an important role in UDL: as a support and inclusion tool and as an artistic creation resource.
+WorkshopNum12 : 06
 
-      WorkshopSpeakerTitle11C : David Hispano
+WorkshopClassroom12 :
 
-      WorkshopSpeakerText11C : Is a graduate in Spanish Philology, a computer and robotics teacher for secondary school students and a teacher trainer. Currently he is responsible for education innovation projects at Fundació Collserola and is passionate about on-line work linked to teaching.
+WorkshopLanguage12 : Catalan
 
-      # --------  12 paralel workshop  --------------------
+WorkshopReq12 :
 
+WorkshopTitle12 : Why not build our own computer? Raspberry Pi, Scratch and Makey Makey; a great combination for primary education
 
-      WorkshopNum12 : 12
 
-      WorkshopClassroom12 :
+WorkshopSubtitle12 : Elias Vera Gormaz, primary education teacher; Elena Guillén Pérez, primary education teacher Carme Rodríguez Latre, teacher Ana Valcávaro López, teacher, facilitator of the programming language laboratory and robotics, Octavio Paz School, Barcelona
 
-      WorkshopLanguage12 : Catalan
+WorkshopText12 : Spectators or protagonists? What would it look like if elementary school children were able to set up their own computer then use it and develop their creativity through Scratch and Makey-Makey? In this workshop we will explain the experience of STEAM projects at the Octavio Paz school and we will discover how simple, fun, economic and significant it is to build your own computer using the plate Rasberry Pi.
 
-      WorkshopReq12 :
+WorkshopSpeakerTitle12A : Elies Vera Gormaz
 
-      WorkshopTitle12 : Why not build our own computer?
-      Raspberry Pi, Scratch and Makey Makey; a great combination for primary education
+WorkshopSpeakerText12A : Is a primary education teacher at Octavio Paz school in Barcelona. He has a master's degree in Management and the Management of Educational Centres and has completed a postgraduate course in computing for primary school children. He also has primary and secondary multiple subject teaching credentials for the State of California. He has been an educator for over twenty-five years, eight of them in the United States. Always involved in the integration of new technologies in the classroom, he was also a trainer in schools in the Redwood City school district, Silicon Valley, California.
 
+WorkshopSpeakerTitle12B : Elena Guillen Pérez
 
-      WorkshopSubtitle12 : Elias Vera Gormaz, primary education teacher; Elena Guillén Pérez, primary education teacher Carme Rodríguez Latre, teacher Ana Valcávaro López, teacher, facilitator of the programming language laboratory and robotics, Octavio Paz School, Barcelona
+WorkshopSpeakerText12B : Is a primary school teacher, with more than twenty years of experience in public education, teaching and learning at all levels and in almost all situations imaginable for a teacher. Most of her professional life has been spent at the Octavio Paz school as an upper level tutor and physical education specialist. She has experienced many key moments in education, from classes with books and notebooks, to the introduction of digital boards and computers, project work and competency and globalisation work. She is currently the head of studies and feels very lucky to be able to participate in the transformation of "her school", Octavio Paz.
 
-      WorkshopText12 : Spectators or protagonists? What would it look like if elementary school children were able to set up their own computer then use it and develop their creativity through Scratch and Makey-Makey? In this workshop we will explain the experience of STEAM projects at the Octavio Paz school and we will discover how simple, fun, economic and significant it is to build your own computer using the plate Rasberry Pi.
+WorkshopSpeakerTitle12C : Carme Rodriguez Latre
 
-      WorkshopSpeakerTitle12A : Elies Vera Gormaz
+WorkshopSpeakerText12C : Has, for the last fifteen years, been a teacher at the Octavio Paz school, following another period teaching at a school in Sabadell. She interprets the role of teacher as a long-term commitment. Public schools must seek an identity and a work style that is identifiable. At present, she is enjoying being part of the development challenge at Octavio Paz School, a methodological change to professional training, teamwork and creativity with the objective to help children grow into free citizens, committed to society.
 
-      WorkshopSpeakerText12A : Is a primary education teacher at Octavio Paz school in Barcelona. He has a master's degree in Management and the Management of Educational Centres and has completed a postgraduate course in computing for primary school children. He also has primary and secondary multiple subject teaching credentials for the State of California. He has been an educator for over twenty-five years, eight of them in the United States. Always involved in the integration of new technologies in the classroom, he was also a trainer in schools in the Redwood City school district, Silicon Valley, California.
+WorkshopSpeakerTitle12D : Ana Valcávaro López
 
-      WorkshopSpeakerTitle12B : Elena Guillen Pérez
+WorkshopSpeakerText12D : Is a foreign language teacher and facilitator at the software and robotic language laboratory at the Octavio Paz School. She is an enthusiast of digital technologies and digital skills. The blend of foreign language with STEAM is a good combination to guarantee up-to-date learning that responds to the needs and challenges of the 21st century.
 
-      WorkshopSpeakerText12B : Is a primary school teacher, with more than twenty years of experience in public education, teaching and learning at all levels and in almost all situations imaginable for a teacher. Most of her professional life has been spent at the Octavio Paz school as an upper level tutor and physical education specialist. She has experienced many key moments in education, from classes with books and notebooks, to the introduction of digital boards and computers, project work and competency and globalisation work. She is currently the head of studies and feels very lucky to be able to participate in the transformation of "her school", Octavio Paz.
+# --------  07 Sam Aaron TBD waiting on content  --------------------
 
-      WorkshopSpeakerTitle12C : Carme Rodriguez Latre
 
-      WorkshopSpeakerText12C : Has, for the last fifteen years, been a teacher at the Octavio Paz school, following another period teaching at a school in Sabadell. She interprets the role of teacher as a long-term commitment. Public schools must seek an identity and a work style that is identifiable. At present, she is enjoying being part of the development challenge at Octavio Paz School, a methodological change to professional training, teamwork and creativity with the objective to help children grow into free citizens, committed to society.
+WorkshopNum13 : 7
 
-      WorkshopSpeakerTitle12D : Ana Valcávaro López
+WorkshopClassroom13 :
 
-      WorkshopSpeakerText12D : Is a foreign language teacher and facilitator at the software and robotic language laboratory at the Octavio Paz School. She is an enthusiast of digital technologies and digital skills. The blend of foreign language with STEAM is a good combination to guarantee up-to-date learning that responds to the needs and challenges of the 21st century.
+WorkshopLanguage13 : English
 
-      # --------  13 paralel workshop  --------------------
+WorkshopReq13 :
 
+WorkshopTitle13 : Sam Aaron TBD waiting on content
 
-      WorkshopNum13 : 13
+WorkshopSubtitle13 :
 
-      WorkshopClassroom13 :
+WorkshopText13 :
 
-      WorkshopLanguage13 : English
+WorkshopSpeakerTitle13A :
 
-      WorkshopReq13 :
+WorkshopSpeakerText13A :
 
-      WorkshopTitle13 : Sam Aaron TBD waiting on content
+WorkshopSpeakerTitle13B :
 
-      WorkshopSubtitle13 :
+WorkshopSpeakerText13B :
 
-      WorkshopText13 :
+# --------  08 Perform Big Van Theory, how to configure a performance  --------------------
 
-      WorkshopSpeakerTitle13A :
 
-      WorkshopSpeakerText13A :
+WorkshopNum14 : 8
 
-      WorkshopSpeakerTitle13B :
+WorkshopClassroom14 :
 
-      WorkshopSpeakerText13B :
+WorkshopLanguage14 : English
 
-      # --------  14 paralel workshop  --------------------
+WorkshopReq14 :
 
+WorkshopTitle14 : Perform Big Van Theory, how to configure a performance
 
-      WorkshopNum14 : 14
+WorkshopSubtitle14 : European Project MyPERFORM-UNESCO, How to promote the learning of science through performing arts.
 
-      WorkshopClassroom14 :
+WorkshopSubtitle14 : Helena Gonzàlez, degree in Biology, Biochemistry and Biomedecine, Oriol Marimon, PhD in Organic Chemistry. Founders and actors of Big Van Ciencia
 
-      WorkshopLanguage14 : English
+WorkshopText14 : This workshop seeks to share, with secondary school teachers, new participatory methodologies through a number of highly impacting activities when it comes to changing the perception that young people have about science.
 
-      WorkshopReq14 :
+WorkshopText14A : Use of improvisation and theatrical representation in 4 acts
 
-      WorkshopTitle14 : Perform Big Van Theory, how to configure a performance
+WorkshopText14B : Act 1/ Stereotypes in Science
+WorkshopSubText14B : Explore those internalised stereotypes about science and scientists.
 
-      WorkshopSubtitle14 : European Project MyPERFORM-UNESCO, How to promote the learning of science through performing arts.
+WorkshopText14C : Act 2/ Critical Thinking
+WorkshopSubText14C : Critical thinking and reflective capacity; analysis of real scientific news, to discern between credible scientific content and pseudoscientific content.
 
-      Helena Gonzàlez, degree in Biology, Biochemistry and Biomedecine, Oriol Marimon, PhD in Organic Chemistry. Founders and actors of Big Van Ciencia
+WorkshopText14D : Act 3/ Ethics in the Research Process
+WorkshopSubText14D : Encourage discussion in small groups. Revise the ethics of the great scientific-technological advances
 
-      WorkshopText14 : This workshop seeks to share, with secondary school teachers, new participatory methodologies through a number of highly impacting activities when it comes to changing the perception that young people have about science.
+WorkshopText14E : Act 4/ Social Challenges
+WorkshopSubText14E : How to explain scientific-technological content in relation to social challenges, such as climate change or food security.
 
-      Use of improvisation and theatrical representation in 4 acts
 
-      Act 1/ Stereotypes in Science
-      Explore those internalised stereotypes about science and scientists.
+WorkshopSpeakerTitle14F : Helena González
 
-      Act 2/ Critical Thinking
-      Critical thinking and reflective capacity; analysis of real scientific news, to discern between credible scientific content and pseudoscientific content.
+WorkshopSpeakerText14F : Graduate in Biology and Biochemistry from the Universidad de Salamanca and doctor of Biomedicine from the Universitat de Barcelona. She is passionate about genes, inheritance, genetic engineering, chromosomal instability and other molecular margins. She is dedicated to disseminating science through Big Van Ciencia, an association of which she is the director and founder (2013). She is particularly interested in science education in primary schools because her ten-year-old mind connects perfectly with this type of audience.
 
-      Act 3/ Ethics in the Research Process
-      Encourage discussion in small groups. Revise the ethics of the great scientific-technological advances
+WorkshopSpeakerTitle14G : Oriol Marimon
 
-      Act 4/ Social Challenges
-      How to explain scientific-technological content in relation to social challenges, such as climate change or food security.
+WorkshopSpeakerText14G : doctor in Organic Chemistry and co-founder of the scientific communication group Big Van Ciencia, Scientists on Wheels. He is co-director of the RDI Department and director of International Projects for Big Van Ciencia. He is an author and actor of plays for scientific dissemination for all ages and has brought cutting-edge science to more than 250 000 spectators.
 
 
-      WorkshopSpeakerTitle14A : Helena González
+# -------- 09 - Artistic Synapses --------------------
 
-      WorkshopSpeakerText14A : Graduate in Biology and Biochemistry from the Universidad de Salamanca and doctor of Biomedicine from the Universitat de Barcelona. She is passionate about genes, inheritance, genetic engineering, chromosomal instability and other molecular margins. She is dedicated to disseminating science through Big Van Ciencia, an association of which she is the director and founder (2013). She is particularly interested in science education in primary schools because her ten-year-old mind connects perfectly with this type of audience.
 
-      WorkshopSpeakerTitle14B : Oriol Marimon
+WorkshopNum15 : 9
 
-      WorkshopSpeakerText14B : doctor in Organic Chemistry and co-founder of the scientific communication group Big Van Ciencia, Scientists on Wheels. He is co-director of the RDI Department and director of International Projects for Big Van Ciencia. He is an author and actor of plays for scientific dissemination for all ages and has brought cutting-edge science to more than 250 000 spectators.
+WorkshopClassroom15 :
 
+WorkshopLanguage15 : Catalan
 
-      # --------  15 paralel workshop  --------------------
+WorkshopReq15 : Laptop
 
+WorkshopTitle15 : Artistic Synapses
 
-      WorkshopNum15 : 15
+WorkshopSubtitle15 : Miriam Martí Pallarès, actress and professor, Barcelona
 
-      WorkshopClassroom15 :
+WorkshopText15 : Synapses are the connections between neurons, connections that allow us to do, think, feel, etc. Based on this idea, when we speak of "artistic synapses" we refer to connections between science and art, connections through images, collage style or moodboard. In this workshop we will see some of these artistic synapses, we will discuss the creative process and we will experience it. Likewise, we will discuss the application of this activity in the classroom in different contexts and we will see what can arouse in our students regarding creativity, experience and learning.
 
-      WorkshopLanguage15 : Catalan
+WorkshopSpeakerTitle15 : Míriam Martí Pallarès
 
-      WorkshopReq15 : Laptop
+WorkshopSpeakerText15 : Actress and biologist, specialising in communication and scientific outreach. As an actress she has participated in various TV, film and theatre projects. She is also a professor of science and theatre interpretation. As a specialist in scientific dissemination, she has carried out several projects to bring science to society, for FCRI, TV3 and ICFO, among others. Miriam is committed to mixing science and art and one of the ways in which she does this, is through her personal Synapsis Art project.
 
-      WorkshopTitle15 : Artistic Synapses
 
-      WorkshopSubtitle15 : Miriam Martí Pallarès, actress and professor, Barcelona
-
-      WorkshopText15 : Synapses are the connections between neurons, connections that allow us to do, think, feel, etc. Based on this idea, when we speak of "artistic synapses" we refer to connections between science and art, connections through images, collage style or moodboard.
-
-      In this workshop we will see some of these artistic synapses, we will discuss the creative process and we will experience it. Likewise, we will discuss the application of this activity in the classroom in different contexts and we will see what can arouse in our students regarding creativity, experience and learning.
-
-      WorkshopSpeakerTitle15A : Míriam Martí Pallarès
-
-      WorkshopSpeakerText15A : Actress and biologist, specialising in communication and scientific outreach. As an actress she has participated in various TV, film and theatre projects. She is also a professor of science and theatre interpretation. As a specialist in scientific dissemination, she has carried out several projects to bring science to society, for FCRI, TV3 and ICFO, among others. Miriam is committed to mixing science and art and one of the ways in which she does this, is through her personal Synapsis Art project.
-
-    
 
 
 

@@ -122,7 +122,7 @@ Classroom04 : Different classrooms
 
 Title04A : Workshops and Conference Registration
 
-Subtitle04A : Registration and pick-up documentation of the workshops and conference.
+Subtitle04A : Registration and documentation pick-up for conference & workshops.
 
 Text04A : The STEAMConf Workshops are designed to be practical and hands-on experiences. The main purpose is to share knowledge that can easily be taken to the classroom and inspire other projects. The workshops present local and international projects that aim to inspire and discover by sharing experiences between teachers and researchers.
 
@@ -182,7 +182,7 @@ Time11 : 15.00 -
 
 Place11 : Cosmocaixa
 
-Title11A : Conference Inauguration
+Title11A : Conference Opening
 
 Subtitle11A : Jordi Portabella i Calvete, Scientific Outreach and CosmoCaixa Area Director, Barcelona, M. del Mar Camacho, Director General of Innovation, Research and Digital Culture, Generalitat de Catalunya, Barcelona, Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona.
 
@@ -405,7 +405,7 @@ Speakers27 : Anna Cutler, director of Learning and Research at Tate, London, UK;
 
 # ---- CLOENDA DE LES SESSIONS -------------------
 
-Time28 : 12.40 -
+Time28 : 14.00 -
 
 Place28 : Cosmocaixa
 
@@ -418,55 +418,6 @@ Subtitle28 : By Lluís Noguera, director of CosmoCaixa
 LocalSpeakerTitle28 : Lluís Noguera i Jordana
 
 LocalSpeakerText28 : Director del CosmoCaixa, el Museu de la Ciència de la Fundació Bancària ”la Caixa”. Llicenciat en Filosofia per la UAB i màster en Gestió Cultural per la UB i en Gestió Pública per ESADE, també ha estudiat Relacions Culturals Internacionals. Ha estat subdirector de l’Àrea de Ciència, Recerca i Medi Ambient de la Fundació Bancària ”la Caixa”, on ha dut a terme, entre altres projectes, l’avaluació del programa de divulgació científic.
-
-
-# EdCamp
-
-
-Time01 : 10.00 - 14.00
-
-Place01 : Cosmocaixa
-
-Classroom01 : Sala Àgora
-
-Title01A : EdCamp STEAM
-
-Subtitle01A : Path to STEAMConf 2018
-
-Text01A : A meeting fuelled by teachers for teachers. Free and open to everyone for sharing and building knowledge, experiences, ideas, concerns and inspirations, and for preparing the three days of discussions, workshops and conferences.
-
-Title01B : EdCamp STEAM
-
-Text01B : A meeting fuelled by teachers for teachers. Free and open to everyone for sharing and building knowledge, experiences, ideas, concerns and inspirations, and for preparing the three days of discussions, workshops and conferences.
-
-
-# Vernacular STEAM and its Role in Education
-
-
-Time02 : 10.20 -
-
-Place02 : Cosmocaixa
-
-Classroom02 : Auditorium
-
-Title02 : Vernacular STEAM and its Role in Education
-
-InternationalSpeaker02 : Nettrice Gaskins, digital artist, academic, cultural critic and advocate of STEAM fields, Boston, (USA)
-
-LocalSpeaker02 : Laia Sánchez, associate professor of the Audiovisual Communication Department at Universitat Autònoma de Barcelona (UAB), Bellaterra, (Barcelona)
-
-Text02 : Vernacular STEAM is the integration of cultural or indigenous values identified in product development through the transfer of information. It is through STEAM education that we can explore vernacular knowledge, especially through culturally situated art and design-based inquiry. This presentation explores metaphoric, symbolic or iconic representations of relevant concepts, also called “vernacular science knowledge” or techno-vernacular creativity.
-
-
-InternationalSpeakerTitle02 : Nettrice Gaskins
-
-InternationalSpeakerText02 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
-
-
-LocalSpeakerTitle02 : Laia Sánchez
-
-LocalSpeakerText02 : According to MIT by 2025 each one of us will have a robot, either in the work place or at home. In this workshop we will see how to focus learning on programming and robotics using Lego Mindstorms EV3, through small challenges that provide a social vision of the use of technology, which will help bring it closer to boys and girls.
-
 
 
 # HOW TO ARRIVE

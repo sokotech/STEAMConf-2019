@@ -84,8 +84,10 @@
 
           <div class="col-md-6 content-schedule-info">
 
-            <h3>{{ .Title04 }}</h3>
+            <h3>{{ .Title04A }}</h3>
             <h6 class="content-language-notice">{{ .LanguageNotice04 }}</h6>
+            <h3>{{ .Title04B }}</h3>
+            <h6>{{ .SubTitle04 }}</h6>
 
 
           </div>  <!-- content-schedule-info -->
@@ -148,7 +150,7 @@
           <div class="col-md-6 content-schedule-info">
 
             <h3>{{ .Title07 }}</h3>
-            <h5>{{ .Subtitle07 }}</h5>
+            <h6>{{ .Subtitle07 }}</h6>
 
           </div>  <!-- content-schedule-info -->
 
@@ -177,7 +179,7 @@
           <div class="col-md-6 content-schedule-info">
 
             <h3>{{ .Title08 }}</h3>
-            <h5>{{ .Subtitle08 }}</h5>
+            <h6>{{ .Subtitle08 }}</h6>
 
           </div>  <!-- content-schedule-info -->
 
@@ -230,7 +232,7 @@
               <div class="col-md-6 content-schedule-info">
 
                 <h3>{{ .Title17 }}</h3>
-                <h5>{{ .Subtitle17 }}</h5>
+                <h6>{{ .Subtitle17 }}</h6>
 
               </div>  <!-- content-schedule-info -->
 
@@ -262,7 +264,7 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title26 }}</h3>
-           <h5>{{ .Subtitle26 }}</h5>
+           <h6>{{ .Subtitle26 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -290,7 +292,7 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title27 }}</h3>
-           <h5>{{ .Subtitle27 }}</h5>
+           <h6>{{ .Subtitle27 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -320,7 +322,7 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title28 }}</h3>
-           <h5>{{ .Subtitle28 }}</h5>
+           <h6 class="content-language-notice">{{ .LanguageNotice28 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -349,7 +351,7 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title29A }}</h3>
-           <h5>{{ .Subtitle29A }}</h5>
+           <h6>{{ .Subtitle29A }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -379,7 +381,8 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title30 }}</h3>
-           <h5>{{ .Subtitle30 }}</h5>
+           <h6>{{ .Subtitle30 }}</h6>
+           <h6><span class="orange">Local Peer:</span> {{ .LocalPeer30 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -438,7 +441,7 @@
 
             <hr class="page-hr">
 
-<!--  Sesion 02 ------------------------------------------------------------------->
+<!-- 02 - It looks like fun, but are they learning? ------------------->
 
        <div class="row schedule-row">
 
@@ -452,7 +455,8 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title33 }}</h3>
-           <h5>{{ .Subtitle33 }}</h5>
+           <h6>{{ .Subtitle33 }}</h6>
+           <h6><span class="orange">Local Peer:</span> {{ .LocalPeer33 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -490,7 +494,7 @@
           <hr class="page-hr">
 
 
-<!--  Sesion 03  ------------------------------------------------------------------->
+<!-- 03 - Sonic Pi and Education ---------------------------------------------->
 
        <div class="row schedule-row">
 
@@ -504,7 +508,7 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title35 }}</h3>
-           <h5>{{ .Subtitle35 }}</h5>
+           <h6>{{ .Subtitle35 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -519,6 +523,30 @@
 
        <hr class="page-hr">
 
+
+<!---- Conversation and Live Music Performance -------------------------------->
+
+          <div class="row workshops-row">
+
+            <div class="col-md-3 content-schedule-time">
+
+              <h3>{{ .Time35A }} </h3>
+              <div class="time-border"></div>
+
+
+            </div>  <!-- content-schedule-time -->
+
+            <div class="col-md-9 content-schedule-info">
+
+              <h3><span class="cofee-break-span"><img class="coffee-break-icon" src="../../../img/00/steamconf-conversation.svg" alt="coffee break"></span> {{ .ConversationMusicPerformance }}</h3>
+
+            </div>  <!-- content-schedule-info -->
+
+          </div>  <!-- row -->
+
+          <hr class="page-hr">
+
+
 <!--  saturday, april 6th  ------------------------------------------------------->
 
         <div class="content-date-title">
@@ -529,7 +557,7 @@
 
         <hr class="page-hr">
 
-<!--  Sesion 04 ------------------------------------------------------------------->
+<!--  04 - Engagement First, Pathways to Intrinsically Motivated Learning -------->
 
        <div class="row schedule-row">
 
@@ -543,7 +571,8 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title37 }}</h3>
-           <h5>{{ .Subtitle37 }}</h5>
+           <h6>{{ .Subtitle37 }}</h6>
+           <h6><span class="orange">Local Peer:</span> {{ .LocalPeer33 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -617,7 +646,8 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title40 }}</h3>
-           <h5>{{ .Subtitle40 }}</h5>
+           <h6>{{ .Subtitle40 }}</h6>
+           <h6><span class="orange">Local Peer:</span> {{ .LocalPeer33 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -655,7 +685,7 @@
           <hr class="page-hr">
 
 
-<!--  conference closing ------------------------------------------------------------------->
+<!--  06  School for What? ------------------------------------------------------------------->
 
 
        <div class="row schedule-row">
@@ -670,7 +700,8 @@
          <div class="col-md-6 content-schedule-info">
 
            <h3>{{ .Title42 }}</h3>
-           <h5>{{ .Subtitle42 }}</h5>
+           <h6>{{ .Subtitle42 }}</h6>
+           <h6><span class="orange">Local Peer:</span> {{ .LocalPeer42 }}</h6>
 
          </div>  <!-- content-schedule-info -->
 
@@ -678,6 +709,69 @@
 
            <h3>{{ .Place42 }}</h3>
            <h4>{{ .Classroom42 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+
+<!-- 07 - Creating the next generation of schools Farwell ------------------------------------------------------------------>
+
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time43 }}</h3>
+           <div class="time-border"></div>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title43 }}</h3>
+           <h6>{{ .Subtitle43 }}</h6>
+           <h6><span class="orange">Peers:</span> {{ .LocalPeer43 }}</h6>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place43 }}</h3>
+           <h4>{{ .Classroom43 }}</h4>
+
+         </div>  <!-- content-location -->
+
+       </div>  <!-- row -->
+
+       <hr class="page-hr">
+
+
+<!--  conference closing ------------------------------------------------------------------->
+
+
+       <div class="row schedule-row">
+
+         <div class="col-md-3 content-schedule-time">
+
+           <h3>{{ .Time44 }}</h3>
+           <div class="time-border"></div>
+
+         </div>  <!-- content-schedule-time -->
+
+         <div class="col-md-6 content-schedule-info">
+
+           <h3>{{ .Title44 }}</h3>
+           <h6>{{ .Subtitle44 }}</h6>
+
+         </div>  <!-- content-schedule-info -->
+
+         <div class="col-md-3 content-location">
+
+           <h3>{{ .Place44 }}</h3>
+           <h4>{{ .Classroom44 }}</h4>
 
          </div>  <!-- content-location -->
 

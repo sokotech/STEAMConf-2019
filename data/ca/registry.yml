@@ -4,64 +4,6 @@ item:
 
 PageHeaderRegister : Registra't
 
-# Section 01 (General info-registry)
-
-Info01A : Aquesta activitat està reconeguda pel Departament d’Ensenyament com a formació permanent del professorat.
-
-Info01B : Auditorium 312 places / Els espais s’ompliran per ordre d’inscripció.
-
-ButtonTitle01C : Inscripció gratuïta a l’ Obertura pública de la conferencia
-ButtonSubtitle01C : (Traducció simultània català, castellà, anglès)
-
-# Section 02 (Conference)
-
-Title02A : Registra't a la conferència
-
-ListTitle02A : Públic General
-ListText02A : 70 €
-
-ListTitle02B : Docents i clients CaixaBank
-ListText02B : 35€ (Codi promocional docents STEAMPROF19)
-
-ButtonTitle02 : Registra't a la conferència
-ButtonSubtitle02 : (Traducció simultània català, castellà, anglès)
-
-Info02 : Les conferències inclou (dijous tarda, divendres tarda i dissabte matí)
-
-ListTitle03E : LUNCH (divendres)
-ListText03E : exclusiu pels assistents a les dues activitats (jornades + tallers).
-
-# Section 03 (Workshops)
-
-Title03A : Registra't als tallers
-
-ListTitle03A : Tallers (divendres matí)
-ListText03A : 25€ cada taller
-
-ListTitle03B : Docents i clients CaixaBank
-ListText03B : 12,50€ each workshop (Promo code for teachers STEAMPROF19).
-
-Info03C : En els tallers no hi ha traducció simultània, cada taller serà amb l’idioma que l’imparteix el professor. Per accedir al preu promocional de professors, cal introduir el codi STEAMPROF1718 a la seva compra on-line.
-
-Info03D : Els professors interessats en rebre els crèdits, hauran de signar el full d’assistència cada dia.
-
-ButtonTitle03 : Registra't als tallers
-ButtonSubtitle03 : (Els tallers s'imparteixen en l'idioma del facilitador)
-
-# Section 03 (EDCAMP)
-
-Title04A : Registra't a Edcamp 2019
-
-ListTitle04A : Tallers (divendres matí)
-ListText04A : 00€ cada taller
-
-ButtonTitle04F : EdCamp STEAMConf 2019
-ButtonSubtitle04F : Registra't aquí
-
-
-
-
-
 
 # COMO LLEGAR
 

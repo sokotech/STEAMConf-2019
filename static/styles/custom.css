@@ -1402,6 +1402,11 @@ position: relative;
   line-height: 1.6em;
 }
 
+.workshop-undelined-title {
+  text-decoration: underline;
+  margin-bottom: 3%;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
 
