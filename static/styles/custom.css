@@ -383,6 +383,18 @@ position: relative;
   line-height: 1.6em;
 }
 
+.patronage-dots {
+  padding-top: 3% !important;
+}
+
+.unesco-row {
+  margin-top: 10%;
+}
+
+.unesco-logo {
+  padding: 0;
+}
+
 
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
@@ -403,6 +415,10 @@ position: relative;
     text-align: center;
   }
 
+  .unesco-logo {
+    padding: 0 20% !important;
+  }
+
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -413,6 +429,10 @@ position: relative;
       top: 8%;
       left: -21%;
       width: 73%;
+    }
+
+    .unesco-logo {
+      padding: 0 27% !important;
     }
 
 
@@ -1484,6 +1504,10 @@ position: relative;
 
 /* ------------- organizers-section ----------------------------------------- organizers-section ----------------------------- */
 
+.home-organizers-container {
+  padding: 0;
+}
+
 .home-organizers-section {
   height: 100%;
   width: 70%;
@@ -1491,13 +1515,16 @@ position: relative;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10%;
-
 }
 
 .home-organizers-section-title {
-  margin: 20% 0 1.5% 0;
+  margin: 10% 0 1.5% 0;
   text-align: center;
   font-weight: 600;
+}
+
+.organizer-dots {
+  margin: 5% auto !important;
 }
 
 #organizers-logos, #collaborators-logos {
@@ -1509,18 +1536,37 @@ position: relative;
 }
 
 #home-organizers-section-logo img {
-  width: 100%;
+  width: 85%;
   margin: 0 auto;
   display: block;
   position: relative;
 }
 
+/* Small devices (landscape phones, 576px and up) */
+@media screen and (min-width: 576px) {
+.home-organizers-section {
+ width: 80%;
+ }
+
+.organizer-dots {
+  margin: 9% auto !important;
+}
+
+}
+
+
 /* Small devices (tablets, 768px and up) */
-@media screen and  (min-width: 768px) {
+@media screen and (min-width: 768px) {
 
      .home-organizers-section {
-      width: 80%;
+      width: 90%;
       }
+
+      .organizer-dots {
+        margin: 5% auto !important;
+      }
+
+
 }
 
 
@@ -1529,6 +1575,14 @@ position: relative;
 
       .home-organizers-section {
        width: 100%;
+       }
+
+       .home-organizers-container {
+         padding: 0 10% !important;
+       }
+
+       #home-organizers-section-logo img {
+         width: 95%;
        }
 
 }
@@ -1718,7 +1772,10 @@ padding: 0 2% 0 8%;
   text-align: left;
 }
 
+/* Small devices (landscape phones, 576px and up) */
+@media screen and (min-width: 576px) {
 
+}
 
 
 /* Small devices (tablets, 768px and up) */
