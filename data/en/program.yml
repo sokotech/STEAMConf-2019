@@ -52,7 +52,7 @@ button01F : Are you game? Register now!
 
 Date02 : Thursday, April 4
 
-# PERFOMANCE UNESCO Cuando la ciencia pisa escenari
+# PERFOMANCE UNESCO How to configure a performance
 
 Time02 : 18.30 -
 
@@ -75,7 +75,7 @@ LocalSpeakerTitle02D : Lluís Noguera i Jordana
 
 LocalSpeakerText02D : Director of CosmoCaixa, the Science Museum of the “la Caixa” Banking Foundation. He is a graduate in Philosophy from the Universitat Autònoma de Barcelona (UAB) and has a master’s degree in Cultural Management from Universitat de Barcelona (UB) and in Public Administration from ESADE. He has also studied International Cultural Relations and previously held the position of deputy director of the Science, Research and Environment Area at the “la Caixa” Banking Foundation, developing, among others, the assessment project for the science outreach programme.
 
-Title02B : MyPERFORM-UNESCO / When Science Takes the Stage
+Title02B : MyPERFORM-UNESCO / How to configure a performance
 
 LocalSpeaker02B : Helena González and Oriol Marimon, Big Van Ciencia, IES Moises Broggi, IES Consell de Cent and IES Castellbisbal (Barcelona)
 
@@ -156,7 +156,7 @@ Time09 : 13.45 -
 
 Place09 : Cosmocaixa
 
-Classroom09 : Sala Àgora
+Classroom09 : Sala Pi
 
 Title09 : Reception of front row guests
 
@@ -184,7 +184,7 @@ Place11 : Cosmocaixa
 
 Title11A : Conference Opening
 
-Subtitle11A : Jordi Portabella i Calvete, Scientific Outreach and CosmoCaixa Area Director, Barcelona, M. del Mar Camacho, Director General of Innovation, Research and Digital Culture, Generalitat de Catalunya, Barcelona, Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona.
+Subtitle11A : Jordi Portabella i Calvete, Scientific Outreach and CosmoCaixa Area Director, Barcelona, Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona, M. del Mar Camacho, Director General of Innovation, Research and Digital Culture, Generalitat de Catalunya, Barcelona.
 
 LocalSpeakerTitle11A : Jordi Portabella i Calvete
 
@@ -387,7 +387,7 @@ LocalSpeakerTitle26B : Sergi del Moral
 
 LocalSpeakerText26B : Is interested in the processes of transformation that contribute to a more amiable and natural relationship between knowledge and learning. This has led him to explore how to compensate for the weight of materials and static knowledge in favour of approaches that are more focused on action, production, creation, problem solving, teamwork and learning for real life situations. He’s also interested in everything that makes assessment more of a diagnostic rather than coercive process, as well as in the classroom and community dynamics that promote autonomy, initiative and responsibility among the boys and girls. He is currently part of the teaching and management team of the Institut-Escola Les Vinyes de Castellbisbal and also forms part of the team that promotes BetaCamp, a highly rewarding peer learning experience.
 
-# ---- Conversation - Creating the next generation of schools Farwell -------------------
+# ---- Conversation - Creating the next generation of schools Farewell Conversation -------------------
 
 Time27 : 13.20 -
 
@@ -397,7 +397,7 @@ Classroom27 : Auditorium
 
 Title27 : Creating the next generation of schools
 
-Subtitle27 : Farwell Conversation
+Subtitle27 : Farewell Conversation
 
 LeadSpeaker27 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA.
 

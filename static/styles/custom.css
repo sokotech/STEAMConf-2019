@@ -2216,6 +2216,11 @@ padding: 0 2% 0 8%;
     margin: 2% 0;
 }
 
+#farewell-conversation {
+  padding-top: 1%;
+  font-weight: 700;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
 
