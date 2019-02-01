@@ -253,23 +253,25 @@ WorkshopNum09 : 03
 
 WorkshopClassroom09 :
 
-WorkshopLanguage09 : English
+WorkshopLanguage09 : Catalan
 
 WorkshopReq09 :
 
-WorkshopTitle09 : Exploratorium TBD
+WorkshopTitle09 : Biomedicine, from the lab to the classroom; how basic research can connect scientific skills, science concepts and critical thinking
 
-WorkshopSubtitle09 :
+WorkshopSubtitle09 : Muriel Arimon, Doctor of Biotechnology. Public Engagement and Science Education Officer at the IRB (Institute for Research in Biomedicine), Barcelona, Jordi Gaitan, industrial engineer and a graduate in philosophy and humanities. Education trainer and consultant for schools, Barcelona
 
-WorkshopText09 :
+WorkshopText09 : Methods and proposals that have arisen from IRB Barcelona’s participation on the Escoles Tàndem project, an initiative by the Fundació Catalunya-La Pedrera, will be shared during this workshop. The aim is to introduce participants to the typical process of scientific knowledge building, using biomedicine as the central theme. We will share different tools, some of which can be directly implemented in the classroom, to familiarise students with the scientific method. But science isn’t just a method; we will also emphasise other essential aspects, such as team work, decision-making, creativity and error management. During the workshop some of IRB Barcelona’s research areas (cancer, ageing, the Drosophila fruit fly, Xenopus frog eggs, etc.) will be linked to learning experiences in primary and secondary education classrooms. We want biomedicine to break out of the laboratory and reach classrooms and the public. Will you give us a hand?
 
-WorkshopSpeakerTitle09A :
 
-WorkshopSpeakerText09A :
+WorkshopSpeakerTitle09A : Muriel Arimon i Bedós
 
-WorkshopSpeakerTitle09B :
+WorkshopSpeakerText09A : Graduate in Biotechnology from the Universitat Autònoma de Barcelona (UAB). In 2002, she obtained her PhD in Biotechnology from Universitat de Barcelona (UB) and in 2009 did her post doctorate at Massachusetts General Hospital and Harvard Medical School (Boston, USA). Between 2010 to 2013, she completed a master's degree in Science, Medicine and Environmental Communication at Universitat Pompeu Fabra (UPC). After 10 years working on basic research in neurodegenerative diseases, she is currently the Public Engagement and Science Education Officer for IRB Barcelona, where she coordinates science dissemination and outreach activities.
 
-WorkshopSpeakerText09B :
+WorkshopSpeakerTitle09B : Jordi Gaitan i Clarà
+
+WorkshopSpeakerText09B : graduated as an industrial engineer from Universitat Politècnica de Catalunya (UPC) in 1992 and in 1998 earned his degree in Philosophy and Humanities from Universitat de Girona (UdG). In 2008, he completed a master’s degree in philosophical practice and social management at Universitat de Barcelona (UB). After over 15 years dedicated to engineering, in the last 12 years he has put all his energy into education projects. He has been a philosophy teacher for baccalaureate students and is a teacher trainer at the Generalitat de Catalunya’s Education Department in different areas (emotional education, ICT-LKT, cooperative learning, attention to cognitive diversity, school robotics...). Over the last few years he has combined his training and consultancy work for education centres with the coordination of education innovation and transformation projects, such as the European DEAR project, which is dedicated to professional communities in the field of secondary education and is currently part of the Escoles Tàndem project, coordinated by Fundació Catalunya-La Pedrera, for primary education.
+
 
 # --------  10 Building STEAM knowledge: magnets and electrons, electromagnetism  --------------------
 
