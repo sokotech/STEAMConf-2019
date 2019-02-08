@@ -4,6 +4,561 @@ item:
 
 PageHeaderWorkshops : Talleres
 
+PausaCafe : Pausa café
+
+Date01 : Divendres 5 d’abril
+
+Time01 : 9.00 -
+
+Title01 : Tallers i inscripció a la conferència
+
+Subtitle01 :
+
+Text01 : Els tallers tenen un caràcter eminentment pràctic i presenten projectes que es poden aplicar fàcilment a l’aula, que són inspiradors d’altres projectes i que aporten eines i idees d’aplicació immediata. Mostren tot el que s’està fent a escala local i arreu a través de les experiències d’altres docents i investigadors.
+
+Place01 : Cosmocaixa
+
+Classroom01 :
+
+# --------  Paralel Workshops  (first round)  --------------------
+
+Time02A : 10.00 - 11. 30
+
+Title02A : Parallel Workshops
+
+Subtitle02A :
+
+Place02A : Cosmocaixa
+
+Classroom02A :
+
+
+# --------  01 Quan les coses cauen a trossos (Part One) --------------------
+
+WorkshopNum01 : 01
+
+WorkshopClassroom01 : Agora
+
+WorkshopLanguage01 : Anglès
+
+WorkshopReq01 :
+
+WorkshopNotice01 : Taller d’un matí
+
+WorkshopTitle01 : Quan les coses cauen a trossos (1º part)
+
+WorkshopSubtitle01 : Gever Tulley, fundador de l’escola Brightworks School i «arquitecte pedagògic»; Mackenzie Price, directora del Teachers Institute de Brightworks, San Francisco (Estats Units)
+
+WorkshopText01 : Eixos d’automòbil romputs, avions estavellats i cadires que es trenquen. Mai no saps el que no saps fins que fas alguna cosa. En aquest taller estudiarem el poder dels exàmens de tipus low-stakes (de baix impacte); el fracàs i la iteració poden impulsar la motivació intrínseca als alumnes.
+
+WorkshopSpeakerTitle01A : Gever Tulley
+
+WorkshopSpeakerText01A : Escriptor, conferenciant i expert en informàtica. L’any 2005 va fundar la Tinkering School, institució que ofereix una sèrie de programes educatius extraescolars i d’estiu en els quals es fan servir eines, materials i problemes reals que tenen com a objectiu estimular l’interès dels alumnes per l’aprenentatge, la curiositat pel món, la tenacitat de pensar en gran i la perseverança per fer coses sorprenents. Més recentment, l’any 2011, Gever va crear Brightworks, una escola privada d’ensenyament primari i secundari situada a San Francisco en la qual els alumnes exploren una idea a partir de múltiples perspectives, ajudant-se d’experts, eines i experiències del món real, a més de col•laborar en projectes que han impulsat amb la seva pròpia curiositat i de compartir amb la resta del món tot allò que descobreixen.
+
+WorkshopSpeakerTitle01B : Mackenzie Price
+
+WorkshopSpeakerText01B : És, sobretot, exploradora del món. Com a membre fundador de l’equip docent de Brightworks, i en estreta col•laboració amb Gever, els seus experiments i lideratge van ser fonamentals per posar en marxa i perfeccionar el singular projecte pedagògic de l’escola. És la directora de IAT al Teachers Institute de Brightworks. Els seus punts forts són la disposició per aprendre al costat dels nens amb la mateixa excitació i curiositat que ells i la capacitat de formular-los preguntes amb una cura que els porta a nous descobriments i a un aprenentatge profund.
+
+
+# --------  01-02 Quan les coses cauen a trossos (Part Two) --------------------
+
+
+WorkshopNum02B : 01
+
+WorkshopClassroom02B : Agora
+
+WorkshopLanguage02B : Anglès
+
+WorkshopReq02B :
+
+WorkshopTitle02B : Quan les coses cauen a trossos (2º part)
+
+WorkshopSubtitle02B : Gever Tulley, fundador de l’escola Brightworks School i «arquitecte pedagògic»; Mackenzie Price, directora del Teachers Institute de Brightworks, San Francisco (Estats Units)
+
+WorkshopText02B : Eixos d’automòbil romputs, avions estavellats i cadires que es trenquen. Mai no saps el que no saps fins que fas alguna cosa. En aquest taller estudiarem el poder dels exàmens de tipus low-stakes (de baix impacte); el fracàs i la iteració poden impulsar la motivació intrínseca als alumnes.
+
+WorkshopSpeakerTitle02B : Gever Tulley
+
+WorkshopSpeakerText02B : Escriptor, conferenciant i expert en informàtica. L’any 2005 va fundar la Tinkering School, institució que ofereix una sèrie de programes educatius extraescolars i d’estiu en els quals es fan servir eines, materials i problemes reals que tenen com a objectiu estimular l’interès dels alumnes per l’aprenentatge, la curiositat pel món, la tenacitat de pensar en gran i la perseverança per fer coses sorprenents. Més recentment, l’any 2011, Gever va crear Brightworks, una escola privada d’ensenyament primari i secundari situada a San Francisco en la qual els alumnes exploren una idea a partir de múltiples perspectives, ajudant-se d’experts, eines i experiències del món real, a més de col•laborar en projectes que han impulsat amb la seva pròpia curiositat i de compartir amb la resta del món tot allò que descobreixen.
+
+WorkshopSpeakerTitle02C : Mackenzie Price
+
+WorkshopSpeakerText02C : És, sobretot, exploradora del món. Com a membre fundador de l’equip docent de Brightworks, i en estreta col•laboració amb Gever, els seus experiments i lideratge van ser fonamentals per posar en marxa i perfeccionar el singular projecte pedagògic de l’escola. És la directora de IAT al Teachers Institute de Brightworks. Els seus punts forts són la disposició per aprendre al costat dels nens amb la mateixa excitació i curiositat que ells i la capacitat de formular-los preguntes amb una cura que els porta a nous descobriments i a un aprenentatge profund.
+
+
+
+# --------  02 La cocreació de cultures d’avaluació per al futur  --------------------
+
+
+WorkshopNum03 : 02
+
+WorkshopClassroom03 :
+
+WorkshopLanguage03 : Anglès
+
+WorkshopReq03 :
+
+WorkshopTitle03 : La cocreació de cultures d’avaluació per al futur
+
+WorkshopSubtitle03 : Juuso Henrik Nieminen, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia)
+
+WorkshopText03 : What will our assessment methods look like in the future? Our knowledge about pedagogy is shaping curricula around the world but what lags behind is the educational assessment culture. In order to truly promote 21st century skills through education, our understanding of assessment has to change as well. In this research-based workshop, some Finnish examples of the assessment for learning movement are introduced. It is argued that in order to promote innovative assessment cultures, collaboration between various agents is needed. Thus, the participants will need to collaborate in order to co-create dystopian and utopian assessment cultures for the future. After discovering these extreme futures of assessment, the workshop will focus on the practical side of changing the assessment culture. How could we collaboratively create an assessment culture that would be based on supporting learning inclusively, rather than simply dividing learners into groups based on measuring their skills and knowledge?
+
+WorkshopSpeakerTitle03A : Juuso Henrik Nieminen
+
+WorkshopSpeakerText03A : Com seran els nostres mètodes d’avaluació futurs? A tot arreu elaborem els plans d’estudis amb els nostres coneixements pedagògics, però hem deixat de banda la cultura d’avaluació educativa. Per fomentar realment les competències del segle XXI a través de l’educació, primer hem de canviar la nostra manera d’entendre el que significa l’avaluació. En aquest taller d’orientació bàsicament analítica es presentaran alguns exemples finesos del moviment avaluació per a l’aprenentatge (AFL, en les seves sigles en anglès). S’afirma que, per tal d’impulsar les cultures d’avaluació innovadores, és necessària la col•laboració entre diversos agents. Per tant, els participants hauran de col•laborar per cocrear cultures d’avaluació distòpiques i utòpiques de cara al futur. Un cop descobrim aquests dos extrems del futur de l’avaluació, el taller se centrarà en el vessant pràctic del canvi de la cultura d’avaluació. De quina manera podríem crear conjuntament una cultura d’avaluació basada en l’aprenentatge inclusiu i no en la mera separació dels alumnes per grups segons les seves competències i coneixements?
+
+
+
+# ---  04 - Tot és elemental! Una escape room de la taula periòdica --------------------
+
+
+WorkshopNum04 : 03
+
+WorkshopClassroom04 :
+
+WorkshopLanguage04 : Català
+
+WorkshopReq04 :
+
+WorkshopTitle04 : Tot és elemental! Una escape room de la taula periòdica
+
+WorkshopSubtitle04 : Fina Guitart, Laura Farró, Ester Forné, Joan Jareño, Sílvia Margelí,  Roser Martínez, Jordi Regalès, Pilar Reverté, Elena Gayán i Julio Pérez. CESIRE, Generalitat de Catalunya, Barcelona
+
+WorkshopText04 : Amb motiu de l’Any Internacional de la Taula Periòdica (2019 IYPT), es presenta una proposta didàctica en forma d’escape room per treballar a l’aula competències i coneixements al voltant de la taula periòdica i els elements. Les tasques i situacions que cal resoldre engloben coneixements de diversos àmbits amb l’eix vertebrador de les idees clau del que representa la taula periòdica per a les ciències, i en concret per a la química. El format de joc pretén implicar els alumnes i fer-los gaudir de l’experiència, a la vegada que comparteixen coneixements i cooperen amb els companys utilitzant les seves habilitats i competències en els àmbits de les llengües, les arts, les ciències socials, la matemàtica i la tecnologia. El taller serà conduït per l’equip STEAM del CESIRE.
+
+WorkshopSpeakerTitle04 : Fina Guitart
+
+WorkshopSpeakerText04 : Membre de l’àmbit científic del CESIRE, on coordina i participa en diversos projectes interdisciplinaris i grups d’innovació de l’àmbit. És professora associada del Departament de Didàctica de les Matemàtiques i les Ciències Experimentals de la UB, en el màster de Formació del Professorat de Secundària (itinerari de Física i Química). És autora d’articles sobre didàctica de les ciències, i coeditora de la revista Educació Química EduQ.
+
+
+# --------  05 - Fer realitat el canvi  --------------------
+
+
+WorkshopNum05 : 04
+
+WorkshopClassroom05 :
+
+WorkshopLanguage05 : Anglès
+
+WorkshopReq05 :
+
+WorkshopTitle05 : Fer realitat el canvi
+
+WorkshopSubtitle05 : Anna Cutler, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit)
+
+WorkshopText05 : Aquest taller convida els participants a explorar maneres de fer el canvi en diferents contextos d’aprenentatge. Junts analitzarem de quines eines podem disposar i quines eines podem compartir per crear els entorns més propicis a l’aprenentatge amb art, sigui el que sigui el nostre context.
+
+WorkshopSpeakerTitle05 : Anna Cutler
+
+WorkshopSpeakerText05 : Directora d’Aprenentatge i Recerca a la Tate Modern. Ha treballat en l’àmbit de l’ensenyament cultural durant trenta anys, en diverses disciplines. És coneguda pel caràcter innovador dels seus experiments pràctics i la formulació de noves perspectives teòriques. El setembre del 2016 va posar en marxa Tate Exchange, un espai cívic destinat a obrir un diàleg sobre l’art, la societat i els problemes urgents i complexos que ens toca abordar avui dia.
+
+
+# --------  06 - Aprenem barrejant música, matemàtiques i programació  --------------------
+
+WorkshopNum06 : 05
+
+WorkshopClassroom06 :
+
+WorkshopLanguage06 : Català
+
+WorkshopReq06 : Ordinador portàtil
+
+WorkshopTitle06 : Aprenem barrejant música, matemàtiques i programació
+
+WorkshopSubtitle06 : José Luis Tourón, cap de l’Àrea de Ciència i Tecnologia de l’Escola Virolai; Enric Pinto, professor de matemàtiques i tecnologia a l’Escola Virolai (Barcelona)
+
+WorkshopText06 : En aquest taller explorarem les possibilitats que ens brinda la placa BBC micro:bit per a la realització de projectes STEAM a l’aula. Mostrarem alguns exemples d’ús de la micro:bit en projectes de l’Escola Virolai i farem un projecte col•laboratiu amb els participants mesclant conceptes de música, matemàtiques i programació. Aprendrem conceptes bàsics de programació i explorarem la relació entre les matemàtiques i la música, però, sobretot, ens ho passarem d’allò més bé aprenent i avaluant el nostre procés d’aprenentatge.
+
+WorkshopSpeakerTitle06A : José Luis Tourón
+
+WorkshopSpeakerText06A : Cap de l’Àrea de Ciència i Tecnologia de l’Escola Virolai. Participa del procés de transformació educativa que s’està experimentant a Catalunya a través d’iniciatives com Escola Nova 21, i darrerament també ha participat dels projectes europeus DIYLab i Collaborative Design for Smart Pupils, que tenien com a objectiu incorporar continguts STEAM amb un mètode de treball cooperatiu. A l’escola treballa en equips interdisciplinaris aplicant una metodologia d’aprenentatge basat en projectes.
+
+WorkshopSpeakerTitle06B : Enric Pinto
+
+WorkshopSpeakerText06B : Professor de matemàtiques i tecnologia de l’Escola Virolai. Ha participat recentment en iniciatives de transformació educativa de la Fundació Bofill i en el projecte europeu Erasmus+ Collaborative Design for Smart Pupils, un projecte que incorpora continguts STEAM amb un mètode de treball cooperatiu a l’aula.  A l’escola treballa en equips interdisciplinaris aplicant una metodologia d’aprenentatge basat en projectes.
+
+# --------  07 - Viu la Quàntica!  --------------------
+
+
+WorkshopNum07 : 06
+
+WorkshopClassroom07 :
+
+WorkshopLanguage07 : Català
+
+WorkshopReq07 : Ordinador portàtil
+
+WorkshopTitle07 : Viu la Quàntica!
+
+WorkshopSubtitle07 : Federica Beduini, física, equip de divulgació científica de l’ICFO; Lydia Sanmartí-Vila, neurocientífica, equip de divulgació científica de l’ICFO; Silvia Carrasco, directora de KTT de l’ICFO, Castelldefels (Barcelona)
+
+WorkshopText07 : Encara que sembli increïble, la física quàntica té un impacte important en la nostra vida quotidiana; sense ella, no hauríem desenvolupat tecnologies útils com els làsers, els LED i els transistors. Però, espera! Ara que estem al començament d’una nova revolució tecnològica quàntica, l’anomenada segona Revolució Quàntica, encara hi ha més coses que aviat podrien ser realitats, com ara les comunicacions en línia 100 % segures i els ordinadors quàntics. L’equip de divulgació de l’ICFO ha treballat els darrers anys en la creació de diversos materials i continguts que podeu portar directament a l’aula per introduir alguns dels conceptes bàsics de la física quàntica sobre els quals es basa la recerca i desenvolupament tecnològic actual en aquest camp. Amb una àmplia gamma d’activitats a l’aula, des de jocs de cartes fins a visites virtuals al món quàntic, us mostrarem com la física quàntica pot arribar a l’aula per tal que els vostres alumnes puguin formar part de la pròxima revolució quàntica.
+
+WorkshopSpeakerTitle07A : Federica Beduini
+
+WorkshopSpeakerText07A : Física, doctorada en física quàntica, i forma part de l’equip de divulgació de l’ICFO, on coordina activitats educatives del centre amb la finalitat de transmetre, als estudiants més joves, la passió per la llum i la fotònica. Entre molts altres programes, organitza el Congrés de Fotònica per a Joves que se celebra a l’ICFO cada any, on estudiants de tot Catalunya venen a explicar els seus projectes de recerca sobre fotònica tant a altres estudiants com als investigadors de l’ICFO. Va ser una de les coordinadores del projecte de ciència ciutadana The Big Bell Test, en què més de 100 000 persones van participar en un macroexperiment quàntic d’abast internacional.
+
+WorkshopSpeakerTitle07B : Lydia Sanmartí-Vila
+
+WorkshopSpeakerText07B : Química, doctorada en neurociències, i forma part de l’equip de divulgació científica de l’ICFO, on dirigeix els projectes de divulgació internacional. Coordina projectes europeus de divulgació, entre els quals l’actual PHABLABS 4.0, que apropa la fotònica a la societat a través de tallers i reptes fotònics portats a terme en espais makers com els fablabs. Forma part de l’equip internacional de la Quantum Flagship i és també Executive Officer de l’ECOP, l’aliança de Centres Europeus per a la Divulgació Científica en Fotònica.
+
+WorkshopSpeakerTitle07C : Silvia Carrasco
+
+WorkshopSpeakerText07C : Directora de KTT de l’ICFO. Guardonada amb el premi Fem Talent el 2013, també és la vicepresidenta de la Plataforma Tecnològica Espanyola de Fotònica, Fotónica21, mirall de la plataforma tecnològica europea Photonics21, així com membre de la Junta Directiva del clúster de fotònica SECPhO (Southern European Cluster in Photonics and Optics), i fundadora del programa From Science to Business, llançat per l’ICFO el 2008 juntament amb ESADE per promoure l’esperit emprenedor entre científics joves.
+
+
+# --------  07 - La Matèria i els elements químics; llenguatge integrador  -----------   17  ---------
+
+WorkshopNum17 : 07
+
+WorkshopClassroom17 :
+
+WorkshopLanguage17 : Català
+
+WorkshopReq17 :
+
+WorkshopTitle17 : La Matèria i els elements químics; llenguatge integrador
+
+WorkshopSubtitle17 : Javier Peña, director General de Elisava, Bernat Faura, Elisava
+
+WorkshopText17 : La matèria i els elements químics, de la mateixa manera que els nombres, les lletres i les notes musicals, representen un llenguatge. Aquest llenguatge ens mostra el més fonamental i bàsic per conèixer i interpretar el món en què vivim, i, per tant, és una eina fonamental integradora de coneixement.
+
+WorkshopSpeakerTitle17A : Javier Peña
+
+WorkshopSpeakerText17A : És un apassionat de l’energia, la freqüència i la vibració com a expressió de l’univers i la matèria que aquest conté. Docent des del 1998, va rebre el seu doctorat en Ciències Químiques per la UPC l’any 2000. Director general d’ELISAVA i cofundador de Materfad, Javier centra la seva recerca en nous materials funcionals. Ha dirigit tesis doctorals, ha publicat articles de recerca i ha participat en projectes competitius públics i privats. És autor i editor de diversos llibres sobre el tema dels materials, pels quals sent admiració i en els quals diposita esperança. En destaca aquests títols; Selección de materiales en el proceso de diseño, Grafeno. Un material para un cambio de paradigma i Elementos. El robo de las partículas de vida. Ha comissariat i dirigit científicament diverses exposicions, de les quals destaca; «Mater in progress. Nous materials, nova indústria», «El futuro en la construcción», «Smart Flexibility» i «Design Does».
+
+
+WorkshopSpeakerTitle17B : Bernat Faura
+
+WorkshopSpeakerText17B : Professor de materials per a perfils molt diversos de professionals, tant del món del disseny com del de l’enginyeria. És enginyer tècnic en Disseny Industrial, enginyer de materials i dissenyador industrial, i té estudis en comunicació. Compagina la seva vocació docent amb un estudi de disseny i enginyeria, Plumartis, del qual és copropietari. Amb una experiència docent de més de deu anys en l’àmbit universitari, en institucions com la UPC o ELISAVA, està molt interessat en els corrents més innovadors de la pedagogia actual i en com aquests corrents es poden implementar per transformar les noves generacions d’estudiants en etapes primerenques. Actualment fa un doctorat en metodologia STEAM, centrat en els desafiaments i les oportunitats que ofereix la matèria en el cicle educatiu de primària.
+
+
+# --------  08 - Minecraft; Education Edition a l’aula  -----------   18  ---------
+
+
+WorkshopNum18 : 08
+
+WorkshopClassroom18 :
+
+WorkshopLanguage18 : Castellà
+
+WorkshopReq18 :
+
+WorkshopTitle18 : Minecraft; Education Edition a l’aula
+
+WorkshopSubtitle18 : Alba Rodríguez Agüero, Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab
+
+WorkshopText18 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+WorkshopSpeakerTitle18 : Alba Rodríguez Agüero
+
+WorkshopSpeakerText18 : Graduada en Enginyeria Marítima i professora de secundaria en el àrea de ciències. Experta en Big Data i en tecnologies de l’ aprenentatge i el coneixement. Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab
+
+
+# --------  09 - Regulem la temperatura i ens posem crema solar per apropar les TIC a l’àmbit STEAM  -----------   19  ---------
+
+
+WorkshopNum19 : 09
+
+WorkshopClassroom19 :
+
+WorkshopLanguage19 : Català
+
+WorkshopReq19 :
+
+WorkshopTitle19 : Regulem la temperatura i ens posem crema solar per apropar les TIC a l’àmbit STEAM
+
+WorkshopSubtitle19 : Digna Couso, directora del CRECIM (Centre de Recerca per a l’Educació Científica i Matemàtica); Carme Grimalt-Álvaro, Caterina Solé, Èlia Tena, membres del CRECIM, Universitat Autònoma de Barcelona, Bellaterra (Barcelona)
+
+WorkshopText19 : Com regulen la temperatura els animals? Com podem saber quina crema ens protegeix més del Sol? Donarem resposta a aquestes preguntes, tot participant i reflexionant en dos tallers del projecte REVIR-CosmoCaixa per alumnat de primer i segon d’ESO, orientats a fer activitat científica i STEM amb diversitat de TIC.
+
+WorkshopSpeakerTitle19A : Digna Couso
+
+WorkshopSpeakerText19A : Llicenciada en Física i doctora en Didàctica de les Ciències. És professora del Departament de Didàctica de la Matemàtica i de les Ciències Experimentals i directora del CRECIM. És, també, formadora de futurs docents de primària i secundària, i ha estat coordinadora del màster de Formació del Professorat de Secundària de la mateixa universitat[M1] . Com a investigadora, ha treballat en diversos projectes de millora de la didàctica de les ciències a escala estatal i europea. Ha publicat diversos articles d’alt impacte i és revisora de publicacions d’àmbit internacional.
+
+WorkshopSpeakerTitle19B : Carme Grimalt-Álvaro
+
+WorkshopSpeakerText19B : Llicenciada en Química per la UB. És màster de Formació del Professorat d’ESO i Batxillerat en Física i Química per la UAB, màster de Recerca en Didàctica de la Matemàtica i les Ciències Experimentals i doctora en Didàctica de la Matemàtica i les Ciències Experimentals per la mateixa universitat. Actualment és professora associada al Departament de Didàctica de la Matemàtica i de les Ciències Experimentals, on forma futurs mestres de primària, i és investigadora del CRECIM. Ha participat en diversos projectes de recerca d’àmbit nacional i internacional sobre l’aprenentatge de les ciències amb eines digitals i l’equitat en educació STE(A)M.
+
+WorkshopSpeakerTitle19C : Caterina Solé
+
+WorkshopSpeakerText19C : Graduada en Física per la UB i màster en Recerca en Educació, en l’especialitat de Ciències Experimentals, per la UAB. Actualment és membre del CRECIM. Ha col•laborat en projectes de recerca i innovació centrats en el desenvolupament de les competències científiques en l’etapa de secundària, i també en projectes de ciència ciutadana en què participen alumnes d’aquesta etapa educativa.
+
+WorkshopSpeakerTitle19D : Èlia Tena
+
+WorkshopSpeakerText19D : Graduada en Educació Primària per la UAB, amb menció en Necessitats Educatives Específiques, i màster en Recerca en Educació, en l’especialitat de Ciències Experimentals, per la mateixa universitat. És, també, membre del CRECIM. Ha col•laborat en projectes de recerca i innovació centrats en el desenvolupament de les competències científiques en l’etapa de primària, sobretot des d’una perspectiva d’equitat. Actualment desenvolupa la seva tesi doctoral sobre projectes STEM en l’etapa de primària.
+
+
+
+# --------  Coffee Break  --------------------
+
+Time07 : 11.30 -
+
+# --------  Paralel Workshops (second round) --------------------
+
+Time08A : 12.00 - 13.30
+
+Title08A : Parallel Workshops
+
+Subtitle08A :
+
+Place08A : Cosmocaixa
+
+Classroom08A:
+
+# --------  02 Design DOING Jam Session  --------------------
+
+
+WorkshopNum08 : 02
+
+WorkshopClassroom08 :
+
+WorkshopLanguage08 : Anglès
+
+WorkshopReq08 :
+
+WorkshopTitle08 : Design DOING Jam Session
+
+WorkshopSubtitle08 : Kaleb Rashad, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estats Units)
+
+WorkshopText08 : La millor manera d’abordar el disseny és fer! Arromanguem-nos i divertim-nos junts una estona! En aquesta jam session d’una hora i mitja practicarem aspectes clau del disseny centrat en les persones, documentarem el nostre aprenentatge i crearem alguna cosa per a algú. És obert a tots els nivells d’experiència, des del novell fins a l’expert! Qui ha dit que no es pot jugar i aprendre al mateix temps?
+
+WorkshopSpeakerTitle08 : Kaleb Rashad
+
+WorkshopSpeakerText08 : director creatiu de la Gary and Jerri-Ann Jacobs @hightechhigh de San Diego. Treballa amb els somiadors i emprenedors de la High Tech High’s Graduate School of Education, la School Retool de la Stanford d.School, Real World Scholars, Leadership + Design i WildFire Education. Kaleb ha ensenyat matemàtiques i ciència en secundària, ha estat responsable d’un web per a alumnes d’ensenyament primari i secundari i va formar part del cos de Marines de l’Exèrcit estatunidenc. És llicenciat en Desenvolupament Humà, té dos màsters i és doctor en Lideratge Educatiu. És, també, cofundador d’Unlocked, Inc., una organització sense ànim de lucre de San Diego dedicada al disseny d’experiències educatives.
+
+
+# --------  09 paralel workshop  --------------------
+
+
+WorkshopNum09 : 03
+
+WorkshopClassroom09 :
+
+WorkshopLanguage09 : Català
+
+WorkshopReq09 :
+
+WorkshopTitle09 : La biomedicina, del laboratori a l'aula; Com la recerca bàsica pot connectar les competències científiques, els conceptes de la ciència i el pensament crític
+
+WorkshopSubtitle09 : Muriel Arimon, doctora en Biotecnologia. Responsable de Participació Ciutadana i Educació Científica de l’Institut de Recerca Biomèdica (IRB Barcelona); Jordi Gaitan, enginyer tècnic industrial i llicenciat en Filosofia i Lletres. Formador i assessor pedagògic de centres
+
+WorkshopText09 : En aquest taller compartirem amb el professorat metodologies i propostes que han sorgit de la participació de l’IRB Barcelona en el projecte Tàndem, una iniciativa de la Fundació Catalunya La Pedrera. El taller tindrà per objectiu introduir el participant en el procés habitual de construcció de coneixement científic, utilitzant la biomedicina com a fil conductor. Compartirem diferents eines, algunes d’exportables directament a l’aula, per tal que l’alumnat es familiaritzi amb el mètode científic. Però la ciència no és només mètode, així que també es farà èmfasi en altres aspectes essencials, com ara el treball en equip, la presa de decisions, la creativitat i la gestió de l’error. En aquesta proposta es vincularan algunes de les línies de recerca de l’IRB Barcelona (càncer, envelliment, mosques de la fruita Drosophila, ous de granota Xenopus, etc.) a les experiències d’aprenentatge de les aules de primària i secundària. Volem que la biomedicina traspassi les fronteres del laboratori i arribi a les aules i a la ciutadania. Ens hi ajudeu?
+
+WorkshopSpeakerTitle09A : Muriel Arimon i Bedós
+
+WorkshopSpeakerText09A : Llicenciada en Biotecnologia per la Universitat Autònoma de Barcelona (2002) i doctora en Biotecnologia per la Universitat de Barcelona (2009). Té un postdoctorat pel Massachusetts General Hospital & Harvard Medical School de Boston (EUA, 2010-2013) i un màster en Comunicació Científica, Mèdica i Ambiental per la Universitat Pompeu Fabra. Després de més de deu anys dedicada a la recerca bàsica en malalties neurodegeneratives, actualment és la responsable de Participació Ciutadana i Educació Científica de l’IRB Barcelona, on coordina totes les activitats de difusió i divulgació de la ciència.
+
+WorkshopSpeakerTitle09B : Jordi Gaitan i Clarà
+
+WorkshopSpeakerText09B : Enginyer tècnic industrial per la Universitat Politècnica de Catalunya (1992) i llicenciat en Filosofia i Lletres per la Universitat de Girona (1998). Té, també, un màster en Pràctica Filosòfica i Gestió Social per la Universitat de Barcelona (2008). Després de més de quinze anys en l’àmbit de l’enginyeria, els darrers dotze anys ha dedicat la seva energia a projectes educatius. Ha estat professor de filosofia de batxillerat i és formador de formadors del Departament d’Ensenyament de la Generalitat de Catalunya en diferents àmbits (educació emocional, TIC-TAC, aprenentatge cooperatiu, atenció a diversitat cognitiva, robòtica escolar...). Els darrers anys combina la seva tasca de formador i assessor pedagògic de centres amb la coordinació de projectes d’innovació i transformació educativa, com ara el projecte Europeu DEAR-Project, dedicat a les comunitats professionals en l’àmbit de secundària, i, actualment, el projecte Escoles Tàndem de la Fundació Catalunya La Pedrera en l’àmbit de la primària.
+
+
+
+# --------  10 Building STEAM knowledge: magnets and electrons, electromagnetism  --------------------
+
+
+WorkshopNum10 : 04
+
+WorkshopClassroom10 :
+
+WorkshopLanguage10 : Català
+
+WorkshopReq10 :
+
+WorkshopTitle10 : Construint coneixement STEAM; imants i electrons, l’electromagnetisme
+
+WorkshopSubtitle10 : Jordi Regalés, Jordi Achón i Jaume Riera, àmbit tecnològic del CESIRE, Generalitat de Catalunya (Barcelona)
+
+WorkshopText10 : Aquest taller presenta una proposta didàctica STEAM que vol facilitar a l’alumnat de l’ensenyament secundari la construcció cognitiva dels coneixements de l’electricitat i el magnetisme que permeten entendre el funcionament dels ginys de la nostra civilització, com ara la generació, transport i utilització de l’energia elèctrica a la llar, als espais públics, a la indústria, al comerç i al transport. La proposta es caracteritza per l’aprenentatge actiu mitjançant la construcció de dispositius per a l’experimentació. Integra elements de la cultura maker i la impressió 3D, i es concreta en diversos projectes per dur a terme en el context de l’aula de tecnologia i del laboratori de ciències (amb les activitats d’exploració dels imants, construcció d’electroimants i de motors, descoberta del principi electromagnètic, construcció d’un generador elèctric i d’un aerogenerador).
+
+
+WorkshopSpeakerTitle10A : Jordi Regales i Barta
+
+WorkshopSpeakerText10A : Eenginyer elèctric per la Universitat Politècnica de Catalunya i catedràtic d’ensenyament secundari tècnic docent de l’àmbit tecnològic del CESIRE
+
+WorkshopSpeakerTitle10B : Jordi Achon i Massana
+
+WorkshopSpeakerText10B : Mestre a l’ESO, doctor en Ciències de l’Educació per la Universitat de Barcelona, i col•laborador de l’àmbit tecnològic del CESIRE
+
+WorkshopSpeakerTitle10C : Jaume Riera i Codina
+
+WorkshopSpeakerText10C : Enginyer elèctric per la Universitat Politècnica de Catalunya i catedràtic d’ensenyament secundari. És col•laborador de l’àmbit tecnològic del CESIRE
+
+# --------  05 - TAC resources as tools for support and creation in the artistic environment  --------------------
+
+
+WorkshopNum11 : 05
+
+WorkshopClassroom11 :
+
+WorkshopLanguage11 : Català
+
+WorkshopReq11 : Ordinador portàtil
+
+WorkshopTitle11 : Recursos TAC com a eines de suport i creació dins l’entorn artístic
+
+WorkshopSubtitle11 : Eugènia Mestre, coordinadora d’Educació Visual i Plàstica; Carme Marcè, coordinadora i especialista d’Educació Sensorial i Plàstica; David Hispano, responsable de projectes d’innovació educativa a les escoles de la Fundació Collserola (Barcelona)
+
+WorkshopText11 : Els recursos tecnològics avancen amb pas ferm i fent-se un lloc indiscutible en la manera com els infants interactuen amb el seu entorn natural. Normalitzar-ne l’ús a l’escola ens permet generar situacions d’aprenentatge més properes als neguits i interessos de l’alumnat, connectar amb la seva manera d’interactuar amb el món i apropar-nos a situacions d’aprenentatge significatiu. Entenem les eines tecnològiques com a recursos en tots els moments dels processos d’aprenentatge artístic. Us plantegem petites experiències d’ús d’aquests recursos, que parteixen d’activitats que hem dut a terme a les nostres escoles, en el context d’educació artística-plàstica. Les propostes inclouen diferents moments del treball artístic; l’anàlisi, observació i percepció dels models; les tasques de disseny i producció de les obres; i l’ús de recursos generats tecnològicament que utilitzem com a materials didàctics que acompanyen i faciliten els aprenentatges de TOT L’ALUMNAT.
+
+
+WorkshopSpeakerTitle11A : Eugènia Mestre
+
+WorkshopSpeakerText11A : Llicenciada en Psicologia, diplomada en Magisteri i artista plàstica. Treballa com a mestre especialista d’Educació Visual i Plàstica; és coordinadora de l’assignatura i cap de departament (primària) a les escoles de la Fundació Collserola. En els darrers anys s’ha dedicat a la formació de formadors, a la recerca i a la creació de nous materials didàctics per al treball de l’art a l’escola. Entén l’art com... una oportunitat per desenvolupar el lliure pensament i el criteri, una finestra per entendre el món i la diversitat, un pretext per posar en joc l’enginy i les capacitats individuals i col•lectives.
+
+WorkshopSpeakerTitle11B : Carme Marcè
+
+WorkshopSpeakerText11B : Mestra especialitzada en l’atenció a la diversitat, amb més de vint anys dedicada al món de l’educació, la formació de docents i la recerca educativa. Actualment porta a terme la feina de coordinadora i especialista d’Educació Sensorial i Plàstica a la Fundació Collserola. S’encarrega de dissenyar-ne els continguts tenint en compte el DUA (disseny universal d’aprenentatge), per tal que siguin accessibles a tot l’alumnat. Està convençuda que les eines TAC tenen un paper cabdal dins el DUA; com a eina de suport i d’inclusió i com a recurs de creació artística.
+
+WorkshopSpeakerTitle11C : David Hispano
+
+WorkshopSpeakerText11C : Llicenciat en Filologia Hispànica, docent d’informàtica i de robòtica a secundària i formador de formadors. Actualment és el responsable de projectes d’innovació educativa a la Fundació Collserola, i és un apassionat del treball en xarxa vinculat amb la docència.
+
+# --------  06 - Why not build our own computer?  --------------------
+
+
+WorkshopNum12 : 06
+
+WorkshopClassroom12 :
+
+WorkshopLanguage12 : Català
+
+WorkshopReq12 : Ordinador portàtil amb l'Scratch instal·lat
+
+WorkshopTitle12 : Per què no construir el nostre propi ordinador? Raspberry Pi, Scratch & Makey Makey; una combinació genial per a educació primària
+
+WorkshopSubtitle12 : Elías Vera Gormaz, mestre d’educació primària; Elena Guillén Pérez, mestra d’educació primària; Carme Rodríguez Latre, mestra; Ana Vicalvaro López, mestra i dinamitzadora del laboratori de llenguatge de programació i robòtica, Escola Octavio Paz (Barcelona)
+
+WorkshopText12 : Espectadors o protagonistes? Què us semblaria que uns infants d’educació primària fossin capaços de muntar el seu propi ordinador per després utilitzar-lo i passar a desenvolupar la seva creativitat mitjançant Scratch i Makey-Makey? En aquest taller explicarem l’experiència del treball de l’STEAM a l’Escola Octavio Paz i comprovarem com de senzill, divertit, econòmic i significatiu és construir el nostre propi ordinador mitjançant la placa Rasberry Pi.
+
+
+WorkshopSpeakerTitle12A : Elies Vera Gormaz
+
+WorkshopSpeakerText12A : Mestre d’educació primària a Barcelona. Té un màster en Direcció i Gestió de Centres Educatius i un postgrau d’Informàtica en Educació Infantil, Primària i Secundària. Té, també, la Multiple Subject Teaching Credential de l’estat de Califòrnia. Ha estat educador durant més de vint-i-cinc anys, vuit dels quals als Estat Units. Sempre vinculat a la integració de les noves tecnologies dins l’aula, també ha estat formador en escoles del districte escolar de Redwood City, a Silicon Valley (Califòrnia).
+
+WorkshopSpeakerTitle12B : Elena Guillen Pérez
+
+WorkshopSpeakerText12B : Mestra d’educació primària, amb més de vint anys en l’educació pública ensenyant i aprenent en tots els nivells i gairebé en totes les situacions en què un mestre ho pot fer. D’aquests anys, la majoria han estat a l’Escola Octavio Paz. Com a tutora de cicle superior i especialista d’educació física, ha viscut moments molt variats; des de les classes amb llibres i llibretes fins a la introducció de les pissarres digitals i els ordinadors, passant pel treball per projectes i el treball competencial i globalitzador. Actualment és la cap d’estudis de l’escola, i ha tingut la gran sort de participar en la transformació de la «seva escola», de l’Octavio Paz.
+
+
+WorkshopSpeakerTitle12C : Carme Rodriguez Latre
+
+WorkshopSpeakerText12C : Mestra des de fa quinze anys a l’Escola Octavio Paz, després d’un període similar en una altra escola de Sabadell. Interpreta el rol de mestra com un compromís de llarga durada. Les escoles públiques han de cercar una identitat i un estil de treball que les faci identificables. En l’actualitat, a l’Escola Octavio Paz s’està desenvolupant un canvi metodològic que suposa per a ella un repte professional de formació, treball en equip i creativitat, i que té com a objectiu fer que l’escola ajudi els infants en el seu camí per ser ciutadans lliures i compromesos amb la societat.
+
+
+WorkshopSpeakerTitle12D : Ana Valcávaro López
+
+WorkshopSpeakerText12D : Mestra de llengua estrangera i dinamitzadora del laboratori de llenguatge de programació i robòtica a l’Escola Octavio Paz. És una entusiasta de les tecnologies i la competència digitals. La combinació de llengua estrangera amb STEAM és excel•lent per garantir un aprenentatge actualitzat que doni resposta a les necessitats i reptes del segle XXI.
+
+
+# --------  07 Live Coding Education with Sonic Pi  --------------------
+
+
+WorkshopNum13 : 7
+
+WorkshopClassroom13 :
+
+WorkshopLanguage13 : Anglès
+
+WorkshopReq13 : Ordinador portàtil i auriculars
+
+WorkshopTitle13 : Live Coding Education with Sonic Pi
+
+WorkshopSubtitle13 : Sam Aaron, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit
+
+WorkshopText13 : Sonic Pi és un entorn de programació lliure que introdueix els principis de la programació alhora que permet fer música. En aquesta sessió eminentment pràctica en veurem la història —per què es va crear, com ha evolucionat i què pot fer avui dia—. Aprendreu com es fan línies de greus a partir de llistes i iteració, o com els condicionals introdueixen diversitat, i descobrireu com sonen els vostres propis algorismes.
+
+WorkshopSpeakerTitle13 : Sam Aaron
+
+WorkshopSpeakerText13 : Programador de live coding, educador i investigador. Va ser el desenvolupador principal d’Overtone i Quil, projectes de programació creativa per a l’expressió (en directe) de so i imatge. Més recentment ha creat Sonic Pi, un entorn de programació en directe basat en llenguatge Ruby que permet crear música a partir de codi i que sobretot està pensat per a l’àmbit educatiu. De dia, Sam és investigador al Laboratori Informàtic de la University of Cambridge, i de nit se’l pot trobar programant ritmes en locals nocturns.
+
+
+# --------  08 Perform Big Van Theory, how to configure a performance  --------------------
+
+
+WorkshopNum14 : 8
+
+WorkshopClassroom14 :
+
+WorkshopLanguage14 : Català
+
+WorkshopReq14 :
+
+WorkshopTitle14 : MyPERFORM- UNESCO, Com fomentar l’aprenentatje de la ciència a travès de les arts escèniques
+
+WorkshopSubtitle14 : Helena González, llicenciada en Biologia, Bioquímica i Biomedicina; Oriol Marimon, doctor en Química Orgànica. Fundadors i actors de Big Van Ciencia
+
+WorkshopText14 : El taller busca compartir, amb el professorat de secundària, noves metodologies participatives a través d’algunes de les activitats més impactants a l’hora de canviar la percepció que tenen les i els joves de la ciència.
+
+WorkshopText14A : Utilització de la improvisació i la representació teatral, en 4 actes
+
+WorkshopText14B : Act 1/ Estereotips en ciència
+WorkshopSubText14B : Explorar aquells estereotips interioritzats sobre la ciència i les persones que s’hi dediquen.
+
+WorkshopText14C : Act 2/ Pensament crític
+WorkshopSubText14C : Pensament crític i capacitat reflexiva; anàlisi de notícies científiques reals, per discernir entre contingut científic fidedigne i contingut pseudocientífic.
+
+WorkshopText14D : Act 3/ Ètica en el procés investigador
+WorkshopSubText14D : Fomentar la discussió en petits grups; valorar l’ètica dels grans avenços cientificotecnològics.
+
+WorkshopText14E : Act 4/ Reptes socials
+WorkshopSubText14E : Com explicar contingut científic-tecnològic en relació amb els reptes socials, com ara el canvi climàtic o la seguretat alimentària.
+
+
+WorkshopSpeakerTitle14F : Helena González
+
+WorkshopSpeakerText14F : Llicenciada en Biologia i en Bioquímica per la Universitat de Salamanca, i doctora en Biomedicina per la Universitat de Barcelona. Apassionada dels gens, la herència, l’enginyeria genètica, la inestabilitat cromosòmica i altres marranades moleculars, es dedica a divulgar ciència a través de Big Van Ciencia, associació de la qual és directora i fundadora (2013). Està especialment interessada en l’educació científica a primària, perquè la seva ment de deu anys empatitza perfectament amb aquest tipus de públic.
+
+WorkshopSpeakerTitle14G : Oriol Marimon
+
+WorkshopSpeakerText14G : Doctor en Química Orgànica i cofundador del grup de comunicació científica Big Van, Científics Sobre Rodes. És codirector del Departament d’R+D+I i director de Projectes Internacionals de Big Van Ciencia. És, també, autor i actor de peces teatrals de divulgació científica per a totes les edats, i des dels escenaris ha portat la ciència punta a més de 250 000 espectadors.
+
+
+# -------- 09 - Artistic Synapses --------------------
+
+
+WorkshopNum15 : 9
+
+WorkshopClassroom15 :
+
+WorkshopLanguage15 : Català
+
+WorkshopReq15 : Ordinador portàtil
+
+WorkshopTitle15 : Sinapsis artístiques
+
+WorkshopSubtitle15 : Míriam Martí Pallarès, actriu i professora, Barcelona
+
+WorkshopText15 : Les sinapsis són les connexions entre neurones, connexions que ens permeten fer, pensar, sentir, etc. Partint d’aquesta idea, quan parlem de «sinapsis artístiques» ens referim a connexions entre ciència i art, connexions a través d’imatges, en estil collage o moodboard. En aquest taller veurem algunes d’aquestes sinapsis artístiques, parlarem del seu procés de creació i l’experimentarem. Així mateix, comentarem l’aplicació d’aquesta activitat a l’aula en diferents contextos i veurem què pot despertar en els nostres alumnes quant a creativitat, experiència i aprenentatge.
+
+
+WorkshopSpeakerTitle15 : Míriam Martí Pallarès
+
+WorkshopSpeakerText15 : actriu i biòloga, i està especialitzada en comunicació i divulgació científica. Com a actriu ha participat en diversos projectes de televisió, cinema i teatre. És, també, professora de ciències i d’interpretació actoral. Com a especialista en divulgació científica ha dut a terme diversos projectes per apropar la ciència a la societat, des de plataformes com l’FCRi, TV3 i l’ICFO, entre d’altres. Aposta per barrejar ciència i art, i una de les maneres com ho fa és a través del seu projecte personal Sinapsis artístiques.
+
+# -------- 10 - Hacking STEM --------------------
+
+
+WorkshopNum20 : 10
+
+WorkshopClassroom20 :
+
+WorkshopLanguage20 : Castellà
+
+WorkshopReq20 :
+
+WorkshopTitle20 : Hacking STEM
+
+WorkshopSubtitle20 : Alba Rodríguez Agüero, Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab
+
+WorkshopText20 : Hacking STEM és el projecte que ha creat Microsoft per treballar a l’aula les assignatures STEM a través de la metodologia maker. En aquest taller, els participants aprendran a introduir el projecte del telègraf a la seva aula i a conèixer el potencial que té aquest tipus de projectes en l’àmbit educatiu.
+
+WorkshopSpeakerTitle20 : Alba Rodríguez Agüero
+
+WorkshopSpeakerText20 : És graduada en Enginyeria Marítima i professora de secundària en l’àrea de ciències. És experta en big data i en tecnologies de l’aprenentatge i el coneixement, a més de responsable de l’àrea d’educació i líder del projecte Makermania de Possible Lab.
+
 # COMO LLEGAR
 
 HomeFooterSectionTitle01 : Como llegar

@@ -1,5 +1,5 @@
 ---
-title: "Tallers"
+title: "Workshops"
 date: ""
 draft: false
 ---

@@ -8,59 +8,43 @@ PageHeaderSpeakers : Conferenciants
 
 ItemSpeakerTitle01 : Oriol Marimon
 ItemSpeakerSubtitle01 : Big Van Ciencia
-ItemSpeakerText01 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ItemSpeakerText01 : Doctor en Química Orgànica i cofundador del grup de comunicació científica "Big Van, Cientifics Sobre Rodes", És co-director del departament d'I + D + i i Director de Projectes Internacionals de Big Van Ciència; autor i actor de peces teatrals de divulgació científica per a totes les edats, i des de els escenaris,  ha portat la ciència punta a més de 250.000 espectadors.
 
 ItemSpeakerTitle02 : Helena González-Burón
 ItemSpeakerSubtitle02 : Big Van Ciencia
-ItemSpeakerText02 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ItemSpeakerText02 : Llicenciada en Biologia i en Bioquímica per la Universitat de Salamanca, i doctora en Biomedicina per la Universitat de Barcelona. Apassionada dels gens, l’herència, l’enginyeria genètica, la inestabilitat cromosòmica i altres marranades moleculars, es dedica a divulgar ciència a través de Big Van Ciencia, associació de la qual és directora i fundadora (2013). Està especialment interessada en l’educació científica a primària, perquè la seva ment de deu anys empatitza perfectament amb aquest tipus de públic.
 
 ItemSpeakerTitle03 : Sam Aaron
 ItemSpeakerSubtitle03 : Sonic Pi
-ItemSpeakerText03 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ItemSpeakerText03 : Programador de live coding, educador i investigador. Va ser el desenvolupador principal d’Overtone i Quil, projectes de programació creativa per a l’expressió (en directe) de so i imatge. Més recentment ha creat Sonic Pi, un entorn de programació en directe basat en llenguatge Ruby que permet crear música a partir de codi i que sobretot està pensat per a l’àmbit educatiu. De dia, Sam és investigador al Laboratori Informàtic de la University of Cambridge, i de nit se’l pot trobar programant ritmes en locals nocturns.
 
 ItemSpeakerTitle04 : Karen Wilkinson
 ItemSpeakerSubtitle04 : Exploratorium
 ItemSpeakerText04 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-ItemSpeakerTitle05 : Mike Petrich
-ItemSpeakerSubtitle05 : Exploratorium
-ItemSpeakerText05 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ItemSpeakerTitle05 : Sebastian Martin
+ItemSpeakerSubtitle05 : Tinkering Studio
+ItemSpeakerText05 : Aprofundirem en el que significa crear experiències d’aprenentatge basat en STEAM on s’adopti plenament l’estètica com a forma d’engrescar els joves tant físicament com intel•lectualment i emocionalment. Quan els alumnes joguinegen sempre hi ha sorpresa i delit, i això és la diversió. Per tant, com és que el joc (tinkering) està tan poc valorat en l’ensenyament? És una pedagogia basada en el contacte actiu amb materials i idees que té com a objectiu el foment de la curiositat. Destacarem les dimensions de l’aprenentatge que conté el tinkering, un procés en què tant els docents com els alumnes canvien la seva relació amb les idees, fenòmens científics i entre ells mateixos, i redefineixen allò que es considera aprenentatge.
 
 ItemSpeakerTitle06: Anna Cutler
 ItemSpeakerSubtitle06 : TATE
-ItemSpeakerText06 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ItemSpeakerText06 : Directora d’Aprenentatge i Recerca a la Tate Modern. Ha treballat en l’àmbit de l’ensenyament cultural durant trenta anys, en diverses disciplines. És coneguda pel caràcter innovador dels seus experiments pràctics i la formulació de noves perspectives teòriques. El setembre del 2016 va posar en marxa Tate Exchange, un espai cívic destinat a obrir un diàleg sobre l’art, la societat i els problemes urgents i complexos que ens toca abordar avui dia.
 
 ItemSpeakerTitle07 : Gever Tulley
 ItemSpeakerSubtitle07 : Brightworks
-ItemSpeakerText07 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
+ItemSpeakerText07 : Escriptor, conferenciant i expert en informàtica. L’any 2005 va fundar la Tinkering School, institució que ofereix una sèrie de programes extraescolars i d’estiu en els quals es fan servir eines, materials i problemes reals que tenen com a objectiu estimular l’interès dels alumnes per l’aprenentatge, la curiositat pel món, la tenacitat de pensar en gran i la perseverança per fer coses sorprenents. Més recentment, l’any 2011, Gever va crear Brightworks, una escola privada d’ensenyament primari i secundari situada a San Francisco en la qual els alumnes exploren una idea a partir de múltiples perspectives, ajudant-se d’experts, eines i experiències del món real, a més de col•laborar en projectes que han impulsat amb la seva pròpia curiositat i de compartir amb la resta del món tot allò que descobreixen.
 
 ItemSpeakerTitle08 : Mackenzie Price
 ItemSpeakerSubtitle08 : Brightworks
-ItemSpeakerText08 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-
+ItemSpeakerText08 : És, sobretot, exploradora del món. Com a membre fundador de l’equip docent de Brightworks, i en estreta col•laboració amb Gever, els seus experiments i lideratge van ser fonamentals per posar en marxa i perfeccionar el singular projecte pedagògic de l’escola. És la directora de IAT al Teachers Institute de Brightworks. Els seus punts forts són la disposició per aprendre al costat dels nens amb la mateixa excitació i curiositat que ells i la capacitat de formular-los preguntes amb una cura que els porta a nous descobriments i a un aprenentatge profund.
 
 ItemSpeakerTitle09 : Juuso Henrik Nieminen
 ItemSpeakerSubtitle09 : University of Melbourne
-ItemSpeakerText09 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
+ItemSpeakerText09 : Investigador en educació i expert innovador en avaluació a la Universitat d’Hèlsinki. Ha ensenyat matemàtiques i programació en diversos nivells del sistema educatiu finlandès i actualment es dedica a la formació de futurs docents a Hèlsinki. El seu àmbit de recerca és l’avaluació de les competències del segle XX, quant a la manera de fer compatible l’avaluació digital innovadora amb el desenvolupament del pensament crític i l’aprenentatge durant tota la vida. Així mateix, Nieminen treballa com a educador especial, àmbit en el qual lluita per aconseguir un món més inclusiu a través de la seva tasca docent i investigadora. Actualment escriu llibres sobre la cultura de l’avaluació a Finlàndia i sobre l’ensenyament innovador de les matemàtiques, i treballa com a especialista pedagògic a la Code School Finland. A més, és el responsable de la revolució que ha significat per al món de les matemàtiques el projecte Math Hunger, el qual té com a objectiu aconseguir que l’aprenentatge de les matemàtiques sigui divertit i accessible per a tothom. El 2018, Nieminen va coordinar l’apartat «Què haurem d’aprendre després?» a Dare to Learn, la fira de l’aprenentatge més innovadora de Finlàndia.
 
 ItemSpeakerTitle10 : Kaleb Rashad
 ItemSpeakerSubtitle10 : High Tech High
-ItemSpeakerText10 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
+ItemSpeakerText10 : Director creatiu de la Gary and Jerri-Ann Jacobs @hightechhigh de San Diego. Treballa amb els somiadors i emprenedors de la High Tech High’s Graduate School of Education, la School Retool de la Stanford d.School, Real World Scholars, Leadership + Design i WildFire Education. Kaleb ha ensenyat matemàtiques i ciència en secundària, ha estat responsable d’un web per a alumnes d’ensenyament primari i secundari i va formar part del cos de Marines de l’Exèrcit estatunidenc. És llicenciat en Desenvolupament Humà, té dos màsters i és doctor en Lideratge Educatiu. És, també, cofundador d’Unlocked, Inc., una organització sense ànim de lucre de San Diego dedicada al disseny.
 
 # HOW TO ARRIVE
 

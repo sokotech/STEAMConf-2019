@@ -4,17 +4,17 @@ item :
 
 PageHeaderSchedule : Horari
 
-PausaCafe : Coffee Break
+PausaCafe : Pausa café
 
-Conversation : Conversa
+Conversation : Conversación
 
-ParalelWorkshops : Tallers paral.lels
-
-
-# --------------------------------- Dissabte 30 de març  --------------------------------
+ParalelWorkshops : Talleres Paralelos
 
 
-Date01 : Dissabte 30 de març
+# --------------------------------- Sábado, 30 de marzo  --------------------------------
+
+
+Date01 : Sábado, 30 de marzo
 
 
 # --- EdCamp ---------------------
@@ -28,13 +28,13 @@ Classroom02 : Sala Ágora
 
 Title02 : EdCamp SteamConf
 
-Subtitle02 : Camí de STEAMConf 2018
+Subtitle02 : Camino hacia STEAMConf 2019
 
 
-# --------------------------------- Dijous 4 d’abril --------------------------------
+# --------------------------------- Jueves 4 de abril --------------------------------
 
 
-Date03 : Dijous 4 d’abril
+Date03 : Jueves 4 de abril
 
 
 # ------ PERFOMANCE UNESCO Cuando la ciencia pisa escenari
@@ -44,11 +44,13 @@ Time04 : 18:30 -
 
 Place04 : Ajuntament de Barcelona
 
+Title04A : Public opening of the Conference
+
 Classroom04 : Saló de Cent
 
-Title04B : PERFORM-UNESCO - Quan la ciència trepitja escenaris
+Title04B : PERFORM-UNESCO - Cuando la ciencia pisa escenarios
 
-LanguageNotice04 : Conferència – Espectacle d’inauguració, oberta al públic (traducció simultània en català, castellà i anglès)
+LanguageNotice04 : Conferencia-espectáculo de inauguración, abierta al público (traducción simultánea en catalán, castellano e inglés)
 
 
 # ---------- Conversation ----------------
@@ -57,10 +59,10 @@ LanguageNotice04 : Conferència – Espectacle d’inauguració, oberta al públ
 Time05 : 19:45 -
 
 
-# --------------------------------- friday, april 5 --------------------------------
+# --------------------------------- Viernes 5 de abril --------------------------------
 
 
-Date06 : Divendres, 5 d’abril
+Date06 : Viernes 5 de abril
 
 
 # --------  Workshops  --------------------
@@ -72,9 +74,9 @@ Place07 : Cosmocaixa
 
 Classroom07 : Sala Ágora
 
-Title07 : Tallers
+Title07 : Talleres
 
-Subtitle07 : Registre i lliurament de documentació dels tallers i la conferència
+Subtitle07 : Registro y entrega de documentación de los talleres y la conferencia
 
 
 # --------  Paralel Workshops  --------------------
@@ -82,7 +84,7 @@ Subtitle07 : Registre i lliurament de documentació dels tallers i la conferènc
 
 Time08 : 10.00 -
 
-Title08 : Tallers Paral.lels
+Title08 : Talleres Paralelos
 
 Place08 : Cosmocaixa
 
@@ -198,7 +200,7 @@ Time16 : 11.30 -
 
 Time17 : 12.00 -
 
-Title17 : Tallers Paral.lels
+Title17 : Talleres Paralelos
 
 Place17 : Cosmocaixa
 
@@ -324,9 +326,9 @@ Time26 : 13.30 -
 
 Place26 : Cosmocaixa
 
-Title26 : Dinar
+Title26 : Almuerzo
 
-Subtitle26 : Exclusiu pels assistents a les dues activitats (Jornades + Tallers)
+Subtitle26 : Exclusivo para asistentes a las dos actividades (jornadas + talleres)
 
 
 # --------  Row 0 Welcome  --------------------
@@ -338,9 +340,9 @@ Place27 : Cosmocaixa
 
 Classroom27 : Sala Ágora
 
-Title27 : Rebuda del professorat de la Fila 0
+Title27 : Recepción del profesorado de la Fila 0
 
-Subtitle27 : Benvinguda i coordinació a càrrec de Begonya Folch, membre del Comitè Assessor de STEAMConf
+Subtitle27 : Bienvenida y coordinación a cargo de Begonya Folch, miembro del Comité Asesor de STEAMConf
 
 
 # --------  Conference Registry  --------------------
@@ -350,9 +352,9 @@ Time28 : 14.00 -
 
 Place28 : Cosmocaixa
 
-Title28 : Registre i lliurament de documentació
+Title28 : Registro y entrega de documentación
 
-LanguageNotice28 : Totes les sessions tindran traducció simultània català, castellà, anglès
+LanguageNotice28 : Todas las sesiones dispondrán de traducción simultánea en catalán, castellano e inglés
 
 
 # --------  Conference opening  --------------------
@@ -364,16 +366,16 @@ Place29 : Cosmocaixa
 
 Classroom29 : Auditorium
 
-Title29A : Inauguració de les sessions plenàries de la conferència
+Title29A : Inauguración de la conferencia
 
-Subtitle29A : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”; Francesca Bria, comissionada de Tecnologia i Innovació Digital de l’Ajuntament de Barcelona; M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+Subtitle29A : Jordi Portabella i Calvete, director del Área de Divulgación Científica y CosmoCaixa de la Fundació Bancària ”la Caixa”; Francesca Bria, comisionada de Tecnología e Innovación Digital del Ayuntamiento de Barcelona; M.ª del Mar Camacho, directora general de Innovación, Investigación y Cultura Digital de la Generalitat de Catalunya
 
-Title29B : Benvinguda a la conferència
+Title29B : Bienvenida a las sesiones
 
-Subtitle29B : Benvinguda a càrrec de Frank Sabaté, membre del Comitè Assessor, presentador i conductor de la conferència
+Subtitle29B : Bienvenida a cargo de Frank Sabaté, miembro del Comité Asesor, presentador y conductor de la conferencia
 
 
-# --------  Session 01 - Èxit o fracàs - La necessitat del canvi --------------------
+# --------  Session 01 - Éxito o fracaso: la necesidad del cambio --------------------
 
 
 Time30 : 15.20 -
@@ -382,11 +384,11 @@ Place30 : Cosmocaixa
 
 Classroom30 : Auditorium
 
-Title30 : Èxit o fracàs - La necessitat del canvi
+Title30 : Éxito o fracaso, la necesidad del cambio
 
-Subtitle30 : Anna Cutler, director of Learning and Research at Tate, London, UK
+Subtitle30 : Anna Cutler, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido)
 
-LocalPeer30 : Mónica Bello, comissària i responsable d’Arts del CERN (Suïssa)
+LocalPeer30 : Mónica Bello, comisaria y responsable de Artes del CERN (Suiza)
 
 
 # --------  Conversation --------------------
@@ -401,7 +403,7 @@ Time31 : 16.10 -
 Time32 : 16.30 -
 
 
-# --------  Session 02 - Sembla que s’ho passen bé, però aprenen? --------------------
+# --------  Session 02 - Parece que se lo pasan bien, pero ¿aprenden? --------------------
 
 
 Time33 : 17.00 -
@@ -410,11 +412,11 @@ Place33 : Cosmocaixa
 
 Classroom33 : Auditorium
 
-Title33 : Sembla que s’ho passen bé, però aprenen?
+Title33 : Parece que se lo pasan bien, pero ¿aprenden?
 
-Subtitle33 : Sebastian Martin, Tinkering Studio. Exploratorium de San Francisco (Estats Units)
+Subtitle33 : Sebastian Martin, Tinkering Studio. Exploratorium de San Francisco (Estados Unidos)
 
-LocalPeer33 : Òscar M. Ciuró, gestor d’educació cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona
+LocalPeer33 : Òscar M. Ciuró, gestor de educación cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona
 
 
 # --------  Conversation --------------------
@@ -423,7 +425,7 @@ LocalPeer33 : Òscar M. Ciuró, gestor d’educació cultural. Thinking Doing Di
 Time34 : 17.50 -
 
 
-# --------  Session 03 - El Sonic Pi i l’ensenyament --------------------
+# --------  Session 03 - Sonic Pi y la educación --------------------
 
 
 Time35 : 18.10 -
@@ -432,27 +434,27 @@ Place35 : Cosmocaixa
 
 Classroom35 : Auditorium
 
-Title35 : El Sonic Pi i l’ensenyament
+Title35 : Sonic Pi y la educación
 
-Subtitle35 : Sam Aaron, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)
+Subtitle35 : Sam Aaron, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)
 
-LocalPeer35 : Carles Ceacero, músic polifacètic i professor de música a l’Escola Pereanton de Granollers (Barcelona)
+LocalPeer35 : Carles Ceacero, músico polifacético y profesor de música en la Escola Pereanton de Granollers (Barcelona)
 
-# -------- Conversa i actuació musical en directe --------------------
+# -------- Conversación y actuación musical en directo --------------------
 
 
 Time35A : 18.45 -
 
-ConversationMusicPerformance : Conversa i actuació musical en directe
+ConversationMusicPerformance : Conversación y actuación musical en directo
 
 
 # --------------------------------- Dissabte, 6 d’abril --------------------------------
 
 
-Date36 : Dissabte, 6 d’abril
+Date36 : Sábado 6 de abril
 
 
-# --------  Session 04 - Engagement First, senderes cap a un aprenentatge intrínsecament motivat  --------------------
+# --------  Session 04 - Engagement First, senderos hacia un aprendizaje intrínsecamente motivado  --------------------
 
 
 Time37 : 10.00 -
@@ -461,9 +463,9 @@ Place37 : Cosmocaixa
 
 Classroom37 : Auditorium
 
-Title37 : Engagement First, senderes cap a un aprenentatge intrínsecament motivat
+Title37 : Engagement First, senderos hacia un aprendizaje intrínsecamente motivado
 
-Subtitle37 : Gever Tulley, fundador de la Brightworks School i arquitecte educatiu, San Francisco (Estats Units)
+Subtitle37 : Gever Tulley, fundador de la Brightworks School y arquitecto educativo, San Francisco (Estados Unidos)
 
 LocalPeer37 : Mariona Cíller, cofundadora de SokoTech, Barcelona
 
@@ -480,7 +482,7 @@ Time38 : 10.50 -
 Time39 : 11.10 -
 
 
-# --------  Session 05 - Traslladar la cultura de l’avaluació al segle XX, el poder de l’avaluació innovadora --------------------
+# --------  Session 05 - Trasladar la cultura de la evaluación al siglo xx: el poder de la evaluación innovadora --------------------
 
 
 Time40 : 11.40 -
@@ -489,11 +491,11 @@ Place40 : Cosmocaixa
 
 Classroom40 : Auditorium
 
-Title40 : Traslladar la cultura de l’avaluació al segle XX, el poder de l’avaluació innovadora
+Title40 : Trasladar la cultura de la evaluación al siglo xx, el poder de la evaluación innovadora
 
-Subtitle40 : Juuso Henrik Nieminen, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia)
+Subtitle40 : Juuso Henrik Nieminen, Grupo de Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia)
 
-LocalPeer40 : Victoria Eugenia Ibáñez, professora de ciències i matemàtiques a l’ensenyament secundari, Barcelona
+LocalPeer40 : Victoria Eugenia Ibáñez, profesora de ciencias y matemáticas en educación secundaria, Barcelona
 
 
 # --------  Conversation --------------------
@@ -503,7 +505,7 @@ Time41 : 12.20 -
 
 
 
-# ---- 06 School for What? --------------------
+# ---- 06 Escuela ¿para qué? --------------------
 
 
 Time42 : 12.40 -
@@ -512,11 +514,11 @@ Place42 : Cosmocaixa
 
 Classroom42 : Auditorium
 
-Title42 : Escola per a què?
+Title42 : Escuela ¿Para qué?
 
-Subtitle42 : Kaleb Rashad, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High i professor adjunt de la High Tech High Graduate School of Education de San Diego (Estats Units)
+Subtitle42 : Kaleb Rashad, director creativo de la Gary and Jerri-Ann Jacobs High Tech High y profesor adjunto de la High Tech High Graduate School of Education de San Diego (Estados Unidos)
 
-LocalPeer42 : Sergi del Moral, membre de l’equip directiu i docent de l’Institut-Escola Les Vinyes de Castellbisbal (Barcelona)
+LocalPeer42 : Sergi del Moral, miembro del equipo directivo y docente del Institut-Escola Les Vinyes de Castellbisbal (Barcelona)
 
 
 # ---- 07 Creating the next generation of schools --------------------
@@ -528,16 +530,16 @@ Place43 : Cosmocaixa
 
 Classroom43 : Auditorium
 
-Title43 : La creació de la propera generació d’escoles
+Title43 : La creación de la próxima generación de escuelas
 
-Subtitle43A : Conversa
+Subtitle43A : Conversación
 
-Subtitle43B : Kaleb Rashad, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estats Units)
+Subtitle43B : Kaleb Rashad, director creativo de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estados Unidos)
 
-LocalPeer43 : Anna Cutler, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit); Gever Tulley, fundador de la Brightworks School i «arquitecte pedagògic», San Francisco (Estats Units); Juuso Henrik Nieminen, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia); Sam Aaron, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)
+LocalPeer43 : Anna Cutler, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido); Gever Tulley, fundador de la Brightworks School y «arquitecto pedagógico», San Francisco (Estados Unidos); Juuso Henrik Nieminen, Grupo de Recerca en Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia); Sam Aaron, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)
 
 
-# --------  Conference closing  --------------------
+# --------  Sesión de clausura de la conferencia --------------------
 
 
 Time44 : 14.00 -
@@ -546,9 +548,9 @@ Place44 : Cosmocaixa
 
 Classroom44 : Auditorium
 
-Title44 : Cloenda de les sessions
+Title44 : Sesión de clausura de la conferencia
 
-Subtitle44 : A càrrec de Lluís Noguera i Jordana, director del CosmoCaixa, Barcelona
+Subtitle44 : A cargo de Lluís Noguera, director de CosmoCaixa
 
 # COMO LLEGAR
 

@@ -1,5 +1,5 @@
 ---
-title: "Conferenciantes"
+title: "Registry"
 date: ""
 draft: false
 ---

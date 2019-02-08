@@ -1,5 +1,5 @@
 ---
-title: "Register"
+title: "Schedule"
 date: ""
 draft: false
 ---

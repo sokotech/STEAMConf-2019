@@ -1,5 +1,5 @@
 ---
-title: "Sobre SteamConf"
+title: "Registry"
 date: ""
 draft: false
 ---
