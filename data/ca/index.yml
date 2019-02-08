@@ -2,50 +2,51 @@ enable: true
 
 item:
 
-  # BG
+# BG
 
-  BgSubtitle01: 5th. Conferència Internacional de Educació
-  BgSubtitle02: CosmoCaixa, Barcelona, Abril 14 -19
+BgSubtitle01: 5th. Conferència Internacional de Educació
+BgSubtitle02: CosmoCaixa, Barcelona, Abril 14 -19
 
-  # Home DESCRIPTION
+# Home DESCRIPTION
 
-  HomeDescriptionTitle: La Cinquena Edició
+HomeDescriptionTitle: La Cinquena Edició
 
-  HomeDescriptionText: STEAMConf 2019, wants to visualitzi the vital importance of implementing programs and resources, which help to minimize the digital divideix, gender imbalances and promote equal opportunities.
+HomeDescriptionText: STEAMConf 2019, vol destacar la vital importància d’implementar programes i recursos que permetin contribuir a minimitzar l’escletxa digital i els desequilibris de gènere i promoure la igualtat d’oportunitats.
 
-  HomeDescriptionButton: Llegir més
+HomeDescriptionButton: Llegir més
 
-  # Home SPEAKERS
+# Home SPEAKERS
 
-  HomeSpeakersSectionTitle: Conferenciants
+HomeSpeakersSectionTitle: Conferenciants
 
-  # Home WORKSHOPS
+# Home WORKSHOPS
 
-  HomeWorkshopsSectionTitle: Tallers
-  HomeWorkshopsText: Els tallers són de caràcter eminentment pràctic i presenten una sèrie de projectes, eines i idees que es poden aplicar fàcilment a l’aula. Mostren allò que s’està fent tant localment com arreu. Són font d’inspiració, i permeten també contrastar i compartir les pròpies idees amb les dels altres participants.
-  HomeWorkshopsButton: Llegir més
+HomeWorkshopsSectionTitle: Tallers
+HomeWorkshopsText: Els tallers són de caràcter eminentment pràctic i presenten una sèrie de projectes, eines i idees que es poden aplicar fàcilment a l’aula. Mostren allò que s’està fent tant localment com arreu. Són font d’inspiració, i permeten també contrastar i compartir les pròpies idees amb les dels altres participants.
+HomeWorkshopsButton: Llegir més
 
-  # Home ORGANIZERS
+# Home ORGANIZERS
 
-  HomeOrganizersSectionTitle: Organitzadors
-  HomeCollaboratorsSectionTitle: Col·laboradors
+HomeOrganizersSectionTitle: Organitzadors
+HomeCollaboratorsSectionTitle: Col·laboradors
+HomeGlobalPartnersSectionTitle: Global Partner
 
-  # Home COMO LLEGAR
+# Home COMO LLEGAR
 
-  HomeFooterSectionTitle01: Com arribar
+HomeFooterSectionTitle01: Com arribar
 
-  HomeFooterSectionTitleDirection: Direcció
+HomeFooterSectionTitleDirection: Direcció
 
-  HomeFooterSectionTitle02: Per Carretera
-  HomeFooterSectionText02: Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionTitle02: Per Carretera
+HomeFooterSectionText02: Sortides 6 / 7 en Ronda de Dalt
 
-  HomeFooterSectionTitle03: En Autobus
+HomeFooterSectionTitle03: En Autobus
 
-  HomeFooterSectionTitle04: Per Ferrocarrils de la Generalitat
+HomeFooterSectionTitle04: Per Ferrocarrils de la Generalitat
 
-  HomeFooterSectionTitle05: Aparcament
-  HomeFooterSectionText05: Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
+HomeFooterSectionTitle05: Aparcament
+HomeFooterSectionText05: Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
 
-  # Home FOOTER CONTACT MENU
+# Home FOOTER CONTACT MENU
 
-  HomeSubFooterTitle: Contacte
+HomeSubFooterTitle: Contacte

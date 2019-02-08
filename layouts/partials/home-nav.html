@@ -30,9 +30,16 @@
         <a class="nav-link" id="how-to-arrive-button" href="#how-to-arrive">{{ i18n "arrive" }}</a>
       </li>
 
-      {{ range $.Site.Home.AllTranslations }}
-      <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-      {{ end }}
+      <li class="nav-item dropdown program-dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="program" role="button" aria-haspopup="true" aria-expanded="false">{{ i18n "language" }}</a>
+          <div class="dropdown-menu">
+            {{ range $.Site.Home.AllTranslations }}
+            <li><a class="dropdown-item nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+            {{ end }}
+          </div>
+      </li>
+
+
 
     </ul>
   </div>

@@ -30,3 +30,6 @@ other = "Requirements"
 
 [conference]
 other = "Conference"
+
+[classroom]
+other = "Classroom"

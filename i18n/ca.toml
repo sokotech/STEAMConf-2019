@@ -26,7 +26,10 @@ other = "Com Arribar"
 other = "Idioma"
 
 [requirements]
-other = "Necessitats"
+other = "Requisits"
 
 [conference]
 other = "Conferència"
+
+[classroom]
+other = "Aula"

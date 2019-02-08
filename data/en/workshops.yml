@@ -61,7 +61,7 @@ WorkshopSpeakerTitle01B : Mackenzie Price
 WorkshopSpeakerText01B : More than anything, is an explorer of the world. As a founding member of the teaching staff at Brightworks and working closely with Gever, her experiments and leadership were key to developing the implementation and refining the unique pedagogy of the school. She is the I.A.T Director of the Teachers Institute at Brightworks. Her strengths lie in her willingness to learn alongside the kids with the same excited curiosity and in her careful questioning that guides her students to new discoveries and deep learning.
 
 
-# --------  02 When Things Fall Apart ( Part Two ) --------------------
+# --------  01-02 When Things Fall Apart ( Part Two ) --------------------
 
 
 WorkshopNum02B : 01
@@ -88,7 +88,7 @@ WorkshopSpeakerText02C : More than anything, is an explorer of the world. As a f
 
 
 
-# --------  03 Co-creating the assessment cultures of the future  --------------------
+# --------  02 Co-creating the assessment cultures of the future  --------------------
 
 
 WorkshopNum03 : 02
@@ -207,6 +207,61 @@ WorkshopSpeakerText07B : Is a chemist with a PhD in neurosciences and member of 
 WorkshopSpeakerTitle07C : Silvia Carrasco
 
 WorkshopSpeakerText07C : Is director of the KTT Unit at ICFO. Awarded with the "Fem Talent" award in 2013, she is also vice-president of the Spanish mirror of the European Platform Photonics21, a member of the board of SECPhO, the Southern European Cluster in Photonics and Optics, and founder of the "From Science to Business" program launched by ICFO in 2008 with ESADE to promote the entrepreneurial spirit among young scientists.
+
+
+# --------  08 - Minecraft; Education Edition a l’aula  -----------   18  ---------
+
+
+WorkshopNum18 : 08
+
+WorkshopClassroom18 :
+
+WorkshopLanguage18 : Castellà
+
+WorkshopReq18 :
+
+WorkshopTitle18 : Minecraft; Education Edition a l’aula
+
+WorkshopSubtitle18 : Alba Rodríguez Agüero, Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab
+
+WorkshopText18 : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+WorkshopSpeakerTitle18 : Alba Rodríguez Agüero
+
+WorkshopSpeakerText18 : Graduada en Enginyeria Marítima i professora de secundaria en el àrea de ciències. Experta en Big Data i en tecnologies de l’ aprenentatge i el coneixement. Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab
+
+# --------  09 - Regulem la temperatura i ens posem crema solar per apropar les TIC a l’àmbit STEAM  -----------   19  ---------
+
+
+WorkshopNum19 : 09
+
+WorkshopClassroom19 :
+
+WorkshopLanguage19 : Català
+
+WorkshopReq19 :
+
+WorkshopTitle19 : Regulem la temperatura i ens posem crema solar per apropar les TIC a l’àmbit STEAM
+
+WorkshopSubtitle19 : Digna Couso, directora del CRECIM (Centre de Recerca per a l’Educació Científica i Matemàtica); Carme Grimalt-Álvaro, Caterina Solé, Èlia Tena, membres del CRECIM, Universitat Autònoma de Barcelona, Bellaterra (Barcelona)
+
+WorkshopText19 : Com regulen la temperatura els animals? Com podem saber quina crema ens protegeix més del Sol? Donarem resposta a aquestes preguntes, tot participant i reflexionant en dos tallers del projecte REVIR-CosmoCaixa per alumnat de primer i segon d’ESO, orientats a fer activitat científica i STEM amb diversitat de TIC.
+
+WorkshopSpeakerTitle19A : Digna Couso
+
+WorkshopSpeakerText19A : Llicenciada en Física i doctora en Didàctica de les Ciències. És professora del Departament de Didàctica de la Matemàtica i de les Ciències Experimentals i directora del CRECIM. És, també, formadora de futurs docents de primària i secundària, i ha estat coordinadora del màster de Formació del Professorat de Secundària de la mateixa universitat[M1] . Com a investigadora, ha treballat en diversos projectes de millora de la didàctica de les ciències a escala estatal i europea. Ha publicat diversos articles d’alt impacte i és revisora de publicacions d’àmbit internacional.
+
+WorkshopSpeakerTitle19B : Carme Grimalt-Álvaro
+
+WorkshopSpeakerText19B : Llicenciada en Química per la UB. És màster de Formació del Professorat d’ESO i Batxillerat en Física i Química per la UAB, màster de Recerca en Didàctica de la Matemàtica i les Ciències Experimentals i doctora en Didàctica de la Matemàtica i les Ciències Experimentals per la mateixa universitat. Actualment és professora associada al Departament de Didàctica de la Matemàtica i de les Ciències Experimentals, on forma futurs mestres de primària, i és investigadora del CRECIM. Ha participat en diversos projectes de recerca d’àmbit nacional i internacional sobre l’aprenentatge de les ciències amb eines digitals i l’equitat en educació STE(A)M.
+
+WorkshopSpeakerTitle19C : Caterina Solé
+
+WorkshopSpeakerText19C : Graduada en Física per la UB i màster en Recerca en Educació, en l’especialitat de Ciències Experimentals, per la UAB. Actualment és membre del CRECIM. Ha col•laborat en projectes de recerca i innovació centrats en el desenvolupament de les competències científiques en l’etapa de secundària, i també en projectes de ciència ciutadana en què participen alumnes d’aquesta etapa educativa.
+
+WorkshopSpeakerTitle19D : Èlia Tena
+
+WorkshopSpeakerText19D : Graduada en Educació Primària per la UAB, amb menció en Necessitats Educatives Específiques, i màster en Recerca en Educació, en l’especialitat de Ciències Experimentals, per la mateixa universitat. És, també, membre del CRECIM. Ha col•laborat en projectes de recerca i innovació centrats en el desenvolupament de les competències científiques en l’etapa de primària, sobretot des d’una perspectiva d’equitat. Actualment desenvolupa la seva tesi doctoral sobre projectes STEM en l’etapa de primària.
 
 # --------  Coffee Break  --------------------
 
@@ -365,30 +420,26 @@ WorkshopSpeakerTitle12D : Ana Valcávaro López
 
 WorkshopSpeakerText12D : Is a foreign language teacher and facilitator at the software and robotic language laboratory at the Octavio Paz School. She is an enthusiast of digital technologies and digital skills. The blend of foreign language with STEAM is a good combination to guarantee up-to-date learning that responds to the needs and challenges of the 21st century.
 
-# --------  07 Sam Aaron TBD waiting on content  --------------------
+# --------  07 Live Coding Education with Sonic Pi  --------------------
 
 
 WorkshopNum13 : 7
 
 WorkshopClassroom13 :
 
-WorkshopLanguage13 : English
+WorkshopLanguage13 : Anglès
 
-WorkshopReq13 :
+WorkshopReq13 : Ordinador portàtil i auriculars
 
-WorkshopTitle13 : Sam Aaron TBD waiting on content
+WorkshopTitle13 : Live Coding Education with Sonic Pi
 
-WorkshopSubtitle13 :
+WorkshopSubtitle13 : Sam Aaron, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit
 
-WorkshopText13 :
+WorkshopText13 : Sonic Pi és un entorn de programació lliure que introdueix els principis de la programació alhora que permet fer música. En aquesta sessió eminentment pràctica en veurem la història —per què es va crear, com ha evolucionat i què pot fer avui dia—. Aprendreu com es fan línies de greus a partir de llistes i iteració, o com els condicionals introdueixen diversitat, i descobrireu com sonen els vostres propis algorismes.
 
-WorkshopSpeakerTitle13A :
+WorkshopSpeakerTitle13 : Sam Aaron
 
-WorkshopSpeakerText13A :
-
-WorkshopSpeakerTitle13B :
-
-WorkshopSpeakerText13B :
+WorkshopSpeakerText13 : Programador de live coding, educador i investigador. Va ser el desenvolupador principal d’Overtone i Quil, projectes de programació creativa per a l’expressió (en directe) de so i imatge. Més recentment ha creat Sonic Pi, un entorn de programació en directe basat en llenguatge Ruby que permet crear música a partir de codi i que sobretot està pensat per a l’àmbit educatiu. De dia, Sam és investigador al Laboratori Informàtic de la University of Cambridge, i de nit se’l pot trobar programant ritmes en locals nocturns.
 
 # --------  08 Perform Big Van Theory, how to configure a performance  --------------------
 
@@ -455,6 +506,26 @@ WorkshopSpeakerTitle15 : Míriam Martí Pallarès
 WorkshopSpeakerText15 : Actress and biologist, specialising in communication and scientific outreach. As an actress she has participated in various TV, film and theatre projects. She is also a professor of science and theatre interpretation. As a specialist in scientific dissemination, she has carried out several projects to bring science to society, for FCRI, TV3 and ICFO, among others. Miriam is committed to mixing science and art and one of the ways in which she does this, is through her personal Synapsis Art project.
 
 
+# -------- 10 - Hacking STEM --------------------
+
+
+WorkshopNum20 : 10
+
+WorkshopClassroom20 :
+
+WorkshopLanguage20 : Castellà
+
+WorkshopReq20 :
+
+WorkshopTitle20 : Hacking STEM
+
+WorkshopSubtitle20 : Alba Rodríguez Agüero, Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab
+
+WorkshopText20 : Hacking STEM és el projecte que ha creat Microsoft per treballar a l’aula les assignatures STEM a través de la metodologia maker. En aquest taller, els participants aprendran a introduir el projecte del telègraf a la seva aula i a conèixer el potencial que té aquest tipus de projectes en l’àmbit educatiu.
+
+WorkshopSpeakerTitle20 : Alba Rodríguez Agüero
+
+WorkshopSpeakerText20 : És graduada en Enginyeria Marítima i professora de secundària en l’àrea de ciències. És experta en big data i en tecnologies de l’aprenentatge i el coneixement, a més de responsable de l’àrea d’educació i líder del projecte Makermania de Possible Lab.
 
 
 
