@@ -6,7 +6,7 @@ tags = "educacion, steam, education, steam"
 tagline = "STEAMConf, 5th. International Education Conference"
 description = "STEAMConf wants to visualize the vital importance of implementing programs and resources, which help to minimize the digital divide, gender imbalances and promote equal opportunities."
 DefaultContentLanguage = "ca"
-copyright = "© STEAMConf 2018"
+copyright = "© STEAMConf 2019"
 
 # Build robots.txt file
 enableRobotsTXT = true
