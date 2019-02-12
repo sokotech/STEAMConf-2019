@@ -3,7 +3,7 @@
   <div class="container">
 
     <div class="home-description-section-img">
-      <img src="img/01/steamconf_atom.svg" alt="steamconf-atom">
+      <img src="{{ "/img/01/steamconf_atom.svg" | absURL  }}" alt="steamconf-atom">
     </div>
 
     <div class="home-description-section-text">
@@ -12,7 +12,7 @@
 
       <div class="title-dots page-dots right-dots"></div>
 
-      <p class="home-description-text">{{ .HomeDescriptionText }}</p>
+      <p class="home-description-text">{{ .HomeDescriptionText | markdownify }}</p>
 
       <a href="about"><button type="button" name="home-description-section-button">{{ .HomeDescriptionButton }}</button></a>
 

@@ -22,13 +22,13 @@ Date01 : Sábado, 30 de marzo
 
 Time02 : 10.00 - 14.00
 
-Place02 : Cosmocaixa
+Place02 : CosmoCaixa
 
 Classroom02 : Sala Ágora
 
-Title02 : EdCamp SteamConf
+Title02 : EdCamp STEAMConf
 
-Subtitle02 : Camino hacia STEAMConf 2019
+Subtitle02 : "**Camino hacia STEAMConf 2019**"
 
 
 # --------------------------------- Jueves 4 de abril --------------------------------
@@ -70,13 +70,13 @@ Date06 : Viernes 5 de abril
 
 Time07 : 9.00 -
 
-Place07 : Cosmocaixa
+Place07 : CosmoCaixa
 
 Classroom07 : Sala Ágora
 
 Title07 : Talleres
 
-Subtitle07 : Registro y entrega de documentación de los talleres y la conferencia
+Subtitle07 : "**Registro y entrega de documentación de los talleres y la conferencia**"
 
 
 # --------  Paralel Workshops  --------------------
@@ -86,7 +86,7 @@ Time08 : 10.00 -
 
 Title08 : Talleres Paralelos
 
-Place08 : Cosmocaixa
+Place08 : CosmoCaixa
 
 Classroom08 : Sales múltiples
 
@@ -202,7 +202,7 @@ Time17 : 12.00 -
 
 Title17 : Talleres Paralelos
 
-Place17 : Cosmocaixa
+Place17 : CosmoCaixa
 
 Classroom17 : Sales múltiples
 
@@ -324,11 +324,11 @@ WorkshopReq25 : Define
 
 Time26 : 13.30 -
 
-Place26 : Cosmocaixa
+Place26 : CosmoCaixa
 
 Title26 : Almuerzo
 
-Subtitle26 : Exclusivo para asistentes a las dos actividades (jornadas + talleres)
+Subtitle26 : "**Exclusivo para asistentes a las dos actividades (jornadas + talleres)**"
 
 
 # --------  Row 0 Welcome  --------------------
@@ -336,13 +336,13 @@ Subtitle26 : Exclusivo para asistentes a las dos actividades (jornadas + tallere
 
 Time27 : 13.45 -
 
-Place27 : Cosmocaixa
+Place27 : CosmoCaixa
 
 Classroom27 : Sala Ágora
 
 Title27 : Recepción del profesorado de la Fila 0
 
-Subtitle27 : Bienvenida y coordinación a cargo de Begonya Folch, miembro del Comité Asesor de STEAMConf
+Subtitle27 : "Bienvenida y coordinación a cargo de **Begonya Folch**, miembro del Comité Asesor de STEAMConf"
 
 
 # --------  Conference Registry  --------------------
@@ -350,7 +350,7 @@ Subtitle27 : Bienvenida y coordinación a cargo de Begonya Folch, miembro del Co
 
 Time28 : 14.00 -
 
-Place28 : Cosmocaixa
+Place28 : CosmoCaixa
 
 Title28 : Registro y entrega de documentación
 
@@ -362,17 +362,17 @@ LanguageNotice28 : Todas las sesiones dispondrán de traducción simultánea en 
 
 Time29 : 15.00 -
 
-Place29 : Cosmocaixa
+Place29 : CosmoCaixa
 
 Classroom29 : Auditorium
 
 Title29A : Inauguración de la conferencia
 
-Subtitle29A : Jordi Portabella i Calvete, director del Área de Divulgación Científica y CosmoCaixa de la Fundació Bancària ”la Caixa”; Francesca Bria, comisionada de Tecnología e Innovación Digital del Ayuntamiento de Barcelona; M.ª del Mar Camacho, directora general de Innovación, Investigación y Cultura Digital de la Generalitat de Catalunya
+Subtitle29A : "**Jordi Portabella i Calvete**, director del Área de Divulgación Científica y CosmoCaixa de la Fundació Bancària ”la Caixa”; **Francesca Bria**, comisionada de Tecnología e Innovación Digital del Ayuntamiento de Barcelona; **M.ª del Mar Camacho**, directora general de Innovación, Investigación y Cultura Digital de la Generalitat de Catalunya"
 
 Title29B : Bienvenida a las sesiones
 
-Subtitle29B : Bienvenida a cargo de Frank Sabaté, miembro del Comité Asesor, presentador y conductor de la conferencia
+Subtitle29B : "Bienvenida a cargo de **Frank Sabaté**, miembro del Comité Asesor, presentador y conductor de la conferencia"
 
 
 # --------  Session 01 - Éxito o fracaso: la necesidad del cambio --------------------
@@ -380,15 +380,15 @@ Subtitle29B : Bienvenida a cargo de Frank Sabaté, miembro del Comité Asesor, p
 
 Time30 : 15.20 -
 
-Place30 : Cosmocaixa
+Place30 : CosmoCaixa
 
 Classroom30 : Auditorium
 
 Title30 : Éxito o fracaso, la necesidad del cambio
 
-Subtitle30 : Anna Cutler, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido)
+Subtitle30 : "**Anna Cutler**, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido)"
 
-LocalPeer30 : Mónica Bello, comisaria y responsable de Artes del CERN (Suiza)
+LocalPeer30 : "**Mónica Bello**, comisaria y responsable de Artes del CERN (Suiza)"
 
 
 # --------  Conversation --------------------
@@ -408,15 +408,15 @@ Time32 : 16.30 -
 
 Time33 : 17.00 -
 
-Place33 : Cosmocaixa
+Place33 : CosmoCaixa
 
 Classroom33 : Auditorium
 
 Title33 : Parece que se lo pasan bien, pero ¿aprenden?
 
-Subtitle33 : Sebastian Martin, Tinkering Studio. Exploratorium de San Francisco (Estados Unidos)
+Subtitle33 : "**Sebastian Martin**, Tinkering Studio. Exploratorium de San Francisco (Estados Unidos)"
 
-LocalPeer33 : Òscar M. Ciuró, gestor de educación cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona
+LocalPeer33 : "**Òscar M. Ciuró**, gestor de educación cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona"
 
 
 # --------  Conversation --------------------
@@ -430,15 +430,15 @@ Time34 : 17.50 -
 
 Time35 : 18.10 -
 
-Place35 : Cosmocaixa
+Place35 : CosmoCaixa
 
 Classroom35 : Auditorium
 
 Title35 : Sonic Pi y la educación
 
-Subtitle35 : Sam Aaron, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)
+Subtitle35 : "**Sam Aaron**, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)"
 
-LocalPeer35 : Carles Ceacero, músico polifacético y profesor de música en la Escola Pereanton de Granollers (Barcelona)
+LocalPeer35 : "**Carles Ceacero**, músico polifacético y profesor de música en la Escola Pereanton de Granollers (Barcelona)"
 
 # -------- Conversación y actuación musical en directo --------------------
 
@@ -459,15 +459,15 @@ Date36 : Sábado 6 de abril
 
 Time37 : 10.00 -
 
-Place37 : Cosmocaixa
+Place37 : CosmoCaixa
 
 Classroom37 : Auditorium
 
 Title37 : Engagement First, senderos hacia un aprendizaje intrínsecamente motivado
 
-Subtitle37 : Gever Tulley, fundador de la Brightworks School y arquitecto educativo, San Francisco (Estados Unidos)
+Subtitle37 : "**Gever Tulley**, fundador de la Brightworks School y arquitecto educativo, San Francisco (Estados Unidos)"
 
-LocalPeer37 : Mariona Cíller, cofundadora de SokoTech, Barcelona
+LocalPeer37 : "**Mariona Cíller**, cofundadora de SokoTech, Barcelona"
 
 
 # --------  Conversation --------------------
@@ -487,15 +487,15 @@ Time39 : 11.10 -
 
 Time40 : 11.40 -
 
-Place40 : Cosmocaixa
+Place40 : CosmoCaixa
 
 Classroom40 : Auditorium
 
 Title40 : Trasladar la cultura de la evaluación al siglo xx, el poder de la evaluación innovadora
 
-Subtitle40 : Juuso Henrik Nieminen, Grupo de Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia)
+Subtitle40 : "**Juuso Henrik Nieminen**, Grupo de Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia)"
 
-LocalPeer40 : Victoria Eugenia Ibáñez, profesora de ciencias y matemáticas en educación secundaria, Barcelona
+LocalPeer40 : "**Victoria Eugenia Ibáñez**, profesora de ciencias y matemáticas en educación secundaria, Barcelona"
 
 
 # --------  Conversation --------------------
@@ -510,15 +510,15 @@ Time41 : 12.20 -
 
 Time42 : 12.40 -
 
-Place42 : Cosmocaixa
+Place42 : CosmoCaixa
 
 Classroom42 : Auditorium
 
 Title42 : Escuela ¿Para qué?
 
-Subtitle42 : Kaleb Rashad, director creativo de la Gary and Jerri-Ann Jacobs High Tech High y profesor adjunto de la High Tech High Graduate School of Education de San Diego (Estados Unidos)
+Subtitle42 : "**Kaleb Rashad**, director creativo de la Gary and Jerri-Ann Jacobs High Tech High y profesor adjunto de la High Tech High Graduate School of Education de San Diego (Estados Unidos)"
 
-LocalPeer42 : Sergi del Moral, miembro del equipo directivo y docente del Institut-Escola Les Vinyes de Castellbisbal (Barcelona)
+LocalPeer42 : "**Sergi del Moral**, miembro del equipo directivo y docente del Institut-Escola Les Vinyes de Castellbisbal (Barcelona)"
 
 
 # ---- 07 Creating the next generation of schools --------------------
@@ -526,7 +526,7 @@ LocalPeer42 : Sergi del Moral, miembro del equipo directivo y docente del Instit
 
 Time43 : 13.20 -
 
-Place43 : Cosmocaixa
+Place43 : CosmoCaixa
 
 Classroom43 : Auditorium
 
@@ -534,9 +534,9 @@ Title43 : La creación de la próxima generación de escuelas
 
 Subtitle43A : Conversación
 
-Subtitle43B : Kaleb Rashad, director creativo de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estados Unidos)
+Subtitle43B : "**Kaleb Rashad**, director creativo de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estados Unidos)"
 
-LocalPeer43 : Anna Cutler, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido); Gever Tulley, fundador de la Brightworks School y «arquitecto pedagógico», San Francisco (Estados Unidos); Juuso Henrik Nieminen, Grupo de Recerca en Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia); Sam Aaron, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)
+LocalPeer43 : "**Anna Cutler**, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido); **Gever Tulley**, fundador de la Brightworks School y «arquitecto pedagógico», San Francisco (Estados Unidos); **Juuso Henrik Nieminen**, Grupo de Recerca en Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia); **Sam Aaron**, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)"
 
 
 # --------  Sesión de clausura de la conferencia --------------------
@@ -544,13 +544,13 @@ LocalPeer43 : Anna Cutler, directora de Aprendizaje e Investigación de la Tate,
 
 Time44 : 14.00 -
 
-Place44 : Cosmocaixa
+Place44 : CosmoCaixa
 
 Classroom44 : Auditorium
 
 Title44 : Sesión de clausura de la conferencia
 
-Subtitle44 : A cargo de Lluís Noguera, director de CosmoCaixa
+Subtitle44 : "A cargo de **Lluís Noguera**, director de CosmoCaixa"
 
 # COMO LLEGAR
 
@@ -564,7 +564,7 @@ HomeFooterSectionTitle03 : En Autobus
 HomeFooterSectionTitle04 : Por Ferrocarriles de la Generalitat
 
 HomeFooterSectionTitle05 : Aparcamiento
-HomeFooterSectionText05 : Tarifa reducida para participantes de SteamConf (1 € / h). Hay que presentar la entrada SteamConf en la ventanilla del parking SABA.
+HomeFooterSectionText05 : Tarifa reducida para participantes de STEAMConf (1 € / h). Hay que presentar la entrada STEAMConf en la ventanilla del parking SABA.
 
 # FOOTER
 

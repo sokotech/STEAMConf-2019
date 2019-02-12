@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="../">
-    <img src="../img/01/steamconf-logo.svg" alt="">
+    <img src="{{ "/img/01/steamconf-logo.svg" | absURL  }}" alt="steamconf logo">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -33,9 +33,9 @@
       <li class="nav-item dropdown program-dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="program" role="button" aria-haspopup="true" aria-expanded="false">{{ i18n "language" }}</a>
           <div class="dropdown-menu">
-            {{ range $.Site.Home.AllTranslations }}
-            <li><a class="dropdown-item nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-            {{ end }}
+            <a class="dropdown-item nav-link"  href="/en/">en</a>
+            <a class="dropdown-item nav-link"  href="/es/">es</a>
+            <a class="dropdown-item nav-link" href="/ca/">ca</a>
           </div>
       </li>
 

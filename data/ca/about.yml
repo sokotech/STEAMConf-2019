@@ -4,9 +4,11 @@ item :
 
 languageName : CA
 
-PageHeaderAbout : SteamConf
+PageHeaderAbout : STEAMConf
 
-Info01 : STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M; des de la música de Sam Aaron fins al teatre de myPERFORM; Des de l’art de la Tate, fins a diverses iniciatives d'aula  que fan de l’aprenentatge basat en projectes (ABP), les experiències vitals i l’avaluació, un acte d’intensa creació. Què és la cultura creativa i com es pot aplicar a l’aula? Com es poden utilitzar les activitats pràctiques per ensenyar capacitats i tecnologies de resolució de problemes i, al mateix temps, despertar la curiositat i la creativitat d’un alumne?
+Info01 : STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M; des de la música de Sam Aaron fins al teatre de myPERFORM; Des de l’art de la Tate, fins a diverses iniciatives d'aula  que fan de l’aprenentatge basat en projectes (ABP), les experiències vitals i l’avaluació, un acte d’intensa creació.
+
+Info01A : Què és la cultura creativa i com es pot aplicar a l’aula? Com es poden utilitzar les activitats pràctiques per ensenyar capacitats i tecnologies de resolució de problemes i, al mateix temps, despertar la curiositat i la creativitat d’un alumne?
 
 Info02 : “Crear és la millor estratègia per sobreviure en un món canviant.”
 
@@ -14,14 +16,12 @@ Info02A :  Jorge Wagensberg
 
 Info03 : No podem evitar tancar la introducció a aquesta edició, impregnada d’innovació i creativitat, amb les paraules que clouen el llibre “The Innovators” de Walter Isaacson:«La propera etapa de la revolució digital portarà una veritable fusió entre tecnologia i indústries creatives. Aquesta innovació provindrà de persones  capaçes de vincular bellesa i enginyeria, humanitat i tecnologia, i poesia i processadors. Dit altrament, provindrà dels hereus espirituals d’Ada Lovelace, creadors que surgiran allà on les arts s’entrecreuen amb les ciències, dotats d'una rebel capacitat de sorpresa. que els obri a la bellesa de les dues ".
 
-
 SteeringTitle01 : Steering Committe
 SteeringSubtitle01 : Direcció i producció
 
 ItemSteeringTitle01 : Mariona Cíller
 ItemSteeringSubtitle01 : Fundadora i directora de SokoTech
 ItemSteeringText01 : Fundadora de SokoTech, li encanten el hardware i el software lliure, i és dissenyadora gràfica i web, programadora i productora d’esdeveniments de ciència i tecnologia. Dissenya també iniciatives per a nenes, nens i joves. Graduada cum laude per la Universitat d’Illinois, amb doble titulació en Bachelor of Fine Arts i posteriorment Master of Science, és també graduada per la Fab Academy del Massachussets Institute of Technology (MIT). La seva tesi, «Free Culture Project», que fusiona el poder de la tecnologia amb el poder transformador de l’educació, és un punt d’inflexió en la seva trajectòria, cap a territoris de reinvenció del món de la docència i l’aprenentatge en què assaja nous models, sempre de la mà de les tecnologies més avançades.
-
 
 ItemSteeringTitle02 : Paca Cíller
 ItemSteeringSubtitle02 : Activista de la cultura científica i tecnològica
@@ -32,36 +32,27 @@ SteeringSubtitle02 : Comitè Assessor
 ItemSteeringTitle03 : Jordi Albó
 ItemSteeringText03 : És professor associat de La Salle Campus Barcelona-Universitat Ramon Llull (URL), director de Robòtica a La Salle Almere i gerent d’innovació de Robòtica Social a Everis-NTT Data. És doctor en Enginyeria Mecatrònica, Robòtica i Automatització, màster de Telecomunicacions i llicenciat en Enginyeria Electrònica, en tots tres casos per La Salle-Universitat Ramon Llull (Barcelona).
 
-
 ItemSteeringTitle04 : Begonya Folch
 ItemSteeringText04 : Músic, implicada en la transformació educativa i en l’impacte de l’art en l’educació de les persones, és professora d’educació Primària i Secundària, formadora de mestres i ha estat professora a la Facultat del Professorat de la UB. També ha treballat al Servei d’Innovació i Recerca del Departament d’Ensenyament, al Consell Escolar de Catalunya i a la Fundació Jaume Bofill, en el programa Escola Nova 21. Ha estat formadora de l’ICE de la UAB, de l’Associació de Mestres Rosa Sensat i del Departament d’Ensenyament. Ha col·laborat amb l’Educators Advisory Team de l’ICFO i ha format part del Consell de redacció de la revista Perspectiva Escolar. Actualment treballa a l’Àrea d’Innovació, Programes i Formació del Consorci d’Educació de Barcelona, en el programa Xarxes per al canvi (#Xarxesperalcanvi).
-
 
 ItemSteeringTitle05 : Boris Mir
 ItemSteeringText05 : Apassionat de l’educació, és professor d’educació secundària. Ha estat un dels iniciadors de l’Institut-Escola Les Vinyes de Castellbisbal, un centre de la xarxa d’instituts innovadors de la Universitat Autònoma de Barcelona. Ha impulsat projectes al voltant de l’avaluació formativa, les estratègies d’aprenentatge i la creativitat a l’aula. Col·labora amb centres, institucions i col·lectius per ajudar-los a transformar l’educació. Actualment és el director adjunt del programa Escola Nova 21.
 
-ItemSteeringTitle06: Lluis Mora
-ItemSteeringText06 : És director del CESIRE (Generalitat de Catalunya) des del 2015. Els seus projectes personals se centren, d'una banda, a investigar maneres d'ensenyar estadística i probabilitat als alumnes de primària i secundària per fer que millorin les seves habilitats, capacitat de resolució de problemes i ús de mitjans digitals com a eina d'aprenentatge; i, d'altra banda, l'avaluació de l'aprenentatge.
+ItemSteeringTitle06: Julio Pérez
+ItemSteeringText06 : Director del CESIRE, Departament d'Ensenyament, Generalitat de Catalunya. Em situo a la frontera entre l'educació i la divulgació i comunicació de la ciència. Crec que un bon professor no està lluny de ser un comunicador amb fonaments de didàctica i del seu camp de coneixement, i altes capacitats d'observació i empatia. He exercit la docència a secundària i la universitat, he fet formació de professorat (inicial i permanent) i també em trobo molt còmode treballant amb mestres de primària (infantil em fa molt de respecte, i ho deixo pels professionals). Defenso una educació pública de qualitat, que formi ciutadans crítics, amb criteri propi i capaços de desenvolupar-se de forma autònoma en una societat tecnificada que canvia molt ràpidament.
 
 
 ItemSteeringTitle07 : Sergi del Moral
 ItemSteeringText07 : És professor de matemàtiques i projectes a l’Institut-Escola Les Vinyes, així com professor associat de la Universitat de Barcelona i del màster de Formació del Professorat de Secundària d’aquesta universitat. S’interessa pels processos de transformació que contribueixen a compensar el pes, les matèries tradicionals i els continguts en favor d’altres de centrats en l’acció, la resolució de problemes i l’aprenentatge. L’interessa també investigar com es pot modificar l’avaluació per fer-la més diagnòstica i menys coercitiva, i com es pot donar més protagonisme i responsabilitat als nois i les noies.
 
-
-
 ItemSteeringTitle08 : Coral Regí Rodríguez
 ItemSteeringText08 : Biòloga de formació i educadora de vocació. Directora de l’Escola Virolai de Barcelona. Representant en diferents organitzacions educatives; FEAEC, el Consell Escolar de Catalunya i el Consell de Ciutat de Barcelona. Com a especialista en diferents temes docents i educatius, participa en jornades i congressos educatius.
-
-
 
 ItemSteeringTitle09 : Francesc Sabaté
 ItemSteeringText09 : És enginyer industrial elèctric per la UPC, i fa més de 20 anys que desenvolupa i dirigeix projectes d’automatització. És assessor en tecnologies de gestió de la producció i a l’àrea de formació de la Fundació CIM. Apassionat de les tecnologies i la seva divulgació, juga amb LEGO des que té memòria. És també director del màster en Automatització i Robòtica a la Fundació CIM/UPC.
 
-
 ItemSteeringTitle10 : Frank Sabaté
 ItemSteeringText10 : Mestre a l’Escola Projecte de Barcelona. Apassionat de la programació i la robòtica educativa. És membre del comitè científic del programa Educació Demà de la Fundació Jaume Bofill i del comitè impulsor del congrés STEAM Barcelona. Ha format part de l’organització de les edicions europees de la Scratch Conference (Barcelona ’13, Amsterdam ’15 i Bordeus ’17). És assessor en l’aliança magnet entre l’escola Montessori de Rubí i el CIM UPC. Comparteix els seus coneixements en sessions presencials de formació al professorat i en el seu canal de Youtube “Scratch en 5 minuts”.
-
-
 
 # COMO LLEGAR
 
@@ -75,7 +66,7 @@ HomeFooterSectionTitle03 : En Autobus
 HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
 
 HomeFooterSectionTitle05 : Aparcament
-HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
+HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
 
 # FOOTER
 

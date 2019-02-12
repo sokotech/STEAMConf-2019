@@ -33,3 +33,6 @@ other = "Conferència"
 
 [classroom]
 other = "Aula"
+
+[moderator]
+other = "Moderador"

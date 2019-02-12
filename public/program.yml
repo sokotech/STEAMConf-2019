@@ -2,18 +2,18 @@ enable: true
 
 item:
 
-PageHeaderProgram : Program
+PageHeaderProgram : Programa
 
 PausaCafe : Coffee Break
 
-Conversation : Conversation
+Conversation : Conversa
 
-ParalelWorkshops : Parallel Workshops
+ParalelWorkshops : Tallers paral.lels
 
 
-# --------------------------------- Saturday, March 30th --------------------------------
+# --------------------------------- Dissabte 30 de març --------------------------------
 
-Date01 : Saturday, March 30th
+Date01 : Dissabte 30 de març
 
 # --- EdCamp ---------------------
 
@@ -25,87 +25,83 @@ Classroom01 : Sala Àgora
 
 Title01A : EdCamp STEAM
 
-Subtitle01A : Path to STEAMConf 2019
+Subtitle01A : Camí de STEAMConf 2019
 
-Text01A : A meeting powered by teachers for teachers. A free and open invitation for everyone to share and build knowledge, experiences, ideas, concerns and to prepare ahead for the three days of STEAMConf conversations, debates, workshops and conferences.
+Text01A : Una trobada impulsada per professors, per a professors, gratuïta i oberta a tothom, pensada per compartir i intercanviar coneixements, experiències, idees, preocupacions i inspiracions, i per preparar els tres dies de debats, tallers i conferències.
 
-Title01B : Is this your first EdCamp?
+Title01B : És el teu primer edcamp?
 
-Text01B : If so, don’t worry! Here you’ll have the chance to discover what it is about and experience it for yourself. An EdCamp is a meeting designed to share knowledge, concerns and passions about education. It is based on knowledge-sharing and growing among equals, through discussions and exchanges in an open and stimulating environment that facilitates the free circulation of ideas.
+Text01B : Si és així, no passa res; aquí tindràs la possibilitat de descobrir-lo i viure’l en primera persona. Un edcamp és una trobada que té la finalitat de compartir aprenentatges, coneixements, inquietuds i passions sobre l’educació. Es basa en un aprenentatge entre iguals, i és desenvolupa a través de la conversa i l’intercanvi en un ambient d’espai obert i estimulant que facilita la lliure circulació d’idees.
 
-Title01C : Is there a programme?
+Title01C : Hi ha programa?
 
-Text01C : An EdCamp has no specific programme because it is the participants that create the programme or the map of the sessions together, based on subjects, questions and concerns that are of interest to them.
+Text01C : En un edcamp no hi ha un programa definit per l’organització, ja que són els participants els que elaboren conjuntament el programa o mapa de les sessions a partir dels temes, preguntes o inquietuds que són del seu interès.
 
-Title01D : Who can initiate the conversation?
+Title01D : Qui pot iniciar les converses?
 
-Text01D : Everyone is welcome to lead and initiate a session based on their own conversation proposal.
+Text01D : Tothom és benvingut a liderar i iniciar una sessió a partir de la seva proposta de conversa.
 
-Title01E : What will you take away?
 
-Text01E : Mainly you’ll take away loads of great ideas, new resources, discoveries and shared enthusiasm, after meeting others who are just like you! But also, a meaningful connection with others who share your spirit of educational innovation.
+Title01E : Què te n’emportaràs sota el braç?
 
-button01F : Are you game? Register now!
+Text01E : Primer, i de ben segur, un munt de grans idees, nous recursos, noves descobertes i l’entusiasme compartit de trobar gent inquieta com tu! I, a més, la possibilitat d’afegir a la teva agenda alguns noms amb qui compartir un esperit d’innovació educativa!
+
+button01F : T’HI ANIMES? APUNTA-T’HI!
 
 
 # --------------------------------- Dijous 4 d’abril --------------------------------
 
-Date02 : Thursday, April 4
+Date02 : Dijous 4 d’abril
 
-# PERFOMANCE UNESCO How to configure a performance
+# PERFOMANCE UNESCO Cuando la ciencia pisa escenari
 
 Time02 : 18.30 -
 
 Place02 : Cosmocaixa
 
-Classroom02 : Auditorium
+Classroom02 : Auditori
 
-Title02A : Public opening of the Conference
+Title02A : MyPERFORM-UNESCO
 
-LanguageNotice02 : Conference open to the public (simultaneous translation in Catalan, Spanish and English)
+LanguageNotice02 : Conferència-espectacle d’inauguració, oberta al públic (traducció simultània en català, castellà i anglès)
 
-LocalSpeaker02A : Welcome by Lluís Noguera i Jordana, Director of CosmoCaixa, Barcelona and Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona
+LocalSpeaker02A : Benvinguda, a càrrec de **Lluís Noguera i Jordana,** director del CosmoCaixa, Barcelona; **Francesca Bria,** comissionada de Tecnologia i Innovació Digital de l’Ajuntament de Barcelona; **Ernesto Fernández Polcuch,** Chief of Section for Science Policy and Partnerships, Natural Sciences Sector, UNESCO. (TBC)
 
 LocalSpeakerTitle02F : Lluís Noguera i Jordana
 
-LocalSpeakerText02F : Director of CosmoCaixa, the Science Museum of the “la Caixa” Banking Foundation. He is a graduate in Philosophy from the Universitat Autònoma de Barcelona (UAB) and has a master’s degree in Cultural Management from Universitat de Barcelona (UB) and in Public Administration from ESADE. He has also studied International Cultural Relations and previously held the position of deputy director of the Science, Research and Environment Area at the “la Caixa” Banking Foundation, developing, among others, the assessment project for the science outreach programme.
+LocalSpeakerText02F : És director del CosmoCaixa, el Museu de la Ciència de la Fundació Bancària ”la Caixa”. Llicenciat en Filosofia per la UAB i màster en Gestió Cultural per la UB i en Gestió Pública per ESADE, també ha estudiat Relacions Culturals Internacionals. Ha estat subdirector de l’Àrea de Ciència, Recerca i Medi Ambient de la Fundació Bancària ”la Caixa”, on ha dut a terme, entre altres projectes, l’avaluació del programa de divulgació científica.
 
 InternationalSpeakerTitle02C : Francesca Bria
 
-InternationalSpeakerText02C : Was a Nesta Senior Adviser and Senior Project Lead at the Nesta Innovation Lab. She was also a researcher and teaching associate at Imperial College Business School in the Innovation Studies Centre-Digital Economy Lab. She has a background in innovation economics and social sciences, a PhD from Imperial College and an MSc in E-business and Innovation from University of London, Birkbeck. Francesca is a member of the Internet of Things Council and an advisor to the European Commission on Future Internet and Smart Cities policy. She is also a member of the EC Expert Group on Open Innovation (OISPG) and a member of the European Research Cluster on the Internet of Things (IERC). She has been advising a variety of organisations and public institutions on innovation policy, open technology, the internet of things and smart cities. She is also active in various grassroots movements advocating for open access, digital sovereignty and digital rights.
+InternationalSpeakerText02C : Investigadora i docent associada en l’Imperial College Business School, a Innovation Studies Centre-Digital Economy Lab. Formada en ciències sociales i en l’economía de la innovació, és doctora per l’Imperial College i MSc in E-business and Innovation por el University College de Londres, Birkbeck. Bria és membre de l’Internet of Things Council i assessora de la Comissió Europea en polítiques del futur d’Internet i les smart cities. També és membre del EC Expert Group on Open Innovation (OISPG) i del European Research Cluster on the Internet of Things (IERC).
 
 InternationalSpeakerTitle02D : Ernesto Fernández Polcuch
 
 InternationalSpeakerText02D : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Title02B : MyPERFORM-UNESCO / How to configure a performance
+Title02B : MyPERFORM-UNESCO - Quan la ciència trepitja escenaris
 
-LocalSpeaker02B : Helena González and Oriol Marimon, Big Van Ciencia, IES Moises Broggi, IES Consell de Cent and IES Castellbisbal (Barcelona)
+LocalSpeaker02B : "**Helena González** & **Oriol Marimon,** Vig Van Ciencia, IES Moises Broggi, IES Consell de Cent & IES Castellbisbal."
 
-Text02B : At myPERFORM we talk about science with responsibility; we tackle social challenges, ethical dilemmas and gender inequalities; we identify pseudoscience and conflicts of interest but above all, we have a great time, we explore humour and we build scientific stories and perform them
- on stage.
+Text02B : A myPERFORM parlem de ciència amb responsabilitat; abordem reptes socials, dilemes ètics, desigualtats de gènere; identifiquem pseudociències i conflictes d’interessos. Però, sobretot, ens ho passem d’allò més bé, explorem l’humor, construïm històries científiques i les representem sobre un escenari.
 
-Text02C : The myPERFORM project uses the performing arts to create an inclusive environment in which young people work together with researchers, their professors and science communicators, to explore science and technology issues and values. The final product of these participatory methodologies is a theatre piece (a scientific monologue, a sketch, a story ...) that can be represented on stage and that talks about real scientific or technological research. myPERFORM has made learning a participatory, "humanised" activity, put into the local context of students, and has contributed to the development of a reflective and informed population through science.
+Text02C: El projecte myPERFORM recorre a les arts escèniques per crear un entorn inclusiu en el qual els joves puguin treballar al costat d’investigadors, els seus professors i comunicadors de ciència, amb l’objectiu d’explorar tots plegats diversos temes científic-tecnològics i els valors que hi esten relacionats. El producte final d’aquestes metodologies participatives és una peça teatral (un monòleg científic, un esquetx, una història…) que pot ser representada sobre un escenari i que parla sobre una investigació científica o tecnològica real. myPERFORM ha fet de l’aprenentatge una activitat participativa, «humanitzada», contextualitzada a les realitats locals dels estudiants, i ha contribuït al desenvolupament d’una població reflexiva i informada per la ciència.
 
-Text02D : The presentation of the myPERFORM project will be a spectacle. Literally. A show in which the monologues and theatrical sketches made by students from various schools in Barcelona will be interspersed, where we can answer questions such as = what can we do to stop climate change? How do we look for life on other planets? What new technologies are there for fighting cancer?
+Text02D: La presentació del projecte myPERFORM serà un espectacle. Literalment. Un espectacle en el qual s’intercalaran els monòlegs i els esquetxos teatrals fets per alumnes de secundària de diversos centres educatius de Barcelona, en els quals podrem respondre a preguntes com ara; què podem fer per aturar el canvi climàtic, com cerquem vida en altres planetes o quines noves tecnologies existeixen per combatre el càncer. myPERFORM és la continuació de l’èxit del seu predecessor, el projecte PERFORM de la Comissió Europea, i té com a objectiu posar en pràctica en països de tot el món processos d’ensenyament de les ciències basats en el rendiment.
 
-Text02E : MyPERFORM follows from the successes of its predecessor, the European Commission funded PERFORM project, to implement performance-based science education processes in countries worldwide.
-
-Text02F : PERFORM has been a project financed by the European Union, implemented in Spain, the United Kingdom and France. The design and implementation of pedagogical activities has been led by Big Van Science (www.bigvanciencia.com).
-
-Text02G : The Educational Centers that participated in the PERFORM project that will tell us the science from the scene are IES Moises Broggi, IES Consell de Cent and IES Castellbisbal.
+Text02E: myPERFORM va ser un projecte finançat per la Unió Europea i aplicat a Espanya, el Regne Unit i França. El disseny i l’execució de les activitats pedagògiques van ser dirigits per Big Van Ciencia (www.bigvanciencia.com). Els centres educatius que han participat en el projecte myPERFORM i que ens explicaran la ciència des de l’escenari són l’IES Moisès Broggi, l’IES Consell de Cent i l’IES Castellbisbal.
 
 LocalSpeakerTitle02A : Helena González
 
-LocalSpeakerText02A : Graduate in Biology and Biochemistry from the Universidad de Salamanca and doctor of Biomedicine from the Universitat de Barcelona. She is passionate about genes, inheritance, genetic engineering, chromosomal instability and other molecular margins. She is dedicated to disseminating science through Big Van Ciencia, an association of which she is the director and founder (2013). She is particularly interested in science education in primary schools because her ten-year-old mind connects perfectly with this type of audience.
+LocalSpeakerText02A : Llicenciada en Biologia i en Bioquímica per la Universitat de Salamanca, i doctora en Biomedicina per la Universitat de Barcelona. Apassionada dels gens, l’herència, l’enginyeria genètica, la inestabilitat cromosòmica i altres marranades moleculars, es dedica a divulgar ciència a través de Big Van Ciencia, associació de la qual és directora i fundadora (2013). Està especialment interessada en l’educació científica a primària, perquè la seva ment de deu anys empatitza perfectament amb aquest tipus de públic.
 
 LocalSpeakerTitle02B : Oriol Marimon
 
-LocalSpeakerText02B : Doctor in Organic Chemistry and co-founder of the scientific communication group Big Van Ciencia, Scientists on Wheels. He is co-director of the R+D+I Department and director of International Projects for Big Van Ciencia. He is an author and actor of plays for scientific dissemination for all ages and has brought cutting-edge science to more than 250 000 spectators.
+LocalSpeakerText02B : Doctor en Química Orgànica i cofundador del grup de comunicació científica "Big Van, Cientifics Sobre Rodes", És co-director del departament d'I + D + i i Director de Projectes Internacionals de Big Van Ciència; autor i actor de peces teatrals de divulgació científica per a totes les edats, i des de els escenaris,  ha portat la ciència punta a més de 250.000 espectadors.
 
 LocalSpeakerTitle02C : Casimiro Vizzini
 
-LocalSpeakerText02C : Is an expert in the division of Science Policy and Capacity-Building at the United Nations Educational, Scientific and Cultural Organization (UNESCO). He received his Medical Degree from the University of Palermo and after his residency he attended a master’s in International Cooperation at the French Institute for International and Strategic Affairs (IRIS) in Paris. At UNESCO, he is responsible for the EU-funded projects PERFORM on science communication and education, and InsSciDE on science diplomacy. In addition, Dr. Vizzini collaborates with the American Association for the Advancement in Science in the field of science diplomacy.
+LocalSpeakerText02C : Expert en la Divisió de Política Científica i Desenvolupament de Capacitats de l’Organització de les Nacions Unides per a l’Educació, la Ciència i la Cultura (UNESCO). Es va llicenciar en Medicina a la Universitat de Palerm i, després de la seva residència, va fer un màster en Cooperació Internacional a l’Institut de Relations Internationales et Stratégiques (IRIS) de París. Actualment, a la UNESCO és el responsable del projecte PERFORM en comunicació i educació científica, així com del projecte InsSciDE en diplomàcia científica. A més, Casimiro col•labora amb l’American Association for the Advancement in Science, en el camp de la diplomàcia científica.
 
 # Conversa
 
@@ -113,7 +109,7 @@ Time03 : 19.45 -
 
 # --------------------------------- Divendres, 5 d’abril --------------------------------
 
-Date03 : Friday, April 5th
+Date03 : Divendres, 5 d’abril
 
 # tallers
 
@@ -121,23 +117,23 @@ Time04 : 9.00 -
 
 Place04 : Cosmocaixa
 
-Classroom04 : Different classrooms
+Classroom04 : Diferents Aules
 
-Title04A : Workshops and Conference Registration
+Title04A : Tallers
 
-Subtitle04A : Registration and documentation pick-up for conference & workshops.
+Subtitle04A : Registre i lliurament de documentació dels tallers i la conferència
 
-Text04A : The STEAMConf Workshops are designed to be practical and hands-on experiences. The main purpose is to share knowledge that can easily be taken to the classroom and inspire other projects. The workshops present local and international projects that aim to inspire and discover by sharing experiences between teachers and researchers.
+Text04A : Els tallers són de caràcter eminentment pràctic i presenten una sèrie de projectes, eines i idees que es poden aplicar fàcilment a l’aula. Mostren allò que s’està fent tant localment com arreu. Són font d’inspiració, i permeten també contrastar i compartir les pròpies idees amb les dels altres participants.
 
-# Parallel Workshops (paralel workshops code on top of page)
+# tallers paral•lels (paralel workshops code on top of page)
 
 Time05 : 10.00 -
 
-# Coffee Break (coffee break code on top of page)
+# pausacafe (coffee break code on top of page)
 
 Time06 : 11.30 -
 
-# Parallel Workshops (paralel workshops code on top of page)
+# tallers paral•lels (paralel workshops code on top of page)
 
 Time07 : 12.00 -
 
@@ -145,13 +141,13 @@ Time07 : 12.00 -
 
 Time08 : 13.30 -
 
-Title08 : Lunch
+Title08 : Dinar
 
-Subtitle08 : Provided for participants on both activities only (Conferences + Workshops)
+Subtitle08 : Exclusiu pels assistents a les dues activitats (Jornades + Tallers)
 
-Text08 : Choose and sign up! A double bill that’s a must-see!
+Text08 : Escull i inscriu-t’hi! Tens programa doble i pots fer el doblet!
 
-ButtonText08 : See detailed programme here!
+ButtonText08 : Vegeu el programa detallat aquí!
 
 # rebuda del professorat de la Fila 0
 
@@ -161,13 +157,13 @@ Place09 : Cosmocaixa
 
 Classroom09 : Sala Pi
 
-Title09 : Reception of front row guests
+Title09 : Rebuda del professorat de la Fila 0
 
-Subtitle09 : Welcome and coordination by Begonya Folch, member of the Advisory Committee
+Subtitle09 : Benvinguda i coordinació a càrrec de **Begonya Folch**, membre del Comitè Assessor de STEAMConf
 
 LocalSpeakerTitle09 : Begonya Folch
 
-LocalSpeakerText09 : Musician, involved in educational transformation and the impact of art on people's education. She is a teacher in primary and secondary education, a teacher trainer and former professor at UB’s Faculty of Teacher Teaching. She has also worked for the Education Department’s Research and Innovation Area, for the School Council of Catalonia and the Jaume Bofill Foundation, on the Escola Nova 21 programme. She has been a trainer for ICE at UAB, for the Rosa Sensat Teacher’s Association and for the Department of Education. She has collaborated with ICFO’s Educators Advisory Team and has been part of the editorial committee of the journal Perspectiva Escolar. She currently works for the Area of Innovation, Programmes and Training of Barcelona’s Education Consortium, on the ‘Xarxes per al canvi’ programme (Networks for Change). (#Xarxesperalchange).
+LocalSpeakerText09 : Músic, implicada en la transformació educativa i en l’impacte de l’art en l’educació de les persones, és professora d’educació Primària i Secundària, formadora de mestres i ha estat professora a la Facultat del Professorat de la UB. També ha treballat al Servei d’Innovació i Recerca del Departament d’Ensenyament, al Consell Escolar de Catalunya i a la Fundació Jaume Bofill, en el programa Escola Nova 21. Ha estat formadora de l’ICE de la UAB, de l’Associació de Mestres Rosa Sensat i del Departament d’Ensenyament. Ha col·laborat amb l’Educators Advisory Team de l’ICFO i ha format part del Consell de redacció de la revista Perspectiva Escolar. Actualment treballa a l’Àrea d’Innovació, Programes i Formació del Consorci d’Educació de Barcelona, en el programa Xarxes per al canvi (#Xarxesperalcanvi).
 
 # Registre i lliurament de documentació
 
@@ -175,9 +171,9 @@ Time10 : 14.00 -
 
 Place10 : Cosmocaixa
 
-Title10 : Conference Registration
+Title10 : Registre i lliurament de documentació
 
-LanguageNotice10 : (All sessions have simultaneous translation in Catalan, Spanish and English)
+LanguageNotice10 : Totes les sessions tindran traducció simultània català, castellà, anglès
 
 # Inauguració de la conferència
 
@@ -185,56 +181,55 @@ Time11 : 15.00 -
 
 Place11 : Cosmocaixa
 
-Title11A : Conference Opening
+Title11A : Inauguració de les sessions plenàries de la conferència
 
-Subtitle11A : Jordi Portabella i Calvete, Scientific Outreach and CosmoCaixa Area Director, Barcelona, Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona, M. del Mar Camacho, Director General of Innovation, Research and Digital Culture, Generalitat de Catalunya, Barcelona.
+Subtitle11A : "**Jordi Portabella i Calvete**, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”; **Francesca Bria**, comissionada de Tecnologia i Innovació Digital de l’Ajuntament de Barcelona;  **M. del Mar Camacho Martí**, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya"
 
 LocalSpeakerTitle11A : Jordi Portabella i Calvete
 
-LocalSpeakerText11A : Is a graduate in Biology from Universitat de Barcelona (UB) and has a master’s degree in Environmental Engineering from UPC (Universitat Politècnica de Catalunya). Formerly he was a professor of Environmental Studies for Agricultural Engineering at the UIC (Universitat Internacional de Catalunya). Portabella also has extensive experience as a manager in the area of the environment and sciences for institutions such as the UNESCO Centre of Catalonia.
+LocalSpeakerText11A : Llicenciat en Biologia per la UB i té un màster en Enginyeria Mediambiental per la UPC. Ha estat professor d’Estudis Ambientals d’Enginyeria Agrícola a la UIC i actualment és el director de l’Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària ”la Caixa”. Té, també, una llarga experiència com a gestor de l’àmbit de medi ambient i ciències per a institucions com el Centre UNESCO de Catalunya.
 
 LocalSpeakerTitle11B : Francesca Bria
 
-LocalSpeakerText11B : Was a Nesta Senior Adviser and Senior Project Lead at the Nesta Innovation Lab. She was also a researcher and teaching associate at Imperial College Business School in the Innovation Studies Centre-Digital Economy Lab. She has a background in innovation economics and social sciences, a PhD from Imperial College and an MSc in E-business and Innovation from University College of London, Birkbeck. Francesca is a member of the Internet of Things Council and an advisor to the European Commission on Future Internet and Smart Cities policy. She is also a member of the EC Expert Group on Open Innovation (OISPG) and a member of the European Research Cluster on the Internet of Things (IERC). She has been advising a variety of organisations and public institutions on innovation policy, open technology, the internet of things and smart cities. She is also active in various grassroots movements advocating for open access, digital sovereignty and digital rights.
-
-LocalSpeakerTitle11D : M. del Mar Camacho
-
-LocalSpeakerText11D : PhD lecturer on Educational Technology at the Faculty of Education of the Universitat Rovira i Virgili (Catalonia). She has taught on graduate and postgraduate programmes related to Educational Technology, with particular emphasis on Mobile Learning and emerging technologies. Co-author of the first monograph on Mobile Learning in Spain, Portugal and Latin America, she has been leading a nationwide research on the use of tablets in schools and their impact on learning. Other international collaborations in this field include institutions such as UNESCO and the International Telecommunication Union (United Nations). She has given keynotes to international audiences and is author of more than 60 scholarly papers. Appointed Director General of Primary and Childhood Education at the Catalan Ministry of Education in July 2018 and Director General of Innovation, Research and Digital Culture in December 2018.
+LocalSpeakerText11B : Ha estat Senior Adviser i Senior Project Lead al Nesta Innovation Lab. També ha estat investigadora i professora associada a l’Innovation Studies Centre-Digital Economy Lab de l’Imperial College Business School. Es va doctorar en economia de la innovació i ciències socials a l’Imperial College i té un màster en Economia Digital i Innovació per l’University College of London, Birkbeck. És membre de l’Internet of Things Council i assessora de la Comissió Europea en polítiques sobre el futur d’Internet i les smart cities. És, també, membre de l’EC Expert Group on Open Innovation (OISPG) i de l’European Research Cluster on the Internet of Things (IERC). Francesca ha estat assessora de diverses organitzacions i institucions públiques en l’àmbit de les polítiques d’innovació, tecnologies obertes, l’Internet de les coses i les smart cities. També participa activament en diversos moviments de base que defensen l’accés obert, la sobirania digital i els drets digitals.
 
 
+LocalSpeakerTitle11D : M. del Mar Camacho Martí
+
+LocalSpeakerText11D : Doctora en Tecnologia Educativa i professora a la Facultat de Ciències de l’Educació i Psicologia de la Universitat Rovira i Virgili. Ha impartit formació en programes de llicenciatura i de postgrau relacionats amb la tecnologia educativa, amb un èmfasi especial en l’aprenentatge mòbil i les tecnologies emergents. És coautora de la primera monografia sobre aprenentatge mòbil a Espanya, Portugal i l’Amèrica Llatina, i ha estat la investigadora principal d’un projecte de recerca d’àmbit nacional sobre l’ús de les tauletes a l’ensenyament i el seu impacte sobre l’aprenentatge. En aquest àmbit, també ha col•laborat amb institucions com la UNESCO i la Unió Internacional de Telecomunicacions de les Nacions Unides. Ha impartit discursos inaugurals davant de públic internacional i és autora de més de 60 articles acadèmics. El juliol del 2018 va ser nomenada directora general d’Educació Primària i Secundària del Departament d’Ensenyament de la Generalitat de Catalunya, i el desembre del mateix any va ser nomenada directora general d’Innovació, Recerca i Cultura Digital.
 
 
-Title11B : Welcome to the conference
+Title11B : Benvinguda a la conferència
 
-Subtitle11B : Frank Sabaté, member of the STEAMConf Advisory Committee, Barcelona
+Subtitle11B : Benvinguda a càrrec de **Frank Sabaté**, membre del Comitè Assessor, presentador i conductor de la conferència
 
 LocalSpeakerTitle11C : Frank Sabaté
 
-LocalSpeakerText11C : Teacher at Escola Projecte in Barcelona. He is passionate about programming and educational robotics and is a member of the Jaume Bofill Foundation’s scientific committee for the Educació Demà programme and of the STEAMConf Advisory Committee. He has taken part in the organisation of European editions of the Scratch Conference (Barcelona '13, Amsterdam '15 and Bordeaux '17). He is an advisor to the magnetic alliance between the Montessori de Rubí school and CIM UPC. He shares his knowledge at face-to-face teacher training sessions and on his YouTube channel "Scratch en 5 minuts".
+LocalSpeakerText11C : Mestre a l’Escola Projecte de Barcelona. Apassionat de la programació i la robòtica educativa. És membre del comitè científic del programa Educació Demà de la Fundació Jaume Bofill i del comitè impulsor del congrés STEAM Barcelona. Ha format part de l’organització de les edicions europees de la Scratch Conference (Barcelona ’13, Amsterdam ’15 i Bordeus ’17). És assessor en l’aliança magnet entre l’escola Montessori de Rubí i el CIM UPC. Comparteix els seus coneixements en sessions presencials de formació al professorat i en el seu canal de Youtube “Scratch en 5 minuts”.
 
-# Sesion 01 - Make or Break. The Imperative for Change
+# Èxit o fracàs; la necessitat del canvi
 
 Time12 : 15.20 -
 
 Place12 : Cosmocaixa
 
-Classroom12 : Auditorium
+Classroom12 : Auditori
 
-Title12 : Make or Break. The Imperative for Change
+Title12 : Èxit o fracàs, la necessitat del canvi
 
-Subtitle12 : Anna Cutler, director of learning and research at Tate, London, UK
+Subtitle12 : "**Anna Cutler**, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit)"
 
-LocalSpeaker12 : Monica Bello, curator and head of arts at CERN, Switzerland
+LocalSpeaker12 : "**Mónica Bello**, comissària i responsable d’Arts del CERN (Suïssa)"
 
-Text12 : This presentation offers an overview of the last ten years of learning at Tate, exploring changes in practice, theoretical influences and the pragmatics of working in a large art museum. It looks at the current social and cultural landscape and suggests an imperative for change that requires us to reflect on what we need to make or break in order to generate relevant and meaningful experiences with art that meet the needs of our responsibilities to students.
+Text12 : En aquesta presentació s’expliquen els darrers deu anys en l’àmbit de l’aprenentatge a la Tate, i s’hi exploren els canvis en les pràctiques, les influències teòriques i la pragmàtica del treball en un gran museu d’art. També s’hi fa un repàs al panorama social i cultural del moment i es proposa la necessitat del canvi que ens obliga a reflexionar sobre el que ens cal per tenir èxit o fracassar a l’hora de generar experiències rellevants i significatives amb l’art que cobreixin les necessitats sorgides de les nostres responsabilitats amb els alumnes.
 
 LocalSpeakerTitle12A : Anna Cutler
 
-LocalSpeakerText12A : Director of Learning and Research at Tate. She has worked in cultural education for 30 years across a range of disciplines. She is known for her innovative experiments in practice and the building of new theoretical perspectives.  In September 2016, she initiated Tate Exchange, a civic space aimed at building dialogue around art, society, and the urgent and complex issues facing us today.
+LocalSpeakerText12A : Directora d’Aprenentatge i Recerca a la Tate Modern. Ha treballat en l’àmbit de l’ensenyament cultural durant trenta anys, en diverses disciplines. És coneguda pel caràcter innovador dels seus experiments pràctics i la formulació de noves perspectives teòriques. El setembre del 2016 va posar en marxa Tate Exchange, un espai cívic destinat a obrir un diàleg sobre l’art, la societat i els problemes urgents i complexos que ens toca abordar avui dia.
 
 LocalSpeakerTitle12B : Mónica Bello
 
-LocalSpeakerText12B : Is a curator and art historian. Over the last 15 years she has focused on the multidisciplinary perspectives and the narratives of today’s techno-scientific culture. She is currently the curator and head of arts at CERN, the European Organisation for Nuclear Research in Geneva. She was recently invited to be guest curator of the Audemars Piguet Art Commission for Art Basel 2018. Prior to her arrival in Geneva, among others, she held the position of artistic director of VIDA Art and Artificial Life International Awards (2010-2015) at Fundación Telefónica.
+LocalSpeakerText12B : Comissària i historiadora de l’art. En els darrers quinze anys s’ha especialitzat en les perspectives multidisciplinàries i les narratives de la cultura tecnocientífica actual. És comissària i responsable d’arts del CERN, l’Organització Europea per a la Recerca Nuclear, a Ginebra. Recentment ha estat comissària convidada a l’Audemars Piguet Art Commission d’Art Basel 2018. Abans d’arribar a Ginebra, entre altres càrrecs va ocupar el de directora artística de VIDA, Concurs Internacional d’Art i Vida Artificial (2010-2015), creat per Fundación Telefónica.
 
 # Conversa
 
@@ -252,21 +247,21 @@ Place15 : Cosmocaixa
 
 Classroom15 : Auditorium
 
-Title15 : It looks like fun, but are they learning?
+Title15 : Sembla que s’ho passen bé, però aprenen?
 
-Subtitle15 : Sebastian Martin, Tinkering Studio. Exploratorium of San Francisco, USA.
+Subtitle15 : "**Sebastian Martin**, Tinkering Studio. Exploratorium de San Francisco (Estats Units)"
 
-LocalSpeaker15 : Òscar M. Ciuró, cultural education manager. Thinking Doing Digital, Education and MakerConvent, Barcelona.
+LocalSpeaker15 : "**Òscar M. Ciuró**, gestor d’educació cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona"
 
-Text15 : We’ll delve into what it means to create STEAM-based learning experiences that fully embrace aesthetics as a way to engage young people physically, intellectually and emotionally. When learners are tinkering, wonder and delight are ever-present — and that is fun —.  So why is it undervalued in education?  It’s a pedagogy based on active engagement with materials and ideas aimed at cultivating curiosity.  We'll highlight dimensions of learning found in tinkering; a process where teachers and learners are changing their relationships to ideas, science phenomena and each other, redefining what counts as learning.
+Text15 : Aprofundirem en el que significa crear experiències d’aprenentatge basat en STEAM on s’adopti plenament l’estètica com a forma d’engrescar els joves tant físicament com intel•lectualment i emocionalment. Quan els alumnes joguinegen sempre hi ha sorpresa i delit, i això és la diversió. Per tant, com és que el joc (tinkering) està tan poc valorat en l’ensenyament? És una pedagogia basada en el contacte actiu amb materials i idees que té com a objectiu el foment de la curiositat. Destacarem les dimensions de l’aprenentatge que conté el tinkering, un procés en què tant els docents com els alumnes canvien la seva relació amb les idees, fenòmens científics i entre ells mateixos, i redefineixen allò que es considera aprenentatge.
 
 LocalSpeakerTitle15A : Sebastian Martin
 
-LocalSpeakerText15A : Is an educator at the Exploratorium’s Tinkering Studio in San Francisco, where visitors become deeply engaged in exploring science, art and technology through making and tinkering. Fascinated with the creative aspects of the sciences, Sebastian develops playful activities, facilitates impactful professional development workshops for educators and creates unique interactive exhibits.  As a member of the Tinkering Studio, he has co-developed activities that have been re-created and adapted in many science centres, classrooms, and makerspaces. Currently he works closely with partners including the Lifelong Kindergarten group at MIT media lab, Reggio Emilia schools and the LEGO Foundation to gain a deep understanding of the best practices and latest developments in education.
+LocalSpeakerText15A : és educador al Tinkering Studio de l’Exploratorium de San Francisco, un lloc on els visitants participen activament en l’exploració de la ciència, l’art i la tecnologia a través del making i el tinkering. Fascinat amb els aspectes creatius de les ciències, Sebastian crea activitats lúdiques, promou tallers de desenvolupament professional impactants i concep exposicions interactives d’un caràcter únic. Com a membre del Tinkering Studio, ha participat en l’elaboració d’activitats que han estat recreades i adaptades en molts centres científics, aules i makerspaces. Actualment treballa al costat de col.legues com el grup Lifelong Kindergarten del MIT media lab, escoles de Reggio Emilia i la LEGO Foundation per conèixer a fons les millors pràctiques i els darrers avenços en ensenyament.
 
 LocalSpeakerTitle15B : Òscar M. Ciuró
 
-LocalSpeakerText15B : Is a cultural education manager who is forever mixing education, culture and new technologies. Since 2009 he has focused on the processes that surround learning, digital manufacturing and social innovation. The MakerConvent project is an innovation process that originated from the participation of Traffic Projects in two European knowledge research and transfer projects (Formalab http://www.formalab.fr and Declic'in http://declicin.info). The location of the project at the Sant Agustí Convent Civic Centre is no accident. Creation processes in the DIWO area, alignment with work in the local network and the technological innovation of the centre make it an ideal space.
+LocalSpeakerText15B : Gestor d’educació cultural, i sempre està combinant educació, cultura i noves tecnologies. Des del 2009 s’ha especialitzat en els processos que envolten l’aprenentatge, la fabricació digital i la innovació social. El projecte MakerConvent és un procés d’innovació que va néixer de la participació de Traffic Projects en dos projectes europeus de recerca i transferència de coneixement, Formalab (http://www.formalab.fr) i Declic'in (http://declicin.info). La ubicació del projecte al Centre Cívic Convent de Sant Agustí no és casual. Els processos de creació en l’àmbit del DIWO, l’alineament amb treballs en la xarxa local i la innovació tecnològica del centre el converteixen en un espai ideal.
 
 # Conversa
 
@@ -280,31 +275,31 @@ Place17 : Cosmocaixa
 
 Classroom17 : Auditorium
 
-Title17 : Sonic Pi and Education
+Title17 : El Sonic Pi i l’ensenyament
 
-Subtitle17 : Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK
+Subtitle17 : "**Sam Aaron**, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)"
 
-LocalSpeaker17 : Carles Ceacero, multifaceted musician and teacher of musical education at the Pereanton School in Granollers, Barcelona
+LocalSpeaker17 : "**Carles Ceacero**, músic polifacètic i professor de música a l’Escola Pereanton de Granollers (Barcelona)"
 
-Text17 : Sonic Pi is a free educational environment for learning to code. It is possible for beginners to code fresh beats, driving bass lines and shimmering synth riffs. All this whilst learning core computer science concepts such as sequencing, functions, variables, loops, data structures and algorithms. In this demo-heavy talk we’ll cover Sonic Pi's history — why it was created, how it evolved and what it can do today —. We'll also discuss how and why many of Sonic Pi's classroom-focussed design decisions turned out to be fantastically useful for professional musicians (and vice-versa).
+Text17 : El Sonic Pi és un entorn educatiu gratuït per a l’aprenentatge de programació. Permet als principiants programar ritmes frescos, línies de baix torrencials i riffs de sintetitzador brillants. I tot mentre s’aprenen conceptes informàtics fonamentals com la seqüenciació, les funcions, les variables, els bucles, les estructures de dades i els algorismes. En aquesta xerrada, que serà eminentment pràctica, repassarem la història de Sonic Pi —per què es va crear, com ha evolucionat i què pot fer avui dia—. També parlarem de com i per què moltes decisions relatives al disseny del Sonic Pi per a l’aula han resultat molt útils per a músics professionals (i viceversa).
 
 LocalSpeakerTitle17A : Sam Aaron
 
-LocalSpeakerText17A : Is a live coder, educator and researcher. He was the lead developer of Overtone and Quil, creative coding projects for the (live) expression of sound and image. More recently he has created Sonic Pi, a Ruby-based live programming environment for creating music from code with a strong focus on education. By day he’s a researcher within the University of Cambridge Computer Laboratory, by night he can be found coding beats in nightclubs.
+LocalSpeakerText17A : Programador de live coding, educador i investigador. Va ser el desenvolupador principal d’Overtone i Quil, projectes de programació creativa per a l’expressió (en directe) de so i imatge. Més recentment ha creat Sonic Pi, un entorn de programació en directe basat en llenguatge Ruby que permet crear música a partir de codi i que sobretot està pensat per a l’àmbit educatiu. De dia, Sam és investigador al Laboratori Informàtic de la University of Cambridge, i de nit se’l pot trobar programant ritmes en locals nocturns.
 
 LocalSpeakerTitle17B : Carles Ceacero
 
-LocalSpeakerText17B : Is a versatile musician and music education teacher at Pereanton School in Granollers, where he is a tutor and coordinator of LKT. Currently, he combines this task with that of ambassador for the (#STEAMCat) plan in the Maresme and Vallès Oriental regions. He is also a board member of the AEMCAT (Association of Music Teachers of Catalonia) and deeply involved in the creation of STEAM projects that arise from the needs of the music classroom.
+LocalSpeakerText17B : És un músic versàtil que ensenya música a l’Escola Pereanton de Granollers, on és tutor i coordinador de les tecnologies per a l’aprenentatge i el coneixement (TAC). Actualment combina aquesta labor amb la d’ambaixador del programa "STEAMCat" a les comarques del Maresme i el Vallès Oriental. Així mateix, Carles és membre del consell de l’AEMCAT (Associació d’Ensenyants de Música de Catalunya) i participa molt activament en la creació de projectes STEAM que sorgeixen de les necessitats de l’aula de música.
 
 # Conversa
 
 Time18 : 18.45 -
 
-ConversationLivePerformace : Conversation and Live Music Performance
+ConversationLivePerformace : Conversa i actuació musical en directe
 
 # --------------------------------- Dissabte, 6 d’abril --------------------------------
 
-Date19 : Saturday, April 6th
+Date19 : Dissabte, 6 d’abril
 
 # ------ Sesion 04 --------------------
 
@@ -314,21 +309,21 @@ Place20 : Cosmocaixa
 
 Classroom20 : Auditorium
 
-Title20 : Engagement First, Pathways to Intrinsically Motivated Learning
+Title20 : Engagement First, senderes cap a un aprenentatge intrínsecament motivat
 
-Subtitle20 : Gever Tulley, Brightworks School founder and education architect, San Francisco, USA.
+Subtitle20 : "**Gever Tulley**, fundador de la Brightworks School i arquitecte educatiu, San Francisco (Estats Units)"
 
-LocalSpeaker20 : Mariona Cíller, co-founder of SokoTech, Barcelona
+LocalSpeaker20 : "**Mariona Cíller**, cofundadora de SokoTech, Barcelona"
 
-Text20 : Looking back at 12 years of experiments in creating highly-engaging learning experiences, Gever Tulley will share his infectious optimism and some new ideas that may pave the way to more engaged students and provide a glimpse of what the future of education may look like.
+Text20 : Gever Tulley farà un repàs a dotze anys d’experiments en la creació d’experiències educatives summament atractives i compartirà el seu optimisme contagiós i algunes idees noves que poden servir perquè els alumnes s’impliquin més i per oferir una mirada sobre el futur de l’ensenyament.
 
 LocalSpeakerTitle20A : Gever Tulley
 
-LocalSpeakerText20A : Is an author, speaker and computer scientist. In 2005, he founded Tinkering School, afterschool and summer programmes involving the use of real tools, materials and problems to encourage students’ love of learning, curiosity about the world, tenacity to think big and persistence to do amazing things. Most recently in 2011, Gever created Brightworks, a K-12 private school in San Francisco where students explore an idea from multiple perspectives with the help of real-world experts, tools and experiences; collaborate on projects driven by their curiosity; and share their findings with the world.
+LocalSpeakerText20A : Escriptor, conferenciant i expert en informàtica. L’any 2005 va fundar la Tinkering School, institució que ofereix una sèrie de programes extraescolars i d’estiu en els quals es fan servir eines, materials i problemes reals que tenen com a objectiu estimular l’interès dels alumnes per l’aprenentatge, la curiositat pel món, la tenacitat de pensar en gran i la perseverança per fer coses sorprenents. Més recentment, l’any 2011, Gever va crear Brightworks, una escola privada d’ensenyament primari i secundari situada a San Francisco en la qual els alumnes exploren una idea a partir de múltiples perspectives, ajudant-se d’experts, eines i experiències del món real, a més de col•laborar en projectes que han impulsat amb la seva pròpia curiositat i de compartir amb la resta del món tot allò que descobreixen.
 
 LocalSpeakerTitle20B : Mariona Cíller
 
-LocalSpeakerText20B : Co-founder of SokoTech. University of Illinois B.F.A, M.Sc. and Assistant Professor. Massachusetts Institute of Technology (MIT) Fab Academy graduate. In 2015 she co-founded SokoTech, a laboratory dedicated to social innovation projects that focus on the arts, science and technology.
+LocalSpeakerText20B : Cofundadora de SokoTech. És llicenciada en Belles Arts per la University of Illinois, on també va fer un màster en ciències i va ser professora adjunta. Es va diplomar a la Fab Academy del Massachusetts Institute of Technology (MIT). L’any 2015 va cofundar SokoTech, una laboratori dedicat a projectes d’innovació social que centra la seva activitat en les arts, la ciència i la tecnologia.
 
 # Conversa
 
@@ -338,7 +333,7 @@ Time21 : 10.50 -
 
 Time22 : 11.10 -
 
-# ---- Sesion 05 - Bringing assessment culture to the 21st century – the power of innovative assessment -------------------
+# ---- Sesion 05 - Traslladar la cultura de l’avaluació al segle XX: el poder de l’avaluació innovadora -------------------
 
 Time23 : 11.40 -
 
@@ -346,21 +341,21 @@ Place23 : Cosmocaixa
 
 Classroom23 : Auditorium
 
-Title23 : Bringing assessment culture to the 21st century – the power of innovative assessment
+Title23 : Traslladar la cultura de l’avaluació al segle XX, el poder de l’avaluació innovadora
 
-Subtitle23 : Juuso Henrik Nieminen, Mathematics Education Research Group, University of Helsinki, Finland.
+Subtitle23 : "**Juuso Henrik Nieminen**, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia)"
 
-LocalSpeaker23 : Victoria Eugenia Ibáñez, secondary education science and mathematics teacher, Barcelona.
+LocalSpeaker23 : "**Victoria Eugenia Ibáñez**, professora de ciències i matemàtiques a l’ensenyament secundari, Barcelona"
 
-Text23 : In 0.51 seconds, a Google search brings you over 139 million results for “21st century skills”. No doubt, educational levels from elementary schools to universities are buzzing about lifelong learning, metacognitive skills and critical thinking. However, even though curricula around the world are starting to value these skills, assessment culture lags behind. This is also true in Finland, where the new national curriculum in 2016 introduced new ideas such as programming skills and multidisciplinary learning but left the teacher-led assessment culture largely untouched. In his talk, Nieminen will introduce the newest research results concerning digital and innovative assessment from the University of Helsinki. It is argued that the core of our assessment methods has actually been pretty much the same for hundreds of years and ‘radical’ attempts to change it have not always end well. How could digital self- and peer-assessment support accessibility, student empowerment and ownership of learning?
+Text23 : En 0,51 segons, una cerca a Google et torna més de 139 milions de resultats per a «21st century skills» (‘competències del segle XX’). No hi ha dubte que en tots els nivells educatius, des de la primària fins a la universitat, es dona una gran importància a l’aprenentatge durant tota la vida, les habilitats metacognitives i el pensament crític. Ara bé, tot i que els plans d’estudis d’arreu del món comencen ara a valorar aquestes capacitats, la cultura de l’avaluació s’està quedant enrere. És el que passa també a Finlàndia, on el pla d’estudis nacional del 2016 introduïa idees noves com ara les competències en programació i l’aprenentatge multidisciplinari, però a penes abordava la cultura de l’avaluació a càrrec del professorat. En la seva xerrada, Nieminen presentarà les darreres novetats de la recerca en avaluació digital i innovadora desenvolupada a la Universitat d’Hèlsinki. S’ha afirmat que la base dels nostres mètodes d’avaluació pràcticament no ha variat en segles i que els intents «radicals» de canviar-los no sempre han arribat a bon port. Com es podrien fer compatibles l’autoavaluació i l’avaluació d’experts amb l’accessibilitat, l’apoderament estudiantil i la propietat de l’aprenentatge?
 
 LocalSpeakerTitle23A : Juuso Henrik Nieminen
 
-LocalSpeakerText23A : Is an educational researcher and an assessment innovator from the University of Helsinki. He has taught mathematics and programming at many educational levels in Finland and currently trains future teachers in Helsinki. His research field is assessment of 21st century skills, concerning how innovative digital assessment could support the development of critical thinking and lifelong learning. Nieminen also works as a special educator, striving to build a more inclusive world through both his teaching and research. Currently, he is writing books on assessment culture in Finland and on innovative mathematics education, as well as working as a pedagogical specialist at Code School Finland. In addition, he is leading a math revolution with Math Hunger, aiming to make learning mathematics both fun and accessible for everyone. In 2018, Nieminen curated the theme “What should we learn next?” at Dare to Learn, the most innovative learning festival in Finland.
+LocalSpeakerText23A : Investigador en educació i expert innovador en avaluació a la Universitat d’Hèlsinki. Ha ensenyat matemàtiques i programació en diversos nivells del sistema educatiu finlandès i actualment es dedica a la formació de futurs docents a Hèlsinki. El seu àmbit de recerca és l’avaluació de les competències del segle XX, quant a la manera de fer compatible l’avaluació digital innovadora amb el desenvolupament del pensament crític i l’aprenentatge durant tota la vida. Així mateix, Nieminen treballa com a educador especial, àmbit en el qual lluita per aconseguir un món més inclusiu a través de la seva tasca docent i investigadora. Actualment escriu llibres sobre la cultura de l’avaluació a Finlàndia i sobre l’ensenyament innovador de les matemàtiques, i treballa com a especialista pedagògic a la Code School Finland. A més, és el responsable de la revolució que ha significat per al món de les matemàtiques el projecte Math Hunger, el qual té com a objectiu aconseguir que l’aprenentatge de les matemàtiques sigui divertit i accessible per a tothom. El 2018, Nieminen va coordinar l’apartat «Què haurem d’aprendre després?» a Dare to Learn, la fira de l’aprenentatge més innovadora de Finlàndia.
 
 LocalSpeakerTitle23B : Victoria Eugenia Ibáñez
 
-LocalSpeakerText23B : Is a chemist and mathematics professor. She teaches science and maths to secondary education students and is also a teacher trainer for ICE at UAB, for the Rosa Sensat Teacher’s Association and for the Catalan Department of Education. She has given different courses and seminars throughout her career, across Spain, on the assessment of learning and cooperative learning. She is the author of numerous publications on the subject and has participated on various work groups for education innovation at the University of Barcelona, UAB and the Rosa Sensat Association.
+LocalSpeakerText23B : Química i catedràtica de matemàtiques, i treballa de professora de ciències i matemàtiques a l’ensenyament secundari. Formadora de professors per a l’ICE de la UAB, l’Associació de Mestres Rosa Sensat i el Departament d’Ensenyament, ha impartit diferents cursos i seminaris al llarg de la seva carrera professional, tant a Catalunya con a la resta d’Espanya, sobre l’avaluació dels aprenentatges i l’aprenentatge cooperatiu. També és autora de diferents publicacions sobre el tema i ha participat en diversos grups de treball en innovació educativa, tant a la UB com a la UAB i a Rosa Sensat.
 
 # Conversa
 
@@ -374,21 +369,22 @@ Place26 : Cosmocaixa
 
 Classroom26 : Auditorium
 
-Title26 : School for What?
+Title26 : Escola per a què?
 
-Subtitle26 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High and adjunct faculty member at the High Tech High Graduate School of Education San Diego, USA.
+Subtitle26 : "**Kaleb Rashad**, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High i professor adjunt de la High Tech High Graduate School of Education de San Diego (Estats Units)"
 
-LocalSpeaker26 : Sergi del Moral, teaching and management team at the Institut-Escola Les Vinyes de Castellbisbal, Barcelona.
+LocalSpeaker26 : "**Sergi del Moral**, membre de l’equip directiu i docent de l’Institut-Escola Les Vinyes de Castellbisbal (Barcelona)"
 
-Text26 : What if school was organised around the interests and natural curiosities of our students and teachers? What if the learning experience required you to get out of the building, observe the world, document findings and create/deliver beautifully crafted work that makes a real impact in the world beyond the school walls? The future of learning will look and feel less like school, as we currently know it, and more like students doing original, creative and meaningful work. Given the right conditions, young people will lead revolutions, invent new technologies, create new culture, new forms of expression, new genres of music and even new forms of government. With their boundless energy, they throw themselves into their work and they see old things in new ways. In this presentation, we’ll look at examples of student work, share some current experiments and show how we use human-centred design tools, methods and mindsets to make school more engaging, more interesting and more human. We will talk about the future of learning, school culture and creative leadership.
+Text26 : "Què passaria si l’escola estigués organitzada al voltant dels interessos i les curiositats naturals dels nostres alumnes i professors? I si per aprendre haguessin de sortir del centre, observar el món, documentar troballes i crear/lliurar treballs d’una factura magnífica que tinguessin un efecte real en el món més enllà de les parets de l’escola? El futur de l’aprenentatge serà i s’assemblarà menys a una escola tal com la coneixem ara i més a la idea d’estudiants fent un treball original, creatiu i amb sentit. En les condicions adequades, els joves lideraran revolucions, inventaran noves tecnologies, crearan una nova cultura i noves formes d’expressió, nous gèneres musicals i, fins i tot, noves formes de govern. Amb la seva energia il•limitada, es lliuren plenament a la seva feina i consideren tot el que és vell des d’una òptica diferent. En aquesta presentació veurem exemples del treball dels alumnes, compartirem alguns experiments actuals i mostrarem com fem servir eines, mètodes i actituds centrades en les persones per dissenyar una escola més atractiva, més interessant i més humana. Parlarem del futur de l’ensenyament, de la cultura educativa i del lideratge creatiu."
+
 
 LocalSpeakerTitle26A : Kaleb Rashad
 
-LocalSpeakerText26A : Is a creative director at the Gary and Jerri-Ann Jacobs @hightechhigh, San Diego, CA. Kaleb works alongside the dreamers and doers at High Tech High’s Graduate School of Education, Stanford d.School’s School Retool, Real World Scholars, Leadership + Design, and WildFire Education. Kaleb has taught secondary mathematics and science, served as a K-12 site leader and completed a tour in the U.S Marine Corps. Kaleb holds a BA in Human Development, two master’s degrees, and a PhD in Educational Leadership. He is the co-founder of Unlocked, Inc., a San Diego-based non-profit design organisation.
+LocalSpeakerText26A : Director creatiu de la Gary and Jerri-Ann Jacobs @hightechhigh de San Diego. Treballa amb els somiadors i emprenedors de la High Tech High’s Graduate School of Education, la School Retool de la Stanford d.School, Real World Scholars, Leadership + Design i WildFire Education. Kaleb ha ensenyat matemàtiques i ciència en secundària, ha estat responsable d’un web per a alumnes d’ensenyament primari i secundari i va formar part del cos de Marines de l’Exèrcit estatunidenc. És llicenciat en Desenvolupament Humà, té dos màsters i és doctor en Lideratge Educatiu. És, també, cofundador d’Unlocked, Inc., una organització sense ànim de lucre de San Diego dedicada al disseny.
 
 LocalSpeakerTitle26B : Sergi del Moral
 
-LocalSpeakerText26B : Is interested in the processes of transformation that contribute to a more amiable and natural relationship between knowledge and learning. This has led him to explore how to compensate for the weight of materials and static knowledge in favour of approaches that are more focused on action, production, creation, problem solving, teamwork and learning for real life situations. He’s also interested in everything that makes assessment more of a diagnostic rather than coercive process, as well as in the classroom and community dynamics that promote autonomy, initiative and responsibility among the boys and girls. He is currently part of the teaching and management team of the Institut-Escola Les Vinyes de Castellbisbal and also forms part of the team that promotes BetaCamp, a highly rewarding peer learning experience.
+LocalSpeakerText26B : Està interessat en els processos de transformació amb els quals es pot aconseguir una relació més amable i natural entre el coneixement i l’aprenentatge. Això l’ha portat a explorar maneres de compensar el pes dels materials i el coneixement estàtic amb enfocaments més propers a l’acció, la producció, la creació, la resolució de problemes, el treball en equip i l’aprenentatge per a les situacions reals. A Sergi també li interessa tot allò que fa de l’avaluació més un diagnòstic que no pas un procés coercitiu; i les aules i la dinàmica comunitària que fomenten l’autonomia, la iniciativa i la responsabilitat entre els nois i les noies. Actualment forma part de l’equip directiu i docent de l’Institut-Escola Les Vinyes de Castellbisbal, i també de l’equip que promou BetaCamp, una experiència molt gratificant d’aprenentatge entre iguals.
 
 # ---- Conversation - Creating the next generation of schools Farewell Conversation -------------------
 
@@ -398,13 +394,13 @@ Place27 : Cosmocaixa
 
 Classroom27 : Auditorium
 
-Title27 : Creating the next generation of schools
+Title27 : La creació de la propera generació d’escoles
 
-Subtitle27 : Farewell Conversation
+Subtitle27 : Conversa
 
-LeadSpeaker27 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA.
+LeadSpeaker27 : "**Kaleb Rashad**, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estats Units)"
 
-Speakers27 : Anna Cutler, director of Learning and Research at Tate, London, UK; Gever Tulley, Brightworks School founder and education architect, San Francisco, USA; Juuso Henrik Nieminen, Mathematics education research group, University of Helsinki, Finland; Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK.
+Speakers27 : "**Anna Cutler**, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit); **Gever Tulley**, fundador de la Brightworks School i «arquitecte pedagògic», San Francisco (Estats Units); **Juuso Henrik Nieminen**, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia); **Sam Aaron**, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)"
 
 # ---- CLOENDA DE LES SESSIONS -------------------
 
@@ -414,29 +410,29 @@ Place28 : Cosmocaixa
 
 Classroom28 : Auditorium
 
-Title28 : Conference Wrap Up
+Title28 : Cloenda de la conferència
 
-Subtitle28 : By Lluís Noguera, director of CosmoCaixa
+Subtitle28 : "A càrrec de **Lluís Noguera**, director de CosmoCaixa"
 
 LocalSpeakerTitle28 : Lluís Noguera i Jordana
 
 LocalSpeakerText28 : Director del CosmoCaixa, el Museu de la Ciència de la Fundació Bancària ”la Caixa”. Llicenciat en Filosofia per la UAB i màster en Gestió Cultural per la UB i en Gestió Pública per ESADE, també ha estudiat Relacions Culturals Internacionals. Ha estat subdirector de l’Àrea de Ciència, Recerca i Medi Ambient de la Fundació Bancària ”la Caixa”, on ha dut a terme, entre altres projectes, l’avaluació del programa de divulgació científic.
 
 
-# HOW TO ARRIVE
+# COMO LLEGAR
 
-HomeFooterSectionTitle01 : How to arrive
+HomeFooterSectionTitle01 : Como arribar
 
-HomeFooterSectionTitle02 : By Highway
-HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
+HomeFooterSectionTitle02 : Per Carretera
+HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
 
-HomeFooterSectionTitle03 : By Bus
+HomeFooterSectionTitle03 : En Autobus
 
-HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
 
-HomeFooterSectionTitle05 : Parking
-HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
+HomeFooterSectionTitle05 : Aparcament
+HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
 
 # FOOTER
 
-HomeSubFooterTitle : Contact
+HomeSubFooterTitle : Contacte

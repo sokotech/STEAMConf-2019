@@ -19,7 +19,7 @@ Date01 : Dissabte 30 de març
 
 Time01 : 10.00 - 14.00
 
-Place01 : Cosmocaixa
+Place01 : CosmoCaixa
 
 Classroom01 : Sala Àgora
 
@@ -57,7 +57,7 @@ Date02 : Dijous 4 d’abril
 
 Time02 : 18.30 -
 
-Place02 : Cosmocaixa
+Place02 : CosmoCaixa
 
 Classroom02 : Auditori
 
@@ -65,7 +65,7 @@ Title02A : MyPERFORM-UNESCO
 
 LanguageNotice02 : Conferència-espectacle d’inauguració, oberta al públic (traducció simultània en català, castellà i anglès)
 
-LocalSpeaker02A : Benvinguda, a càrrec de **Lluís Noguera i Jordana,** director del CosmoCaixa, Barcelona; **Francesca Bria,** comissionada de Tecnologia i Innovació Digital de l’Ajuntament de Barcelona; **Ernesto Fernández Polcuch,** Chief of Section for Science Policy and Partnerships, Natural Sciences Sector, UNESCO. (TBC)
+LocalSpeaker02A : "Benvinguda, a càrrec de **Lluís Noguera i Jordana,** director del CosmoCaixa, Barcelona; **Ernesto Fernández Polcuch,** Cap de la Secció de Política Científica i Cooperació, UNESCO (TBC)"
 
 LocalSpeakerTitle02F : Lluís Noguera i Jordana
 
@@ -77,7 +77,7 @@ InternationalSpeakerText02C : Investigadora i docent associada en l’Imperial C
 
 InternationalSpeakerTitle02D : Ernesto Fernández Polcuch
 
-InternationalSpeakerText02D : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+InternationalSpeakerText02D : Cap de la Secció de Política Científica i Cooperació, UNESCO (TBC)
 
 Title02B : MyPERFORM-UNESCO - Quan la ciència trepitja escenaris
 
@@ -89,7 +89,7 @@ Text02C: El projecte myPERFORM recorre a les arts escèniques per crear un entor
 
 Text02D: La presentació del projecte myPERFORM serà un espectacle. Literalment. Un espectacle en el qual s’intercalaran els monòlegs i els esquetxos teatrals fets per alumnes de secundària de diversos centres educatius de Barcelona, en els quals podrem respondre a preguntes com ara; què podem fer per aturar el canvi climàtic, com cerquem vida en altres planetes o quines noves tecnologies existeixen per combatre el càncer. myPERFORM és la continuació de l’èxit del seu predecessor, el projecte PERFORM de la Comissió Europea, i té com a objectiu posar en pràctica en països de tot el món processos d’ensenyament de les ciències basats en el rendiment.
 
-Text02E: myPERFORM va ser un projecte finançat per la Unió Europea i aplicat a Espanya, el Regne Unit i França. El disseny i l’execució de les activitats pedagògiques van ser dirigits per Big Van Ciencia (www.bigvanciencia.com). Els centres educatius que han participat en el projecte myPERFORM i que ens explicaran la ciència des de l’escenari són l’IES Moisès Broggi, l’IES Consell de Cent i l’IES Castellbisbal.
+Text02E: PERFORM va ser un projecte finançat per la Unió Europea i aplicat a Espanya, el Regne Unit i França. El disseny i l’execució de les activitats pedagògiques van ser dirigits per Big Van Ciencia (www.bigvanciencia.com). Els centres educatius que han participat en el projecte myPERFORM i que ens explicaran la ciència des de l’escenari són l’IES Moisès Broggi, l’IES Consell de Cent i l’IES Castellbisbal.
 
 LocalSpeakerTitle02A : Helena González
 
@@ -115,7 +115,7 @@ Date03 : Divendres, 5 d’abril
 
 Time04 : 9.00 -
 
-Place04 : Cosmocaixa
+Place04 : CosmoCaixa
 
 Classroom04 : Diferents Aules
 
@@ -153,7 +153,7 @@ ButtonText08 : Vegeu el programa detallat aquí!
 
 Time09 : 13.45 -
 
-Place09 : Cosmocaixa
+Place09 : CosmoCaixa
 
 Classroom09 : Sala Pi
 
@@ -169,7 +169,7 @@ LocalSpeakerText09 : Músic, implicada en la transformació educativa i en l’i
 
 Time10 : 14.00 -
 
-Place10 : Cosmocaixa
+Place10 : CosmoCaixa
 
 Title10 : Registre i lliurament de documentació
 
@@ -179,7 +179,7 @@ LanguageNotice10 : Totes les sessions tindran traducció simultània català, ca
 
 Time11 : 15.00 -
 
-Place11 : Cosmocaixa
+Place11 : CosmoCaixa
 
 Title11A : Inauguració de les sessions plenàries de la conferència
 
@@ -211,7 +211,7 @@ LocalSpeakerText11C : Mestre a l’Escola Projecte de Barcelona. Apassionat de l
 
 Time12 : 15.20 -
 
-Place12 : Cosmocaixa
+Place12 : CosmoCaixa
 
 Classroom12 : Auditori
 
@@ -219,7 +219,7 @@ Title12 : Èxit o fracàs, la necessitat del canvi
 
 Subtitle12 : "**Anna Cutler**, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit)"
 
-LocalSpeaker12 : "**Mónica Bello**, comissària i responsable d’Arts del CERN (Suïssa)"
+LocalSpeaker12 : "**Mónica Bello**, comissària i responsable d’Arts del CERN (Ginebra, Suïssa)"
 
 Text12 : En aquesta presentació s’expliquen els darrers deu anys en l’àmbit de l’aprenentatge a la Tate, i s’hi exploren els canvis en les pràctiques, les influències teòriques i la pragmàtica del treball en un gran museu d’art. També s’hi fa un repàs al panorama social i cultural del moment i es proposa la necessitat del canvi que ens obliga a reflexionar sobre el que ens cal per tenir èxit o fracassar a l’hora de generar experiències rellevants i significatives amb l’art que cobreixin les necessitats sorgides de les nostres responsabilitats amb els alumnes.
 
@@ -243,7 +243,7 @@ Time14 : 16.30 -
 
 Time15 : 17.00 -
 
-Place15 : Cosmocaixa
+Place15 : CosmoCaixa
 
 Classroom15 : Auditorium
 
@@ -271,7 +271,7 @@ Time16 : 17.50 -
 
 Time17 : 18.10 -
 
-Place17 : Cosmocaixa
+Place17 : CosmoCaixa
 
 Classroom17 : Auditorium
 
@@ -305,7 +305,7 @@ Date19 : Dissabte, 6 d’abril
 
 Time20 : 10.00 -
 
-Place20 : Cosmocaixa
+Place20 : CosmoCaixa
 
 Classroom20 : Auditorium
 
@@ -337,7 +337,7 @@ Time22 : 11.10 -
 
 Time23 : 11.40 -
 
-Place23 : Cosmocaixa
+Place23 : CosmoCaixa
 
 Classroom23 : Auditorium
 
@@ -365,7 +365,7 @@ Time24 : 12.20 -
 
 Time26 : 12.40 -
 
-Place26 : Cosmocaixa
+Place26 : CosmoCaixa
 
 Classroom26 : Auditorium
 
@@ -390,7 +390,7 @@ LocalSpeakerText26B : Està interessat en els processos de transformació amb el
 
 Time27 : 13.20 -
 
-Place27 : Cosmocaixa
+Place27 : CosmoCaixa
 
 Classroom27 : Auditorium
 
@@ -398,15 +398,19 @@ Title27 : La creació de la propera generació d’escoles
 
 Subtitle27 : Conversa
 
-LeadSpeaker27 : "**Kaleb Rashad**, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estats Units)"
+LeadSpeaker27 : "**Eduard Vallory**, president del Centre UNESCO de Catalunya i director d'Escola Nova 21, Barcelona"
 
-Speakers27 : "**Anna Cutler**, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit); **Gever Tulley**, fundador de la Brightworks School i «arquitecte pedagògic», San Francisco (Estats Units); **Juuso Henrik Nieminen**, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia); **Sam Aaron**, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)"
+Speakers27 : "**Kaleb Rashad**, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estats Units); **Anna Cutler**, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit); **Gever Tulley**, fundador de la Brightworks School i «arquitecte pedagògic», San Francisco (Estats Units); **Juuso Henrik Nieminen**, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia); **Sam Aaron**, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)"
+
+LocalSpeakerTitle27 : Eduard Vallory
+
+LocalSpeakerText27 : És analista social i gestor del canvi. Presideix el Centre UNESCO de Catalunya, dirigeix ​​Escola Nova 21 i impulsa un programa universitari per a la millora del desenvolupament professionals dels mestres, per encàrrec de la Generalitat. Ha estat visiting scholar del Departament de Sociologia de la Universitat de Nova York, després d'haver dirigit la Barcelona Graduate School of Economics. És doctor en Ciència Política, màster en Ciències Socials, diplomat en Alta Direcció d'Empreses i llicenciat en Filosofia i en Periodisme. Va ser research fellow del Fitzwilliam College de la Universitat de Cambridge, on va dur a terme una investigació sobre l'educació en la ciutadania global i el moviment de l'escoltisme mundial, publicada en català per Proa (2010) i en anglès per Palgrave Macmillan (2012). Va ser cap de gabinet del conseller d'Universitats, Recerca i Societat de la Informació de la Generalitat de Catalunya, Andreu Mas-Colell.
 
 # ---- CLOENDA DE LES SESSIONS -------------------
 
 Time28 : 14.00 -
 
-Place28 : Cosmocaixa
+Place28 : CosmoCaixa
 
 Classroom28 : Auditorium
 
@@ -431,7 +435,7 @@ HomeFooterSectionTitle03 : En Autobus
 HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
 
 HomeFooterSectionTitle05 : Aparcament
-HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
+HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
 
 # FOOTER
 

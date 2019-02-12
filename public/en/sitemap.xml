@@ -3,65 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
     <loc>localhost:1313/en/categories/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>localhost:1313/en/program/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>localhost:1313/en/registry/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -100,65 +43,8 @@
   </url>
   
   <url>
-    <loc>localhost:1313/en/schedule/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>localhost:1313/en/speakers/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
     <loc>localhost:1313/en/tags/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ca"
-                href="#ZgotmplZ"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="#ZgotmplZ"
-                />
-  </url>
-  
-  <url>
-    <loc>localhost:1313/en/workshops/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"

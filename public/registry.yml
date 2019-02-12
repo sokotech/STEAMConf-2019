@@ -2,7 +2,7 @@ enable: true
 
 item:
 
-PageHeaderRegister : Registra't
+PageHeaderRegister : Register
 
 # Section 01 (General info-registry)
 
@@ -59,20 +59,21 @@ ButtonTitle04F : EdCamp STEAMConf 2019
 ButtonSubtitle04F : Registra't aquí
 
 
-# COMO LLEGAR
 
-HomeFooterSectionTitle01 : Como arribar
+# HOW TO ARRIVE
 
-HomeFooterSectionTitle02 : Per Carretera
-HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionTitle01 : How to arrive
 
-HomeFooterSectionTitle03 : En Autobus
+HomeFooterSectionTitle02 : By Highway
+HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
 
-HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionTitle03 : By Bus
 
-HomeFooterSectionTitle05 : Aparcament
-HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
+HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Parking
+HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
 
 # FOOTER
 
-HomeSubFooterTitle : Contacte
+HomeSubFooterTitle : Contact

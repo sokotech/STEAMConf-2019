@@ -21,13 +21,13 @@ Date01 : Saturday, March 30th
 
 Time02 : 10.00 - 14.00
 
-Place02 : Cosmocaixa
+Place02 : CosmoCaixa
 
 Classroom02 : Sala Ágora
 
-Title02 : EdCamp SteamConf
+Title02 : EdCamp STEAMConf
 
-Subtitle02 : Path to STEAMConf 2019
+Subtitle02 : "**Path to STEAMConf 2019**"
 
 
 # --------------------------------- Thursday, April 4 --------------------------------
@@ -41,15 +41,15 @@ Date03 : Thursday, April 4
 
 Time04 : 10:20 -
 
-Place04 : Cosmocaixa
+Place04 : CosmoCaixa
 
 Classroom04 : Auditorium
 
 Title04A : Public opening of the Conference
 
-Title04B : MyPERFORM-UNESCO
+Title04B : MyPERFORM-UNESCO - When Science Takes the Stage
 
-SubTitle04 :  When Science Takes the Stage
+SubTitle04 :
 
 LanguageNotice04 : Conference open to the public (simultaneous translation in Catalan, Spanish and English)
 
@@ -71,13 +71,13 @@ Date06 : Friday, April 5th
 
 Time07 : 9.00 -
 
-Place07 : Cosmocaixa
+Place07 : CosmoCaixa
 
 Classroom07 : Sala Ágora
 
 Title07 : Workshops
 
-Subtitle07 : Registration and documentation pick-up for conference & workshops.
+Subtitle07 : "**Registration and documentation pick-up for conference & workshops.**"
 
 
 # --------  Paralel Workshops  --------------------
@@ -87,7 +87,7 @@ Time08 : 10.00 -
 
 Title08 : Paralel Workshops
 
-Place08 : Cosmocaixa
+Place08 : CosmoCaixa
 
 Classroom08 : Multiple classrooms
 
@@ -203,7 +203,7 @@ Time17 : 12.00 -
 
 Title17 : Paralel Workshops
 
-Place17 : Cosmocaixa
+Place17 : CosmoCaixa
 
 Classroom17 : Multiple classrooms
 
@@ -325,11 +325,11 @@ WorkshopReq25 : Define
 
 Time26 : 13.30 -
 
-Place26 : Cosmocaixa
+Place26 : CosmoCaixa
 
 Title26 : Lunch
 
-Subtitle26 : Provided for participants on both activities only (Conferences + Workshops)
+Subtitle26 : "**Provided for participants on both activities only (Conferences + Workshops)**"
 
 
 # --------  Row 0 Welcome  --------------------
@@ -337,13 +337,13 @@ Subtitle26 : Provided for participants on both activities only (Conferences + Wo
 
 Time27 : 13.45 -
 
-Place27 : Cosmocaixa
+Place27 : CosmoCaixa
 
 Classroom27 : Sala Pi
 
 Title27 : Reception of front row guests
 
-Subtitle27 : Welcome and coordination by Begonya Folch, member of the Advisory Committee
+Subtitle27 : "Welcome and coordination by **Begonya Folch**, member of the Advisory Committee"
 
 
 # --------  Conference Registry  --------------------
@@ -351,7 +351,7 @@ Subtitle27 : Welcome and coordination by Begonya Folch, member of the Advisory C
 
 Time28 : 14.00 -
 
-Place28 : Cosmocaixa
+Place28 : CosmoCaixa
 
 Title28 : Conference Registration
 
@@ -363,17 +363,17 @@ LanguageNotice28 : (All sessions have simultaneous translation in Catalan, Spani
 
 Time29 : 15.00 -
 
-Place29 : Cosmocaixa
+Place29 : CosmoCaixa
 
 Classroom29 : Auditorium
 
 Title29A : Conference Opening
 
-Subtitle29A : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”, M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+Subtitle29A : "**Jordi Portabella i Calvete**, director of the Scientific Dissemination and CosmoCaixa Department of la Caixa Bank Foundation, **M. del Mar Camacho Martí**, General Director of Innovation, Research and Digital Culture, Generalitat de Catalunya"
 
 Title29B : Welcome to the conference
 
-Subtitle29B : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”, M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+Subtitle29B : "Welcome by **Frank Sabaté**, member of the Advisory Committee, presenter and conference host"
 
 
 # --------  Session 01  --------------------
@@ -381,15 +381,15 @@ Subtitle29B : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació C
 
 Time30 : 15.20 -
 
-Place30 : Cosmocaixa
+Place30 : CosmoCaixa
 
 Classroom30 : Auditorium
 
 Title30 : Make or Break. The Imperative for Change
 
-Subtitle30 : Anna Cutler, director of Learning and Research at Tate, London, UK
+Subtitle30 : "**Anna Cutler**, director of Learning and Research at Tate, London, UK"
 
-LocalPeer30 : Monica Bello, curator and head of arts at CERN, Switzerland
+LocalPeer30 : "**Monica Bello**, curator and head of arts at CERN, Switzerland"
 
 
 # --------  Conversation --------------------
@@ -409,15 +409,15 @@ Time32 : 16.30 -
 
 Time33 : 17.00 -
 
-Place33 : Cosmocaixa
+Place33 : CosmoCaixa
 
 Classroom33 : Auditorium
 
 Title33 : It looks like fun, but are they learning?
 
-Subtitle33 : Sebastian Martin, Tinkering Studio. Exploratorium of San Francisco, USA.
+Subtitle33 : "**Sebastian Martin**, Tinkering Studio. Exploratorium of San Francisco, USA."
 
-LocalPeer33 : Òscar M. Ciuró, cultural education manager. Thinking Doing Digital, Education and MakerConvent, Barcelona.
+LocalPeer33 : "**Òscar M. Ciuró**, cultural education manager. Thinking Doing Digital, Education and MakerConvent, Barcelona."
 
 
 # --------  Conversation --------------------
@@ -431,15 +431,15 @@ Time34 : 17.50 -
 
 Time35 : 18.10 -
 
-Place35 : Cosmocaixa
+Place35 : CosmoCaixa
 
 Classroom35 : Auditorium
 
 Title35 : Sonic Pi and Education
 
-Subtitle35 : Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK
+Subtitle35 : "**Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK"
 
-LocalPeer35 : Carles Ceacero, multifaceted musician and teacher of musical education at the Pereanton School in Granollers, Barcelona
+LocalPeer35 : "**Carles Ceacero**, multifaceted musician and teacher of musical education at the Pereanton School in Granollers, Barcelona"
 
 # -------- Conversation and Live Music Performance --------------------
 
@@ -460,15 +460,15 @@ Date36 : Saturday, April 6th
 
 Time37 : 10.00 -
 
-Place37 : Cosmocaixa
+Place37 : CosmoCaixa
 
 Classroom37 : Auditorium
 
 Title37 : Engagement First, Pathways to Intrinsically Motivated Learning
 
-Subtitle37 : Gever Tulley, Brightworks School founder and education architect, San Francisco, USA.
+Subtitle37 : "**Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA."
 
-LocalPeer37 : Mariona Cíller, co-founder of SokoTech, Barcelona
+LocalPeer37 : "**Mariona Cíller**, co-founder of SokoTech, Barcelona"
 
 
 # --------  Conversation --------------------
@@ -488,15 +488,15 @@ Time39 : 11.10 -
 
 Time40 : 11.40 -
 
-Place40 : Cosmocaixa
+Place40 : CosmoCaixa
 
 Classroom40 : Auditorium
 
 Title40 : Bringing assessment culture to the 21st century – the power of innovative assessment
 
-Subtitle40 : Juuso Henrik Nieminen, Mathematics Education Research Group, University of Helsinki, Finland.
+Subtitle40 : "**Juuso Henrik Nieminen**, Mathematics Education Research Group, University of Helsinki, Finland."
 
-LocalPeer40 : Victoria Eugenia Ibáñez, secondary education science and mathematics teacher, Barcelona.
+LocalPeer40 : "**Victoria Eugenia Ibáñez**, secondary education science and mathematics teacher, Barcelona."
 
 
 # --------  Conversation --------------------
@@ -510,15 +510,15 @@ Time41 : 12.20 -
 
 Time42 : 12.40 -
 
-Place42 : Cosmocaixa
+Place42 : CosmoCaixa
 
 Classroom42 : Auditorium
 
 Title42 : School for What?
 
-Subtitle42 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High and adjunct faculty member at the High Tech High Graduate School of Education San Diego, USA.
+Subtitle42 : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High and adjunct faculty member at the High Tech High Graduate School of Education San Diego, USA."
 
-LocalPeer42 : Sergi del Moral, teaching and management team at the Institut-Escola Les Vinyes de Castellbisbal, Barcelona.
+LocalPeer42 : "**Sergi del Moral**, teaching and management team at the Institut-Escola Les Vinyes de Castellbisbal, Barcelona."
 
 
 # ---- 07 Creating the next generation of schools --------------------
@@ -526,7 +526,7 @@ LocalPeer42 : Sergi del Moral, teaching and management team at the Institut-Esco
 
 Time43 : 13.20 -
 
-Place43 : Cosmocaixa
+Place43 : CosmoCaixa
 
 Classroom43 : Auditorium
 
@@ -534,9 +534,9 @@ Title43 : Creating the next generation of schools
 
 Subtitle43A : Farewell conversation
 
-Subtitle43B : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA.
+Subtitle43B : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA."
 
-LocalPeer43 : Anna Cutler, director of Learning and Research at Tate, London, UK; Gever Tulley, Brightworks School founder and education architect, San Francisco, USA; Juuso Henrik Nieminen, Mathematics education research group, University of Helsinki, Finland; Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK.
+LocalPeer43 : "**Anna Cutler**, director of Learning and Research at Tate, London, UK; **Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA; **Juuso Henrik Nieminen**, Mathematics education research group, University of Helsinki, Finland; **Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK."
 
 
 # --------  Conference closing  --------------------
@@ -544,13 +544,13 @@ LocalPeer43 : Anna Cutler, director of Learning and Research at Tate, London, UK
 
 Time44 : 14.00 -
 
-Place44 : Cosmocaixa
+Place44 : CosmoCaixa
 
 Classroom44 : Auditorium
 
 Title44 : Cloenda de les sessions
 
-Subtitle44 : A càrrec de Lluís Noguera i Jordana, director del CosmoCaixa, Barcelona
+Subtitle44 : "A càrrec de **Lluís Noguera i Jordana**, director del CosmoCaixa, Barcelona"
 
 
 
@@ -567,7 +567,7 @@ HomeFooterSectionTitle03 : By Bus
 HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
 
 HomeFooterSectionTitle05 : Parking
-HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
+HomeFooterSectionText05 : Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.
 
 # FOOTER
 

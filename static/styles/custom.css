@@ -19,6 +19,10 @@ body {
   font-family: 'Rubik', sans-serif;
 }
 
+h6 {
+  line-height: 1.35;
+}
+
 p {
   font-family: 'Rubik', sans-serif;
 }
@@ -31,8 +35,8 @@ p {
 button {
   background: #EB7B39;
   border-radius: 30px !important;
-  padding: 5px 30px;
-  border: 3px #EB7B39 solid;
+  padding: 10px 30px;
+  border: none;
   color: white;
   font-size: 1.4em !important;
   transition: .5s ease;
@@ -2088,9 +2092,10 @@ padding: 0 2% 0 8%;
   margin-bottom: 5%;
 }
 
-.content-workshops-info h5 {
+.content-workshops-info h6 {
   margin-top: 2%;
   margin-bottom: 2%;
+  line-height: 1.5rem;
 }
 
 .content-workshops-info p {
@@ -2408,6 +2413,8 @@ display: block;
       display: block;
       position: relative;
       overflow: -moz-hidden-unscrollable;
+
+
     }
 
     .home-footer-section-text {

@@ -39,7 +39,7 @@
               <div class="col-md-9 content-workshops-info">
 
                 <h3>{{ .Title01 }}</h3>
-                <h5>{{ .Subtitle01  | markdownify }}</h5>
+                <h6>{{ .Subtitle01 | markdownify }}</h6>
                 <p>{{ .Text01 }}</p>
 
               </div>  <!-- content-schedule-info -->
@@ -63,7 +63,7 @@
               <div class="col-md-9 content-workshops-info">
 
                 <h3>{{ .Title02A }}</h3>
-                <h5>{{ .Subtitle02A | markdownify }}</h5>
+                <h6>{{ .Subtitle02A | markdownify }}</h6>
                 <p>{{ .Text02A }}</p>
 
               </div>  <!-- content-schedule-info -->
@@ -82,17 +82,16 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum01 }}</h1>
-                  <h3>{{ .WorkshopClassroom01 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom01 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage01 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq01 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom01 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage01 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle01 }}</h3>
-                  <h5>{{ .WorkshopSubtitle01 }}</h5>
+                  <h6>{{ .WorkshopSubtitle01 | markdownify }}</h6>
                   <p>{{ .WorkshopText01 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -155,16 +154,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum03 }}</h1>
                   <h3>{{ .WorkshopClassroom03 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom03 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage03 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq03 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom03 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage03 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle03 }}</h3>
-                  <h5>{{ .WorkshopSubtitle03 }}</h5>
+                  <h6>{{ .WorkshopSubtitle03 | markdownify }}</h6>
                   <p>{{ .WorkshopText03 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -208,16 +207,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum04 }}</h1>
                   <h3>{{ .WorkshopClassroom04 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom04 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage04 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq04 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom04 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage04 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle04 }}</h3>
-                  <h5>{{ .WorkshopSubtitle04 }}</h5>
+                  <h6>{{ .WorkshopSubtitle04 | markdownify }}</h6>
                   <p>{{ .WorkshopText04 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -261,16 +260,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum05 }}</h1>
                   <h3>{{ .WorkshopClassroom05 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom05 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage05 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq05 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom05 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage05 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle05 }}</h3>
-                  <h5>{{ .WorkshopSubtitle05 }}</h5>
+                  <h6>{{ .WorkshopSubtitle05 | markdownify }}</h6>
                   <p>{{ .WorkshopText05 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -313,16 +312,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum06 }}</h1>
                   <h3>{{ .WorkshopClassroom06 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom06 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage06 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq06 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom06 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage06 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle06 }}</h3>
-                  <h5>{{ .WorkshopSubtitle06 }}</h5>
+                  <h6>{{ .WorkshopSubtitle06 | markdownify }}</h6>
                   <p>{{ .WorkshopText06 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -385,16 +384,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum07 }}</h1>
                   <h3>{{ .WorkshopClassroom07 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom07 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage07 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq07 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom07 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage07 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle07 }}</h3>
-                  <h5>{{ .WorkshopSubtitle07 }}</h5>
+                  <h6>{{ .WorkshopSubtitle07 | markdownify }}</h6>
                   <p>{{ .WorkshopText07 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -484,16 +483,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum17 }}</h1>
                   <h3>{{ .WorkshopClassroom17 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom17 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage17 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq17 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom17 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage17 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle17 }}</h3>
-                  <h5>{{ .WorkshopSubtitle17 }}</h5>
+                  <h6>{{ .WorkshopSubtitle17 | markdownify }}</h6>
                   <p>{{ .WorkshopText17 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -602,16 +601,16 @@
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum18 }}</h1>
                   <h3>{{ .WorkshopClassroom18 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom18 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage18 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq18 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom18 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage18 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle18 }}</h3>
-                  <h5>{{ .WorkshopSubtitle18 }}</h5>
+                  <h6>{{ .WorkshopSubtitle18 | markdownify }}</h6>
                   <p>{{ .WorkshopText18 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -656,16 +655,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum19 }}</h1>
                   <h3>{{ .WorkshopClassroom19 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom19 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage19 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq19 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom19 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage19 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle19 }}</h3>
-                  <h5>{{ .WorkshopSubtitle19 }}</h5>
+                  <h6>{{ .WorkshopSubtitle19 | markdownify }}</h6>
                   <p>{{ .WorkshopText19 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -805,7 +804,7 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
               <div class="col-md-9 content-workshops-info">
 
                 <h3>{{ .Title02A }}</h3>
-                <h5>{{ .Subtitle02A }}</h5>
+                <h6>{{ .Subtitle02A }}</h6>
                 <p>{{ .Text02A }}</p>
 
               </div>  <!-- content-schedule-info -->
@@ -824,16 +823,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum02B }}</h1>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom02B }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage02B }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq02B }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom02B }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage02B }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle02B }}</h3>
-                  <h5>{{ .WorkshopSubtitle02B }}</h5>
+                  <h6>{{ .WorkshopSubtitle02B | markdownify }}</h6>
                   <p>{{ .WorkshopText02B }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -895,16 +894,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum08 }}</h1>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom08 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage08 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq08 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom08 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage08 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle08 }}</h3>
-                  <h5>{{ .WorkshopSubtitle08 }}</h5>
+                  <h6>{{ .WorkshopSubtitle08 | markdownify }}</h6>
                   <p>{{ .WorkshopText08 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -948,16 +947,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum09 }}</h1>
                   <h3>{{ .WorkshopClassroom09 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom09 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage09 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq09 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom09 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage09 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle09 }}</h3>
-                  <h5>{{ .WorkshopSubtitle09 }}</h5>
+                  <h6>{{ .WorkshopSubtitle09 | markdownify }}</h6>
                   <p>{{ .WorkshopText09 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -1021,16 +1020,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum10 }}</h1>
                   <h3>{{ .WorkshopClassroom10 }}</h3>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom10 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage10 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq10 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom10 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage10 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle10 }}</h3>
-                  <h5>{{ .WorkshopSubtitle10 }}</h5>
+                  <h6>{{ .WorkshopSubtitle10 | markdownify }}</h6>
                   <p>{{ .WorkshopText10 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -1112,16 +1111,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum11 }}</h1>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom11 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage11 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq11 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom11 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage11 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle11 }}</h3>
-                  <h5>{{ .WorkshopSubtitle11 }}</h5>
+                  <h6>{{ .WorkshopSubtitle11 | markdownify }}</h6>
                   <p>{{ .WorkshopText11 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -1203,16 +1202,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum12 }}</h1>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom12 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage12 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq12 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom12 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage12 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle12 }}</h3>
-                  <h5>{{ .WorkshopSubtitle12 }}</h5>
+                  <h6>{{ .WorkshopSubtitle12 | markdownify }}</h6>
                   <p>{{ .WorkshopText12 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -1319,16 +1318,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum13 }}</h1>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom13 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage13 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq13 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom13 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage13 }}</h6>
+                  <h6><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq13 }}</h6>
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle13 }}</h3>
-                  <h5>{{ .WorkshopSubtitle13 }}</h5>
+                  <h6>{{ .WorkshopSubtitle13 | markdownify }}</h6>
                   <p>{{ .WorkshopText13 }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -1370,30 +1369,30 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">{{ .WorkshopNum14 }}</h1>
-                  <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom12 }}</h5>
-                  <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage12 }}</h5>
-                  <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq14 }}</h5>
+                  <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom12 }}</h6>
+                  <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage12 }}</h6>
+
 
                 </div>  <!-- col content-time -->
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>{{ .WorkshopTitle14 }}</h3>
-                  <h5>{{ .WorkshopSubtitle14 }}</h5>
+                  <h6>{{ .WorkshopSubtitle14 | markdownify }}</h6>
                   <p>{{ .WorkshopText14 }}</p>
 
-                  <h5 class="workshop-undelined-title">{{ .WorkshopText14A }}</h5>
+                  <h5 class="workshop-undelined-title">{{ .WorkshopText14A }}</h6>
 
-                  <h5>{{ .WorkshopText14B }}</h5>
+                  <h6>{{ .WorkshopText14B }}</h6>
                   <p>{{ .WorkshopSubText14B }}</p>
 
-                  <h5>{{ .WorkshopText14C }}</h5>
+                  <h6>{{ .WorkshopText14C }}</h6>
                   <p>{{ .WorkshopSubText14C }}</p>
 
-                  <h5>{{ .WorkshopText14D }}</h5>
+                  <h6>{{ .WorkshopText14D }}</h6>
                   <p>{{ .WorkshopSubText14D }}</p>
 
-                  <h5>{{ .WorkshopText14E }}</h5>
+                  <h6>{{ .WorkshopText14E }}</h6>
                   <p>{{ .WorkshopSubText14E }}</p>
 
                 </div>  <!-- col content-schedule-info -->
@@ -1458,16 +1457,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
               <div class="col-md-3 paralel-content-time">
 
                 <h1 class="paralel-workshop-number">{{ .WorkshopNum15 }}</h1>
-                <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom15 }}</h5>
-                <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage15 }}</h5>
-                <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq15 }}</h5>
+                <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom15 }}</h6>
+                <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage15 }}</h6>
+                <h6><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq15 }}</h6>
 
               </div>  <!-- col content-time -->
 
               <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                 <h3>{{ .WorkshopTitle15 }}</h3>
-                <h5>{{ .WorkshopSubtitle15 }}</h5>
+                <h6>{{ .WorkshopSubtitle15 | markdownify }}</h6>
                 <p>{{ .WorkshopText15 }}</p>
 
               </div>  <!-- col content-schedule-info -->
@@ -1511,16 +1510,16 @@ per apropar les TICs a l’àmbit STEAM ---------------------------------------
 
                 <h1 class="paralel-workshop-number">{{ .WorkshopNum20 }}</h1>
                 <h3>{{ .WorkshopClassroom20 }}</h3>
-                <h5><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom20 }}</h5>
-                <h5><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage20 }}</h5>
-                <h5><span class="orange">{{ i18n "requirements" }}:</span> {{ .WorkshopReq20 }}</h5>
+                <h6><span class="orange">{{ i18n "classroom" }}:</span> {{ .WorkshopClassroom20 }}</h6>
+                <h6><span class="orange">{{ i18n "language" }}:</span> {{ .WorkshopLanguage20 }}</h6>
+
 
               </div>  <!-- col content-time -->
 
               <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                 <h3>{{ .WorkshopTitle20 }}</h3>
-                <h5>{{ .WorkshopSubtitle20 }}</h5>
+                <h6>{{ .WorkshopSubtitle20 | markdownify }}</h6>
                 <p>{{ .WorkshopText20 }}</p>
 
               </div>  <!-- col content-schedule-info -->

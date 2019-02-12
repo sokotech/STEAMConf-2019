@@ -15,20 +15,19 @@ googleAnalytics = ""
 
 
 [languages]
-[languages.en]
-title = "STEAMConf"
-weight = 1
-name = "EN"
-languageCode = "en-US"
 
-[languages.es]
-title = "STEAMConf"
-weight = 2
-name = "ES"
-languageCode = "es-ES"
-
-[languages.ca]
-title = "STEAMConf"
-weight = 3
-name = "CA"
-languageCode = "ca-CA"
+  [languages.en]
+    title = "STEAMConf"
+    weight = 1
+    name = "EN"
+    languageCode = "en-US"
+  [languages.es]
+    title = "STEAMConf"
+    weight = 2
+    name = "ES"
+    languageCode = "es-ES"
+  [languages.ca]
+    title = "STEAMConf"
+    weight = 3
+    name = "CA"
+    languageCode = "ca-CA"

@@ -19,7 +19,7 @@ Date01 : Saturday, March 30th
 
 Time01 : 10.00 - 14.00
 
-Place01 : Cosmocaixa
+Place01 : CosmoCaixa
 
 Classroom01 : Sala Àgora
 
@@ -56,7 +56,7 @@ Date02 : Thursday, April 4
 
 Time02 : 18.30 -
 
-Place02 : Cosmocaixa
+Place02 : CosmoCaixa
 
 Classroom02 : Auditorium
 
@@ -64,7 +64,7 @@ Title02A : Public opening of the Conference
 
 LanguageNotice02 : Conference open to the public (simultaneous translation in Catalan, Spanish and English)
 
-LocalSpeaker02A : Welcome by Lluís Noguera i Jordana, Director of CosmoCaixa, Barcelona and Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona
+LocalSpeaker02A : "Welcome by **Lluís Noguera i Jordana**, Director of CosmoCaixa, Barcelona; **Ernesto Fernández Polcuch,** Chief of Section for Science Policy and Partnerships, Natural Sciences Sector, UNESCO. (TBC)"
 
 LocalSpeakerTitle02F : Lluís Noguera i Jordana
 
@@ -76,11 +76,11 @@ InternationalSpeakerText02C : Was a Nesta Senior Adviser and Senior Project Lead
 
 InternationalSpeakerTitle02D : Ernesto Fernández Polcuch
 
-InternationalSpeakerText02D : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+InternationalSpeakerText02D : Head of the Scientific Policy and Cooperation Section, UNESCO (TBC)
 
 Title02B : MyPERFORM-UNESCO / How to configure a performance
 
-LocalSpeaker02B : Helena González and Oriol Marimon, Big Van Ciencia, IES Moises Broggi, IES Consell de Cent and IES Castellbisbal (Barcelona)
+LocalSpeaker02B : "**Helena González** and **Oriol Marimon**, Big Van Ciencia, IES Moises Broggi, IES Consell de Cent and IES Castellbisbal (Barcelona)"
 
 Text02B : At myPERFORM we talk about science with responsibility; we tackle social challenges, ethical dilemmas and gender inequalities; we identify pseudoscience and conflicts of interest but above all, we have a great time, we explore humour and we build scientific stories and perform them
  on stage.
@@ -89,7 +89,7 @@ Text02C : The myPERFORM project uses the performing arts to create an inclusive 
 
 Text02D : The presentation of the myPERFORM project will be a spectacle. Literally. A show in which the monologues and theatrical sketches made by students from various schools in Barcelona will be interspersed, where we can answer questions such as = what can we do to stop climate change? How do we look for life on other planets? What new technologies are there for fighting cancer?
 
-Text02E : MyPERFORM follows from the successes of its predecessor, the European Commission funded PERFORM project, to implement performance-based science education processes in countries worldwide.
+Text02E : PERFORM follows from the successes of its predecessor, the European Commission funded PERFORM project, to implement performance-based science education processes in countries worldwide.
 
 Text02F : PERFORM has been a project financed by the European Union, implemented in Spain, the United Kingdom and France. The design and implementation of pedagogical activities has been led by Big Van Science (www.bigvanciencia.com).
 
@@ -119,7 +119,7 @@ Date03 : Friday, April 5th
 
 Time04 : 9.00 -
 
-Place04 : Cosmocaixa
+Place04 : CosmoCaixa
 
 Classroom04 : Different classrooms
 
@@ -157,13 +157,13 @@ ButtonText08 : See detailed programme here!
 
 Time09 : 13.45 -
 
-Place09 : Cosmocaixa
+Place09 : CosmoCaixa
 
 Classroom09 : Sala Pi
 
 Title09 : Reception of front row guests
 
-Subtitle09 : Welcome and coordination by Begonya Folch, member of the Advisory Committee
+Subtitle09 : "Welcome and coordination by **Begonya Folch**, member of the Advisory Committee"
 
 LocalSpeakerTitle09 : Begonya Folch
 
@@ -173,7 +173,7 @@ LocalSpeakerText09 : Musician, involved in educational transformation and the im
 
 Time10 : 14.00 -
 
-Place10 : Cosmocaixa
+Place10 : CosmoCaixa
 
 Title10 : Conference Registration
 
@@ -183,11 +183,11 @@ LanguageNotice10 : (All sessions have simultaneous translation in Catalan, Spani
 
 Time11 : 15.00 -
 
-Place11 : Cosmocaixa
+Place11 : CosmoCaixa
 
 Title11A : Conference Opening
 
-Subtitle11A : Jordi Portabella i Calvete, Scientific Outreach and CosmoCaixa Area Director, Barcelona, Francesca Bria, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona, M. del Mar Camacho, Director General of Innovation, Research and Digital Culture, Generalitat de Catalunya, Barcelona.
+Subtitle11A : "**Jordi Portabella i Calvete**, Scientific Outreach and CosmoCaixa Area Director, Barcelona, **Francesca Bria**, Chief Technology and Digital Innovation Officer for the City of Barcelona, Barcelona, **M. del Mar Camacho**, Director General of Innovation, Research and Digital Culture, Generalitat de Catalunya, Barcelona."
 
 LocalSpeakerTitle11A : Jordi Portabella i Calvete
 
@@ -201,12 +201,9 @@ LocalSpeakerTitle11D : M. del Mar Camacho
 
 LocalSpeakerText11D : PhD lecturer on Educational Technology at the Faculty of Education of the Universitat Rovira i Virgili (Catalonia). She has taught on graduate and postgraduate programmes related to Educational Technology, with particular emphasis on Mobile Learning and emerging technologies. Co-author of the first monograph on Mobile Learning in Spain, Portugal and Latin America, she has been leading a nationwide research on the use of tablets in schools and their impact on learning. Other international collaborations in this field include institutions such as UNESCO and the International Telecommunication Union (United Nations). She has given keynotes to international audiences and is author of more than 60 scholarly papers. Appointed Director General of Primary and Childhood Education at the Catalan Ministry of Education in July 2018 and Director General of Innovation, Research and Digital Culture in December 2018.
 
-
-
-
 Title11B : Welcome to the conference
 
-Subtitle11B : Frank Sabaté, member of the STEAMConf Advisory Committee, Barcelona
+Subtitle11B : "**Frank Sabaté**, member of the STEAMConf Advisory Committee, Barcelona"
 
 LocalSpeakerTitle11C : Frank Sabaté
 
@@ -216,15 +213,15 @@ LocalSpeakerText11C : Teacher at Escola Projecte in Barcelona. He is passionate 
 
 Time12 : 15.20 -
 
-Place12 : Cosmocaixa
+Place12 : CosmoCaixa
 
 Classroom12 : Auditorium
 
 Title12 : Make or Break. The Imperative for Change
 
-Subtitle12 : Anna Cutler, director of learning and research at Tate, London, UK
+Subtitle12 : "**Anna Cutler**, director of learning and research at Tate, London, UK"
 
-LocalSpeaker12 : Monica Bello, curator and head of arts at CERN, Switzerland
+LocalSpeaker12 : "**Monica Bello**, curator and head of arts at CERN, Geneva, Switzerland"
 
 Text12 : This presentation offers an overview of the last ten years of learning at Tate, exploring changes in practice, theoretical influences and the pragmatics of working in a large art museum. It looks at the current social and cultural landscape and suggests an imperative for change that requires us to reflect on what we need to make or break in order to generate relevant and meaningful experiences with art that meet the needs of our responsibilities to students.
 
@@ -248,15 +245,15 @@ Time14 : 16.30 -
 
 Time15 : 17.00 -
 
-Place15 : Cosmocaixa
+Place15 : CosmoCaixa
 
 Classroom15 : Auditorium
 
 Title15 : It looks like fun, but are they learning?
 
-Subtitle15 : Sebastian Martin, Tinkering Studio. Exploratorium of San Francisco, USA.
+Subtitle15 : "**Sebastian Martin**, Tinkering Studio. Exploratorium of San Francisco, USA."
 
-LocalSpeaker15 : Òscar M. Ciuró, cultural education manager. Thinking Doing Digital, Education and MakerConvent, Barcelona.
+LocalSpeaker15 : "**Òscar M. Ciuró**, cultural education manager. Thinking Doing Digital, Education and MakerConvent, Barcelona."
 
 Text15 : We’ll delve into what it means to create STEAM-based learning experiences that fully embrace aesthetics as a way to engage young people physically, intellectually and emotionally. When learners are tinkering, wonder and delight are ever-present — and that is fun —.  So why is it undervalued in education?  It’s a pedagogy based on active engagement with materials and ideas aimed at cultivating curiosity.  We'll highlight dimensions of learning found in tinkering; a process where teachers and learners are changing their relationships to ideas, science phenomena and each other, redefining what counts as learning.
 
@@ -276,15 +273,15 @@ Time16 : 17.50 -
 
 Time17 : 18.10 -
 
-Place17 : Cosmocaixa
+Place17 : CosmoCaixa
 
 Classroom17 : Auditorium
 
 Title17 : Sonic Pi and Education
 
-Subtitle17 : Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK
+Subtitle17 : "**Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK"
 
-LocalSpeaker17 : Carles Ceacero, multifaceted musician and teacher of musical education at the Pereanton School in Granollers, Barcelona
+LocalSpeaker17 : "**Carles Ceacero**, multifaceted musician and teacher of musical education at the Pereanton School in Granollers, Barcelona"
 
 Text17 : Sonic Pi is a free educational environment for learning to code. It is possible for beginners to code fresh beats, driving bass lines and shimmering synth riffs. All this whilst learning core computer science concepts such as sequencing, functions, variables, loops, data structures and algorithms. In this demo-heavy talk we’ll cover Sonic Pi's history — why it was created, how it evolved and what it can do today —. We'll also discuss how and why many of Sonic Pi's classroom-focussed design decisions turned out to be fantastically useful for professional musicians (and vice-versa).
 
@@ -310,15 +307,15 @@ Date19 : Saturday, April 6th
 
 Time20 : 10.00 -
 
-Place20 : Cosmocaixa
+Place20 : CosmoCaixa
 
 Classroom20 : Auditorium
 
 Title20 : Engagement First, Pathways to Intrinsically Motivated Learning
 
-Subtitle20 : Gever Tulley, Brightworks School founder and education architect, San Francisco, USA.
+Subtitle20 : "**Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA."
 
-LocalSpeaker20 : Mariona Cíller, co-founder of SokoTech, Barcelona
+LocalSpeaker20 : "**Mariona Cíller**, co-founder of SokoTech, Barcelona"
 
 Text20 : Looking back at 12 years of experiments in creating highly-engaging learning experiences, Gever Tulley will share his infectious optimism and some new ideas that may pave the way to more engaged students and provide a glimpse of what the future of education may look like.
 
@@ -342,15 +339,15 @@ Time22 : 11.10 -
 
 Time23 : 11.40 -
 
-Place23 : Cosmocaixa
+Place23 : CosmoCaixa
 
 Classroom23 : Auditorium
 
 Title23 : Bringing assessment culture to the 21st century – the power of innovative assessment
 
-Subtitle23 : Juuso Henrik Nieminen, Mathematics Education Research Group, University of Helsinki, Finland.
+Subtitle23 : "**Juuso Henrik Nieminen**, Mathematics Education Research Group, University of Helsinki, Finland."
 
-LocalSpeaker23 : Victoria Eugenia Ibáñez, secondary education science and mathematics teacher, Barcelona.
+LocalSpeaker23 : "**Victoria Eugenia Ibáñez**, secondary education science and mathematics teacher, Barcelona."
 
 Text23 : In 0.51 seconds, a Google search brings you over 139 million results for “21st century skills”. No doubt, educational levels from elementary schools to universities are buzzing about lifelong learning, metacognitive skills and critical thinking. However, even though curricula around the world are starting to value these skills, assessment culture lags behind. This is also true in Finland, where the new national curriculum in 2016 introduced new ideas such as programming skills and multidisciplinary learning but left the teacher-led assessment culture largely untouched. In his talk, Nieminen will introduce the newest research results concerning digital and innovative assessment from the University of Helsinki. It is argued that the core of our assessment methods has actually been pretty much the same for hundreds of years and ‘radical’ attempts to change it have not always end well. How could digital self- and peer-assessment support accessibility, student empowerment and ownership of learning?
 
@@ -370,15 +367,15 @@ Time24 : 12.20 -
 
 Time26 : 12.40 -
 
-Place26 : Cosmocaixa
+Place26 : CosmoCaixa
 
 Classroom26 : Auditorium
 
 Title26 : School for What?
 
-Subtitle26 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High and adjunct faculty member at the High Tech High Graduate School of Education San Diego, USA.
+Subtitle26 : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High and adjunct faculty member at the High Tech High Graduate School of Education San Diego, USA."
 
-LocalSpeaker26 : Sergi del Moral, teaching and management team at the Institut-Escola Les Vinyes de Castellbisbal, Barcelona.
+LocalSpeaker26 : "**Sergi del Moral**, teaching and management team at the Institut-Escola Les Vinyes de Castellbisbal, Barcelona."
 
 Text26 : What if school was organised around the interests and natural curiosities of our students and teachers? What if the learning experience required you to get out of the building, observe the world, document findings and create/deliver beautifully crafted work that makes a real impact in the world beyond the school walls? The future of learning will look and feel less like school, as we currently know it, and more like students doing original, creative and meaningful work. Given the right conditions, young people will lead revolutions, invent new technologies, create new culture, new forms of expression, new genres of music and even new forms of government. With their boundless energy, they throw themselves into their work and they see old things in new ways. In this presentation, we’ll look at examples of student work, share some current experiments and show how we use human-centred design tools, methods and mindsets to make school more engaging, more interesting and more human. We will talk about the future of learning, school culture and creative leadership.
 
@@ -394,7 +391,7 @@ LocalSpeakerText26B : Is interested in the processes of transformation that cont
 
 Time27 : 13.20 -
 
-Place27 : Cosmocaixa
+Place27 : CosmoCaixa
 
 Classroom27 : Auditorium
 
@@ -402,21 +399,25 @@ Title27 : Creating the next generation of schools
 
 Subtitle27 : Farewell Conversation
 
-LeadSpeaker27 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA.
+LeadSpeaker27 : "**Eduard Vallory**, president del Centre UNESCO de Catalunya i director d'Escola Nova 21, Barcelona"
 
-Speakers27 : Anna Cutler, director of Learning and Research at Tate, London, UK; Gever Tulley, Brightworks School founder and education architect, San Francisco, USA; Juuso Henrik Nieminen, Mathematics education research group, University of Helsinki, Finland; Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK.
+Speakers27 : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA; **Anna Cutler**, director of Learning and Research at Tate, London, UK; **Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA; **Juuso Henrik Nieminen**, Mathematics education research group, University of Helsinki, Finland; **Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK."
+
+LocalSpeakerTitle27 : Eduard Vallory
+
+LocalSpeakerText27 : He is a social analyst and change manager. He chairs the UNESCO Center of Catalonia, directs Escola Nova 21 and promotes a university program to improve the professional development of teachers, commissioned by the Generalitat. He has been visiting scholar of the Department of Sociology of the New York University, after having directed the Barcelona Graduate School of Economics. He holds a Ph.D. in Political Science, a Master's in Social Sciences, a diploma in Business Management and a degree in Philosophy and Journalism. He was a research fellow at the Fitzwilliam College of the University of Cambridge, where he carried out research on education in global citizenship and the global scouting movement, published in Catalan by Proa (2010) and in English by Palgrave Macmillan (2012). He was chief of staff of the Minister of Universities, Research and Information Society of the Generalitat de Catalunya, Andreu Mas-Colell.
 
 # ---- CLOENDA DE LES SESSIONS -------------------
 
 Time28 : 14.00 -
 
-Place28 : Cosmocaixa
+Place28 : CosmoCaixa
 
 Classroom28 : Auditorium
 
 Title28 : Conference Wrap Up
 
-Subtitle28 : By Lluís Noguera, director of CosmoCaixa
+Subtitle28 : "By **Lluís Noguera**, director of CosmoCaixa"
 
 LocalSpeakerTitle28 : Lluís Noguera i Jordana
 
@@ -435,7 +436,7 @@ HomeFooterSectionTitle03 : By Bus
 HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
 
 HomeFooterSectionTitle05 : Parking
-HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
+HomeFooterSectionText05 : Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.
 
 # FOOTER
 

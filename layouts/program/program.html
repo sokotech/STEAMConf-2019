@@ -56,7 +56,7 @@
                 <p>{{ .Text01D }}</p>
 
                 <div id="button-edcamp" class="col-md-3 col-xs-12">
-                    <a target="_blank" href="https://edcamp.educaciodema.cat/ca/edcamp/edcamp-steam-barcelona-18/_e:55/"><button type="button" class="button-edcamp-element">{{ .button01F }}</button></a>
+                    <a target="_blank" href="https://edcamp.educaciodema.cat/ca/edcamp/edcamp-steam-barcelona-19/_e:75/"><button type="button" class="button-edcamp-element">{{ .button01F }}</button></a>
                 </div> <!-- col -->
 
               </div>  <!-- content-schedule-info -->
@@ -124,13 +124,13 @@
                   </div>  <!-- row -->
 
 
-                  <div class="row content-program-speaker-row">
+                  <!-- <div class="row content-program-speaker-row">
 
                      <div class="col-md-3">
                        <img class="page-text-container-image" src="../../../img/02/francesca_bria.jpg" alt="SteamConf Speaker">
                      </div>  <!-- col -->
 
-                     <div class="col-md-9">
+                     <!-- <div class="col-md-9">
 
                        <h4 class="page-text-container-title">{{ .InternationalSpeakerTitle02C }}</h4>
 
@@ -140,7 +140,7 @@
 
                      </div>  <!-- col -->
 
-                  </div>  <!-- row -->
+                  <!-- </div>  <!-- row -->
 
 
                   <div class="row content-program-speaker-row">
@@ -1151,8 +1151,26 @@
 
                 <h3>{{ .Title27 }}</h3>
                 <h6 id="farewell-conversation">{{ .Subtitle27 | markdownify }}</h6>
-                <h6>{{ .LeadSpeaker27 | markdownify }}</h6>
+                <h6><span class="orange">{{ i18n "moderator" }}:</span> {{ .LeadSpeaker27 | markdownify }}</h6>
                 <h6>{{ .Speakers27 | markdownify }}</h6>
+
+                  <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/eduard-vallory.jpg" alt="SteamConf Speaker Juuso Henrik Nieminen">
+                     </div>  <!-- col -->
+
+                     <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">{{ .LocalSpeakerTitle27 }}</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">{{ .LocalSpeakerText27 }}</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/evallory">@evallory</a>
+
+                     </div>  <!-- col -->
+
+                  </div>  <!-- row -->
 
               </div>  <!-- content-schedule-info -->
 
