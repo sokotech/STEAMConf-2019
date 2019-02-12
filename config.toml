@@ -14,21 +14,20 @@ enableRobotsTXT = true
 googleAnalytics = ""
 
 
-[Languages]
-
-[Languages.en]
+[languages]
+[languages.en]
 title = "STEAMConf"
 weight = 1
 name = "EN"
 languageCode = "en-US"
 
-[Languages.es]
+[languages.es]
 title = "STEAMConf"
 weight = 2
 name = "ES"
 languageCode = "es-ES"
 
-[Languages.ca]
+[languages.ca]
 title = "STEAMConf"
 weight = 3
 name = "CA"

@@ -6,73 +6,73 @@ PageHeaderRegister : Registrate
 
 # Section 01 (General info-registry)
 
-Info01A : Aquesta activitat està reconeguda pel Departament d’Ensenyament com a formació permanent del professorat.
+Info01A : Esta actividad está reconocida por el Departamento de Enseñanza como formación permanente del profesorado.
 
-Info01B : Auditorium 312 places / Els espais s’ompliran per ordre d’inscripció.
+Info01B : Auditorium 312 plazas / Los espacios se llenarán por orden de inscripción.
 
-ButtonTitle01C : Inscripció gratuïta a l’ Obertura pública de la conferencia
-ButtonSubtitle01C : (Traducció simultània català, castellà, anglès)
+ButtonTitle01C : Inscripción gratuita en el Apertura pública de la conferencia
+ButtonSubtitle01C : (Traducción simultánea catalán, castellano, inglés)
 
 # Section 02 (Conference)
 
-Title02A : Registra't a la conferència
+Title02A : Regístrate en la conferencia
 
-ListTitle02A : Públic General
+ListTitle02A : Público General
 ListText02A : 70 €
 
-ListTitle02B : Docents i clients CaixaBank
-ListText02B : 35€ (Codi promocional docents STEAMPROF19)
+ListTitle02B : Docentes y clientes CaixaBank
+ListText02B : 35€ (Código promocional docentes STEAMPROF19)
 
-ButtonTitle02 : Registra't a la conferència
-ButtonSubtitle02 : (Traducció simultània català, castellà, anglès)
+ButtonTitle02 : Regístrate en la conferencia
+ButtonSubtitle02 : (Traducción simultánea catalán, castellano, inglés)
 
-Info02 : Les conferències inclou (dijous tarda, divendres tarda i dissabte matí)
+Info02 : Las conferencias incluye (jueves tarde, viernes tarde y sábado mañana)
 
-ListTitle03E : LUNCH (divendres)
-ListText03E : exclusiu pels assistents a les dues activitats (jornades + tallers).
+ListTitle03E : LUNCH (Viernes)
+ListText03E : Exclusivo para los asistentes a las dos actividades (jornadas + talleres).
 
 # Section 03 (Workshops)
 
-Title03A : Registra't als tallers
+Title03A : Regístrate en los talleres
 
-ListTitle03A : Tallers (divendres matí)
+ListTitle03A : Talleres (viernes mañana)
 ListText03A : 25€ cada taller
 
-ListTitle03B : Docents i clients CaixaBank
+ListTitle03B : Docentes y clientes CaixaBank
 ListText03B : 12,50€ each workshop (Promo code for teachers STEAMPROF19).
 
-Info03C : En els tallers no hi ha traducció simultània, cada taller serà amb l’idioma que l’imparteix el professor. Per accedir al preu promocional de professors, cal introduir el codi STEAMPROF1718 a la seva compra on-line.
+Info03C : En los talleres no hay traducción simultánea, cada taller será con el idioma que lo imparte el profesor. Para acceder al precio promocional de profesores, hay que introducir el código STEAMPROF1718 a su compra on-line.
 
-Info03D : Els professors interessats en rebre els crèdits, hauran de signar el full d’assistència cada dia.
+Info03D : Los profesores interesados ​​en recibir los créditos, deberán firmar la hoja de asistencia cada día.
 
-ButtonTitle03 : Registra't als tallers
-ButtonSubtitle03 : (Els tallers s'imparteixen en l'idioma del facilitador)
+ButtonTitle03 : Regístrate en los talleres
+ButtonSubtitle03 : (Los talleres se imparten en el idioma del facilitador)
 
 # Section 03 (EDCAMP)
 
-Title04A : Registra't a Edcamp 2019
+Title04A : Únete a Edcamp 2019
 
-ListTitle04A : Tallers (divendres matí)
+ListTitle04A : Talleres (viernes mañana)
 ListText04A : 00€ cada taller
 
 ButtonTitle04F : EdCamp STEAMConf 2019
-ButtonSubtitle04F : Registra't aquí
+ButtonSubtitle04F : Regístrate aquí
 
 
 # COMO LLEGAR
 
 HomeFooterSectionTitle01 : Como arribar
 
-HomeFooterSectionTitle02 : Per Carretera
-HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionTitle02 : Por Carretera
+HomeFooterSectionText02 : Salidas 6/7 en Ronda de Dalt
 
 HomeFooterSectionTitle03 : En Autobus
 
-HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionTitle04 : Por Ferrocarriles de la Generalidad
 
-HomeFooterSectionTitle05 : Aparcament
-HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
+HomeFooterSectionTitle05 : Aparcamiento
+HomeFooterSectionText05 : Tarifa reducida para participantes de SteamConf (1 € / h). Hay que presentar la entrada SteamConf en la ventanilla del parking SABA.
 
 # FOOTER
 
-HomeSubFooterTitle : Contacte
+HomeSubFooterTitle : Contacto

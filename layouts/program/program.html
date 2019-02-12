@@ -43,7 +43,7 @@
               <div class="col-md-9 content-program-info">
 
                 <h3>{{ .Title01A }}</h3>
-                <h6>{{ .Subtitle01A }}</h6>
+                <h6 class="bold-subtitle">{{ .Subtitle01A }}</h6>
                 <p>{{ .Text01A }}</p>
 
                 <h3>{{ .Title01B }}</h3>
@@ -102,7 +102,7 @@
                   <h6 class="content-language-notice">{{ .LanguageNotice02 }}</h6>
 
                   <h6>{{ .InternationalSpeaker02A }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker02A }}</h6>
+                  <h6>{{ .LocalSpeaker02A | markdownify }}</h6>
                   <p>{{ .Text02A }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -168,7 +168,7 @@
                 <div class="col-md-9 offset-md-3 content-program-info">
 
                   <h3>{{ .Title02B }}</h3>
-                  <h6>{{ .LocalSpeaker02B }}</h6>
+                  <h6>{{ .LocalSpeaker02B | markdownify }}</h6>
 
                   <p>{{ .Text02B }}</p>
                   <p>{{ .Text02C }}</p>
@@ -290,7 +290,7 @@
               <div class="col-md-9 content-program-info">
 
                 <h3>{{ .Title04A }}</h3>
-                <h6>{{ .Subtitle04A }}</h6>
+                <h6 class="bold-subtitle">{{ .Subtitle04A }}</h6>
                 <p>{{ .Text04A }}</p>
 
                 <div id="button-edcamp" class="col-md-3 col-xs-12">
@@ -388,7 +388,7 @@
               <div class="col-md-9 content-program-info">
 
                 <h3>{{ .Title08 }}</h3>
-                <h6>{{ .Subtitle08 }}</h6>
+                <h6 class="bold-subtitle">{{ .Subtitle08 }}</h6>
                 <p>{{ .Text08 }}</p>
 
                 <div id="button-edcamp" class="col-md-3 col-xs-12">
@@ -423,7 +423,7 @@
 
                   <h3>{{ .Title09 }}</h3>
 
-                  <h6>{{ .Subtitle09 }}</h6>
+                  <h6>{{ .Subtitle09 | markdownify }}</h6>
                   <p>{{ .Text02A }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -493,7 +493,7 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title11A }}</h3>
-                  <h6>{{ .Subtitle11A }}</h6>
+                  <h6>{{ .Subtitle11A | markdownify }}</h6>
 
                   <div class="row content-program-speaker-row">
 
@@ -559,7 +559,7 @@
                 <div class="col-md-9 offset-md-3 content-program-info">
 
                   <h3>{{ .Title11B }}</h3>
-                  <h6>{{ .Subtitle11B }}</h6>
+                  <h6>{{ .Subtitle11B | markdownify }}</h6>
 
                   <div class="row content-program-speaker-row">
 
@@ -601,8 +601,8 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title12 }}</h3>
-                  <h6>{{ .Subtitle12 }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker12 }}</h6>
+                  <h6>{{ .Subtitle12 | markdownify }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker12 | markdownify }}</h6>
                   <p>{{ .Text12 }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -711,8 +711,8 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title15 }}</h3>
-                  <h6>{{ .Subtitle15 }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker15 }}</h6>
+                  <h6>{{ .Subtitle15 | markdownify }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker15 | markdownify }}</h6>
                   <p>{{ .Text15 }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -796,8 +796,8 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title17 }}</h3>
-                  <h6>{{ .Subtitle17 }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker17 }}</h6>
+                  <h6>{{ .Subtitle17 | markdownify }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker17 | markdownify }}</h6>
                   <p>{{ .Text17 }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -893,8 +893,8 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title20 }}</h3>
-                  <h6>{{ .Subtitle20 }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker20 }}</h6>
+                  <h6>{{ .Subtitle20 | markdownify }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker20 | markdownify }}</h6>
                   <p>{{ .Text20 }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -1001,8 +1001,8 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title23 }}</h3>
-                  <h6>{{ .Subtitle23 }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker23 }}</h6>
+                  <h6>{{ .Subtitle23 | markdownify }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker23 | markdownify }}</h6>
                   <p>{{ .Text23 }}</p>
 
                   <div class="row content-program-speaker-row">
@@ -1087,9 +1087,9 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title26 }}</h3>
-                  <h6>{{ .Subtitle26 }}</h6>
-                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker26 }}</h6>
-                  <p>{{ .Text26 }}</p>
+                  <h6>{{ .Subtitle26 | markdownify }}</h6>
+                  <h6><span class="orange">Local Peer:</span> {{ .LocalSpeaker26 | markdownify }}</h6>
+                  <p>{{ .Text26 | markdownify }}</p>
 
                   <div class="row content-program-speaker-row">
 
@@ -1150,9 +1150,9 @@
               <div class="col-md-9 content-workshops-info">
 
                 <h3>{{ .Title27 }}</h3>
-                <h6 id="farewell-conversation">{{ .Subtitle27 }}</h6>
-                <h6>{{ .LeadSpeaker27 }}</h6>
-                <h6>{{ .Speakers27 }}</h6>
+                <h6 id="farewell-conversation">{{ .Subtitle27 | markdownify }}</h6>
+                <h6>{{ .LeadSpeaker27 | markdownify }}</h6>
+                <h6>{{ .Speakers27 | markdownify }}</h6>
 
               </div>  <!-- content-schedule-info -->
 
@@ -1177,7 +1177,7 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>{{ .Title28 }}</h3>
-                  <h6>{{ .Subtitle28 }}</h6>
+                  <h6>{{ .Subtitle28 | markdownify }}</h6>
                   <p>{{ .Text28 }}</p>
 
 

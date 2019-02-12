@@ -39,7 +39,7 @@
               <div class="col-md-9 content-workshops-info">
 
                 <h3>{{ .Title01 }}</h3>
-                <h5>{{ .Subtitle01 }}</h5>
+                <h5>{{ .Subtitle01  | markdownify }}</h5>
                 <p>{{ .Text01 }}</p>
 
               </div>  <!-- content-schedule-info -->
@@ -63,7 +63,7 @@
               <div class="col-md-9 content-workshops-info">
 
                 <h3>{{ .Title02A }}</h3>
-                <h5>{{ .Subtitle02A }}</h5>
+                <h5>{{ .Subtitle02A | markdownify }}</h5>
                 <p>{{ .Text02A }}</p>
 
               </div>  <!-- content-schedule-info -->
@@ -537,6 +537,49 @@
                                 <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle17B }}</h4>
 
                                 <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText17B }}</p>
+
+                                <!--  <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/ICFOnians">@ICFOnians</a> -->
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/queralt_fuentes.jpg" alt="STEAMConf bernat faura">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle17C }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText17C }}</p>
+
+                                <!--  <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/ICFOnians">@ICFOnians</a> -->
+
+                            </div> <!-- col -->
+
+                        </div> <!-- row -->
+
+
+                        <div class="row workshops-speakers-area-row">
+
+                            <div class="col-md-3">
+
+                                <img class="page-text-container-image" src="../../../img/02/joan_jorquera.jpg" alt="STEAMConf bernat faura">
+
+                            </div> <!-- col -->
+
+                            <div class="col-md-9">
+
+                                <h4 class="page-text-container-title">{{ .WorkshopSpeakerTitle17D }}</h4>
+
+                                <p class="Speaker-committe-section-p speakers-page-p">{{ .WorkshopSpeakerText17D }}</p>
 
                                 <!--  <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/ICFOnians">@ICFOnians</a> -->
 

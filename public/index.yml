@@ -1,0 +1,52 @@
+enable: true
+
+item:
+
+# BG
+
+BgSubtitle01: 5th. International Education Conference
+BgSubtitle02: CosmoCaixa, Barcelona, Abril 14 -19
+
+# Home DESCRIPTION
+
+HomeDescriptionTitle: The Fifth Edition
+
+HomeDescriptionText: STEAMConf 2019, wants to visualize the vital importance of implementing programs and resources, which help to minimize the digital divide, gender imbalances and promote equal opportunities.
+
+HomeDescriptionButton: Read more
+
+# Home SPEAKERS
+
+HomeSpeakersSectionTitle: Speakers
+
+# Home WORKSHOPS
+
+HomeWorkshopsSectionTitle: Workshops
+HomeWorkshopsText: The workshops are of an eminently practical nature and present a series of projects, tools and ideas that can be easily applied to the classroom. They show what is being done locally and elsewhere. They are a source of inspiration, and also allow you to contrast and share your own ideas with those of the other participants.
+HomeWorkshopsButton: Read more
+
+# Home ORGANIZERS
+
+HomeOrganizersSectionTitle: Organizers
+HomeCollaboratorsSectionTitle: Collaborators
+HomeGlobalPartnersSectionTitle: Global Partner
+
+# Home COMO LLEGAR
+
+HomeFooterSectionTitle01: How to arrive
+
+HomeFooterSectionTitleDirection: Address
+
+HomeFooterSectionTitle02: By Highway
+HomeFooterSectionText02: Exit 6 / 7 on Ronda de Dalt
+
+HomeFooterSectionTitle03: By Bus
+
+HomeFooterSectionTitle04: By Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05: Parking
+HomeFooterSectionText05: Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.
+
+  # Home Sub-FOOTER
+
+HomeSubFooterTitle: Contact

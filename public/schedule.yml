@@ -1,0 +1,589 @@
+enable : true
+
+item :
+
+PageHeaderSchedule : Schedule
+
+PausaCafe : Coffee Break
+
+Conversation : Conversation
+
+ParalelWorkshops : Paralel workshops
+
+# --------------------------------- Saturday, March 30th  --------------------------------
+
+
+Date01 : Saturday, March 30th
+
+
+# --- EdCamp ---------------------
+
+
+Time02 : 10.00 - 14.00
+
+Place02 : Cosmocaixa
+
+Classroom02 : Sala Ágora
+
+Title02 : EdCamp SteamConf
+
+Subtitle02 : Path to STEAMConf 2019
+
+
+# --------------------------------- Thursday, April 4 --------------------------------
+
+
+Date03 : Thursday, April 4
+
+
+# ------ PERFOMANCE UNESCO Cuando la ciencia pisa escenari
+
+
+Time04 : 10:20 -
+
+Place04 : Cosmocaixa
+
+Classroom04 : Auditorium
+
+Title04A : Public opening of the Conference
+
+Title04B : MyPERFORM-UNESCO
+
+SubTitle04 :  When Science Takes the Stage
+
+LanguageNotice04 : Conference open to the public (simultaneous translation in Catalan, Spanish and English)
+
+
+# ---------- Conversation ----------------
+
+
+Time05 : 19:45 -
+
+
+# --------------------------------- Friday, April 5th --------------------------------
+
+
+Date06 : Friday, April 5th
+
+
+# --------  Workshops  --------------------
+
+
+Time07 : 9.00 -
+
+Place07 : Cosmocaixa
+
+Classroom07 : Sala Ágora
+
+Title07 : Workshops
+
+Subtitle07 : Registration and documentation pick-up for conference & workshops.
+
+
+# --------  Paralel Workshops  --------------------
+
+
+Time08 : 10.00 -
+
+Title08 : Paralel Workshops
+
+Place08 : Cosmocaixa
+
+Classroom08 : Multiple classrooms
+
+
+# --------  01 paralel workshop  --------------------
+
+
+WorkshopNum09 : 1
+
+WorkshopClassroom09 : Sala Ágora
+
+Title09 : Workshop Name 01
+
+WorkshopLanguage09 : Define
+
+WorkshopReq09 : Define
+
+
+# --------  02 paralel workshop  --------------------
+
+
+WorkshopNum10 : 2
+
+WorkshopClassroom10 : Sala Ágora
+
+Title10 : Workshop Name 01
+
+WorkshopLanguage10 : Define
+
+WorkshopReq10 : Define
+
+
+# --------  03 paralel workshop  --------------------
+
+
+WorkshopNum11 : 3
+
+WorkshopClassroom11 : Sala Ágora
+
+Title11 : Workshop Name 01
+
+WorkshopLanguage11 : Define
+
+WorkshopReq11 : Define
+
+
+# --------  04 paralel workshop  --------------------
+
+
+WorkshopNum12 : 4
+
+WorkshopClassroom12 : Sala Ágora
+
+Title12 : Workshop Name 01
+
+WorkshopLanguage12 : Define
+
+WorkshopReq12 : Define
+
+
+# --------  05 paralel workshop  --------------------
+
+
+WorkshopNum13 : 5
+
+WorkshopClassroom13 : Sala Ágora
+
+Title13 : Workshop Name 01
+
+WorkshopLanguage13 : Define
+
+WorkshopReq13 : Define
+
+
+# --------  06 paralel workshop  --------------------
+
+
+WorkshopNum14 : 6
+
+WorkshopClassroom14 : Sala Ágora
+
+Title14 : Workshop Name 01
+
+WorkshopLanguage14 : Define
+
+WorkshopReq14 : Define
+
+
+# --------  07 paralel workshop  --------------------
+
+
+WorkshopNum15 : 7
+
+WorkshopClassroom15 : Sala Ágora
+
+Title15 : Workshop Name 01
+
+WorkshopLanguage15 : Define
+
+WorkshopReq15 : Define
+
+
+# --------  Coffee break --------------------
+
+
+Time16 : 11.30 -
+
+
+# --------  Paralel Workshops  --------------------
+
+
+Time17 : 12.00 -
+
+Title17 : Paralel Workshops
+
+Place17 : Cosmocaixa
+
+Classroom17 : Multiple classrooms
+
+
+# --------  01 paralel workshop  --------------------
+
+
+WorkshopNum18 : 1
+
+WorkshopClassroom18 : Sala Ágora
+
+Title18 : Workshop Name 01
+
+WorkshopLanguage18 : Define
+
+WorkshopReq18 : Define
+
+
+# --------  02 paralel workshop  --------------------
+
+
+WorkshopNum19 : 2
+
+WorkshopClassroom19 : Sala Ágora
+
+Title19 : Workshop Name 01
+
+WorkshopLanguage19 : Define
+
+WorkshopReq19 : Define
+
+
+# --------  03 paralel workshop  --------------------
+
+
+WorkshopNum20 : 3
+
+WorkshopClassroom20 : Sala Ágora
+
+Title20 : Workshop Name 01
+
+WorkshopLanguage20 : Define
+
+WorkshopReq20 : Define
+
+
+# --------  04 paralel workshop  --------------------
+
+
+WorkshopNum21 : 4
+
+WorkshopClassroom21 : Sala Ágora
+
+Title21 : Workshop Name 01
+
+WorkshopLanguage21 : Define
+
+WorkshopReq21 : Define
+
+
+# --------  05 paralel workshop  --------------------
+
+
+WorkshopNum22 : 5
+
+WorkshopClassroom22 : Sala Ágora
+
+Title22 : Workshop Name 01
+
+WorkshopLanguage22 : Define
+
+WorkshopReq22 : Define
+
+
+# --------  06 paralel workshop  --------------------
+
+
+WorkshopNum23 : 6
+
+WorkshopClassroom23 : Sala Ágora
+
+Title23 : Workshop Name 01
+
+WorkshopLanguage23 : Define
+
+WorkshopReq23 : Define
+
+
+# --------  07 paralel workshop  --------------------
+
+
+WorkshopNum24 : 7
+
+WorkshopClassroom24 : Sala Ágora
+
+Title24 : Workshop Name 01
+
+WorkshopLanguage24 : Define
+
+WorkshopReq24 : Define
+
+
+# --------  08 paralel workshop  --------------------
+
+
+WorkshopNum25 : 7
+
+WorkshopClassroom25 : Sala Ágora
+
+Title25 : Workshop Name 01
+
+WorkshopLanguage25 : Define
+
+WorkshopReq25 : Define
+
+
+# --------  Lunch  --------------------
+
+
+Time26 : 13.30 -
+
+Place26 : Cosmocaixa
+
+Title26 : Lunch
+
+Subtitle26 : Provided for participants on both activities only (Conferences + Workshops)
+
+
+# --------  Row 0 Welcome  --------------------
+
+
+Time27 : 13.45 -
+
+Place27 : Cosmocaixa
+
+Classroom27 : Sala Pi
+
+Title27 : Reception of front row guests
+
+Subtitle27 : Welcome and coordination by Begonya Folch, member of the Advisory Committee
+
+
+# --------  Conference Registry  --------------------
+
+
+Time28 : 14.00 -
+
+Place28 : Cosmocaixa
+
+Title28 : Conference Registration
+
+LanguageNotice28 : (All sessions have simultaneous translation in Catalan, Spanish and English)
+
+
+# --------  Conference opening  --------------------
+
+
+Time29 : 15.00 -
+
+Place29 : Cosmocaixa
+
+Classroom29 : Auditorium
+
+Title29A : Conference Opening
+
+Subtitle29A : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”, M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+
+Title29B : Welcome to the conference
+
+Subtitle29B : Jordi Portabella i Calvete, director de l´ Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”, M. del Mar Camacho Martí, Directora General d’Innovació, Recerca i Cultura Digital, Generalitat de Catalunya
+
+
+# --------  Session 01  --------------------
+
+
+Time30 : 15.20 -
+
+Place30 : Cosmocaixa
+
+Classroom30 : Auditorium
+
+Title30 : Make or Break. The Imperative for Change
+
+Subtitle30 : Anna Cutler, director of Learning and Research at Tate, London, UK
+
+LocalPeer30 : Monica Bello, curator and head of arts at CERN, Switzerland
+
+
+# --------  Conversation --------------------
+
+
+Time31 : 16.10 -
+
+
+# --------  Coffee break --------------------
+
+
+Time32 : 16.30 -
+
+
+# --------  Session 02  --------------------
+
+
+Time33 : 17.00 -
+
+Place33 : Cosmocaixa
+
+Classroom33 : Auditorium
+
+Title33 : It looks like fun, but are they learning?
+
+Subtitle33 : Sebastian Martin, Tinkering Studio. Exploratorium of San Francisco, USA.
+
+LocalPeer33 : Òscar M. Ciuró, cultural education manager. Thinking Doing Digital, Education and MakerConvent, Barcelona.
+
+
+# --------  Conversation --------------------
+
+
+Time34 : 17.50 -
+
+
+# -------- 03 - Sonic Pi and Education --------------------
+
+
+Time35 : 18.10 -
+
+Place35 : Cosmocaixa
+
+Classroom35 : Auditorium
+
+Title35 : Sonic Pi and Education
+
+Subtitle35 : Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK
+
+LocalPeer35 : Carles Ceacero, multifaceted musician and teacher of musical education at the Pereanton School in Granollers, Barcelona
+
+# -------- Conversation and Live Music Performance --------------------
+
+
+Time35A : 18.45 -
+
+ConversationMusicPerformance : Conversation and Live Music Performance
+
+
+# --------------------------------- Saturday, April 6th --------------------------------
+
+
+Date36 : Saturday, April 6th
+
+
+# ---- 04 Engagement First, Pathways to Intrinsically Motivated Learning -------------------
+
+
+Time37 : 10.00 -
+
+Place37 : Cosmocaixa
+
+Classroom37 : Auditorium
+
+Title37 : Engagement First, Pathways to Intrinsically Motivated Learning
+
+Subtitle37 : Gever Tulley, Brightworks School founder and education architect, San Francisco, USA.
+
+LocalPeer37 : Mariona Cíller, co-founder of SokoTech, Barcelona
+
+
+# --------  Conversation --------------------
+
+
+Time38 : 10.50 -
+
+
+# --------  Coffee break --------------------
+
+
+Time39 : 11.10 -
+
+
+# ---- 05 Bringing assessment culture to the 21st century – the power of innovative assessment --------------------
+
+
+Time40 : 11.40 -
+
+Place40 : Cosmocaixa
+
+Classroom40 : Auditorium
+
+Title40 : Bringing assessment culture to the 21st century – the power of innovative assessment
+
+Subtitle40 : Juuso Henrik Nieminen, Mathematics Education Research Group, University of Helsinki, Finland.
+
+LocalPeer40 : Victoria Eugenia Ibáñez, secondary education science and mathematics teacher, Barcelona.
+
+
+# --------  Conversation --------------------
+
+
+Time41 : 12.20 -
+
+
+# ---- 06 School for What? --------------------
+
+
+Time42 : 12.40 -
+
+Place42 : Cosmocaixa
+
+Classroom42 : Auditorium
+
+Title42 : School for What?
+
+Subtitle42 : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High and adjunct faculty member at the High Tech High Graduate School of Education San Diego, USA.
+
+LocalPeer42 : Sergi del Moral, teaching and management team at the Institut-Escola Les Vinyes de Castellbisbal, Barcelona.
+
+
+# ---- 07 Creating the next generation of schools --------------------
+
+
+Time43 : 13.20 -
+
+Place43 : Cosmocaixa
+
+Classroom43 : Auditorium
+
+Title43 : Creating the next generation of schools
+
+Subtitle43A : Farewell conversation
+
+Subtitle43B : Kaleb Rashad, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA.
+
+LocalPeer43 : Anna Cutler, director of Learning and Research at Tate, London, UK; Gever Tulley, Brightworks School founder and education architect, San Francisco, USA; Juuso Henrik Nieminen, Mathematics education research group, University of Helsinki, Finland; Sam Aaron, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK.
+
+
+# --------  Conference closing  --------------------
+
+
+Time44 : 14.00 -
+
+Place44 : Cosmocaixa
+
+Classroom44 : Auditorium
+
+Title44 : Cloenda de les sessions
+
+Subtitle44 : A càrrec de Lluís Noguera i Jordana, director del CosmoCaixa, Barcelona
+
+
+
+
+# HOW TO ARRIVE
+
+HomeFooterSectionTitle01 : How to arrive
+
+HomeFooterSectionTitle02 : By Highway
+HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
+
+HomeFooterSectionTitle03 : By Bus
+
+HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Parking
+HomeFooterSectionText05 : Reduced rate for SteamConf participants (€ 1 / h). SteamConf entrance ticket must be presented at the SABA parking lot.
+
+# FOOTER
+
+HomeSubFooterTitle : Contact
+meFooterSectionTitle01 : Como arribar
+
+HomeFooterSectionTitle02 : Per Carretera
+HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+
+HomeFooterSectionTitle03 : En Autobus
+
+HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+
+HomeFooterSectionTitle05 : Aparcament
+HomeFooterSectionText05 : Tarifa reduïda per a participants de SteamConf (1 € / h). Cal presentar l'entrada SteamConf a la finestreta del pàrquing SABA.
+
+# FOOTER
+
+HomeSubFooterTitle : Contacte
