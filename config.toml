@@ -17,20 +17,22 @@ googleAnalytics = ""
 [languages]
 
   [languages.en]
-    baseURL = "localhost:1313"
     title = "STEAMConf"
     weight = 1
     name = "EN"
     languageCode = "en-US"
   [languages.es]
-    baseURL = "localhost:1313/es"
     title = "STEAMConf"
     weight = 2
     name = "ES"
     languageCode = "es-ES"
   [languages.ca]
-    baseURL = "localhost:1313/ca"
     title = "STEAMConf"
     weight = 3
     name = "CA"
     languageCode = "ca-CA"
+
+
+[build]
+publish = "public"
+command = "hugo -b $URL"
