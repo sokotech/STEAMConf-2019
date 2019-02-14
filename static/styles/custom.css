@@ -28,7 +28,7 @@ p {
 }
 
 .container {
-    max-width: 100% !important;
+    max-width: 95% !important;
 }
 
 
@@ -38,7 +38,7 @@ button {
   padding: 10px 30px;
   border: none;
   color: white;
-  font-size: 1.4em !important;
+  font-size: 1.3em !important;
   transition: .5s ease;
 }
 
@@ -70,12 +70,22 @@ button:hover {
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
 
+.container {
+    max-width: 93% !important;
+}
+
+button {
+  font-size: 1.4em !important;
+}
+
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
 
-
+.container {
+    max-width: 90% !important;
+}
 
       #bg-button-01, #bg-button-02, #bg-button-03 {
         margin: 0;
@@ -179,16 +189,16 @@ button:hover {
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
 
-.bg-info-title h1{
-  font-weight: 700;
-  font-size: 3.5em;
-  text-align: left;
-}
+  .bg-info-title h1{
+    font-weight: 700;
+    font-size: 3.5em;
+    text-align: left;
+  }
 
-.bg-info-subtitle h4{
-  font-size: 24px;
-  text-align: left;
-}
+  .bg-info-subtitle h4{
+    font-size: 24px;
+    text-align: left;
+  }
 
 }
 
@@ -211,6 +221,10 @@ button:hover {
 .bg-info-subtitle h4{
   font-size: 24px;
   text-align: left;
+}
+
+.bg-information {
+  padding-left: 15px !important;
 }
 
 }
@@ -1017,6 +1031,11 @@ height: 85%;
           width: 65%;
       }
 
+/* -----------  speaker-item-container  ------------------ */
+      .speaker-item-container {
+      max-width: 95% !important;
+      }
+
 /* -----------  speaker-item-text  ------------------ */
 
 #speaker-item-text-01 {
@@ -1671,7 +1690,7 @@ position: relative;
 }
 
 .right-dots {
-  margin: 5% 0 5% auto !important;
+  margin: 7% auto !important;
 }
 
 .center-dots {
@@ -1718,10 +1737,10 @@ padding: 0 2% 0 8%;
 
 .page-text-container-image {
   border-radius: 50%;
-  width: 70%;
+  width: 65%;
   display: block;
   position: relative;
-  margin: 0 auto 10% auto;
+  margin: 10% auto;
 }
 
 .organizer-description {
@@ -1763,12 +1782,12 @@ padding: 0 2% 0 8%;
   text-align: left;
   margin: 15% auto;
   margin: 3% 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 
 .page-highlight-subtitle {
-  font-size: 2em;
-  margin-bottom: 3%;
+  font-size: 1.3em;
+  margin-bottom: 13%;
   text-align: left;
 }
 
@@ -1785,8 +1804,16 @@ padding: 0 2% 0 8%;
   text-align: left;
 }
 
+.content-myperform {
+  margin-top: 10%;
+}
+
 /* Small devices (landscape phones, 576px and up) */
 @media screen and (min-width: 576px) {
+
+  .page-highlight-subtitle {
+    margin-bottom: 5%;
+  }
 
 }
 
@@ -1798,6 +1825,10 @@ padding: 0 2% 0 8%;
     height: 270px;
   }
 
+  .right-dots {
+    margin: 5% 0 5% auto !important;
+  }
+
   .page-header-title {
     font-size: 2.5rem;
     width: 500px;
@@ -1805,7 +1836,9 @@ padding: 0 2% 0 8%;
 
   .page-h2-highlight {
     margin: 10% auto;
+    font-size: 3em
   }
+
 
   .page-text-container {
     padding: 0 5%;
@@ -1858,6 +1891,15 @@ padding: 0 2% 0 8%;
   .page-dots {
     margin: 7% auto;
   }
+
+  .page-text-container-image {
+    border-radius: 50%;
+    width: 70%;
+    display: block;
+    position: relative;
+    margin: 0 auto 10% auto;
+  }
+
 
 }
 
@@ -1973,6 +2015,15 @@ padding: 0 2% 0 8%;
   margin: 15% 0;
 }
 
+.content-time {
+  margin-bottom: 7%;
+
+}
+
+.content-time h4 {
+  font-size: 1.1em;
+}
+
 .content-time h3, .content-location h3, .content-schedule-info h3, .content-schedule-time h3 {
   color: #EB7B39;
 }
@@ -2078,7 +2129,7 @@ padding: 0 2% 0 8%;
 }
 
 .coffee-break-icon {
-  width: 15%;
+  width: 11%;
   margin-right: 5%;
 }
 
@@ -2111,13 +2162,22 @@ padding: 0 2% 0 8%;
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
 
+  .workshops-row {
+    margin: 3% 0 -4% 0;
+  }
+
+  .coffee-break-icon {
+    width: 10%;
+    margin-right: 5%;
+}
+
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
 
   .workshops-row {
-    margin: 3% 0;
+    margin: 3% 0 -6% 0;
   }
 
   .workshops-row .content-time {
@@ -2198,10 +2258,11 @@ padding: 0 2% 0 8%;
 
 .content-program-info h6 {
     font-weight: 400;
+    margin-top: 7%;
 }
 
 .content-program-info p {
-    margin: 2% 0;
+    margin: 7% 0;
 }
 
 .program-row {
@@ -2213,12 +2274,12 @@ padding: 0 2% 0 8%;
 }
 
 .button-edcamp-element {
-  width: 470px;
+  width: 295px;
   margin: 10% 0;
 }
 
 .button-dinar-element {
-  width: 400px;
+  width: 295px;
   margin: 10% 0;
 }
 
@@ -2230,8 +2291,8 @@ padding: 0 2% 0 8%;
 }
 
 .button-unesco-element {
-      width: 80%;
-    margin: 2% 0;
+    width: 295px;
+    margin: 10% 0;
 }
 
 #farewell-conversation {
@@ -2242,10 +2303,33 @@ padding: 0 2% 0 8%;
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
 
+  .content-program-info p {
+      margin: 2% 0;
+  }
+
+  .content-program-info h6 {
+      font-weight: 400;
+      margin-top: 1%;
+  }
+
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
+
+  .button-edcamp-element {
+    width: 470px;
+    margin: 10% 0;
+  }
+
+  .button-unesco-element {
+      width: 80%;
+      margin: 5% 0 0 0;
+  }
+
+  .button-dinar-element {
+    width: 400px;
+  }
 
 }
 
