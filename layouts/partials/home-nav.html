@@ -33,9 +33,14 @@
       <li class="nav-item dropdown program-dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="program" role="button" aria-haspopup="true" aria-expanded="false">{{ i18n "language" }}</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item nav-link" href="../en/">en</a>
+            <a class="dropdown-item nav-link" href="../">en</a>
             <a class="dropdown-item nav-link" href="../es/">es</a>
             <a class="dropdown-item nav-link" href="../ca/">ca</a>
+
+            <!-- {{ range $.Site.Home.AllTranslations }}
+            <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+            {{ end }} -->
+
           </div>
       </li>
 
