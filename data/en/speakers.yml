@@ -6,55 +6,67 @@ languageName : EN
 
 PageHeaderSpeakers : Speakers
 
-ItemSpeakerTitle01 : Oriol Marimon
-ItemSpeakerSubtitle01 : Big Van Ciencia
-ItemSpeakerText01 : Doctor in Organic Chemistry and co-founder of the scientific communication group Big Van Ciencia, Scientists on Wheels. He is co-director of the R+D+I Department and director of International Projects for Big Van Ciencia. He is an author and actor of plays for scientific dissemination for all ages and has brought cutting-edge science to more than 250 000 spectators.
+ItemSpeakerTitle01A : Oriol Marimon
+ItemSpeakerSubtitle01A : Big Van Ciencia
+ItemSpeakerText01A : Doctor in Organic Chemistry and co-founder of the scientific communication group Big Van Ciencia, Scientists on Wheels. He is co-director of the R+D+I Department and director of International Projects for Big Van Ciencia. He is an author and actor of plays for scientific dissemination for all ages and has brought cutting-edge science to more than 250 000 spectators.
+
+ItemSpeakerTitle01B : Helena González-Burón
+ItemSpeakerSubtitle01B : Big Van Ciencia
+ItemSpeakerText01B : Graduate in Biology and Biochemistry from the Universidad de Salamanca and doctor of Biomedicine from the Universitat de Barcelona. She is passionate about genes, inheritance, genetic engineering, chromosomal instability and other molecular margins. She is dedicated to disseminating science through Big Van Ciencia, an association of which she is the director and founder (2013). She is particularly interested in science education in primary schools because her ten-year-old mind connects perfectly with this type of audience.
+
+ItemSpeakerTitle02A: Anna Cutler
+ItemSpeakerSubtitle02A : TATE
+ItemSpeakerText02A : Director of Learning and Research at Tate. She has worked in cultural education for 30 years across a range of disciplines. She is known for her innovative experiments in practice and the building of new theoretical perspectives. In September 2016, she initiated Tate Exchange, a civic space aimed at building dialogue around art, society, and the urgent and complex issues facing us today.
+
+ItemSpeakerTitle02B : Mónica Bello
+ItemSpeakerSubtitle02B : CERN
+ItemSpeakerText02B : Is a curator and art historian. Over the last 15 years she has focused on the multidisciplinary perspectives and the narratives of today’s techno-scientific culture. She is currently the curator and head of arts at CERN, the European Organisation for Nuclear Research in Geneva. She was recently invited to be guest curator of the Audemars Piguet Art Commission for Art Basel 2018. Prior to her arrival in Geneva, among others, she held the position of artistic director of VIDA Art and Artificial Life International Awards (2010-2015) at Fundación Telefónica.
+
+ItemSpeakerTitle03A : Sam Aaron
+ItemSpeakerSubtitle03A : Sonic Pi
+ItemSpeakerText03A : Is a live coder, educator and researcher. He was the lead developer of Overtone and Quil, creative coding projects for the (live) expression of sound and image. More recently he has created Sonic Pi, a Ruby-based live programming environment for creating music from code with a strong focus on education. By day he’s a researcher within the University of Cambridge Computer Laboratory, by night he can be found coding beats in nightclubs.
 
 
-ItemSpeakerTitle02 : Helena González-Burón
-ItemSpeakerSubtitle02 : Big Van Ciencia
-ItemSpeakerText02 : Graduate in Biology and Biochemistry from the Universidad de Salamanca and doctor of Biomedicine from the Universitat de Barcelona. She is passionate about genes, inheritance, genetic engineering, chromosomal instability and other molecular margins. She is dedicated to disseminating science through Big Van Ciencia, an association of which she is the director and founder (2013). She is particularly interested in science education in primary schools because her ten-year-old mind connects perfectly with this type of audience.
+ItemSpeakerTitle03B : Carles Ceacero
+ItemSpeakerSubtitle03B : Pereanton School Granollers
+ItemSpeakerText03B : Is a versatile musician and music education teacher at Pereanton School in Granollers, where he is a tutor and coordinator of LKT. Currently, he combines this task with that of ambassador for the (#STEAMCat) plan in the Maresme and Vallès Oriental regions. He is also a board member of the AEMCAT (Association of Music Teachers of Catalonia) and deeply involved in the creation of STEAM projects that arise from the needs of the music classroom.
+
+ItemSpeakerTitle04A : Sebastian Martin
+ItemSpeakerSubtitle04A : Tinkering Studio
+ItemSpeakerText04A : Is an educator at the Exploratorium’s Tinkering Studio in San Francisco, where visitors become deeply engaged in exploring science, art and technology through making and tinkering. Fascinated with the creative aspects of the sciences, Sebastian develops playful activities, facilitates impactful professional development workshops for educators and creates unique interactive exhibits. As a member of the Tinkering Studio, he has co-developed activities that have been re-created and adapted in many science centres, classrooms, and makerspaces. Currently he works closely with partners including the Lifelong Kindergarten group at MIT media lab, Reggio Emilia schools and the LEGO Foundation to gain a deep understanding of the best practices and latest developments in education.
+
+ItemSpeakerTitle04B: Òscar M. Ciuró
+ItemSpeakerSubtitle04B : Thinking Doing Digital, Education and MakerConvent
+ItemSpeakerText04B : Is a cultural education manager who is forever mixing education, culture and new technologies. Since 2009 he has focused on the processes that surround learning, digital manufacturing and social innovation. The MakerConvent project is an innovation process that originated from the participation of Traffic Projects in two European knowledge research and transfer projects (Formalab http://www.formalab.fr and Declic'in http://declicin.info). The location of the project at the Sant Agustí Convent Civic Centre is no accident. Creation processes in the DIWO area, alignment with work in the local network and the technological innovation of the centre make it an ideal space.
+
+ItemSpeakerTitle05A : Gever Tulley
+ItemSpeakerSubtitle05A : Brightworks
+ItemSpeakerText05A : Is an author, speaker and computer scientist. In 2005, he founded Tinkering School, afterschool and summer programmes involving the use of real tools, materials and problems to encourage students’ love of learning, curiosity about the world, tenacity to think big and persistence to do amazing things. Most recently in 2011, Gever created Brightworks, a K-12 private school in San Francisco where students explore an idea from multiple perspectives with the help of real-world experts, tools and experiences; collaborate on projects driven by their curiosity; and share their findings with the world.
+
+ItemSpeakerTitle05B : Mackenzie Price
+ItemSpeakerSubtitle05B : Brightworks
+ItemSpeakerText05B : More than anything, is an explorer of the world. As a founding member of the teaching staff at Brightworks and working closely with Gever, her experiments and leadership were key to developing the implementation and refining the unique pedagogy of the school. She is the I.A.T Director of the Teachers Institute at Brightworks. Her strengths lie in her willingness to learn alongside the kids with the same excited curiosity and in her careful questioning that guides her students to new discoveries and deep learning.
+
+ItemSpeakerTitle06A : Juuso Henrik Nieminen
+ItemSpeakerSubtitle06A : University of Melbourne
+ItemSpeakerText06A : Is an educational researcher and an assessment innovator from the University of Helsinki. He has taught mathematics and programming at many educational levels in Finland and currently trains future teachers in Helsinki. His research field is assessment of 21st century skills, concerning how innovative digital assessment could support the development of critical thinking and lifelong learning. Nieminen also works as a special educator, striving to build a more inclusive world through both his teaching and research. Currently, he is writing books on assessment culture in Finland and on innovative mathematics education, as well as working as a pedagogical specialist at Code School Finland. In addition, he is leading a math revolution with Math Hunger, aiming to make learning mathematics both fun and accessible for everyone. In 2018, Nieminen curated the theme “What should we learn next?” at Dare to Learn, the most innovative learning festival in Finland.
+
+ItemSpeakerTitle06B : Victoria Eugenia Ibáñez
+ItemSpeakerSubtitle06B : University of Barcelona, UAB and the Rosa Sensat Association.
+ItemSpeakerText06B : Is a chemist and mathematics professor. She teaches science and maths to secondary education students and is also a teacher trainer for ICE at UAB, for the Rosa Sensat Teacher’s Association and for the Catalan Department of Education. She has given different courses and seminars throughout her career, across Spain, on the assessment of learning and cooperative learning. She is the author of numerous publications on the subject and has participated on various work groups for education innovation at the University of Barcelona, UAB and the Rosa Sensat Association.
 
 
-ItemSpeakerTitle03 : Sam Aaron
-ItemSpeakerSubtitle03 : Sonic Pi
-ItemSpeakerText03 : Is a live coder, educator and researcher. He was the lead developer of Overtone and Quil, creative coding projects for the (live) expression of sound and image. More recently he has created Sonic Pi, a Ruby-based live programming environment for creating music from code with a strong focus on education. By day he’s a researcher within the University of Cambridge Computer Laboratory, by night he can be found coding beats in nightclubs.
+ItemSpeakerTitle07A : Kaleb Rashad
+ItemSpeakerSubtitle07A : High Tech High
+ItemSpeakerText07A : Is a creative director at the Gary and Jerri-Ann Jacobs @hightechhigh, San Diego, CA. Kaleb works alongside the dreamers and doers at High Tech High’s Graduate School of Education, Stanford d.School’s School Retool, Real World Scholars, Leadership + Design, and WildFire Education. Kaleb has taught secondary mathematics and science, served as a K-12 site leader and completed a tour in the U.S Marine Corps. Kaleb holds a BA in Human Development, two master’s degrees, and a PhD in Educational Leadership. He is the co-founder of Unlocked, Inc., a San Diego-based non-profit design organisation.
 
+ItemSpeakerTitle07B : Sergi del Moral
+ItemSpeakerSubtitle07B : Institut-Escola Les Vinyes of Castellbisbal and BetaCamp
+ItemSpeakerText07B : Is interested in the processes of transformation that contribute to a more amiable and natural relationship between knowledge and learning. This has led him to explore how to compensate for the weight of materials and static knowledge in favour of approaches that are more focused on action, production, creation, problem solving, teamwork and learning for real life situations. He’s also interested in everything that makes assessment more of a diagnostic rather than coercive process, as well as in the classroom and community dynamics that promote autonomy, initiative and responsibility among the boys and girls. He is currently part of the teaching and management team of the Institut-Escola Les Vinyes de Castellbisbal and also forms part of the team that promotes BetaCamp, a highly rewarding peer learning experience.
 
-ItemSpeakerTitle04 :
-ItemSpeakerSubtitle04 :
-ItemSpeakerText04 :
-
-ItemSpeakerTitle05 : Sebastian Martin
-ItemSpeakerSubtitle05 : Tinkering Studio
-ItemSpeakerText05 : Is an educator at the Exploratorium’s Tinkering Studio in San Francisco, where visitors become deeply engaged in exploring science, art and technology through making and tinkering. Fascinated with the creative aspects of the sciences, Sebastian develops playful activities, facilitates impactful professional development workshops for educators and creates unique interactive exhibits. As a member of the Tinkering Studio, he has co-developed activities that have been re-created and adapted in many science centres, classrooms, and makerspaces. Currently he works closely with partners including the Lifelong Kindergarten group at MIT media lab, Reggio Emilia schools and the LEGO Foundation to gain a deep understanding of the best practices and latest developments in education.
-
-ItemSpeakerTitle06: Anna Cutler
-ItemSpeakerSubtitle06 : TATE
-ItemSpeakerText06 : Director of Learning and Research at Tate. She has worked in cultural education for 30 years across a range of disciplines. She is known for her innovative experiments in practice and the building of new theoretical perspectives. In September 2016, she initiated Tate Exchange, a civic space aimed at building dialogue around art, society, and the urgent and complex issues facing us today.
-
-
-ItemSpeakerTitle07 : Gever Tulley
-ItemSpeakerSubtitle07 : Brightworks
-ItemSpeakerText07 : Is an author, speaker and computer scientist. In 2005, he founded Tinkering School, afterschool and summer programmes involving the use of real tools, materials and problems to encourage students’ love of learning, curiosity about the world, tenacity to think big and persistence to do amazing things. Most recently in 2011, Gever created Brightworks, a K-12 private school in San Francisco where students explore an idea from multiple perspectives with the help of real-world experts, tools and experiences; collaborate on projects driven by their curiosity; and share their findings with the world.
-
-
-
-ItemSpeakerTitle08 : Mackenzie Price
-ItemSpeakerSubtitle08 : Brightworks
-ItemSpeakerText08 : More than anything, is an explorer of the world. As a founding member of the teaching staff at Brightworks and working closely with Gever, her experiments and leadership were key to developing the implementation and refining the unique pedagogy of the school. She is the I.A.T Director of the Teachers Institute at Brightworks. Her strengths lie in her willingness to learn alongside the kids with the same excited curiosity and in her careful questioning that guides her students to new discoveries and deep learning.
-
-
-
-
-ItemSpeakerTitle09 : Juuso Henrik Nieminen
-ItemSpeakerSubtitle09 : University of Melbourne
-ItemSpeakerText09 : Is an educational researcher and an assessment innovator from the University of Helsinki. He has taught mathematics and programming at many educational levels in Finland and currently trains future teachers in Helsinki. His research field is assessment of 21st century skills, concerning how innovative digital assessment could support the development of critical thinking and lifelong learning. Nieminen also works as a special educator, striving to build a more inclusive world through both his teaching and research. Currently, he is writing books on assessment culture in Finland and on innovative mathematics education, as well as working as a pedagogical specialist at Code School Finland. In addition, he is leading a math revolution with Math Hunger, aiming to make learning mathematics both fun and accessible for everyone. In 2018, Nieminen curated the theme “What should we learn next?” at Dare to Learn, the most innovative learning festival in Finland.
-
-
-ItemSpeakerTitle10 : Kaleb Rashad
-ItemSpeakerSubtitle10 : High Tech High
-ItemSpeakerText10 : Is a creative director at the Gary and Jerri-Ann Jacobs @hightechhigh, San Diego, CA. Kaleb works alongside the dreamers and doers at High Tech High’s Graduate School of Education, Stanford d.School’s School Retool, Real World Scholars, Leadership + Design, and WildFire Education. Kaleb has taught secondary mathematics and science, served as a K-12 site leader and completed a tour in the U.S Marine Corps. Kaleb holds a BA in Human Development, two master’s degrees, and a PhD in Educational Leadership. He is the co-founder of Unlocked, Inc., a San Diego-based non-profit design organisation.
+ItemSpeakerTitle08A : Eduard Vallory
+ItemSpeakerSubtitle08A : UNESCO
+ItemSpeakerText08A : He is a social analyst and change manager. He chairs the UNESCO Center of Catalonia, directs Escola Nova 21 and promotes a university program to improve the professional development of teachers, commissioned by the Generalitat. He has been visiting scholar of the Department of Sociology of the New York University, after having directed the Barcelona Graduate School of Economics. He holds a Ph.D. in Political Science, a Master's in Social Sciences, a diploma in Business Management and a degree in Philosophy and Journalism. He was a research fellow at the Fitzwilliam College of the University of Cambridge, where he carried out research on education in global citizenship and the global scouting movement, published in Catalan by Proa (2010) and in English by Palgrave Macmillan (2012). He was chief of staff of the Minister of Universities, Research and Information Society of the Generalitat de Catalunya, Andreu Mas-Colell.
 
 
 # HOW TO ARRIVE

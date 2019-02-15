@@ -24,7 +24,7 @@ Classroom01 :
 
 Time02A : 10.00 - 11. 30
 
-Title02A : Parallel Workshops
+Title02A : Tallers Paral.lels
 
 Subtitle02A :
 
@@ -220,7 +220,7 @@ WorkshopReq17 :
 
 WorkshopTitle17 : La Matèria i els elements químics; llenguatge integrador
 
-WorkshopSubtitle17 : "**Javier Peña**, director General de Elisava, **Bernat Faura**, profesor de materiales, Elisava; **Queralt Fuentes Canadell**, mestra i tutora de primer de primària i **Joan Jorquera Bordonau**, dissenyador industrial y mestre, Escola Nostra Senyora de Lurdes"
+WorkshopSubtitle17 : "**Javier Peña**, director General de Elisava, **Bernat Faura**, profesor de materiales, Elisava; **Queralt Fuentes Canadell**, mestra i tutora de primer de primària i **Joan Jorquera Bordonau**, dissenyador industrial i mestre, Escola Nostra Senyora de Lurdes"
 
 WorkshopText17 : La matèria i els elements químics, de la mateixa manera que els nombres, les lletres i les notes musicals, representen un llenguatge. Aquest llenguatge ens mostra el més fonamental i bàsic per conèixer i interpretar el món en què vivim, i, per tant, és una eina fonamental integradora de coneixement.
 
@@ -309,7 +309,7 @@ Time07 : 11.30 -
 
 Time08A : 12.00 - 13.30
 
-Title08A : Parallel Workshops
+Title08A : Tallers Paral.lels
 
 Subtitle08A :
 
@@ -569,20 +569,20 @@ WorkshopSpeakerTitle20 : Alba Rodríguez Agüero
 
 WorkshopSpeakerText20 : És graduada en Enginyeria Marítima i professora de secundària en l’àrea de ciències. És experta en big data i en tecnologies de l’aprenentatge i el coneixement, a més de responsable de l’àrea d’educació i líder del projecte Makermania de Possible Lab.
 
-# HOW TO ARRIVE
+# COMO LLEGAR
 
-HomeFooterSectionTitle01 : How to arrive
+HomeFooterSectionTitle01 : Como arribar
 
-HomeFooterSectionTitle02 : By Highway
-HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
+HomeFooterSectionTitle02 : Per Carretera
+HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
 
-HomeFooterSectionTitle03 : By Bus
+HomeFooterSectionTitle03 : En Autobus
 
-HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
 
-HomeFooterSectionTitle05 : Parking
-HomeFooterSectionText05 : Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.
+HomeFooterSectionTitle05 : Aparcament
+HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
 
 # FOOTER
 
-HomeSubFooterTitle : Contact
+HomeSubFooterTitle : Contacte
