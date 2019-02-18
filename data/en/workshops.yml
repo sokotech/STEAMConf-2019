@@ -154,15 +154,15 @@ WorkshopSpeakerTitle05 : Anna Cutler
 WorkshopSpeakerText05 : Is director of learning and research at Tate. She has worked in cultural education for 30 years across a range of disciplines. She is known for her innovative experiments in practice and the building of new theoretical perspectives. In September 2016, she initiated Tate Exchange, a civic space aimed at building dialogue around art, society, and the urgent and complex issues facing us today.
 
 
-# --------  06 - Let's learn by mixing music, maths and programming  --------------------
+# --------  05 - Let's learn by mixing music, maths and programming  --------------------
 
 WorkshopNum06 : 05
 
 WorkshopClassroom06 :
 
-WorkshopLanguage06 : English
+WorkshopLanguage06 : Catalan
 
-WorkshopReq06 :
+WorkshopReq06 : Laptop
 
 WorkshopTitle06 : Let's learn by mixing music, maths and programming
 
@@ -178,7 +178,7 @@ WorkshopSpeakerTitle06B : Enric Pinto
 
 WorkshopSpeakerText06B : Is a teacher of mathematics and technology at Escola Virolai, Barcelona. He recently participated in educational transformation initiatives by the Bofill Foundation and has participated in the European Erasmus+ Collaborative Design for Smart Pupils project, a project that incorporates STEAM contents with a cooperative way of working in the classroom. At school, he works with interdisciplinary teams applying a project-based learning methodology.
 
-# --------  07 - Let’s go quantum!  --------------------
+# --------  06 - Let’s go quantum!  --------------------
 
 
 WorkshopNum07 : 06
@@ -220,7 +220,7 @@ WorkshopReq17 :
 
 WorkshopTitle17 : Matter and Chemical Elements - Integrating Language
 
-WorkshopSubtitle17 : "**Javier Peña**, general director of ELISAVA, **Bernat Faura**, industrial design engineer, a materials engineer, an industrial designer; **Queralt Fuentes Canadell**, teacher and primary school tutor at Nostra Senyora de Lurdes school, Barcelona; **Joan Jorquera Bordonau**, Industrial designer and teacher at the Escola Nostra Senyora de Lurdes"
+WorkshopSubtitle17 : "**Javier Peña**, general director and **Bernat Faura**, materials profesor, Elisava; **Queralt Fuentes Canadell**, teacher and primary school tutor and **Joan Jorquera Bordonau**, Industrial designer and teacher at the Escola Nostra Senyora de Lurdes, Barcelona"
 
 WorkshopText17 : Matter and chemical elements, like numbers, letters and music notes, are a language. This language shows us the most fundamental and basic aspects for discovering and interpreting the world we live in and therefore, is a basic integrating knowledge tool.
 
@@ -362,16 +362,16 @@ WorkshopSpeakerTitle09B : Jordi Gaitan i Clarà
 WorkshopSpeakerText09B : Graduated as an industrial engineer from Universitat Politècnica de Catalunya (UPC) in 1992 and in 1998 earned his degree in Philosophy and Humanities from Universitat de Girona (UdG). In 2008, he completed a master’s degree in philosophical practice and social management at Universitat de Barcelona (UB). After over 15 years dedicated to engineering, in the last 12 years he has put all his energy into education projects. He has been a philosophy teacher for baccalaureate students and is a teacher trainer at the Generalitat de Catalunya’s Education Department in different areas (emotional education, ICT-LKT, cooperative learning, attention to cognitive diversity, school robotics...). Over the last few years he has combined his training and consultancy work for education centres with the coordination of education innovation and transformation projects, such as the European DEAR project, which is dedicated to professional communities in the field of secondary education and is currently part of the Escoles Tàndem project, coordinated by Fundació Catalunya-La Pedrera, for primary education.
 
 
-# --------  10 Building STEAM knowledge: magnets and electrons, electromagnetism  --------------------
+# --------  04 Building STEAM knowledge: magnets and electrons, electromagnetism  --------------------
 
 
 WorkshopNum10 : 04
 
 WorkshopClassroom10 :
 
-WorkshopLanguage10 : English
+WorkshopLanguage10 : Catalan
 
-WorkshopReq10 :
+WorkshopReq10 : Laptop
 
 WorkshopTitle10 : Building STEAM knowledge; magnets and electrons, electromagnetism
 
@@ -429,7 +429,7 @@ WorkshopClassroom12 :
 
 WorkshopLanguage12 : Catalan
 
-WorkshopReq12 :
+WorkshopReq12 : Laptop with Scratch installed
 
 WorkshopTitle12 : Why not build our own computer? Raspberry Pi, Scratch and Makey Makey; a great combination for primary education
 
@@ -454,8 +454,8 @@ WorkshopSpeakerTitle12D : Ana Valcávaro López
 
 WorkshopSpeakerText12D : Is a foreign language teacher and facilitator at the software and robotic language laboratory at the Octavio Paz School. She is an enthusiast of digital technologies and digital skills. The blend of foreign language with STEAM is a good combination to guarantee up-to-date learning that responds to the needs and challenges of the 21st century.
 
-# --------  07 Live Coding Education with Sonic Pi  --------------------
 
+# --------  07 Live Coding Education with Sonic Pi  --------------------
 
 WorkshopNum13 : 7
 
@@ -463,7 +463,7 @@ WorkshopClassroom13 :
 
 WorkshopLanguage13 : English
 
-WorkshopReq13 : Ordinador portàtil i auriculars
+WorkshopReq13 : Headphones and laptops with Sonic Pi pre-installed
 
 WorkshopTitle13 : Live Coding Education with Sonic Pi
 

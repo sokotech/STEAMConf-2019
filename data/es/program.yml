@@ -89,7 +89,7 @@ Text02C: El proyecto myPERFORM hace uso de las artes escénicas para crear un en
 
 Text02D: La presentación del proyecto myPERFORM será un espectáculo. Literalmente. Un espectáculo en el que se intercalarán los monólogos y sketches teatrales realizados por alumnado de secundaria de diversos centros educativos de Barcelona, en los que podremos responder a preguntas como, ¿qué podemos hacer para detener el cambio climático?, ¿cómo buscamos vida en otros planetas? o ¿qué nuevas tecnologías existen para combatir el cáncer?
 
-Text02E: PERFORM es la continuación del éxito de su predecesor, el proyecto PERFORM de la Comisión Europea, y su objetivo es poner en práctica, en países de todo el mundo, procesos de enseñanza de las ciencias basados en el rendimiento. PERFORM fue un proyecto financiado por la Unión Europea, implementado en España, Reino Unido y Francia. El diseño e implementación de las actividades pedagógicas fue liderado por Big Van Ciencia (www.bigvanciencia.com). Los centros educativos que han participado en el proyecto myPERFORM y que nos explicarán la ciencia desde el escenario son el IES Moisès Broggi, el IES Consell de Cent y el IES Castellbisbal.
+Text02E: MyPERFORM es la continuación del éxito de su predecesor, el proyecto PERFORM de la Comisión Europea, y su objetivo es poner en práctica, en países de todo el mundo, procesos de enseñanza de las ciencias basados en el rendimiento. PERFORM fue un proyecto financiado por la Unión Europea, implementado en España, Reino Unido y Francia. El diseño e implementación de las actividades pedagógicas fue liderado por Big Van Ciencia (www.bigvanciencia.com). Los centros educativos que han participado en el proyecto myPERFORM y que nos explicarán la ciencia desde el escenario son el IES Moisès Broggi, el IES Consell de Cent y el IES Castellbisbal.
 
 
 LocalSpeakerTitle02A : Helena González
@@ -217,7 +217,7 @@ Place12 : CosmoCaixa
 
 Classroom12 : Auditorio
 
-Title12 : Èxit o fracàs, la necessitat del canvi
+Title12 : Éxito o fracaso - La necesidad del cambio
 
 Subtitle12 : "**Anna Cutler**, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido)"
 
@@ -236,15 +236,15 @@ LocalSpeakerText12B : Comisaria e historiadora del arte. En los últimos quince 
 
 # Conversa
 
-Time13 : 16.10 -
+Time13 : 16.05 -
 
 # pausacafe (coffee break code on top of page)
 
-Time14 : 16.30 -
+Time14 : 16.25 -
 
 # Sesion 02 -
 
-Time15 : 17.00 -
+Time15 : 16.55 -
 
 Place15 : CosmoCaixa
 
@@ -268,11 +268,11 @@ LocalSpeakerText15B : Es gestor de educación cultural, y siempre está combinan
 
 # Conversa
 
-Time16 : 17.50 -
+Time16 : 17.40 -
 
 # Sesion 03 -
 
-Time17 : 18.10 -
+Time17 : 18.00 -
 
 Place17 : CosmoCaixa
 
@@ -296,7 +296,7 @@ LocalSpeakerText17B : Es un músico versátil que enseña música en la escuela 
 
 # Conversa
 
-Time18 : 18.45 -
+Time18 : 18.40 -
 
 ConversationLivePerformace : Conversación y actuación musical en directo
 
@@ -330,15 +330,15 @@ LocalSpeakerText20B : Cofundadora de SokoTech. Es licenciada en Bellas Artes por
 
 # Conversa
 
-Time21 : 10.50 -
+Time21 : 10.45 -
 
 # pausacafe (coffee break code on top of page)
 
-Time22 : 11.10 -
+Time22 : 11.05 -
 
 # ---- Sesion 05 - Trasladar la cultura de la evaluación al siglo xx: el poder de la evaluación innovadora -------------------
 
-Time23 : 11.40 -
+Time23 : 11.35 -
 
 Place23 : CosmoCaixa
 
@@ -392,7 +392,7 @@ LocalSpeakerText26B : Está interesado en los procesos de transformación con lo
 
 # ---- Conversation - Creating the next generation of schools Farewell Conversation -------------------
 
-Time27 : 13.20 -
+Time27 : 13.25 -
 
 Place27 : CosmoCaixa
 
@@ -412,7 +412,7 @@ LocalSpeakerText27 : Es analista social y gestor del cambio. Preside el Centre U
 
 # ---- Sesión de clausura de la conferencia -------------------
 
-Time28 : 14.00 -
+Time28 : 14.05 -
 
 Place28 : CosmoCaixa
 
@@ -420,7 +420,7 @@ Classroom28 : Auditorium
 
 Title28 : Sesión de clausura de la conferencia
 
-Subtitle28 : "A cargo de **Lluís Noguera**, director de CosmoCaixa"
+Subtitle28 : "A cargo de **Lluís Noguera**, director de CosmoCaixa, Barcelona"
 
 LocalSpeakerTitle28 : Lluís Noguera i Jordana
 

@@ -78,7 +78,7 @@ InternationalSpeakerTitle02D : Ernesto Fernández Polcuch
 
 InternationalSpeakerText02D : Head of the Scientific Policy and Cooperation Section, UNESCO (TBC)
 
-Title02B : MyPERFORM-UNESCO / How to configure a performance
+Title02B : MyPERFORM-UNESCO / When Science Takes the Stage
 
 LocalSpeaker02B : "**Helena González** and **Oriol Marimon**, Big Van Ciencia, IES Moises Broggi, IES Consell de Cent and IES Castellbisbal (Barcelona); **Casimiro Vizzini**, Expert at UNESCO's Division of Science Policy and Talent Development"
 
@@ -89,7 +89,7 @@ Text02C : The myPERFORM project uses the performing arts to create an inclusive 
 
 Text02D : The presentation of the myPERFORM project will be a spectacle. Literally. A show in which the monologues and theatrical sketches made by students from various schools in Barcelona will be interspersed, where we can answer questions such as = what can we do to stop climate change? How do we look for life on other planets? What new technologies are there for fighting cancer?
 
-Text02E : PERFORM follows from the successes of its predecessor, the European Commission funded PERFORM project, to implement performance-based science education processes in countries worldwide.
+Text02E : MyPERFORM follows from the successes of its predecessor, the European Commission funded MyPERFORM project, to implement performance-based science education processes in countries worldwide.
 
 Text02F : PERFORM has been a project financed by the European Union, implemented in Spain, the United Kingdom and France. The design and implementation of pedagogical activities has been led by Big Van Science (www.bigvanciencia.com).
 
@@ -235,15 +235,15 @@ LocalSpeakerText12B : Is a curator and art historian. Over the last 15 years she
 
 # Conversa
 
-Time13 : 16.10 -
+Time13 : 16.05 -
 
 # pausacafe (coffee break code on top of page)
 
-Time14 : 16.30 -
+Time14 : 16.25 -
 
 # Sesion 02 -
 
-Time15 : 17.00 -
+Time15 : 16.55 -
 
 Place15 : CosmoCaixa
 
@@ -267,11 +267,11 @@ LocalSpeakerText15B : Is a cultural education manager who is forever mixing educ
 
 # Conversa
 
-Time16 : 17.50 -
+Time16 : 17.40 -
 
 # Sesion 03 -
 
-Time17 : 18.10 -
+Time17 : 18.00 -
 
 Place17 : CosmoCaixa
 
@@ -295,7 +295,7 @@ LocalSpeakerText17B : Is a versatile musician and music education teacher at Per
 
 # Conversa
 
-Time18 : 18.45 -
+Time18 : 18.40 -
 
 ConversationLivePerformace : Conversation and Live Music Performance
 
@@ -329,15 +329,15 @@ LocalSpeakerText20B : Co-founder of SokoTech. University of Illinois B.F.A, M.Sc
 
 # Conversa
 
-Time21 : 10.50 -
+Time21 : 10.45 -
 
 # pausacafe (coffee break code on top of page)
 
-Time22 : 11.10 -
+Time22 : 11.05 -
 
 # ---- Sesion 05 - Bringing assessment culture to the 21st century – the power of innovative assessment -------------------
 
-Time23 : 11.40 -
+Time23 : 11.35 -
 
 Place23 : CosmoCaixa
 
@@ -389,7 +389,7 @@ LocalSpeakerText26B : Is interested in the processes of transformation that cont
 
 # ---- Conversation - Creating the next generation of schools Farewell Conversation -------------------
 
-Time27 : 13.20 -
+Time27 : 13.25 -
 
 Place27 : CosmoCaixa
 
@@ -409,7 +409,7 @@ LocalSpeakerText27 : He is a social analyst and change manager. He chairs the UN
 
 # ---- CLOENDA DE LES SESSIONS -------------------
 
-Time28 : 14.00 -
+Time28 : 14.05 -
 
 Place28 : CosmoCaixa
 
