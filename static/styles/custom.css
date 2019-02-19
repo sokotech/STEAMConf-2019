@@ -509,7 +509,7 @@ position: relative;
 
 
 .home-speakers-section-robot {
-display: none;
+  display: none;
 }
 
 #home-speakers-section-items-container {
@@ -551,7 +551,7 @@ z-index: 4;
 }
 
 .home-speaker-button .speaker-item-text h3:hover {
-  color: #EB7B39 !important;
+  color: #5d2d8a !important;
   transition: .5s ease;
 }
 
@@ -775,6 +775,14 @@ height: 85%;
   .home-speakers-section {
       margin-bottom: 30%;
       }
+
+          .home-speakers-section-robot {
+            display: block;
+            position: absolute;
+            top: 5%;
+            right: 0;
+            left: 0;
+          }
 
       .title-dots {
         width: 10%;
@@ -1000,9 +1008,9 @@ height: 85%;
     .home-speakers-section-robot {
       display: block;
       position: absolute;
-      top: 33%;
+      top: 0;
       right: 0;
-      left: 65%;
+      left: 0;
     }
 
         #speaker-item-text-01, #speaker-item-text-02, #speaker-item-text-03, #speaker-item-text-04, #speaker-item-text-05, #speaker-item-text-06, #speaker-item-text-07, #speaker-item-text-08, #speaker-item-text-09, #speaker-item-text-10 {
@@ -1213,9 +1221,9 @@ height: 83%;
       .home-speakers-section-robot {
         display: block;
         position: absolute;
-        top: 33%;
+        top: 0;
         right: 0;
-        left: 65%;
+        left: 0;
       }
 
         #speaker-col-01, #speaker-col-02, #speaker-col-03, #speaker-col-04, #speaker-col-05, #speaker-col-06, #speaker-col-07, #speaker-col-08, #speaker-col-09 {
