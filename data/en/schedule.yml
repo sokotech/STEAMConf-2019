@@ -39,11 +39,11 @@ Date03 : Thursday, April 4
 # ------ PERFOMANCE UNESCO Cuando la ciencia pisa escenari
 
 
-Time04 : 10:20 -
+Time04 : 18:30 -
 
 Place04 : CosmoCaixa
 
-Classroom04 : Auditorium
+Classroom04 :
 
 Title04A : Public opening of the Conference
 
@@ -82,243 +82,255 @@ Subtitle07 : "**Registration and documentation pick-up for conference & workshop
 
 # --------  Paralel Workshops  --------------------
 
-
 Time08 : 10.00 -
 
-Title08 : Paralel Workshops
+Title08 : Tallers Paral.lels
 
 Place08 : CosmoCaixa
 
-Classroom08 : Multiple classrooms
+Classroom08 : Sales múltiples
 
-
-# --------  01 paralel workshop  --------------------
-
+# --------  01 When Things Fall Apart (First Part)  --------------------
 
 WorkshopNum09 : 1
 
 WorkshopClassroom09 : Sala Ágora
 
-Title09 : Workshop Name 01
+Title09 : When Things Fall Apart (First Part)
 
-WorkshopLanguage09 : Define
+WorkshopLanguage09 : English
 
-WorkshopReq09 : Define
+WorkshopReq09 :
 
-
-# --------  02 paralel workshop  --------------------
-
+# --------  02 Co-creating the assessment cultures of the future  --------------------
 
 WorkshopNum10 : 2
 
-WorkshopClassroom10 : Sala Ágora
+WorkshopClassroom10 : Sala Tau
 
-Title10 : Workshop Name 01
+Title10 : Co-creating the assessment cultures of the future
 
-WorkshopLanguage10 : Define
+WorkshopLanguage10 : English
 
-WorkshopReq10 : Define
+WorkshopReq10 :
 
-
-# --------  03 paralel workshop  --------------------
-
+# --------  03 It is all elemental! An escape room of the periodic table  --------------------
 
 WorkshopNum11 : 3
 
-WorkshopClassroom11 : Sala Ágora
+WorkshopClassroom11 : Sala Sigma
 
-Title11 : Workshop Name 01
+Title11 : It is all elemental! An escape room of the periodic table
 
-WorkshopLanguage11 : Define
+WorkshopLanguage11 : Catalan
 
-WorkshopReq11 : Define
+WorkshopReq11 :
 
-
-# --------  04 paralel workshop  --------------------
-
+# --------  04 Making Change Happen  --------------------
 
 WorkshopNum12 : 4
 
-WorkshopClassroom12 : Sala Ágora
+WorkshopClassroom12 : Sala Beta
 
-Title12 : Workshop Name 01
+Title12 : Making Change Happen
 
-WorkshopLanguage12 : Define
+WorkshopLanguage12 : English
 
-WorkshopReq12 : Define
+WorkshopReq12 :
 
-
-# --------  05 paralel workshop  --------------------
-
+# --------  05 Let's learn by mixing music, maths and programming  --------------------
 
 WorkshopNum13 : 5
 
-WorkshopClassroom13 : Sala Ágora
+WorkshopClassroom13 : Sala Gamma
 
-Title13 : Workshop Name 01
+Title13 : Let's learn by mixing music, maths and programming
 
-WorkshopLanguage13 : Define
+WorkshopLanguage13 : English
 
-WorkshopReq13 : Define
+WorkshopReq13 : Laptop
 
-
-# --------  06 paralel workshop  --------------------
-
+# --------  06 Let's go quantum! Come and learn how you can bring quantum physics to your classroom. --------------------
 
 WorkshopNum14 : 6
 
-WorkshopClassroom14 : Sala Ágora
+WorkshopClassroom14 : Sala Alfa
 
-Title14 : Workshop Name 01
+Title14 : Let's go quantum! Come and learn how you can bring quantum physics to your classroom.
 
-WorkshopLanguage14 : Define
+WorkshopLanguage14 : Catalan
 
-WorkshopReq14 : Define
+WorkshopReq14 :
 
-
-# --------  07 paralel workshop  --------------------
-
+# --------  07 Matter and Chemical Elements - Integrating Language  --------------------
 
 WorkshopNum15 : 7
 
-WorkshopClassroom15 : Sala Ágora
+WorkshopClassroom15 : Sala Lambda
 
-Title15 : Workshop Name 01
+Title15 : Matter and Chemical Elements - Integrating Language
 
-WorkshopLanguage15 : Define
+WorkshopLanguage15 : Catalan / Spanish
 
-WorkshopReq15 : Define
+WorkshopReq15 :
 
+# --------  08 Minecraft - Education Edition for the Classroom --------------------
+
+WorkshopNum45 : 8
+
+WorkshopClassroom45 : Sala Pi
+
+Title45 : Minecraft - Education Edition for the Classroom
+
+WorkshopLanguage45 : Spanish
+
+WorkshopReq45 :
+
+# --------  09 We regulate our temperature and put on sun cream to bring ICTs to the field of STEAM  --------------------
+
+WorkshopNum46 : 9
+
+WorkshopClassroom46 : Sala Delta
+
+Title46 : We regulate our temperature and put on sun cream to bring ICTs to the field of STEAM
+
+WorkshopLanguage46 : Catalan
+
+WorkshopReq46 :
 
 # --------  Coffee break --------------------
 
-
 Time16 : 11.30 -
-
 
 # --------  Paralel Workshops  --------------------
 
-
 Time17 : 12.00 -
 
-Title17 : Paralel Workshops
+Title17 : Tallers Paral.lels
 
 Place17 : CosmoCaixa
 
-Classroom17 : Multiple classrooms
+Classroom17 : Sales múltiples
 
-
-# --------  01 paralel workshop  --------------------
-
+# --------  01 Quan les coses cauen a trossos (2º part)  --------------------
 
 WorkshopNum18 : 1
 
 WorkshopClassroom18 : Sala Ágora
 
-Title18 : Workshop Name 01
+Title18 : When Things Fall Apart (Second Part)
 
-WorkshopLanguage18 : Define
+WorkshopLanguage18 : English
 
-WorkshopReq18 : Define
+WorkshopReq18 :
 
-
-# --------  02 paralel workshop  --------------------
-
+# --------  02 Design DOING Jam Session  --------------------
 
 WorkshopNum19 : 2
 
-WorkshopClassroom19 : Sala Ágora
+WorkshopClassroom19 : Sala Pi
 
-Title19 : Workshop Name 01
+Title19 : Design DOING Jam Session
 
-WorkshopLanguage19 : Define
+WorkshopLanguage19 : English
 
-WorkshopReq19 : Define
+WorkshopReq19 :
 
-
-# --------  03 paralel workshop  --------------------
-
+# --------  03 Biomedicine, from the lab to the classroom; how basic research can connect scientific skills, science concepts and critical thinking  --------------------
 
 WorkshopNum20 : 3
 
-WorkshopClassroom20 : Sala Ágora
+WorkshopClassroom20 : Sala Beta
 
-Title20 : Workshop Name 01
+Title20 : Biomedicine, from the lab to the classroom; how basic research can connect scientific skills, science concepts and critical thinking
 
-WorkshopLanguage20 : Define
+WorkshopLanguage20 : Catalan
 
-WorkshopReq20 : Define
+WorkshopReq20 :
 
-
-# --------  04 paralel workshop  --------------------
-
+# --------  04 Building STEAM knowledge; magnets and electrons, electromagnetism  --------------------
 
 WorkshopNum21 : 4
 
-WorkshopClassroom21 : Sala Ágora
+WorkshopClassroom21 : Sala Delta
 
-Title21 : Workshop Name 01
+Title21 : Building STEAM knowledge; magnets and electrons, electromagnetism
 
-WorkshopLanguage21 : Define
+WorkshopLanguage21 : Catalan
 
-WorkshopReq21 : Define
+WorkshopReq21 : Laptop
 
-
-# --------  05 paralel workshop  --------------------
-
+# --------  05 TAC resources as tools for support and creation in the artistic environment  --------------------
 
 WorkshopNum22 : 5
 
-WorkshopClassroom22 : Sala Ágora
+WorkshopClassroom22 : Sala sigma
 
-Title22 : Workshop Name 01
+Title22 : TAC resources as tools for support and creation in the artistic environment
 
-WorkshopLanguage22 : Define
+WorkshopLanguage22 : Catalan
 
-WorkshopReq22 : Define
+WorkshopReq22 :
 
-
-# --------  06 paralel workshop  --------------------
-
+# --------  06 Why not build our own computer? Raspberry Pi, Scratch and Makey Makey; a great combination for primary education  --------------------
 
 WorkshopNum23 : 6
 
-WorkshopClassroom23 : Sala Ágora
+WorkshopClassroom23 : Sala Tau
 
-Title23 : Workshop Name 01
+Title23 : Why not build our own computer? Raspberry Pi, Scratch and Makey Makey; a great combination for primary education
 
-WorkshopLanguage23 : Define
+WorkshopLanguage23 : Catalan
 
-WorkshopReq23 : Define
+WorkshopReq23 : Laptop with Scratch installed
 
-
-# --------  07 paralel workshop  --------------------
-
+# --------  07 Live Coding Education with Sonic Pi  --------------------
 
 WorkshopNum24 : 7
 
-WorkshopClassroom24 : Sala Ágora
+WorkshopClassroom24 : Sala Alfa
 
-Title24 : Workshop Name 01
+Title24 : Live Coding Education with Sonic Pi
 
-WorkshopLanguage24 : Define
+WorkshopLanguage24 : English
 
-WorkshopReq24 : Define
+WorkshopReq24 : Headphones and laptops with Sonic Pi pre-installed
 
+# --------  08 Perform Big Van Theory, how to configure a performance --------------------
 
-# --------  08 paralel workshop  --------------------
+WorkshopNum25 : 8
 
+WorkshopClassroom25 : Sala Tau
 
-WorkshopNum25 : 7
+Title25 : Perform Big Van Theory, how to configure a performance
 
-WorkshopClassroom25 : Sala Ágora
+WorkshopLanguage25 : Catalan
 
-Title25 : Workshop Name 01
+WorkshopReq25 :
 
-WorkshopLanguage25 : Define
+# --------  09 Artistic Synapses --------------------
 
-WorkshopReq25 : Define
+WorkshopNum47 : 9
 
+WorkshopClassroom47 : Creactivity
+
+Title47 : Artistic Synapses
+
+WorkshopLanguage47 : Catalan
+
+WorkshopReq47 : Laptop
+
+# --------  10 Hacking STEM --------------------
+
+WorkshopNum48 : 10
+
+WorkshopClassroom48 : Sala Lambda
+
+Title48 : Hacking STEM
+
+WorkshopLanguage48 : Spanish
+
+WorkshopReq48 :
 
 # --------  Lunch  --------------------
 
@@ -395,19 +407,19 @@ LocalPeer30 : "**Monica Bello**, curator and head of arts at CERN, Switzerland"
 # --------  Conversation --------------------
 
 
-Time31 : 16.10 -
+Time31 : 16.05 -
 
 
 # --------  Coffee break --------------------
 
 
-Time32 : 16.30 -
+Time32 : 16.25 -
 
 
 # --------  Session 02  --------------------
 
 
-Time33 : 17.00 -
+Time33 : 16.55 -
 
 Place33 : CosmoCaixa
 
@@ -423,13 +435,13 @@ LocalPeer33 : "**Òscar M. Ciuró**, cultural education manager. Thinking Doing 
 # --------  Conversation --------------------
 
 
-Time34 : 17.50 -
+Time34 : 17.40 -
 
 
 # -------- 03 - Sonic Pi and Education --------------------
 
 
-Time35 : 18.10 -
+Time35 : 18.00 -
 
 Place35 : CosmoCaixa
 
@@ -444,7 +456,7 @@ LocalPeer35 : "**Carles Ceacero**, multifaceted musician and teacher of musical 
 # -------- Conversation and Live Music Performance --------------------
 
 
-Time35A : 18.45 -
+Time35A : 18.40 -
 
 ConversationMusicPerformance : Conversation and Live Music Performance
 
@@ -474,19 +486,19 @@ LocalPeer37 : "**Mariona Cíller**, co-founder of SokoTech, Barcelona"
 # --------  Conversation --------------------
 
 
-Time38 : 10.50 -
+Time38 : 10.45 -
 
 
 # --------  Coffee break --------------------
 
 
-Time39 : 11.10 -
+Time39 : 11.05 -
 
 
 # ---- 05 Bringing assessment culture to the 21st century – the power of innovative assessment --------------------
 
 
-Time40 : 11.40 -
+Time40 : 11.35 -
 
 Place40 : CosmoCaixa
 
@@ -524,7 +536,7 @@ LocalPeer42 : "**Sergi del Moral**, teaching and management team at the Institut
 # ---- 07 Creating the next generation of schools --------------------
 
 
-Time43 : 13.20 -
+Time43 : 13.25 -
 
 Place43 : CosmoCaixa
 
@@ -534,15 +546,15 @@ Title43 : Creating the next generation of schools
 
 Subtitle43A : Farewell conversation
 
-Subtitle43B : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA."
+Subtitle43B : "**Eduard Vallory**, president del Centre UNESCO de Catalunya i director d'Escola Nova 21, Barcelona"
 
-LocalPeer43 : "**Anna Cutler**, director of Learning and Research at Tate, London, UK; **Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA; **Juuso Henrik Nieminen**, Mathematics education research group, University of Helsinki, Finland; **Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK."
+LocalPeer43 : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA; **Anna Cutler**, director of Learning and Research at Tate, London, UK; **Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA; **Juuso Henrik Nieminen**, Mathematics education research group, University of Helsinki, Finland; **Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK"
 
 
 # --------  Conference closing  --------------------
 
 
-Time44 : 14.00 -
+Time44 : 14.05 -
 
 Place44 : CosmoCaixa
 

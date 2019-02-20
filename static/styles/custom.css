@@ -1441,6 +1441,14 @@ position: relative;
   color: white;
 }
 
+.schedule-paralel-workshops {
+  margin-top: 5%;
+}
+
+.schedule-hr {
+  margin: 5% 0;
+}
+
 
 
 .home-workshops-section-img img {
