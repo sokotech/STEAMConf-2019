@@ -6,7 +6,7 @@ languageName : CA
 
 PageHeaderAbout : STEAMConf
 
-Info01 : STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M; des de la música de Sam Aaron fins al teatre de myPERFORM; Des de l’art de la Tate, fins a diverses iniciatives d'aula  que fan de l’aprenentatge basat en projectes (ABP), les experiències vitals i l’avaluació, un acte d’intensa creació.
+Info01 : STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M; des de la música de Sam Aaron fins al teatre de myPERFORM; Des de l’art de la Tate, fins a diverses iniciatives que fan de l’aprenentatge basat en projectes (ABP), les experiències vitals i l’avaluació, un acte d’intensa creació.
 
 Info01A : Què és la cultura creativa i com es pot aplicar a l’aula? Com es poden utilitzar les activitats pràctiques per ensenyar capacitats i tecnologies de resolució de problemes i, al mateix temps, despertar la curiositat i la creativitat d’un alumne?
 
@@ -21,10 +21,10 @@ SteeringSubtitle01 : Direcció i producció
 
 ItemSteeringTitle01 : Mariona Cíller
 ItemSteeringSubtitle01 : Fundadora i directora de SokoTech
-ItemSteeringText01 : Co-fundadora de SokoTech. B.F.A, M.Sc. i professor assistent per part de la Universitat d'Illinois. Graduada de la Fab Academy de l'Institut de Tecnologia de Massachusetts (MIT). El 2015, co-fundar SokoTech, un laboratori ciutadà dedicat a projectes d'innovació social centrats en les arts, la ciència i la tecnologia. L'objectiu d'SokoTech és estendre l'ús i la comprensió de la tecnologia, la ciència, l'enginyeria, l'art i les matemàtiques en la societat en general, sense tenir en compte l'edat, el nivell de coneixement, l'estat, les capacitats o el gènere.
+ItemSteeringText01 : Cofundadora de SokoTech, . Graduada cum laude per la Universitat d’Illinois, amb doble titulació en Bachelor of Fine Arts i (B.F.A.) en les disciplines de Comunicació Visual i Història de l’Art. Posteriorment, Màster en Ciències (M.Sc), Mass Media & Media Management Studies on adquireix expertesa en l’ús de les noves eines d’innovació digital. És també graduada per la Fab Academy del Massachussets Institute of Technology (MIT). La seva tesi, «Free Culture Project», que fusiona el poder de la tecnologia amb el poder transformador de l’educació, és un punt d’inflexió en la seva trajectòria, cap a territoris de reinvenció del món de la docència i l’aprenentatge en què assaja nous models, sempre de la mà de les tecnologies emergents. L’any 2015 va cofundar SokoTech, una laboratori dedicat a projectes d’innovació social que centra la seva activitat en les arts, la ciència i la tecnologia.
 
 ItemSteeringTitle02 : Paca Cíller
-ItemSteeringSubtitle02 : Activista de la cultura científica i tecnològica
+ItemSteeringSubtitle02 : Activista de la cultura científica i tecnològica, actualment senior advisor de SokoTech.
 ItemSteeringText02 : Ha estat directora del Departament de Comunicació de la Fundació “la Caixa”, directora de Relacions Internacionals i Programes de CosmoCaixa, el Museu de la Ciència de Barcelona, ​​i directora executiva de la Xarxa Europea de Centres i Museus de Ciència (ECSITE).
 
 SteeringSubtitle02 : Comitè Assessor
@@ -43,7 +43,7 @@ ItemSteeringText06 : Director del CESIRE, Departament d'Ensenyament, Generalitat
 
 
 ItemSteeringTitle07 : Sergi del Moral
-ItemSteeringText07 : És professor de matemàtiques i projectes a l’Institut-Escola Les Vinyes, així com professor associat de la Universitat de Barcelona i del màster de Formació del Professorat de Secundària d’aquesta universitat. S’interessa pels processos de transformació que contribueixen a compensar el pes, les matèries tradicionals i els continguts en favor d’altres de centrats en l’acció, la resolució de problemes i l’aprenentatge. L’interessa també investigar com es pot modificar l’avaluació per fer-la més diagnòstica i menys coercitiva, i com es pot donar més protagonisme i responsabilitat als nois i les noies.
+ItemSteeringText07 : Està interessat en els processos de transformació amb els quals es pot aconseguir una relació més amable i natural entre el coneixement i l’aprenentatge. Això l’ha portat a explorar maneres de compensar el pes dels materials i el coneixement estàtic amb enfocaments més propers a l’acció, la producció, la creació, la resolució de problemes, el treball en equip i l’aprenentatge per a les situacions reals. A Sergi també li interessa tot allò que fa de l’avaluació més un diagnòstic que no pas un procés coercitiu; i les aules i la dinàmica comunitària que fomenten l’autonomia, la iniciativa i la responsabilitat entre els nois i les noies. Actualment forma part de l’equip directiu i docent de l’Institut-Escola Les Vinyes de Castellbisbal, i també de l’equip que promou BetaCamp, una experiència molt gratificant d’aprenentatge entre iguals.
 
 ItemSteeringTitle08 : Coral Regí Rodríguez
 ItemSteeringText08 : Biòloga de formació i educadora de vocació. Directora de l’Escola Virolai de Barcelona. Representant en diferents organitzacions educatives; FEAEC, el Consell Escolar de Catalunya i el Consell de Ciutat de Barcelona. Com a especialista en diferents temes docents i educatius, participa en jornades i congressos educatius.
@@ -54,19 +54,21 @@ ItemSteeringText09 : És enginyer industrial elèctric per la UPC, i fa més de 
 ItemSteeringTitle10 : Frank Sabaté
 ItemSteeringText10 : Mestre a l’Escola Projecte de Barcelona. Apassionat de la programació i la robòtica educativa. És membre del comitè científic del programa Educació Demà de la Fundació Jaume Bofill i del comitè impulsor del congrés STEAM Barcelona. Ha format part de l’organització de les edicions europees de la Scratch Conference (Barcelona ’13, Amsterdam ’15 i Bordeus ’17). És assessor en l’aliança magnet entre l’escola Montessori de Rubí i el CIM UPC. Comparteix els seus coneixements en sessions presencials de formació al professorat i en el seu canal de Youtube “Scratch en 5 minuts”.
 
-# COMO LLEGAR
+# COM ARRIBAR
 
 HomeFooterSectionTitle01 : Com arribar
 
 HomeFooterSectionTitle02 : Per Carretera
-HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionText02 : Entrada pel C/ Quatre Camins, 89, sortides 6 / 7 en Ronda de Dalt
 
 HomeFooterSectionTitle03 : En Autobus
 
 HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : Estació CosmoCaixa-Avinguda del Tibidabo
 
 HomeFooterSectionTitle05 : Aparcament
 HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
+
 
 # FOOTER
 

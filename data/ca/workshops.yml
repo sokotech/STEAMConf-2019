@@ -92,7 +92,7 @@ WorkshopSpeakerText02C : És, sobretot, exploradora del món. Com a membre funda
 
 WorkshopNum03 : 02
 
-WorkshopClassroom03 :
+WorkshopClassroom03 : Tau
 
 WorkshopLanguage03 : Anglès
 
@@ -115,7 +115,7 @@ WorkshopSpeakerText03A : Investigador en educació i expert innovador en avaluac
 
 WorkshopNum04 : 03
 
-WorkshopClassroom04 :
+WorkshopClassroom04 : Sigma
 
 WorkshopLanguage04 : Català
 
@@ -137,11 +137,11 @@ WorkshopSpeakerText04 : Membre de l’àmbit científic del CESIRE, on coordina 
 
 WorkshopNum05 : 04
 
-WorkshopClassroom05 :
+WorkshopClassroom05 : Beta
 
 WorkshopLanguage05 : Anglès
 
-WorkshopReq05 :
+WorkshopReq05 : Ordinador portàtil
 
 WorkshopTitle05 : Fer realitat el canvi
 
@@ -158,9 +158,9 @@ WorkshopSpeakerText05 : Directora d’Aprenentatge i Recerca a la Tate Modern. H
 
 WorkshopNum06 : 05
 
-WorkshopClassroom06 :
+WorkshopClassroom06 : Gamma
 
-WorkshopLanguage06 : Català
+WorkshopLanguage06 : Anglès
 
 WorkshopReq06 : Ordinador portàtil
 
@@ -183,7 +183,7 @@ WorkshopSpeakerText06B : Professor de matemàtiques i tecnologia de l’Escola V
 
 WorkshopNum07 : 06
 
-WorkshopClassroom07 :
+WorkshopClassroom07 : Alfa
 
 WorkshopLanguage07 : Català
 
@@ -212,7 +212,7 @@ WorkshopSpeakerText07C : Directora de KTT de l’ICFO. Guardonada amb el premi F
 
 WorkshopNum17 : 07
 
-WorkshopClassroom17 :
+WorkshopClassroom17 : Lambda
 
 WorkshopLanguage17 : Català / Castellà
 
@@ -249,7 +249,7 @@ WorkshopSpeakerText17D : És mestre a l’Escola Nostra Senyora de Lurdes. És, 
 
 WorkshopNum18 : 08
 
-WorkshopClassroom18 :
+WorkshopClassroom18 : Pi
 
 WorkshopLanguage18 : Castellà
 
@@ -271,7 +271,7 @@ WorkshopSpeakerText18 : Graduada en Enginyeria Marítima i professora de secunda
 
 WorkshopNum19 : 09
 
-WorkshopClassroom19 :
+WorkshopClassroom19 : Delta
 
 WorkshopLanguage19 : Català
 
@@ -322,7 +322,7 @@ Classroom08A:
 
 WorkshopNum08 : 02
 
-WorkshopClassroom08 :
+WorkshopClassroom08 : Pi
 
 WorkshopLanguage08 : Anglès
 
@@ -344,7 +344,7 @@ WorkshopSpeakerText08 : director creatiu de la Gary and Jerri-Ann Jacobs @highte
 
 WorkshopNum09 : 03
 
-WorkshopClassroom09 :
+WorkshopClassroom09 : Beta
 
 WorkshopLanguage09 : Català
 
@@ -371,7 +371,7 @@ WorkshopSpeakerText09B : Enginyer tècnic industrial per la Universitat Politèc
 
 WorkshopNum10 : 04
 
-WorkshopClassroom10 :
+WorkshopClassroom10 : Delta
 
 WorkshopLanguage10 : Català
 
@@ -401,7 +401,7 @@ WorkshopSpeakerText10C : Enginyer elèctric per la Universitat Politècnica de C
 
 WorkshopNum11 : 05
 
-WorkshopClassroom11 :
+WorkshopClassroom11 : Sigma
 
 WorkshopLanguage11 : Català
 
@@ -431,7 +431,7 @@ WorkshopSpeakerText11C : Llicenciat en Filologia Hispànica, docent d’informà
 
 WorkshopNum12 : 06
 
-WorkshopClassroom12 :
+WorkshopClassroom12 : Tau
 
 WorkshopLanguage12 : Català
 
@@ -468,7 +468,7 @@ WorkshopSpeakerText12D : Mestra de llengua estrangera i dinamitzadora del labora
 
 WorkshopNum13 : 7
 
-WorkshopClassroom13 :
+WorkshopClassroom13 : Alfa
 
 WorkshopLanguage13 : Anglès
 
@@ -490,9 +490,9 @@ WorkshopSpeakerText13 : Programador de live coding, educador i investigador. Va 
 
 WorkshopNum14 : 8
 
-WorkshopClassroom14 :
+WorkshopClassroom14 : Gamma
 
-WorkshopLanguage14 : Català
+WorkshopLanguage14 : Català /Castellà
 
 WorkshopReq14 :
 
@@ -531,7 +531,7 @@ WorkshopSpeakerText14G : Doctor en Química Orgànica i cofundador del grup de c
 
 WorkshopNum15 : 9
 
-WorkshopClassroom15 :
+WorkshopClassroom15 : Creactivity
 
 WorkshopLanguage15 : Català
 
@@ -553,7 +553,7 @@ WorkshopSpeakerText15 : actriu i biòloga, i està especialitzada en comunicaci�
 
 WorkshopNum20 : 10
 
-WorkshopClassroom20 :
+WorkshopClassroom20 : Lambda
 
 WorkshopLanguage20 : Castellà
 
@@ -561,7 +561,7 @@ WorkshopReq20 :
 
 WorkshopTitle20 : Hacking STEM
 
-WorkshopSubtitle20 : "**Alba Rodríguez Agüero**, Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab"
+WorkshopSubtitle20 : "**Alba Rodríguez Agüero**, Responsable de l’ àrea d’ educació i líder del projecte Makermania de Possible Lab, Madrid"
 
 WorkshopText20 : Hacking STEM és el projecte que ha creat Microsoft per treballar a l’aula les assignatures STEM a través de la metodologia maker. En aquest taller, els participants aprendran a introduir el projecte del telègraf a la seva aula i a conèixer el potencial que té aquest tipus de projectes en l’àmbit educatiu.
 
@@ -569,16 +569,17 @@ WorkshopSpeakerTitle20 : Alba Rodríguez Agüero
 
 WorkshopSpeakerText20 : És graduada en Enginyeria Marítima i professora de secundària en l’àrea de ciències. És experta en big data i en tecnologies de l’aprenentatge i el coneixement, a més de responsable de l’àrea d’educació i líder del projecte Makermania de Possible Lab.
 
-# COMO LLEGAR
+# COM ARRIBAR
 
-HomeFooterSectionTitle01 : Como arribar
+HomeFooterSectionTitle01 : Com arribar
 
 HomeFooterSectionTitle02 : Per Carretera
-HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionText02 : Entrada pel C/ Quatre Camins, 89, sortides 6 / 7 en Ronda de Dalt
 
 HomeFooterSectionTitle03 : En Autobus
 
 HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : Estació CosmoCaixa-Avinguda del Tibidabo
 
 HomeFooterSectionTitle05 : Aparcament
 HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.

@@ -15,7 +15,7 @@ ButtonSubtitle01C : (Traducció simultània català, castellà, anglès)
 
 # Section 02 (Conference)
 
-Title02A : Registra't a la conferència
+Title02A : Conferència
 
 ListTitle02A : Públic General
 ListText02A : 70 €
@@ -33,7 +33,7 @@ ListText03E : exclusiu pels assistents a les dues activitats (jornades + tallers
 
 # Section 03 (Workshops)
 
-Title03A : Registra't als tallers
+Title03A : Tallers
 
 ListTitle03A : Tallers (divendres matí)
 ListText03A : 25€ cada taller
@@ -41,7 +41,7 @@ ListText03A : 25€ cada taller
 ListTitle03B : Docents i clients CaixaBank
 ListText03B : 12,50€ each workshop (Promo code for teachers STEAMPROF19).
 
-Info03C : En els tallers no hi ha traducció simultània, cada taller serà amb l’idioma que l’imparteix el professor. Per accedir al preu promocional de professors, cal introduir el codi STEAMPROF1718 a la seva compra on-line.
+Info03C : En els tallers no hi ha traducció simultània, cada taller serà amb l’idioma que l’imparteix el professor. Per accedir al preu promocional de professors, cal introduir el codi STEAMPROF19 a la seva compra on-line.
 
 Info03D : Els professors interessats en rebre els crèdits, hauran de signar el full d’assistència cada dia.
 
@@ -50,25 +50,26 @@ ButtonSubtitle03 : (Els tallers s'imparteixen en l'idioma del facilitador)
 
 # Section 03 (EDCAMP)
 
-Title04A : Registra't a Edcamp 2019
+Title04A : Edcamp 2019
 
-ListTitle04A : Tallers (divendres matí)
-ListText04A : 00€ cada taller
+ListTitle04A : Sábado, 30 de marzo de 10.00 a 14.00
+ListText04A : Gratuito
 
 ButtonTitle04F : EdCamp STEAMConf 2019
 ButtonSubtitle04F : Registra't aquí
 
 
-# COMO LLEGAR
+# COM ARRIBAR
 
 HomeFooterSectionTitle01 : Com arribar
 
 HomeFooterSectionTitle02 : Per Carretera
-HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionText02 : Entrada pel C/ Quatre Camins, 89, sortides 6 / 7 en Ronda de Dalt
 
 HomeFooterSectionTitle03 : En Autobus
 
 HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : Estació CosmoCaixa-Avinguda del Tibidabo
 
 HomeFooterSectionTitle05 : Aparcament
 HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.

@@ -93,7 +93,7 @@ WorkshopSpeakerText02C : Es, sobre todo, exploradora del mundo. Como miembro fun
 
 WorkshopNum03 : 02
 
-WorkshopClassroom03 :
+WorkshopClassroom03 : Tau
 
 WorkshopLanguage03 : Inglés
 
@@ -117,7 +117,7 @@ WorkshopSpeakerText03A : Es investigador en educación y experto innovador en ev
 
 WorkshopNum04 : 03
 
-WorkshopClassroom04 :
+WorkshopClassroom04 : Sigma
 
 WorkshopLanguage04 : Catalán
 
@@ -139,11 +139,11 @@ WorkshopSpeakerText04 : Miembro del ámbito científico del CESIRE, donde coordi
 
 WorkshopNum05 : 04
 
-WorkshopClassroom05 :
+WorkshopClassroom05 : Beta
 
 WorkshopLanguage05 : Inglés
 
-WorkshopReq05 :
+WorkshopReq05 : Ordenador portátil
 
 WorkshopTitle05 : Hacer realidad el cambio
 
@@ -160,9 +160,9 @@ WorkshopSpeakerText05 : Directora de Aprendizaje e Investigación en la Tate Mod
 
 WorkshopNum06 : 05
 
-WorkshopClassroom06 :
+WorkshopClassroom06 : Gamma
 
-WorkshopLanguage06 : Catalán
+WorkshopLanguage06 : Inglés
 
 WorkshopReq06 : Ordenador portátil
 
@@ -187,7 +187,7 @@ WorkshopSpeakerText06B : Es profesor de matemáticas y tecnología de la Escola 
 
 WorkshopNum07 : 06
 
-WorkshopClassroom07 :
+WorkshopClassroom07 : Alfa
 
 WorkshopLanguage07 : Catalán
 
@@ -217,7 +217,7 @@ WorkshopSpeakerText07C : Es directora de KTT del ICFO. Galardonada con el premio
 
 WorkshopNum17 : 07
 
-WorkshopClassroom17 :
+WorkshopClassroom17 : Lambda
 
 WorkshopLanguage17 : Catalán / Catellano
 
@@ -254,7 +254,7 @@ WorkshopSpeakerText17D : Es maestro en la Escuela Nuestra Señora de Lourdes. Es
 
 WorkshopNum18 : 08
 
-WorkshopClassroom18 :
+WorkshopClassroom18 : Pi
 
 WorkshopLanguage18 : Castellano
 
@@ -276,7 +276,7 @@ WorkshopSpeakerText18 : Graduada en Ingeniería Marítima y profesora de secunda
 
 WorkshopNum19 : 09
 
-WorkshopClassroom19 :
+WorkshopClassroom19 : Delta
 
 WorkshopLanguage19 : Catalán
 
@@ -327,7 +327,7 @@ Classroom08A:
 
 WorkshopNum08 : 02
 
-WorkshopClassroom08 :
+WorkshopClassroom08 : Pi
 
 WorkshopLanguage08 : Inglés
 
@@ -349,7 +349,7 @@ WorkshopSpeakerText08 : Director creativo de la Gary and Jerri-Ann Jacobs @hight
 
 WorkshopNum09 : 03
 
-WorkshopClassroom09 :
+WorkshopClassroom09 : Beta
 
 WorkshopLanguage09 : Catalán
 
@@ -379,7 +379,7 @@ WorkshopSpeakerText09B : es ingeniero técnico industrial por la Universitat Pol
 
 WorkshopNum10 : 04
 
-WorkshopClassroom10 :
+WorkshopClassroom10 : Delta
 
 WorkshopLanguage10 : Catalán
 
@@ -411,7 +411,7 @@ WorkshopSpeakerText10C : Ingeniero eléctrico por la Universitat Politècnica de
 
 WorkshopNum11 : 05
 
-WorkshopClassroom11 :
+WorkshopClassroom11 : Sigma
 
 WorkshopLanguage11 : Catalán
 
@@ -441,7 +441,7 @@ WorkshopSpeakerText11C : Es licenciado en Filología Hispánica, docente de info
 
 WorkshopNum12 : 06
 
-WorkshopClassroom12 :
+WorkshopClassroom12 : Tau
 
 WorkshopLanguage12 : Catalán
 
@@ -475,7 +475,7 @@ WorkshopSpeakerText12D : Maestra de lengua extranjera y dinamizadora del laborat
 
 WorkshopNum13 : 7
 
-WorkshopClassroom13 :
+WorkshopClassroom13 : Alfa
 
 WorkshopLanguage13 : Inglés
 
@@ -497,9 +497,9 @@ WorkshopSpeakerText13 : Programador de live coding, educador e investigador. Fue
 
 WorkshopNum14 : 8
 
-WorkshopClassroom14 :
+WorkshopClassroom14 : Gamma
 
-WorkshopLanguage14 : Catalán
+WorkshopLanguage14 : Catalán / Catellano
 
 WorkshopReq14 :
 
@@ -538,7 +538,7 @@ WorkshopSpeakerText14G : Doctor en Química Orgánica y cofundador del grupo de 
 
 WorkshopNum15 : 9
 
-WorkshopClassroom15 :
+WorkshopClassroom15 : Creactivity
 
 WorkshopLanguage15 : Catalán
 
@@ -560,7 +560,7 @@ WorkshopSpeakerText15 : Actriz y bióloga, y está especializada en comunicació
 
 WorkshopNum20 : 10
 
-WorkshopClassroom20 :
+WorkshopClassroom20 : Lambda
 
 WorkshopLanguage20 : Castellano
 
@@ -581,11 +581,12 @@ WorkshopSpeakerText20 : Es graduada en Ingeniería Marítima y profesora de secu
 HomeFooterSectionTitle01 : Como llegar
 
 HomeFooterSectionTitle02 : Por Carretera
-HomeFooterSectionText02 : Salidas 6 / 7 en Ronda de Dalt
+HomeFooterSectionText02 : Entrada por C/ Quatre Camins, 89, salidas 6 / 7 en Ronda de Dalt
 
 HomeFooterSectionTitle03 : En Autobus
 
 HomeFooterSectionTitle04 : Por Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : Estación CosmoCaixa-Avinguda del Tibidabo
 
 HomeFooterSectionTitle05 : Aparcamiento
 HomeFooterSectionText05 : Tarifa reducida para participantes de STEAMConf (1 € / h). Hay que presentar la entrada STEAMConf en la ventanilla del parking SABA.

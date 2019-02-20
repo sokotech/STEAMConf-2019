@@ -187,7 +187,8 @@ Subtitle11A : "**Jordi Portabella i Calvete**, director de l´ Àrea de Divulgac
 
 LocalSpeakerTitle11A : Jordi Portabella i Calvete
 
-LocalSpeakerText11A : Llicenciat en Biologia per la UB i té un màster en Enginyeria Mediambiental per la UPC. Ha estat professor d’Estudis Ambientals d’Enginyeria Agrícola a la UIC i actualment és el director de l’Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària ”la Caixa”. Té, també, una llarga experiència com a gestor de l’àmbit de medi ambient i ciències per a institucions com el Centre UNESCO de Catalunya.
+LocalSpeakerText11A : Actualment és el director de l’Àrea de Divulgació Científica i CosmoCaixa de la Fundació Bancària “la Caixa”. Llicenciat en Biologia per la UB i màster en Enginyeria Mediambiental per la UPC. Ha estat professor d’Estudis Ambientals d’Enginyeria Agrícola de la UIC. Té també, una llarga experiència en l’administració pública i privada com a gestor de l’àmbit de medi ambient i ciències per a institucions com el Centre UNESCO de Catalunya.
+
 
 LocalSpeakerTitle11B : Francesca Bria
 
@@ -251,7 +252,7 @@ Title15 : Sembla que s’ho passen bé, però aprenen?
 
 Subtitle15 : "**Sebastian Martin**, Tinkering Studio. Exploratorium de San Francisco (Estats Units)"
 
-LocalSpeaker15 : "**Òscar M. Ciuró**, gestor d’educació cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona"
+LocalSpeaker15 : "**Òscar M. Ciuró**, gestor d’educació cultural, MakerConvent, Barcelona"
 
 Text15 : Aprofundirem en el que significa crear experiències d’aprenentatge basat en STEAM on s’adopti plenament l’estètica com a forma d’engrescar els joves tant físicament com intel•lectualment i emocionalment. Quan els alumnes joguinegen sempre hi ha sorpresa i delit, i això és la diversió. Per tant, com és que el joc (tinkering) està tan poc valorat en l’ensenyament? És una pedagogia basada en el contacte actiu amb materials i idees que té com a objectiu el foment de la curiositat. Destacarem les dimensions de l’aprenentatge que conté el tinkering, un procés en què tant els docents com els alumnes canvien la seva relació amb les idees, fenòmens científics i entre ells mateixos, i redefineixen allò que es considera aprenentatge.
 
@@ -323,7 +324,8 @@ LocalSpeakerText20A : Escriptor, conferenciant i expert en informàtica. L’any
 
 LocalSpeakerTitle20B : Mariona Cíller
 
-LocalSpeakerText20B : Cofundadora de SokoTech. És llicenciada en Belles Arts per la University of Illinois, on també va fer un màster en ciències i va ser professora adjunta. Es va diplomar a la Fab Academy del Massachusetts Institute of Technology (MIT). L’any 2015 va cofundar SokoTech, una laboratori dedicat a projectes d’innovació social que centra la seva activitat en les arts, la ciència i la tecnologia.
+LocalSpeakerText20B : Cofundadora de SokoTech, . Graduada cum laude per la Universitat d’Illinois, amb doble titulació en Bachelor of Fine Arts i (B.F.A.) en les disciplines de Comunicació Visual i Història de l’Art. Posteriorment, Màster en Ciències (M.Sc), Mass Media & Media Management Studies on adquireix expertesa en l’ús de les noves eines d’innovació digital. És també graduada per la Fab Academy del Massachussets Institute of Technology (MIT). La seva tesi, «Free Culture Project», que fusiona el poder de la tecnologia amb el poder transformador de l’educació, és un punt d’inflexió en la seva trajectòria, cap a territoris de reinvenció del món de la docència i l’aprenentatge en què assaja nous models, sempre de la mà de les tecnologies emergents. L’any 2015 va cofundar SokoTech, una laboratori dedicat a projectes d’innovació social que centra la seva activitat en les arts, la ciència i la tecnologia.
+
 
 # Conversa
 
@@ -341,13 +343,13 @@ Place23 : CosmoCaixa
 
 Classroom23 : Auditorium
 
-Title23 : Traslladar la cultura de l’avaluació al segle XX, el poder de l’avaluació innovadora
+Title23 : Traslladar la cultura de l’avaluació al segle XXI, el poder de l’avaluació innovadora
 
 Subtitle23 : "**Juuso Henrik Nieminen**, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia)"
 
 LocalSpeaker23 : "**Victoria Eugenia Ibáñez**, professora de ciències i matemàtiques a l’ensenyament secundari, Barcelona"
 
-Text23 : En 0,51 segons, una cerca a Google et torna més de 139 milions de resultats per a «21st century skills» (‘competències del segle XX’). No hi ha dubte que en tots els nivells educatius, des de la primària fins a la universitat, es dona una gran importància a l’aprenentatge durant tota la vida, les habilitats metacognitives i el pensament crític. Ara bé, tot i que els plans d’estudis d’arreu del món comencen ara a valorar aquestes capacitats, la cultura de l’avaluació s’està quedant enrere. És el que passa també a Finlàndia, on el pla d’estudis nacional del 2016 introduïa idees noves com ara les competències en programació i l’aprenentatge multidisciplinari, però a penes abordava la cultura de l’avaluació a càrrec del professorat. En la seva xerrada, Nieminen presentarà les darreres novetats de la recerca en avaluació digital i innovadora desenvolupada a la Universitat d’Hèlsinki. S’ha afirmat que la base dels nostres mètodes d’avaluació pràcticament no ha variat en segles i que els intents «radicals» de canviar-los no sempre han arribat a bon port. Com es podrien fer compatibles l’autoavaluació i l’avaluació d’experts amb l’accessibilitat, l’apoderament estudiantil i la propietat de l’aprenentatge?
+Text23 : En 0,51 segons, una cerca a Google et torna més de 139 milions de resultats per a «21st century skills» (‘competències del segle XXI’). No hi ha dubte que en tots els nivells educatius, des de la primària fins a la universitat, es dona una gran importància a l’aprenentatge durant tota la vida, les habilitats metacognitives i el pensament crític. Ara bé, tot i que els plans d’estudis d’arreu del món comencen ara a valorar aquestes capacitats, la cultura de l’avaluació s’està quedant enrere. És el que passa també a Finlàndia, on el pla d’estudis nacional del 2016 introduïa idees noves com ara les competències en programació i l’aprenentatge multidisciplinari, però a penes abordava la cultura de l’avaluació a càrrec del professorat. En la seva xerrada, Nieminen presentarà les darreres novetats de la recerca en avaluació digital i innovadora desenvolupada a la Universitat d’Hèlsinki. S’ha afirmat que la base dels nostres mètodes d’avaluació pràcticament no ha variat en segles i que els intents «radicals» de canviar-los no sempre han arribat a bon port. Com es podrien fer compatibles l’autoavaluació i l’avaluació d’experts amb l’accessibilitat, l’apoderament estudiantil i la propietat de l’aprenentatge?
 
 LocalSpeakerTitle23A : Juuso Henrik Nieminen
 
@@ -423,16 +425,17 @@ LocalSpeakerTitle28 : Lluís Noguera i Jordana
 LocalSpeakerText28 : Director del CosmoCaixa, el Museu de la Ciència de la Fundació Bancària ”la Caixa”. Llicenciat en Filosofia per la UAB i màster en Gestió Cultural per la UB i en Gestió Pública per ESADE, també ha estudiat Relacions Culturals Internacionals. Ha estat subdirector de l’Àrea de Ciència, Recerca i Medi Ambient de la Fundació Bancària ”la Caixa”, on ha dut a terme, entre altres projectes, l’avaluació del programa de divulgació científic.
 
 
-# COMO LLEGAR
+# COM ARRIBAR
 
 HomeFooterSectionTitle01 : Com arribar
 
 HomeFooterSectionTitle02 : Per Carretera
-HomeFooterSectionText02 : Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionText02 : Entrada pel C/ Quatre Camins, 89, sortides 6 / 7 en Ronda de Dalt
 
 HomeFooterSectionTitle03 : En Autobus
 
 HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : Estació CosmoCaixa-Avinguda del Tibidabo
 
 HomeFooterSectionTitle05 : Aparcament
 HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.

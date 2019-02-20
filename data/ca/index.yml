@@ -31,21 +31,20 @@ HomeOrganizersSectionTitle: Organitzadors
 HomeCollaboratorsSectionTitle: Col·laboradors
 HomeGlobalPartnersSectionTitle: Global Partner
 
-# Home COMO LLEGAR
+# COM ARRIBAR
 
-HomeFooterSectionTitle01: Com arribar
+HomeFooterSectionTitle01 : Com arribar
 
-HomeFooterSectionTitleDirection: Direcció
+HomeFooterSectionTitle02 : Per Carretera
+HomeFooterSectionText02 : Entrada pel C/ Quatre Camins, 89, sortides 6 / 7 en Ronda de Dalt
 
-HomeFooterSectionTitle02: Per Carretera
-HomeFooterSectionText02: Sortides 6 / 7 en Ronda de Dalt
+HomeFooterSectionTitle03 : En Autobus
 
-HomeFooterSectionTitle03: En Autobus
+HomeFooterSectionTitle04 : Per Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : Estació CosmoCaixa-Avinguda del Tibidabo
 
-HomeFooterSectionTitle04: Per Ferrocarrils de la Generalitat
-
-HomeFooterSectionTitle05: Aparcament
-HomeFooterSectionText05: Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
+HomeFooterSectionTitle05 : Aparcament
+HomeFooterSectionText05 : Tarifa reduïda per a participants de STEAMConf (1 € / h). Cal presentar l'entrada STEAMConf a la finestreta del pàrquing SABA.
 
 # Home FOOTER CONTACT MENU
 

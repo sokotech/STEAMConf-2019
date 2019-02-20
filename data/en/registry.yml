@@ -6,70 +6,69 @@ PageHeaderRegister : Register
 
 # Section 01 (General info-registry)
 
-Info01A : Aquesta activitat està reconeguda pel Departament d’Ensenyament com a formació permanent del professorat.
+Info01A : This activity is recognized by the Department of Education as permanent teacher training.
 
-Info01B : Auditorium 312 places / Els espais s’ompliran per ordre d’inscripció.
+Info01B : Auditorium 312 places / The spaces will be filled by order of registration.
 
-ButtonTitle01C : Inscripció gratuïta a l’ Obertura pública de la conferencia
-ButtonSubtitle01C : (Traducció simultània català, castellà, anglès)
+ButtonTitle01C : Free registration to the Public Opening of the conference
+ButtonSubtitle01C : (Simultaneous translation for Catalan, Spanish, English)
 
 # Section 02 (Conference)
 
-Title02A : Registra't a la conferència
+Title02A : Conference
 
-ListTitle02A : Públic General
+ListTitle02A : General Public
 ListText02A : 70 €
 
-ListTitle02B : Docents i clients CaixaBank
+ListTitle02B : Teachers and CaixaBank clients
 ListText02B : 35€ (Codi promocional docents STEAMPROF19)
 
-ButtonTitle02 : Registra't a la conferència
-ButtonSubtitle02 : (Traducció simultània català, castellà, anglès)
+ButtonTitle02 : Register to the conference
+ButtonSubtitle02 : (Simultaneous translation Catalan, Spanish, English)
 
-Info02 : Les conferències inclou (dijous tarda, divendres tarda i dissabte matí)
+Info02 : The conferences include (Thursday afternoon, Friday afternoon and Saturday morning)
 
-ListTitle03E : LUNCH (divendres)
-ListText03E : exclusiu pels assistents a les dues activitats (jornades + tallers).
+ListTitle03E : LUNCH (Friday)
+ListText03E : Exclusive for those attending the two activities (conference + workshops).
 
 # Section 03 (Workshops)
 
-Title03A : Registra't als tallers
+Title03A : Workshops
 
-ListTitle03A : Tallers (divendres matí)
+ListTitle03A : Workshops (Friday morning)
 ListText03A : 25€ cada taller
 
-ListTitle03B : Docents i clients CaixaBank
+ListTitle03B : Teachers and CaixaBank clients
 ListText03B : 12,50€ each workshop (Promo code for teachers STEAMPROF19).
 
-Info03C : En els tallers no hi ha traducció simultània, cada taller serà amb l’idioma que l’imparteix el professor. Per accedir al preu promocional de professors, cal introduir el codi STEAMPROF1718 a la seva compra on-line.
+Info03C : There is no simultaneous translati during any workshop, each workshop will be held in the language taught by the teacher. To access the promotional price for teachers, you must enter the code STEAMPROF19 to your online purchase.
 
-Info03D : Els professors interessats en rebre els crèdits, hauran de signar el full d’assistència cada dia.
+Info03D : Teachers interested in receiving credits must sign the attendance sheet every day.
 
-ButtonTitle03 : Registra't als tallers
-ButtonSubtitle03 : (Els tallers s'imparteixen en l'idioma del facilitador)
+ButtonTitle03 : Register to the workshops
+ButtonSubtitle03 : (All workshops are taught in the language of the facilitator)
 
 # Section 03 (EDCAMP)
 
-Title04A : Registra't a Edcamp 2019
+Title04A : Edcamp 2019
 
-ListTitle04A : Tallers (divendres matí)
-ListText04A : 00€ cada taller
+ListTitle04A : Saturday, March 30th, from 10:00 a.m. to 2:00 p.m.
+ListText04A : Free entrance
 
-ButtonTitle04F : EdCamp STEAMConf 2019
-ButtonSubtitle04F : Registra't aquí
-
-
+ButtonTitle04F : Register to EdCamp STEAMConf 2019
+ButtonSubtitle04F : Register here
 
 # HOW TO ARRIVE
 
 HomeFooterSectionTitle01 : How to arrive
 
 HomeFooterSectionTitle02 : By Highway
-HomeFooterSectionText02 : Exit 6 / 7 on Ronda de Dalt
+HomeFooterSectionText02 : Entrance through Quatre Camins St., exit 6 / 7 on Ronda de Dalt
 
 HomeFooterSectionTitle03 : By Bus
 
 HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : CosmoCaixa-Avinguda del Tibidabo Station
 
 HomeFooterSectionTitle05 : Parking
 HomeFooterSectionText05 : Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.

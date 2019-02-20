@@ -5,7 +5,7 @@ item:
 # BG
 
 BgSubtitle01: 5th. International Education Conference
-BgSubtitle02: CosmoCaixa, March 30th and April 4th, 5th and 6th 
+BgSubtitle02: CosmoCaixa, March 30th and April 4th, 5th and 6th
 
 # Home DESCRIPTION
 
@@ -31,21 +31,20 @@ HomeOrganizersSectionTitle: Organizers
 HomeCollaboratorsSectionTitle: Collaborators
 HomeGlobalPartnersSectionTitle: Global Partner
 
-# Home COMO LLEGAR
+# HOW TO ARRIVE
 
-HomeFooterSectionTitle01: How to arrive
+HomeFooterSectionTitle01 : How to arrive
 
-HomeFooterSectionTitleDirection: Address
+HomeFooterSectionTitle02 : By Highway
+HomeFooterSectionText02 : Entrance through Quatre Camins St., exit 6 / 7 on Ronda de Dalt
 
-HomeFooterSectionTitle02: By Highway
-HomeFooterSectionText02: Exit 6 / 7 on Ronda de Dalt
+HomeFooterSectionTitle03 : By Bus
 
-HomeFooterSectionTitle03: By Bus
+HomeFooterSectionTitle04 : By Ferrocarriles de la Generalitat
+HomeFooterSectionText04 : CosmoCaixa-Avinguda del Tibidabo Station
 
-HomeFooterSectionTitle04: By Ferrocarriles de la Generalitat
-
-HomeFooterSectionTitle05: Parking
-HomeFooterSectionText05: Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.
+HomeFooterSectionTitle05 : Parking
+HomeFooterSectionText05 : Reduced rate for STEAMConf participants (€ 1 / h). STEAMConf entrance ticket must be presented at the SABA parking lot.
 
   # Home Sub-FOOTER
 

@@ -66,6 +66,16 @@ button:hover {
   color: #EB7B39;
 }
 
+.black {
+  color: #212529;
+}
+
+.black:hover {
+  color: #EB7B39;
+  transition: .3s ease;
+  text-decoration: none;
+}
+
 
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
