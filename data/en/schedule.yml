@@ -146,7 +146,7 @@ WorkshopClassroom13 : Sala Gamma
 
 Title13 : Let's learn by mixing music, maths and programming
 
-WorkshopLanguage13 : English
+WorkshopLanguage13 : Catalan
 
 WorkshopReq13 : Laptop
 
@@ -300,7 +300,7 @@ WorkshopReq24 : Headphones and laptops with Sonic Pi pre-installed
 
 WorkshopNum25 : 8
 
-WorkshopClassroom25 : Sala Tau
+WorkshopClassroom25 : Sala Gamma
 
 Title25 : Perform Big Van Theory, how to configure a performance
 
@@ -381,7 +381,7 @@ Classroom29 : Auditorium
 
 Title29A : Conference Opening
 
-Subtitle29A : "**Jordi Portabella i Calvete**, director of the Scientific Dissemination and CosmoCaixa Department of la Caixa Bank Foundation, **M. del Mar Camacho Martí**, General Director of Innovation, Research and Digital Culture, Generalitat de Catalunya"
+Subtitle29A : "**Jordi Portabella i Calvete**, Director of the Scientific outreach and CosmoCaixa area of the 'la Caixa' Bank Foundation; **M. del Mar Camacho Martí**, General Director of Innovation, Research and Digital Culture, Generalitat de Catalunya"
 
 Title29B : Welcome to the conference
 
@@ -546,7 +546,9 @@ Title43 : Creating the next generation of schools
 
 Subtitle43A : Farewell conversation
 
-Subtitle43B : "**Eduard Vallory**, president del Centre UNESCO de Catalunya i director d'Escola Nova 21, Barcelona"
+Role43B : Moderator
+
+Subtitle43B : "**Eduard Vallory**, director d'Escola Nova 21, Barcelona"
 
 LocalPeer43 : "**Kaleb Rashad**, creative director at the Gary and Jerri-Ann Jacobs High Tech High, San Diego, USA; **Anna Cutler**, director of Learning and Research at Tate, London, UK; **Gever Tulley**, Brightworks School founder and education architect, San Francisco, USA; **Juuso Henrik Nieminen**, Mathematics education research group, University of Helsinki, Finland; **Sam Aaron**, live coder, educator and researcher at University of Cambridge Computer Laboratory, UK"
 
@@ -560,9 +562,9 @@ Place44 : CosmoCaixa
 
 Classroom44 : Auditorium
 
-Title44 : Cloenda de les sessions
+Title44 : Conference Wrap Up
 
-Subtitle44 : "A càrrec de **Lluís Noguera i Jordana**, director del CosmoCaixa, Barcelona"
+Subtitle44 : "By **Lluís Noguera i Jordana**, director at CosmoCaixa (Barcelona)"
 
 # HOW TO ARRIVE
 

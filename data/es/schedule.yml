@@ -145,7 +145,7 @@ WorkshopClassroom13 : Sala Gamma
 
 Title13 : Aprendemos mezclando música, matemáticas y programación
 
-WorkshopLanguage13 : Inglés
+WorkshopLanguage13 : Catalán
 
 WorkshopReq13 : Ordenador portátil
 
@@ -299,7 +299,7 @@ WorkshopReq24 : Auriculares y portátiles con Sonic Pi instalado
 
 WorkshopNum25 : 8
 
-WorkshopClassroom25 : Sala Tau
+WorkshopClassroom25 : Sala Gamma
 
 Title25 : MyPERFORM- UNESCO, Cómo fomentar el aprendizaje de la ciencia a través de las artes escénicas
 
@@ -547,7 +547,9 @@ Title43 : La creación de la próxima generación de escuelas
 
 Subtitle43A : Conversación
 
-Subtitle43B : "**Eduard Vallory**, presidente del Centre UNESCO de Catalunya y director de Escola Nova 21 (Barcelona)"
+Role43B : Moderator
+
+Subtitle43B : "**Eduard Vallory**, director de Escola Nova 21 (Barcelona)"
 
 LocalPeer43 : "**Kaleb Rashad**, director creativo de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estados Unidos); **Anna Cutler**, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido); **Gever Tulley**, fundador de la Brightworks School y «arquitecto pedagógico», San Francisco (Estados Unidos); **Juuso Henrik Nieminen**, Grupo de Recerca en Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia); **Sam Aaron**, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)"
 

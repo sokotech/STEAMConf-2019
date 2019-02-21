@@ -130,7 +130,7 @@ WorkshopClassroom13 : Sala Gamma
 
 Title13 : Aprenem barrejant música, matemàtiques i programació
 
-WorkshopLanguage13 : Anglès
+WorkshopLanguage13 : Català
 
 WorkshopReq13 : Ordinador portàtil
 
@@ -284,7 +284,7 @@ WorkshopReq24 : Ordinador portàtil i auriculars
 
 WorkshopNum25 : 8
 
-WorkshopClassroom25 : Sala Tau
+WorkshopClassroom25 : Sala Gamma
 
 Title25 : MyPERFORM- UNESCO, Com fomentar l’aprenentatje de la ciència a travès de les arts escèniques
 
@@ -532,7 +532,9 @@ Title43 : La creació de la propera generació d’escoles
 
 Subtitle43A : Conversa
 
-Subtitle43B : "**Eduard Vallory**, president del Centre UNESCO de Catalunya i director d’Escola Nova 21, Barcelona"
+Role43B : Moderator
+
+Subtitle43B : "**Eduard Vallory**, director d’Escola Nova 21, Barcelona"
 
 LocalPeer43 : "**Kaleb Rashad**, director creatiu de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estats Units); **Anna Cutler**, directora d’Aprenentatge i Recerca de la Tate, Londres (Regne Unit); **Gever Tulley**, fundador de la Brightworks School i «arquitecte pedagògic», San Francisco (Estats Units); **Juuso Henrik Nieminen**, Grup de Recerca en Ensenyament de les Matemàtiques, University of Helsinki (Finlàndia); **Sam Aaron**, programador de live coding, educador i investigador al Laboratori Informàtic de la University of Cambridge (Regne Unit)"
 

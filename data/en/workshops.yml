@@ -117,7 +117,7 @@ WorkshopNum04 : 03
 
 WorkshopClassroom04 : Sigma
 
-WorkshopLanguage04 : English
+WorkshopLanguage04 : Catalan
 
 WorkshopReq04 :
 
@@ -160,7 +160,7 @@ WorkshopNum06 : 05
 
 WorkshopClassroom06 : Gamma
 
-WorkshopLanguage06 : English
+WorkshopLanguage06 : Catalan
 
 WorkshopReq06 : Laptop
 
@@ -271,7 +271,7 @@ WorkshopNum19 : 09
 
 WorkshopClassroom19 : Delta
 
-WorkshopLanguage19 : Català
+WorkshopLanguage19 : Catalan
 
 WorkshopReq19 :
 
@@ -371,7 +371,7 @@ WorkshopClassroom10 : Delta
 
 WorkshopLanguage10 : Catalan
 
-WorkshopReq10 : Laptop
+WorkshopReq10 :
 
 WorkshopTitle10 : Building STEAM knowledge; magnets and electrons, electromagnetism
 
@@ -400,7 +400,7 @@ WorkshopClassroom11 : Sigma
 
 WorkshopLanguage11 : Catalan
 
-WorkshopReq11 :
+WorkshopReq11 : Laptop
 
 WorkshopTitle11 : TAC resources as tools for support and creation in the artistic environment
 
