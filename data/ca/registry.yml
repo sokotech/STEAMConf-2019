@@ -24,7 +24,8 @@ ListTitle02B : Docents i clients CaixaBank
 ListText02B : 35€ (Codi promocional docents STEAMPROF19)
 
 ButtonTitle02 : Registra't a la conferència
-ButtonSubtitle02 : (Traducció simultània català, castellà, anglès)
+ButtonSubtitle02 : La inscripció s'obre l'1 de març
+# ButtonSubtitle02 : (Traducció simultània català, castellà, anglès)
 
 Info02 : Les conferències inclou (dijous tarda, divendres tarda i dissabte matí)
 
@@ -46,7 +47,8 @@ Info03C : En els tallers no hi ha traducció simultània, cada taller serà amb 
 Info03D : Els professors interessats en rebre els crèdits, hauran de signar el full d’assistència cada dia.
 
 ButtonTitle03 : Registra't als tallers
-ButtonSubtitle03 : (Els tallers s'imparteixen en l'idioma del facilitador)
+ButtonSubtitle03 : La inscripció s'obre l'1 de març
+# ButtonSubtitle03 : (Els tallers s'imparteixen en l'idioma del facilitador)
 
 # Section 03 (EDCAMP)
 

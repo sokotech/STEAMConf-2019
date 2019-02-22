@@ -24,7 +24,8 @@ ListTitle02B : Docentes y clientes CaixaBank
 ListText02B : 35€ (Código promocional docentes STEAMPROF19)
 
 ButtonTitle02 : Regístrate en la conferencia
-ButtonSubtitle02 : (Traducción simultánea catalán, castellano, inglés)
+ButtonSubtitle02 : La inscripcion se abre el 1 de marzo
+# ButtonSubtitle02 : (Traducción simultánea catalán, castellano, inglés)
 
 Info02 : Las conferencias incluye (jueves tarde, viernes tarde y sábado mañana)
 
@@ -46,7 +47,8 @@ Info03C : En los talleres no hay traducción simultánea, cada taller será con 
 Info03D : Los profesores interesados ​​en recibir los créditos, deberán firmar la hoja de asistencia cada día.
 
 ButtonTitle03 : Regístrate en los talleres
-ButtonSubtitle03 : (Los talleres se imparten en el idioma del facilitador)
+ButtonSubtitle03 : La inscripcion se abre el 1 de marzo
+# ButtonSubtitle03 : (Los talleres se imparten en el idioma del facilitador)
 
 # Section 03 (EDCAMP)
 

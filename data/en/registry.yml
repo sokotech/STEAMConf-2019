@@ -24,7 +24,8 @@ ListTitle02B : Teachers and CaixaBank clients
 ListText02B : 35€ (Codi promocional docents STEAMPROF19)
 
 ButtonTitle02 : Register to the conference
-ButtonSubtitle02 : (Simultaneous translation Catalan, Spanish, English)
+ButtonSubtitle02 : Registration opens on March 1th
+# ButtonSubtitle02 : (Simultaneous translation Catalan, Spanish, English)
 
 Info02 : The conferences include (Thursday afternoon, Friday afternoon and Saturday morning)
 
@@ -46,7 +47,8 @@ Info03C : There is no simultaneous translati during any workshop, each workshop 
 Info03D : Teachers interested in receiving credits must sign the attendance sheet every day.
 
 ButtonTitle03 : Register to the workshops
-ButtonSubtitle03 : (All workshops are taught in the language of the facilitator)
+ButtonSubtitle03 : Registration opens on March 1th
+# ButtonSubtitle03 : (All workshops are taught in the language of the facilitator)
 
 # Section 03 (EDCAMP)
 
