@@ -415,12 +415,27 @@ position: relative;
   padding-top: 3% !important;
 }
 
+.patronage-unesco-logo {
+  width: 85%;
+  margin: 15% 31% 0 auto !important;
+}
+
 .unesco-row {
   margin-top: 10%;
 }
 
 .unesco-logo {
   padding: 0;
+}
+
+/* Extra Small devices (tablets, 768px and up) */
+@media (min-width: 576px) {
+
+  .patronage-unesco-logo {
+    width: 50% !important;
+    margin: 15% 31% 0 auto !important;
+  }
+
 }
 
 
@@ -445,6 +460,11 @@ position: relative;
 
   .unesco-logo {
     padding: 0 20% !important;
+  }
+
+  .patronage-unesco-logo {
+    width: 45%;
+    margin: 15% 31% 0 auto;
   }
 
 }
