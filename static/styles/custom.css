@@ -416,8 +416,8 @@ position: relative;
 }
 
 .patronage-unesco-logo {
-  width: 85%;
-  margin: 15% 31% 0 auto !important;
+  width: 100% !important;
+  margin: 15% auto 0 auto !important;
 }
 
 .unesco-row {
@@ -432,8 +432,8 @@ position: relative;
 @media (min-width: 576px) {
 
   .patronage-unesco-logo {
-    width: 50% !important;
-    margin: 15% 31% 0 auto !important;
+    width: 75% !important;
+    margin: 15% auto 0 auto;
   }
 
 }
