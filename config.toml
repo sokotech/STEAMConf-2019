@@ -1,6 +1,7 @@
 baseURL = "localhost:1313"
 languageCode = "en-US"
 title = "STEAMConf 2019"
+author = "SokoTech"
 license = "GNU General Public License v3.0"
 tags = "educacion, steam, education, steam"
 tagline = "STEAMConf, 5th. International Education Conference"
