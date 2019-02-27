@@ -10,6 +10,7 @@ copyright = "© STEAMConf 2019"
 
 # Build robots.txt file
 enableRobotsTXT = true
+canonifyURLs = true
 # google analytics tracking id
 googleAnalytics = ""
 
