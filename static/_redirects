@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://2019steamconf.netlify.com//* https://2019.steamconf.com//:splat 301!
