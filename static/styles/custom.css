@@ -76,6 +76,10 @@ button:hover {
   text-decoration: none;
 }
 
+.btn {
+  background-color: #EB7B39 !important;
+}
+
 
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
