@@ -432,6 +432,11 @@ position: relative;
   padding: 0;
 }
 
+.logo-aitp {
+  width: 150px;
+  margin-top: 5%;
+}
+
 /* Extra Small devices (tablets, 768px and up) */
 @media (min-width: 576px) {
 
