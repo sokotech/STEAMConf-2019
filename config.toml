@@ -1,4 +1,4 @@
-baseURL = "localhost:1313"
+baseURL = "https://2019.steamconf.com/"
 languageCode = "en-US"
 title = "STEAMConf 2019"
 author = "SokoTech"
@@ -11,7 +11,7 @@ copyright = "© STEAMConf 2019"
 
 # Build robots.txt file
 enableRobotsTXT = true
-# canonifyURLs = false
+canonifyURLs = true
 # google analytics tracking id
 googleAnalytics = ""
 
