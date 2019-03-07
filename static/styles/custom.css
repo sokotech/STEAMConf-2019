@@ -332,6 +332,16 @@ button {
     border-color: transparent !important;
 }
 
+ #go-to-top-button {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 0px; /* Place the button at the bottom of the page */
+  right: 0px; /* Place the button 30px from the right */
+  z-index: 1000; /* Make sure it does not overlap */
+  padding: 15px; /* Some padding */
+  width: 70px;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
   .navbar-brand {
@@ -368,6 +378,12 @@ button {
       width: 140px;
   }
 
+ #go-to-top-button {
+   bottom: 20px; /* Place the button at the bottom of the page */
+   right: 30px; /* Place the button 30px from the right */
+   padding: 15px; /* Some padding */
+   width: 100px;
+}
 
 
 
