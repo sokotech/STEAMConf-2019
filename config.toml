@@ -10,7 +10,7 @@ DefaultContentLanguage = "en"
 copyright = "© STEAMConf 2019"
 
 # Build robots.txt file
-enableRobotsTXT = true
+enableRobotsTXT = false
 canonifyURLs = true
 # google analytics tracking id
 googleAnalytics = ""
