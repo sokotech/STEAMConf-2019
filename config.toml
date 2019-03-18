@@ -3,17 +3,26 @@ languageCode = "en-US"
 title = "STEAMConf 2019"
 author = "SokoTech"
 license = "GNU General Public License v3.0"
-tags = "educacion, steam, education, steam"
 tagline = "STEAMConf, 5th. International Education Conference"
+
 description = "STEAMConf wants to visualize the vital importance of implementing programs and resources, which help to minimize the digital divide, gender imbalances and promote equal opportunities."
 DefaultContentLanguage = "en"
 copyright = "© STEAMConf 2019"
-
 # Build robots.txt file
 enableRobotsTXT = false
 canonifyURLs = true
 # google analytics tracking id
 googleAnalytics = ""
+
+[privacy]
+  # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
+  [privacy.googleAnalytics]
+    # set to true to disable service
+    disable = false
+    # set to true to meet General Data Protection Regulation (GDPR)
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
 
 
 [languages]
