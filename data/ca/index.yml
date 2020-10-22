@@ -2,6 +2,12 @@ enable: true
 
 item:
 
+# Modal
+
+ModalText: "Gràcies per visitar STEAMConf Barcelona! Pots trobar tota la informació de l'edició 2020 fent clic a l'enllaç de sota. Ens veiem aviat!"
+
+ModalBtnText: "Anar a STEAMConf 2020"
+
 # BG
 
 BgSubtitle01: 5a Conferència Internacional d’Educació

@@ -80,6 +80,38 @@ button:hover {
   background-color: #EB7B39 !important;
 }
 
+.st2020-btn {
+  padding: 5px 17px 9px 17px !important;
+  border-radius: 5px !important;
+  border: none !important;
+}
+
+.modal-content {
+  padding: 0 15px;
+}
+
+.modal-header {
+  border-bottom: none !important;
+  padding: 25px 0 0 15px !important;
+}
+
+.modal-body {
+    padding: 15px 15px 0px 15px !important;
+}
+
+.modal-footer {
+    border-top: none !important;
+    padding: 15px 15px 30px 15px !important;
+  }
+
+.st2020-btn a {
+  font-size: 17px;
+  padding: 0;
+  margin: 0;
+  font-weight: 500;
+  color: white;
+}
+
 
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
