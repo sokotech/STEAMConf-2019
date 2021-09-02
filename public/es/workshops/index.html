@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="SteamConf">
+    <meta name="description" content="STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M.">
     <meta name="author" content="SokoTech">
     <link rel="shortcut icon" type="image/png" href="../../../img/00/steamconf-icon-36x36.png">
     <base href="">
@@ -17,7 +17,7 @@
     <title>SteamConf 2019</title>
 
     
-    <link rel="stylesheet" type="text/css" href="/styles/custom.css">
+    <link rel="stylesheet" type="text/css" href="https://2019.steamconf.com/styles/custom.css">
 
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -25,13 +25,32 @@
     
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
+    <script>
+    
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        document.getElementById("go-to-top-button").style.display = "block";
+      } else {
+        document.getElementById("go-to-top-button").style.display = "none";
+      }
+    }
+
+    
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
+
 </head>
 
 
     <body class="page-body">
 
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="../">
+  <a class="navbar-brand" href="../../">
     <img src="../../../img/01/steamconf-logo.svg" alt="steamconf logo">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +60,7 @@
     <ul class="navbar-nav">
 
       <li class="nav-item-01" id="nav-about">
-        <a class="nav-link" href="../about">Sobre SteamConf</a>
+        <a class="nav-link" href="../about">Sobre STEAMConf</a>
       </li>
 
       <li class="nav-item dropdown program-dropdown">
@@ -55,7 +74,7 @@
       </li>
 
       <li class="nav-item-03" id="nav-registry">
-        <a class="nav-link" href="../registry">Registrate</a>
+        <a class="nav-link" href="../registry">Regístrate</a>
       </li>
 
       <li class="nav-item-04" id="nav-registry">
@@ -65,15 +84,22 @@
       <li class="nav-item dropdown program-dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="program" role="button" aria-haspopup="true" aria-expanded="false">Idioma</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item nav-link"  href="">en</a>
-            <a class="dropdown-item nav-link"  href="">es</a>
-            <a class="dropdown-item nav-link" href="">ca</a>
+            <a class="dropdown-item nav-link"  href="../../..">en</a>
+            <a class="dropdown-item nav-link"  href="../../../es">es</a>
+            <a class="dropdown-item nav-link" href="../../../ca">ca</a>
+
+            
+
           </div>
       </li>
 
     </ul>
   </div>
 </nav>
+
+<div class="go-to-top-button">
+  <a onclick="topFunction()" id="go-to-top-button"><img src="../../../img/00/steamconf-go-to-top-button.svg" alt="steamconf go to top"></a>
+</div>
 
 
       <div class="page-header-section-about">
@@ -124,7 +150,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>10.00 - 11. 30</h3>
+                <h3>10.00 - 11.30</h3>
                 <h4>CosmoCaixa</h4>
 
               </div>  
@@ -132,7 +158,6 @@
               <div class="col-md-9 content-workshops-info">
 
                 <h3>Talleres paralelos</h3>
-                <h6></h6>
                 <p></p>
 
               </div>  
@@ -222,8 +247,7 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">2</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+                  <h6><span class="orange">Aula:</span> Tau</h6>
                   <h6><span class="orange">Idioma:</span> Inglés</h6>
 
 
@@ -275,17 +299,18 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">3</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Sigma</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
+                  <img class="logo-aitp" src="../../../img/01/20_logo_aitp.png" alt="logo Any Internacional de la Taula Periòdica dels Elements Químics">
 
 
                 </div>  
 
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
-                  <h3>¡Todo es elemental! Un escape room de la tabla periódica</h3>
-                  <h6><strong>Fina Guitart Laura Farró, Ester Forné, Joan Jareño, Sílvia Margelí, Roser Martínez, Jordi Regalès, Pilar Reverté, Elena Gayán</strong> y <strong>Julio Pérez</strong>. Ámbito científico del CESIRE, Generalitat de Catalunya (Barcelona)</h6>
+                  <h3>Elemental secrets. An escape room of the periodic table</h3>
+                  <h6><strong>Fina Guitart, Laura Farró, Ester Forné, Joan Jareño, Sílvia Margelí, Roser Martínez, Jordi Regalès</strong> y <strong>Pilar Reverté</strong>; Ámbito científico del CESIRE, Generalitat de Catalunya, Barcelona</h6>
                   <p>Con motivo del Año Internacional de la Tabla Periódica (2019 IYPT), se presenta una propuesta didáctica en forma de escape room para trabajar en el aula competencias y conocimientos en torno a la tabla periódica y los elementos. Las tareas y situaciones que hay que resolver engloban conocimientos de diversos ámbitos con el eje vertebrador de las ideas clave de lo que representa la tabla periódica para las ciencias, y en concreto para la química. El formato de juego pretende implicar a los alumnos y hacer que disfruten con la experiencia, al mismo tiempo que comparten conocimientos y cooperan con los compañeros utilizando sus habilidades y competencias en los ámbitos de las lenguas, las artes, las ciencias sociales, la matemática y la tecnología. El taller será conducido por el equipo STEAM del CESIRE.</p>
 
                 </div>  
@@ -328,8 +353,8 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">4</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Beta</h6>
                   <h6><span class="orange">Idioma:</span> Inglés</h6>
 
 
@@ -380,9 +405,10 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">5</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Gamma</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
+                  <h6><span class="orange">Necesidades:</span> Ordenador portátil</h6>
 
 
                 </div>  
@@ -390,7 +416,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>Aprendemos mezclando música, matemáticas y programación</h3>
-                  <h6><strong>José Luis Tourón</strong>, jefe del Área de Ciencia y Tecnología de la Escola Virolai; <strong>Enric Pinto</strong>, profesor de matemáticas y tecnología en la Escola Virolai (Barcelona)</h6>
+                  <h6><strong>José Luis Tourón</strong>, jefe del Área de Ciencia y Tecnología de la Escola Virolai; <strong>Enric Pinto</strong>, profesor de matemáticas y tecnología en la Escola Virolai, Barcelona</h6>
                   <p>En este taller exploraremos las posibilidades que nos brinda la placa BBC micro:bit para la realización de proyectos STEAM en el aula. Mostraremos algunos ejemplos de uso de la micro:bit en proyectos de la Escola Virolai y haremos un proyecto colaborativo con los participantes mezclando conceptos de música, matemáticas y programación. Aprenderemos conceptos básicos de programación y exploraremos la relación entre las matemáticas y la música, pero, sobre todo, nos lo pasaremos en grande aprendiendo y evaluando nuestro proceso de aprendizaje.</p>
 
                 </div>  
@@ -452,8 +478,8 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">6</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Alfa</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
 
 
@@ -462,7 +488,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>Vive la Cuántica!</h3>
-                  <h6><strong>Federica Beduini</strong>, física, equipo de divulgación científica del ICFO; <strong>Lydia Sanmartí-Vila</strong>, neurocientífica, equipo de divulgación científica del ICFO; <strong>Silvia Carrasco</strong>, directora de KTT del ICFO, Castelldefels (Barcelona)</h6>
+                  <h6><strong>Federica Beduini</strong>, física, equipo de divulgación científica del ICFO; <strong>Lydia Sanmartí-Vila</strong>, neurocientífica, equipo de divulgación científica del ICFO; <strong>Silvia Carrasco</strong>, directora de KTT del ICFO, Castelldefels, Barcelona</h6>
                   <p>Aunque parezca increíble, la física cuántica tiene un impacto importante en nuestra vida cotidiana; sin ella, no habríamos desarrollado tecnologías útiles como los láseres, los LED y los transistores. ¡Pero espera! Ahora que estamos al principio de una nueva revolución tecnológica cuántica, la llamada Segunda Revolución Cuántica, aún hay más cosas que pronto podrían ser realidades, como las comunicaciones en línea 100 % seguras y los ordenadores cuánticos. El equipo de divulgación del ICFO ha trabajado en los últimos años en la creación de diversos materiales y contenidos que puedes llevar directamente al aula para introducir algunos de los conceptos básicos de la física cuántica sobre los que se basan la investigación y el desarrollo tecnológico actuales en este campo. Con una amplia gama de actividades en el aula, desde juegos de cartas hasta visitas virtuales en el mundo cuántico, os mostraremos cómo la física cuántica puede llegar a vuestra aula para que vuestros alumnos puedan formar parte de la próxima revolución cuántica.</p>
 
                 </div>  
@@ -551,8 +577,8 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">7</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Lambda</h6>
                   <h6><span class="orange">Idioma:</span> Catalán / Catellano</h6>
 
 
@@ -561,7 +587,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>La Materia y los elementos químicos, lenguaje integrador</h3>
-                  <h6><strong>Javier Peña</strong>, director general d’Elisava, <strong>Bernat Faura</strong>, ingeniero técnico en Diseño Industrial, ingeniero de materiales y diseñador industrial, Elisava; <strong>Queralt Fuentes Canadell</strong>, mestra i tutora a l’escola Nostra Senyora de Lurdes, Barcelona; <strong>Joan Jorquera Bordonau</strong>, dissenyador industrial, mestre a l’Escola Nostra Senyora de Lurdes</h6>
+                  <h6><strong>Javier Peña</strong>, director general, i <strong>Bernat Faura</strong>, Professor de materials. Elisava; <strong>Queralt Fuentes Canadell</strong>, mestra i tutora i <strong>Joan Jorquera Bordonau</strong>, dissenyador industrial, mestre. Escola Nostra Senyora de Lurdes, Barcelona</h6>
                   <p>La materia y los elementos químicos, al igual que los números, las letras y las notas musicales, representan un lenguaje. Este lenguaje nos muestra lo más fundamental y básico para conocer e interpretar el mundo en que vivimos, y, por tanto, es una herramienta fundamental integradora de conocimiento.</p>
 
                 </div>  
@@ -669,8 +695,8 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">8</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Pi</h6>
                   <h6><span class="orange">Idioma:</span> Castellano</h6>
 
 
@@ -722,8 +748,8 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">9</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Delta</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
 
 
@@ -732,7 +758,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>Regulamos la temperatura y nos ponemos crema solar para acercar las TIC al ámbito STEAM</h3>
-                  <h6><strong>Digna Couso</strong>, directora del CRECIM (Centro de Investigación para la Educación Científica y Matemática); <strong>Carme Grimalt-Álvaro, Caterina Solé, Èlia Tena</strong>, miembros del CRECIM, Universitat Autònoma de Barcelona, Bellaterra (Barcelona)</h6>
+                  <h6><strong>Digna Couso</strong>, directora del CRECIM (Centro de Investigación para la Educación Científica y Matemática); <strong>Carme Grimalt-Álvaro, Caterina Solé, Èlia Tena</strong>, miembros del CRECIM, Universitat Autònoma de Barcelona, Bellaterra Barcelona</h6>
                   <p>¿Cómo regulan la temperatura los animales? ¿Cómo podemos saber qué crema nos protege más del Sol? Daremos respuesta a estas preguntas participando y reflexionando en dos talleres del proyecto REVIR-CosmoCaixa para alumnado de primero y segundo de ESO, orientados a llevar a cabo actividad científica y STEM con diversidad de TIC.</p>
 
                 </div>  
@@ -864,7 +890,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>10.00 - 11. 30</h3>
+                <h3>12.00 - 13.30</h3>
                 <h4>CosmoCaixa</h4>
 
               </div>  
@@ -962,7 +988,7 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">2</h1>
-                  <h6><span class="orange">Aula:</span> </h6>
+                  <h6><span class="orange">Aula:</span> Pi</h6>
                   <h6><span class="orange">Idioma:</span> Inglés</h6>
 
 
@@ -1014,8 +1040,8 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">3</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Beta</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
 
 
@@ -1087,9 +1113,10 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">4</h1>
-                  <h3></h3>
-                  <h6><span class="orange">Aula:</span> </h6>
+
+                  <h6><span class="orange">Aula:</span> Delta</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
+                  <h6><span class="orange">Necesidades:</span> </h6>
 
 
                 </div>  
@@ -1097,7 +1124,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>Construyendo conocimiento STEAM, imanes y electrones, el electromagnetismo</h3>
-                  <h6><strong>Jordi Regalés, Jordi Achón</strong> y <strong>Jaume Riera</strong>, ámbito tecnológico del CESIRE, Generalitat de Catalunya (Barcelona)</h6>
+                  <h6><strong>Jordi Regalés, Jordi Achón</strong> y <strong>Jaume Riera</strong>, ámbito tecnológico del CESIRE, Generalitat de Catalunya, Barcelona</h6>
                   <p>Este taller presenta una propuesta didáctica STEAM que quiere facilitar al alumnado de educación secundaria la construcción cognitiva de los conocimientos de la electricidad y el magnetismo que permiten entender el funcionamiento de los artilugios de nuestra civilización, como, por ejemplo, la generación, transporte y utilización de la energía eléctrica al hogar, a los espacios públicos, a la industria, al comercio y al transporte. La propuesta se caracteriza por el aprendizaje activo mediante la construcción de dispositivos para la experimentación. Integra elementos de la cultura maker y la impresión 3D, y se concreta en diversos proyectos para llevarlos a cabo en el contexto del aula de tecnología y del laboratorio de ciencias (con las actividades de exploración de los imanes, construcción de electroimanes y de motores, descubrimiento del principio electromagnético, construcción de un generador eléctrico y de un aerogenerador).</p>
 
                 </div>  
@@ -1179,8 +1206,10 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">5</h1>
-                  <h6><span class="orange">Aula:</span> </h6>
+                  <h6><span class="orange">Aula:</span> Sigma</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
+                  <h6><span class="orange">Necesidades:</span> Ordenador portátil</h6>
+
 
 
                 </div>  
@@ -1188,7 +1217,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>Recursos TAC como herramientas de soporte y creación dentro del entorno artístico</h3>
-                  <h6><strong>Eugènia Mestre</strong>, coordinadora de Educación Visual y Plástica; <strong>Carme Marcè</strong>, coordinadora y especialista de Educación Sensorial y Plástica; <strong>David Hispano</strong>, responsable de proyectos de innovación educativa en las escuelas de la Fundació Collserola (Barcelona)</h6>
+                  <h6><strong>Eugènia Mestre</strong>, coordinadora de Educación Visual y Plástica; <strong>Carme Marcè</strong>, coordinadora y especialista de Educación Sensorial y Plástica; <strong>David Hispano</strong>, responsable de proyectos de innovación educativa en las escuelas de la Fundació Collserola, Barcelona</h6>
                   <p>Los recursos tecnológicos avanzan con paso firme y asegurándose su espacio en la manera en que los niños interactúan con su entorno natural. Normalizar el uso de los recursos tecnológicos nos permite generar situaciones de aprendizaje más próximas a las inquietudes e intereses del alumnado, conectar con su forma de interactuar con el mundo y acercarnos a situaciones de aprendizaje significativo. Entendemos las herramientas tecnológicas como recursos en todos los momentos de los procesos de aprendizaje artístico. Os planteamos pequeñas experiencias de uso de estos recursos, que parten de actividades que hemos llevado a cabo en nuestras escuelas, en el contexto de educación artística-plástica. Las propuestas incluyen diferentes momentos del trabajo artístico; el análisis, observación y percepción de los modelos; las tareas de diseño y producción de las obras; y el uso de recursos generados tecnológicamente que utilizamos como materiales didácticos que acompañan y facilitan los aprendizajes de TODO EL ALUMNADO.</p>
 
                 </div>  
@@ -1270,8 +1299,9 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">6</h1>
-                  <h6><span class="orange">Aula:</span> </h6>
+                  <h6><span class="orange">Aula:</span> Tau</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
+                  <h6><span class="orange">Necesidades:</span> Ordenador portátil con Scratch instalado</h6>
 
 
                 </div>  
@@ -1279,7 +1309,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>¿Por qué no construir nuestro propio ordenador? Raspberry Pi, Scratch &amp; Makey; una combinación genial para educación primaria</h3>
-                  <h6><strong>Elías Vera Gormaz</strong>, mestre d’educació primària; <strong>Elena Guillén Pérez</strong>, mestra d’educació primària; <strong>Carme Rodríguez Latre</strong>, mestra; <strong>Ana Vicalvaro López</strong>, mestra i dinamitzadora del laboratori de llenguatge de programació i robòtica, Escola Octavio Paz (Barcelona)</h6>
+                  <h6><strong>Elías Vera Gormaz</strong>, mestre d’educació primària; <strong>Elena Guillén Pérez</strong>, mestra d’educació primària; <strong>Carme Rodríguez Latre</strong>, mestra; <strong>Ana Vicalvaro López</strong>, mestra i dinamitzadora del laboratori de llenguatge de programació i robòtica, Escola Octavio Paz, Barcelona</h6>
                   <p>¿Espectadores o protagonistas? ¿Qué os parecería que unos niños de educación primaria fueran capaces de montar su propio ordenador para después utilizarlo y pasar a desarrollar su creatividad mediante Scratch y Makey-Makey? En este taller explicaremos la experiencia del trabajo del STEAM en la Escola Octavio Paz y comprobaremos cuán sencillo, divertido, económico y significativo es construir nuestro propio ordenador mediante la placa Raspberry Pi.</p>
 
                 </div>  
@@ -1386,7 +1416,7 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">7</h1>
-                  <h6><span class="orange">Aula:</span> </h6>
+                  <h6><span class="orange">Aula:</span> Alfa</h6>
                   <h6><span class="orange">Idioma:</span> Inglés</h6>
                   <h6><span class="orange">Necesidades:</span> Auriculares y portátiles con Sonic Pi instalado.</h6>
 
@@ -1437,7 +1467,7 @@
                 <div class="col-md-3 paralel-content-time">
 
                   <h1 class="paralel-workshop-number">8</h1>
-                  <h6><span class="orange">Aula:</span> </h6>
+                  <h6><span class="orange">Aula:</span> Gamma</h6>
                   <h6><span class="orange">Idioma:</span> Catalán</h6>
 
 
@@ -1446,7 +1476,7 @@
                 <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                   <h3>MyPERFORM- UNESCO, Cómo fomentar el aprendizaje de la ciencia a través de las artes escénicas</h3>
-                  <h6><strong>Helena González</strong>, licenciada en Biología, Bioquímica y Biomedicina; <strong>Oriol Marimon</strong>, doctor en Química Orgánica. Fundadores y actores de Big Van Ciencia</h6>
+                  <h6><strong>Helena González</strong>, licenciada en Biología, Bioquímica y Biomedicina; <strong>Oriol Marimon</strong>, doctor en Química Orgánica. Fundadores y actores de Big Van Ciencia, Barcelona</h6>
                   <p>El taller busca compartir, con el profesorado de secundaria, nuevas metodologías participativas a través de algunas de las actividades más impactantes a la hora de cambiar la percepción que los jóvenes tienen de la ciencia.</p>
 
                   <h5 class="workshop-undelined-title">Uso de la improvisación y la representación teatral, en 4 actos</h6>
@@ -1525,7 +1555,7 @@
               <div class="col-md-3 paralel-content-time">
 
                 <h1 class="paralel-workshop-number">9</h1>
-                <h6><span class="orange">Aula:</span> </h6>
+                <h6><span class="orange">Aula:</span> Creactivity</h6>
                 <h6><span class="orange">Idioma:</span> Catalán</h6>
                 <h6><span class="orange">Necesidades:</span> Ordenador portátil</h6>
 
@@ -1577,8 +1607,8 @@
               <div class="col-md-3 paralel-content-time">
 
                 <h1 class="paralel-workshop-number">10</h1>
-                <h3></h3>
-                <h6><span class="orange">Aula:</span> </h6>
+
+                <h6><span class="orange">Aula:</span> Lambda</h6>
                 <h6><span class="orange">Idioma:</span> Castellano</h6>
 
 
@@ -1587,7 +1617,7 @@
               <div class="col-md-9 content-workshops-info paralel-workshops-info">
 
                 <h3>Hacking STEM en el aula</h3>
-                <h6><strong>Alba Rodríguez Agüero</strong>, Responsable del área de educación y líder del proyecto Makermania de Posible Lab</h6>
+                <h6><strong>Alba Rodríguez Agüero</strong>, Responsable del área de educación y líder del proyecto Makermania de Posible Lab, Madrid</h6>
                 <p>Hacking STEM es el proyecto que ha creado Microsoft para trabajar en el aula las asignaturas STEM a través de la metodología maker. En este taller, los participantes aprenderán a introducir el proyecto del telégrafo en su aula, y a conocer el potencial que tiene este tipo de proyectos en el ámbito educativo.</p>
 
               </div>  
@@ -1638,6 +1668,12 @@
 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+  <script type="text/javascript">
+    $(window).on('load',function(){
+        $('#st2020').modal('show');
+    });
+  </script>
+
 </div>
 
 
@@ -1658,10 +1694,11 @@
             <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-address.svg" alt="STEAMConf address">
 
             <h5 id="home-footer-title-01"><strong></strong></h5>
-
             <p class="home-footer-text-01">C / Isaac Newton, 26 (Ronda de Dalt)<br>
-            +34 902 22 30 40 93 212 60 50 (centraleta CosmoCaixa) <br>
-            <strong>obrasociallacaixa.org</strong></p>
+            +34 900 22 30 40 / +34  93 212 60 50<br>
+            <a class="black" href="https://cosmocaixa.com" target="_blank"><strong>cosmocaixa.com</strong></a><br>
+            <a class="black" href="https://obrasociallacaixa.org" target="_blank"><strong>obrasociallacaixa.org</strong></a></p>
+
         </div>
 
 
@@ -1670,7 +1707,8 @@
         <img class="how-to-arrive-icon" src=" ../../../img/01/steamconf-icon-bus.svg" alt="STEAMConf arrive by bus">
 
         <h5 id="home-footer-title-03"><strong>En Autobus</strong></h5>
-        <p class="home-footer-text-03">www.tmb.cat (Nos. 17, 22, 58, 73, 75, 60, 196)</p>
+        <p class="home-footer-text-03">H2 / H4 / V17 / V15 / V19 / V13 / 73 / 75 / 22 / 196<br>
+        <a class="black" href="https://www.tmb.cat/es/barcelona/autobuses/lineas" target="_blank"><strong>www.tmb.cat</strong></a></p>
 
         </div>  
 
@@ -1680,7 +1718,7 @@
           <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-car.svg" alt="STEAMConf arrive by car">
 
           <h5 id="home-footer-title-02"><strong>Por Carretera</strong></h5>
-          <p class="home-footer-text-02">Salidas 6 / 7 en Ronda de Dalt</p>
+          <p class="home-footer-text-02">Entrada por C/ Quatre Camins, 89, salidas 6 / 7 en Ronda de Dalt</p>
 
           <h5 id="home-footer-title-05"><strong>Aparcamiento</strong></h5>
           <p class="home-footer-text-05">Tarifa reducida para participantes de STEAMConf (1 € / h). Hay que presentar la entrada STEAMConf en la ventanilla del parking SABA.</p>
@@ -1695,7 +1733,8 @@
         <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-train.svg" alt="STEAMConf arrive by train">
 
           <h5 id="home-footer-title-04"><strong>Por Ferrocarriles de la Generalitat</strong></h5>
-          <p class="home-footer-text-04">www.fgc.es (Avinguda del Tibidabo)</p>
+          <p class="home-footer-text-03">Estación CosmoCaixa-Avinguda del Tibidabo<br>
+          <a class="black" href="https://www.fgc.cat/" target="_blank"><strong>www.fgc.cat</strong></a>
 
         </div>  
 
@@ -1730,17 +1769,19 @@
 
       <div class="title-dots page-dots contact-dots"></div>
 
-      <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@steamconf.com</p></a>
+      <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@soko.tech</p></a>
 
-      <a class="home-sub-footer-item" href=""><p class="home-sub-footer-text">+34 987 67 76 90</p></a>
+      <a class="home-sub-footer-item" href=""><p class="home-sub-footer-text">+34 699 57 18 97</p></a>
+
+      <a href="https://twitter.com/intent/tweet?button_hashtag=STEAMConf19&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #STEAMConf19</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
         <p class="home-sub-footer-submenu">
-            <a class="home-sub-footer-item-01" href="../registry">Registrate</a>  •
-            <a class="home-sub-footer-item-02" href="../program">Programa</a>  •
-            <a class="home-sub-footer-item-03" href="../schedule">Horario</a>  •
-            <a class="home-sub-footer-item-04" href="../workshops">Talleres</a>  •
-            <a class="home-sub-footer-item-05" href="../speakers">Conferenciantes</a>  •
-            <a class="home-sub-footer-item-06" href="../about">Sobre SteamConf</a>
+          <a class="home-sub-footer-item-01" href="../registry">Regístrate</a>  •
+          <a class="home-sub-footer-item-02" href="../program">Programa</a>  •
+          <a class="home-sub-footer-item-03" href="../schedule">Horario</a>  •
+          <a class="home-sub-footer-item-04" href="../workshops">Talleres</a>  •
+          <a class="home-sub-footer-item-05" href="../speakers">Conferenciantes</a>  •
+          <a class="home-sub-footer-item-06" href="../about">Sobre STEAMConf</a>
         </p>
 
     </div> 

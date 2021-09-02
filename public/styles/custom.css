@@ -28,7 +28,7 @@ p {
 }
 
 .container {
-    max-width: 100% !important;
+    max-width: 95% !important;
 }
 
 
@@ -38,7 +38,7 @@ button {
   padding: 10px 30px;
   border: none;
   color: white;
-  font-size: 1.4em !important;
+  font-size: 1.3em !important;
   transition: .5s ease;
 }
 
@@ -66,16 +66,72 @@ button:hover {
   color: #EB7B39;
 }
 
+.black {
+  color: #212529;
+}
+
+.black:hover {
+  color: #EB7B39;
+  transition: .3s ease;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: #EB7B39 !important;
+}
+
+.st2020-btn {
+  padding: 5px 17px 9px 17px !important;
+  border-radius: 5px !important;
+  border: none !important;
+}
+
+.modal-content {
+  padding: 0 15px;
+}
+
+.modal-header {
+  border-bottom: none !important;
+  padding: 25px 0 0 15px !important;
+}
+
+.modal-body {
+    padding: 15px 15px 0px 15px !important;
+}
+
+.modal-footer {
+    border-top: none !important;
+    padding: 15px 15px 30px 15px !important;
+  }
+
+.st2020-btn a {
+  font-size: 17px;
+  padding: 0;
+  margin: 0;
+  font-weight: 500;
+  color: white;
+}
+
 
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
+
+.container {
+    max-width: 93% !important;
+}
+
+button {
+  font-size: 1.4em !important;
+}
 
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
 
-
+.container {
+    max-width: 90% !important;
+}
 
       #bg-button-01, #bg-button-02, #bg-button-03 {
         margin: 0;
@@ -179,16 +235,16 @@ button:hover {
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
 
-.bg-info-title h1{
-  font-weight: 700;
-  font-size: 3.5em;
-  text-align: left;
-}
+  .bg-info-title h1{
+    font-weight: 700;
+    font-size: 3.5em;
+    text-align: left;
+  }
 
-.bg-info-subtitle h4{
-  font-size: 24px;
-  text-align: left;
-}
+  .bg-info-subtitle h4{
+    font-size: 24px;
+    text-align: left;
+  }
 
 }
 
@@ -211,6 +267,10 @@ button:hover {
 .bg-info-subtitle h4{
   font-size: 24px;
   text-align: left;
+}
+
+.bg-information {
+  padding-left: 15px !important;
 }
 
 }
@@ -304,11 +364,32 @@ button:hover {
     border-color: transparent !important;
 }
 
+ #go-to-top-button {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 0px; /* Place the button at the bottom of the page */
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+  padding: 15px;
+  width: 75px;
+  }
+
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
   .navbar-brand {
     width: 90px;
     margin-left: 5%;
+  }
+
+   #go-to-top-button {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 20px; /* Place the button 30px from the right */
+    z-index: 1000; /* Make sure it does not overlap */
+    padding: 15px; /* Some padding */
+    width: 90px;
   }
 }
 
@@ -340,6 +421,12 @@ button:hover {
       width: 140px;
   }
 
+ #go-to-top-button {
+   bottom: 20px; /* Place the button at the bottom of the page */
+   right: 30px; /* Place the button 30px from the right */
+   padding: 15px; /* Some padding */
+   width: 100px;
+}
 
 
 
@@ -391,12 +478,32 @@ position: relative;
   padding-top: 3% !important;
 }
 
+.patronage-unesco-logo {
+  width: 100% !important;
+  margin: 15% auto 0 auto !important;
+}
+
 .unesco-row {
   margin-top: 10%;
 }
 
 .unesco-logo {
   padding: 0;
+}
+
+.logo-aitp {
+  width: 150px;
+  margin-top: 5%;
+}
+
+/* Extra Small devices (tablets, 768px and up) */
+@media (min-width: 576px) {
+
+  .patronage-unesco-logo {
+    width: 59% !important;
+    margin: 15% auto 0 auto;
+  }
+
 }
 
 
@@ -421,6 +528,11 @@ position: relative;
 
   .unesco-logo {
     padding: 0 20% !important;
+  }
+
+  .patronage-unesco-logo {
+    width: 45%;
+    margin: 15% 31% 0 auto;
   }
 
 }
@@ -495,7 +607,7 @@ position: relative;
 
 
 .home-speakers-section-robot {
-display: none;
+  display: none;
 }
 
 #home-speakers-section-items-container {
@@ -537,7 +649,7 @@ z-index: 4;
 }
 
 .home-speaker-button .speaker-item-text h3:hover {
-  color: #EB7B39 !important;
+  color: #5d2d8a !important;
   transition: .5s ease;
 }
 
@@ -585,7 +697,8 @@ z-index: 4;
 #speaker-item-01, #speaker-item-02, #speaker-item-03, #speaker-item-04, #speaker-item-05, #speaker-item-06, #speaker-item-07, #speaker-item-08, #speaker-item-09, #speaker-item-10 {
 display: block;
 position: relative;
-margin: 10% 0;
+margin-bottom: 39%;
+margin-top: 39%;
 }
 
 /* -----------  speaker-item-text  ------------------ */
@@ -630,8 +743,8 @@ width: 70%
 }
 
 #speaker-item-text-08 {
-top: 38%;
-left: 15%;
+top: 23%;
+left: 9%;
 width: 50%
 }
 
@@ -659,20 +772,20 @@ width: 80%
 background-color: #2CFF84;
 z-index: 3;
 position: absolute;
-left: 29%;
-bottom: 0%;
-width: 85%;
-height: 85%;
+left: 30%;
+top: 30%;
+width: 77%;
+height: 57%;
 }
 
 #speaker-item-lightpurple-circle{
 background-color: #AD87EA;
 z-index: 3;
 position: absolute;
-right: 29%;
-top: 17%;
-width: 90%;
-height: 85%;
+right: 30%;
+top: 32%;
+width: 79%;
+height: 55%;
 }
 
 #speaker-item-lightblue-circle {
@@ -689,10 +802,10 @@ height: 100%;
 background-color: #d23d3d;
 z-index: 3;
 position: absolute;
-right: 29%;
-top: 17%;
-width: 90%;
-height: 85%;
+right: 30%;
+top: 32%;
+width: 79%;
+height: 55%;
 }
 
 #speaker-item-lightpink-circle {
@@ -709,10 +822,10 @@ height: 100%;
 background-color: #f5f211;
 z-index: 3;
 position: absolute;
-left: 31%;
-top: 17%;
-width: 90%;
-height: 85%;
+left: 30%;
+top: 30%;
+width: 77%;
+height: 57%;
 }
 
 #speaker-item-brown-circle {
@@ -729,10 +842,10 @@ height: 100%;
 background-color: #16c64a;
 z-index: 3;
 position: absolute;
-right: 23%;
-top: 17%;
-width: 90%;
-height: 85%;
+right: 30%;
+top: 32%;
+width: 79%;
+height: 55%;
 }
 
 #speaker-item-electricblue-circle {
@@ -749,10 +862,133 @@ height: 100%;
 background-color: #ff3870;
 z-index: 3;
 position: absolute;
-right: 29%;
-top: 17%;
-width: 90%;
-height: 85%;
+right: 30%;
+top: 32%;
+width: 79%;
+height: 55%;
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media screen and  (min-width: 576px) {
+
+/* -----------   speaker-item  ---------------------- */
+
+  #speaker-item-01, #speaker-item-02, #speaker-item-03, #speaker-item-04, #speaker-item-05, #speaker-item-06, #speaker-item-07, #speaker-item-08, #speaker-item-09, #speaker-item-10 {
+  display: block;
+  position: relative;
+  margin-bottom: 15%;
+  margin-top: 15%;
+  }
+
+  /* -----------  speaker-item-circles  ------------------ */
+
+  #speaker-item-neongreen-circle {
+  background-color: #2CFF84;
+  z-index: 3;
+  position: absolute;
+  left: 27%;
+  top: 21%;
+  width: 88%;
+  height: 73%;
+  }
+
+  #speaker-item-lightpurple-circle{
+  background-color: #AD87EA;
+  z-index: 3;
+  position: absolute;
+  right: 27%;
+  top: 21%;
+  width: 88%;
+  height: 73%;
+  }
+
+  #speaker-item-lightblue-circle {
+  background-color: #2990d2;
+  z-index: 3;
+  position: absolute;
+  left: 29%;
+  top: 9%;
+  width: 100%;
+  height: 100%;
+  }
+
+  #speaker-item-lightred-circle {
+  background-color: #d23d3d;
+  z-index: 3;
+  position: absolute;
+  right: 27%;
+  top: 21%;
+  width: 88%;
+  height: 73%;
+  }
+
+  #speaker-item-lightpink-circle {
+  background-color: #36b6a8;
+  z-index: 3;
+  position: absolute;
+  left: 29%;
+  top: 9%;
+  width: 100%;
+  height: 100%;
+  }
+
+  #speaker-item-bluegreen-circle {
+  background-color: #f5f211;
+  z-index: 3;
+  position: absolute;
+  left: 27%;
+  top: 21%;
+  width: 88%;
+  height: 73%;
+  }
+
+  #speaker-item-brown-circle {
+  background-color: #ac7e47;
+  z-index: 3;
+  position: absolute;
+  left: 29%;
+  top: 9%;
+  width: 100%;
+  height: 100%;
+  }
+
+  #speaker-item-green-circle {
+  background-color: #16c64a;
+  z-index: 3;
+  position: absolute;
+  right: 27%;
+  top: 21%;
+  width: 88%;
+  height: 73%;
+  }
+
+  #speaker-item-electricblue-circle {
+  background-color: #38e3ff;
+  z-index: 3;
+  position: absolute;
+  left: 29%;
+  top: 9%;
+  width: 100%;
+  height: 100%;
+  }
+
+  #speaker-item-pink-circle {
+  background-color: #ff3870;
+  z-index: 3;
+  position: absolute;
+  right: 27%;
+  top: 21%;
+  width: 88%;
+  height: 73%;
+  }
+
+  #speaker-item-text-01 h3, #speaker-item-text-02 h3, #speaker-item-text-03 h3, #speaker-item-text-04 h3, #speaker-item-text-05 h3, #speaker-item-text-06 h3, #speaker-item-text-07 h3, #speaker-item-text-08 h3, #speaker-item-text-09 h3, #speaker-item-text-10 h3 {
+
+    font-size: 2em;
+    font-weight: 600;
+    color: black;
+  }
+
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -761,6 +997,14 @@ height: 85%;
   .home-speakers-section {
       margin-bottom: 30%;
       }
+
+          .home-speakers-section-robot {
+            display: block;
+            position: absolute;
+            top: 5%;
+            right: 0;
+            left: 0;
+          }
 
       .title-dots {
         width: 10%;
@@ -775,15 +1019,19 @@ height: 85%;
       }
 
     #speaker-item-01, #speaker-item-02, #speaker-item-03, #speaker-item-04, #speaker-item-05, #speaker-item-06, #speaker-item-07, #speaker-item-08, #speaker-item-09, #speaker-item-10 {
-        width: 80%;
+       display: block;
+       position: relative;
+       margin: 10% 0;
+       width: 80%;
     }
+
 
     #speaker-item-neongreen-circle {
       top: 8%;
     }
 
     #speaker-item-text-01, #speaker-item-text-02, #speaker-item-text-03, #speaker-item-text-04, #speaker-item-text-05, #speaker-item-text-06, #speaker-item-text-07, #speaker-item-text-08, #speaker-item-text-09, #speaker-item-text-10 {
-      font-size: 2em;
+      font-size: 1.5em;
       width: 90%;
     }
 
@@ -986,9 +1234,9 @@ height: 85%;
     .home-speakers-section-robot {
       display: block;
       position: absolute;
-      top: 33%;
+      top: 0;
       right: 0;
-      left: 65%;
+      left: 0;
     }
 
         #speaker-item-text-01, #speaker-item-text-02, #speaker-item-text-03, #speaker-item-text-04, #speaker-item-text-05, #speaker-item-text-06, #speaker-item-text-07, #speaker-item-text-08, #speaker-item-text-09, #speaker-item-text-10 {
@@ -1015,6 +1263,11 @@ height: 85%;
 
       #speaker-item-01, #speaker-item-02, #speaker-item-03, #speaker-item-04, #speaker-item-05, #speaker-item-06, #speaker-item-07, #speaker-item-08, #speaker-item-09, #speaker-item-10 {
           width: 65%;
+      }
+
+/* -----------  speaker-item-container  ------------------ */
+      .speaker-item-container {
+      max-width: 95% !important;
       }
 
 /* -----------  speaker-item-text  ------------------ */
@@ -1194,9 +1447,9 @@ height: 83%;
       .home-speakers-section-robot {
         display: block;
         position: absolute;
-        top: 33%;
+        top: 0;
         right: 0;
-        left: 65%;
+        left: 0;
       }
 
         #speaker-col-01, #speaker-col-02, #speaker-col-03, #speaker-col-04, #speaker-col-05, #speaker-col-06, #speaker-col-07, #speaker-col-08, #speaker-col-09 {
@@ -1402,6 +1655,14 @@ position: relative;
   padding: 15% 0;
   text-align: center;
   color: white;
+}
+
+.schedule-paralel-workshops {
+  margin-top: 5%;
+}
+
+.schedule-hr {
+  margin: 5% 0;
 }
 
 
@@ -1671,7 +1932,7 @@ position: relative;
 }
 
 .right-dots {
-  margin: 5% 0 5% auto !important;
+  margin: 7% auto !important;
 }
 
 .center-dots {
@@ -1718,10 +1979,10 @@ padding: 0 2% 0 8%;
 
 .page-text-container-image {
   border-radius: 50%;
-  width: 70%;
+  width: 65%;
   display: block;
   position: relative;
-  margin: 0 auto 10% auto;
+  margin: 10% auto;
 }
 
 .organizer-description {
@@ -1763,12 +2024,12 @@ padding: 0 2% 0 8%;
   text-align: left;
   margin: 15% auto;
   margin: 3% 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 
 .page-highlight-subtitle {
-  font-size: 2em;
-  margin-bottom: 3%;
+  font-size: 1.3em;
+  margin-bottom: 13%;
   text-align: left;
 }
 
@@ -1785,8 +2046,16 @@ padding: 0 2% 0 8%;
   text-align: left;
 }
 
+.content-myperform {
+  margin-top: 10%;
+}
+
 /* Small devices (landscape phones, 576px and up) */
 @media screen and (min-width: 576px) {
+
+  .page-highlight-subtitle {
+    margin-bottom: 5%;
+  }
 
 }
 
@@ -1798,6 +2067,10 @@ padding: 0 2% 0 8%;
     height: 270px;
   }
 
+  .right-dots {
+    margin: 5% 0 5% auto !important;
+  }
+
   .page-header-title {
     font-size: 2.5rem;
     width: 500px;
@@ -1805,7 +2078,9 @@ padding: 0 2% 0 8%;
 
   .page-h2-highlight {
     margin: 10% auto;
+    font-size: 3em
   }
+
 
   .page-text-container {
     padding: 0 5%;
@@ -1858,6 +2133,19 @@ padding: 0 2% 0 8%;
   .page-dots {
     margin: 7% auto;
   }
+
+  .page-text-container-image {
+    border-radius: 50%;
+    width: 70%;
+    display: block;
+    position: relative;
+    margin: 0 auto 10% auto;
+  }
+
+  .content-myperform {
+    margin-top: 0;
+  }
+
 
 }
 
@@ -1954,7 +2242,7 @@ padding: 0 2% 0 8%;
 }
 
 .registry-title-highlight {
-  font-size: 3em;
+  font-size: 2em;
 }
 
 
@@ -1971,6 +2259,15 @@ padding: 0 2% 0 8%;
 .content-date-title  {
   text-align: center;
   margin: 15% 0;
+}
+
+.content-time {
+  margin-bottom: 7%;
+
+}
+
+.content-time h4 {
+  font-size: 1.1em;
 }
 
 .content-time h3, .content-location h3, .content-schedule-info h3, .content-schedule-time h3 {
@@ -2015,6 +2312,10 @@ padding: 0 2% 0 8%;
 
     .content-schedule-info {
       text-align: left;
+    }
+
+    .registry-title-highlight {
+      font-size: 2.5em;
     }
 
   }
@@ -2078,7 +2379,7 @@ padding: 0 2% 0 8%;
 }
 
 .coffee-break-icon {
-  width: 15%;
+  width: 11%;
   margin-right: 5%;
 }
 
@@ -2110,6 +2411,15 @@ padding: 0 2% 0 8%;
 
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
+
+  .workshops-row {
+    margin: 3% 0 -4% 0;
+  }
+
+  .coffee-break-icon {
+    width: 10%;
+    margin-right: 5%;
+}
 
 }
 
@@ -2198,10 +2508,11 @@ padding: 0 2% 0 8%;
 
 .content-program-info h6 {
     font-weight: 400;
+    margin-top: 7%;
 }
 
 .content-program-info p {
-    margin: 2% 0;
+    margin: 7% 0;
 }
 
 .program-row {
@@ -2213,12 +2524,12 @@ padding: 0 2% 0 8%;
 }
 
 .button-edcamp-element {
-  width: 470px;
+  width: 295px;
   margin: 10% 0;
 }
 
 .button-dinar-element {
-  width: 400px;
+  width: 295px;
   margin: 10% 0;
 }
 
@@ -2230,8 +2541,8 @@ padding: 0 2% 0 8%;
 }
 
 .button-unesco-element {
-      width: 80%;
-    margin: 2% 0;
+    width: 295px;
+    margin: 10% 0;
 }
 
 #farewell-conversation {
@@ -2242,10 +2553,33 @@ padding: 0 2% 0 8%;
 /* Small devices (tablets, 768px and up) */
 @media screen and  (min-width: 768px) {
 
+  .content-program-info p {
+      margin: 2% 0;
+  }
+
+  .content-program-info h6 {
+      font-weight: 400;
+      margin-top: 1%;
+  }
+
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and  (min-width: 992px) {
+
+  .button-edcamp-element {
+    width: 470px;
+    margin: 10% 0;
+  }
+
+  .button-unesco-element {
+      width: 80%;
+      margin: 5% 0 0 0;
+  }
+
+  .button-dinar-element {
+    width: 400px;
+  }
 
 }
 

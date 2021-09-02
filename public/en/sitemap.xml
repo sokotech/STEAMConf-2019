@@ -3,175 +3,175 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/about/</loc>
+    <loc>https://2019.steamconf.com/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/about/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>https://2019.steamconf.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>https://2019.steamconf.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/program/</loc>
+    <loc>https://2019.steamconf.com/program/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/program/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/registry/</loc>
+    <loc>https://2019.steamconf.com/registry/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/registry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/registry/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/registry/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/schedule/</loc>
+    <loc>https://2019.steamconf.com/schedule/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/schedule/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/speakers/</loc>
+    <loc>https://2019.steamconf.com/speakers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/speakers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/speakers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/speakers/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>https://2019.steamconf.com/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/workshops/</loc>
+    <loc>https://2019.steamconf.com/workshops/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/es/workshops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/ca/workshops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://2019.steamconf.com/workshops/"
                 />
   </url>
   

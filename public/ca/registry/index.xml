@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Registry on STEAMConf</title>
-    <link>localhost:1313/ca/registry/</link>
+    <link>https://2019.steamconf.com/ca/registry/</link>
     <description>Recent content in Registry on STEAMConf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca-CA</language>
     <copyright>© STEAMConf 2019</copyright>
     
-	<atom:link href="localhost:1313/ca/registry/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2019.steamconf.com/ca/registry/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="SteamConf">
+    <meta name="description" content="STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M.">
     <meta name="author" content="SokoTech">
     <link rel="shortcut icon" type="image/png" href="../../../img/00/steamconf-icon-36x36.png">
     <base href="">
@@ -18,13 +18,32 @@
     <title>SteamConf 2019</title>
 
     
-    <link rel="stylesheet" type="text/css" href="/styles/custom.css">
+    <link rel="stylesheet" type="text/css" href="https://2019.steamconf.com/styles/custom.css">
 
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
     
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+    <script>
+    
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        document.getElementById("go-to-top-button").style.display = "block";
+      } else {
+        document.getElementById("go-to-top-button").style.display = "none";
+      }
+    }
+
+    
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
 
 </head>
 
@@ -33,7 +52,7 @@
     <body class="page-body">
 
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="../">
+  <a class="navbar-brand" href="../../">
     <img src="../../../img/01/steamconf-logo.svg" alt="steamconf logo">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,7 +62,7 @@
     <ul class="navbar-nav">
 
       <li class="nav-item-01" id="nav-about">
-        <a class="nav-link" href="../about">Sobre SteamConf</a>
+        <a class="nav-link" href="../about">Sobre STEAMConf</a>
       </li>
 
       <li class="nav-item dropdown program-dropdown">
@@ -57,7 +76,7 @@
       </li>
 
       <li class="nav-item-03" id="nav-registry">
-        <a class="nav-link" href="../registry">Registrate</a>
+        <a class="nav-link" href="../registry">Regístrate</a>
       </li>
 
       <li class="nav-item-04" id="nav-registry">
@@ -67,15 +86,22 @@
       <li class="nav-item dropdown program-dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="program" role="button" aria-haspopup="true" aria-expanded="false">Idioma</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item nav-link"  href="">en</a>
-            <a class="dropdown-item nav-link"  href="">es</a>
-            <a class="dropdown-item nav-link" href="">ca</a>
+            <a class="dropdown-item nav-link"  href="../../..">en</a>
+            <a class="dropdown-item nav-link"  href="../../../es">es</a>
+            <a class="dropdown-item nav-link" href="../../../ca">ca</a>
+
+            
+
           </div>
       </li>
 
     </ul>
   </div>
 </nav>
+
+<div class="go-to-top-button">
+  <a onclick="topFunction()" id="go-to-top-button"><img src="../../../img/00/steamconf-go-to-top-button.svg" alt="steamconf go to top"></a>
+</div>
 
 
       <div class="page-header-section-about">
@@ -147,12 +173,8 @@
 
             <hr class="page-hr">
 
-            <div class="row program-row">
-
-              <div id="button-edcamp" class="col-md-9 offset-md-3 col-xs-12">
-                  <a href="registry"><button type="button" class="button-unesco-element">Inscripció gratuïta a l’ Obertura pública de la conferencia</button></a>
-              </div> 
-
+            <div id="button-edcamp" class="col-md-9 offset-md-3 col-xs-12">
+                <a target="_blank" href="https://events.eventzilla.net/e/public-opening-of-steamconf-conference-2138723277"><button type="button" class="button-unesco-element">Inscripció gratuïta a l’ Obertura pública de la conferencia</button></a>
             </div> 
 
             <div class="row program-row">
@@ -167,11 +189,11 @@
 
                 <div class="col-md-9 content-program-info">
 
-                  <h3>MyPERFORM-UNESCO</h3>
+                  <h3>MyPERFORM-UNESCO - Big Van Ciencia</h3>
                   <h6 class="content-language-notice">Conferencia-espectáculo de inauguración, abierta al público (traducción simultánea en catalán, castellano e inglés)</h6>
 
                   <h6></h6>
-                  <h6>Bienvenida, a cargo de <strong>Lluís Noguera i Jordana</strong>, director del CosmoCaixa, Barcelona; <strong>Ernesto Fernández Polcuch</strong>, Chief of Section for Science Policy and Partnerships, Natural Sciences Sector, UNESCO. (TBC)</h6>
+                  <h6>Bienvenida, a cargo de <strong>Lluís Noguera i Jordana</strong>, director del CosmoCaixa, Barcelona; <strong>Casimiro Vizzini</strong>, Experto en la División de Política Científica y Desarrollo de Capacidades de la UNESCO; <strong>Francesca Bria</strong>, comisionada de Tecnología e Innovación Digital del Ayuntamiento de Barcelona</h6>
                   <p></p>
 
                   <div class="row content-program-speaker-row">
@@ -193,44 +215,58 @@
                   </div>  
 
 
+                   <div class="row content-program-speaker-row">
+
+                     <div class="col-md-3">
+                       <img class="page-text-container-image" src="../../../img/02/francesca_bria.jpg" alt="SteamConf Speaker">
+                     </div>  
+
+                      <div class="col-md-9">
+
+                       <h4 class="page-text-container-title">Francesca Bria</h4>
+
+                       <p class="Speaker-committe-section-p speakers-page-p">Ha sido Senior Adviser y Senior Project Lead en el Nesta Innovation Lab. También ha sido investigadora y profesora asociada al Innovation Studies Centre-Digital Economy Lab de la Imperial College Business School. Se doctoró en economía de la innovación y ciencias sociales en la Imperial College y tiene un máster en Economía Digital e Innovación por la University College of London, Birkbeck. Es miembro de la Internet of Things Council y asesora de la Comisión Europea en políticas del futuro de Internet y las smart cities. Asimismo, es miembro del EC Expert Group on Open Innovation (OISPG) y del European Research Cluster on the Internet of Things (ERC). Francesca ha sido asesora de diversas organizaciones e instituciones públicas en el ámbito de las políticas de innovación, tecnologías abiertas, el Internet de las cosas y las smart cities. También participa activamente en diversos movimientos de base que defienden el acceso abierto, la soberanía digital y los derechos digitales.</p>
+
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/francesca_bria">@francesca_bria</a>
+
+                     </div>  
+
+                    </div>  
+
+
                   
 
                      
+                    <div class="row content-program-speaker-row">
 
-                  
+                       <div class="col-md-3">
+                         <img class="page-text-container-image" src="../../../img/02/casimiro_vizzini.jpg" alt="SteamConf Speaker">
+                       </div>  
 
+                       <div class="col-md-9">
 
-                  <div class="row content-program-speaker-row">
+                         <h4 class="page-text-container-title">Casimiro Vizzini</h4>
 
-                     <div class="col-md-3">
-                       <img class="page-text-container-image" src="../../../img/02/ernesto_fernandez.jpg" alt="SteamConf Ernesto Fernández Polcuch">
-                     </div>  
+                         <p class="Speaker-committe-section-p speakers-page-p">Experto en la División de Política Científica y Desarrollo de Capacidades de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO). Se licenció en Medicina en la Universidad de Palermo y, después de su residencia, hizo un máster en Cooperación Internacional en el Institut de Relations Internationales et Stratégiques (IRIS) de París. Actualmente, en la UNESCO es el responsable del proyecto PERFORM en comunicación y educación científica, así como del proyecto InsSciDE en diplomacia científica. Además, Casimiro colabora con la American Association for the Advancement in Science, en el campo de la diplomacia científica.</p>
 
-                     <div class="col-md-9">
+                         <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/casiviz">@casiviz</a>
 
-                       <h4 class="page-text-container-title">Ernesto Fernández Polcuch</h4>
+                       </div>  
 
-                       <p class="Speaker-committe-section-p speakers-page-p">Jefe de la Sección de Política Científica y Cooperación,  UNESCO (TBC)</p>
-
-                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/efpolcuch">@efpolcuch</a>
-
-                     </div>  
-
-
-                  </div>  
+                    </div>  
 
 
                 </div>  
 
-                <div class="col-md-9 offset-md-3 content-program-info">
+                <div class="col-md-9 offset-md-3 content-program-info content-myperform">
 
-                  <h3>MyPERFORM-UNESCO - Cuando la ciencia pisa escenarios</h3>
-                  <h6><strong>Helena González</strong> y <strong>Oriol Marimon</strong>, Big Van Ciencia, IES Moisès Broggi, IES Consell de Cent e IES Castellbisbal</h6>
+                  <h3>MyPERFORM-UNESCO - Big Van Ciencia: Cuando la ciencia pisa escenarios</h3>
+                  <h6><strong>Helena González</strong> y <strong>Oriol Marimon</strong>, Big Van Ciencia, IES Moisès Broggi, IES Consell de Cent e IES Castellbisbal; <strong>Casimiro Vizzini</strong>, Experto en la División de Política Científica y Desarrollo de Capacidades de la UNESCO</h6>
 
                   <p>En myPERFORM hablamos de ciencia con responsabilidad, abordamos retos sociales, dilemas éticos, desigualdades de género; identificamos pseudociencias y conflictos de intereses. Pero, sobre todo, nos lo pasamos en grande, exploramos el humor, construimos historias científicas y las representamos sobre un escenario.</p>
                   <p>El proyecto myPERFORM hace uso de las artes escénicas para crear un entorno inclusivo en el que los jóvenes puedan trabajar junto con investigadores, sus profesores y comunicadores de ciencia, para explorar entre todos diversos temas científico-tecnológicos y los valores relacionados. El producto final de estas metodologías participativas es una pieza teatral (un monólogo científico, un sketch, una historia…) que puede representarse sobre un escenario y que habla sobre una investigación científica o tecnológica real. myPERFORM ha hecho del aprendizaje una actividad participativa, «humanizada», contextualizada a las realidades locales de los estudiantes, y ha contribuido al desarrollo de una población reflexiva e informada por la ciencia.</p>
                   <p>La presentación del proyecto myPERFORM será un espectáculo. Literalmente. Un espectáculo en el que se intercalarán los monólogos y sketches teatrales realizados por alumnado de secundaria de diversos centros educativos de Barcelona, en los que podremos responder a preguntas como, ¿qué podemos hacer para detener el cambio climático?, ¿cómo buscamos vida en otros planetas? o ¿qué nuevas tecnologías existen para combatir el cáncer?</p>
-                  <p>PERFORM es la continuación del éxito de su predecesor, el proyecto PERFORM de la Comisión Europea, y su objetivo es poner en práctica, en países de todo el mundo, procesos de enseñanza de las ciencias basados en el rendimiento. PERFORM fue un proyecto financiado por la Unión Europea, implementado en España, Reino Unido y Francia. El diseño e implementación de las actividades pedagógicas fue liderado por Big Van Ciencia (www.bigvanciencia.com). Los centros educativos que han participado en el proyecto myPERFORM y que nos explicarán la ciencia desde el escenario son el IES Moisès Broggi, el IES Consell de Cent y el IES Castellbisbal.</p>
+                  <p>MyPERFORM es la continuación del éxito de su predecesor, el proyecto PERFORM de la Comisión Europea, y su objetivo es poner en práctica, en países de todo el mundo, procesos de enseñanza de las ciencias basados en el rendimiento. PERFORM fue un proyecto financiado por la Comisión Europea, implementado en España, Reino Unido y Francia. El diseño e implementación de las actividades pedagógicas fue liderado por Big Van Ciencia (www.bigvanciencia.com). Los centros educativos que han participado en el proyecto myPERFORM y que nos explicarán la ciencia desde el escenario son el IES Moisès Broggi, el IES Consell de Cent y el IES Castellbisbal.</p>
                   <p></p>
                   <p></p>
 
@@ -448,9 +484,7 @@
                 <h6 class="bold-subtitle">Exclusivo para asistentes a las dos actividades (jornadas &#43; talleres)</h6>
                 <p>¡Elige e inscríbete! ¡Tienes programa doble y puedes hacer doblete!</p>
 
-                <div id="button-edcamp" class="col-md-3 col-xs-12">
-                    <a href="../workshops"><button type="button" class="button-dinar-element">Consulta el programa detallat aqui!</button></a>
-                </div> 
+                
 
               </div>  
 
@@ -550,7 +584,7 @@
                 <div class="col-md-9 content-program-info">
 
                   <h3>Inauguración de la conferencia</h3>
-                  <h6><strong>Jordi Portabella i Calvete</strong>, director del Área de Divulgación Científica y CosmoCaixa de la Fundació Bancària ”la Caixa”; <strong>Francesca Bria</strong>, comisionada de Tecnología e Innovación Digital del Ayuntamiento de Barcelona; <strong>M.ª del Mar Camacho</strong>, directora general de Innovación, Investigación y Cultura Digital de la Generalitat de Catalunya</h6>
+                  <h6><strong>Jordi Portabella i Calvete</strong>, director del Área de Divulgación Científica y CosmoCaixa de la Fundació Bancària ”la Caixa”; <strong>M.ª del Mar Camacho</strong>, directora general de Innovación, Investigación y Cultura Digital de la Generalitat de Catalunya</h6>
 
                   <div class="row content-program-speaker-row">
 
@@ -571,24 +605,12 @@
                   </div>  
 
 
-                  <div class="row content-program-speaker-row">
+                  
 
-                     <div class="col-md-3">
-                       <img class="page-text-container-image" src="../../../img/02/francesca_bria.jpg" alt="SteamConf Speaker">
-                     </div>  
-
-                     <div class="col-md-9">
-
-                       <h4 class="page-text-container-title">Francesca Bria</h4>
-
-                       <p class="Speaker-committe-section-p speakers-page-p">Ha sido Senior Adviser y Senior Project Lead en el Nesta Innovation Lab. También ha sido investigadora y profesora asociada al Innovation Studies Centre-Digital Economy Lab de la Imperial College Business School. Se doctoró en economía de la innovación y ciencias sociales en la Imperial College y tiene un máster en Economía Digital e Innovación por la University College of London, Birkbeck. Es miembro de la Internet of Things Council y asesora de la Comisión Europea en políticas del futuro de Internet y las smart cities. Asimismo, es miembro del EC Expert Group on Open Innovation (OISPG) y del European Research Cluster on the Internet of Things (ERC). Francesca ha sido asesora de diversas organizaciones e instituciones públicas en el ámbito de las políticas de innovación, tecnologías abiertas, el Internet de las cosas y las smart cities. También participa activamente en diversos movimientos de base que defienden el acceso abierto, la soberanía digital y los derechos digitales.</p>
-
-                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/francesca_bria">@francesca_bria</a>
-
-                     </div>  
+                     
 
 
-                  </div>  
+                  
 
 
                   <div class="row content-program-speaker-row">
@@ -657,7 +679,7 @@
 
                 <div class="col-md-9 content-program-info">
 
-                  <h3>Èxit o fracàs, la necessitat del canvi</h3>
+                  <h3>Éxito o fracaso - La necesidad del cambio</h3>
                   <h6><strong>Anna Cutler</strong>, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido)</h6>
                   <h6><span class="orange">Local Peer:</span> <strong>Mónica Bello</strong>, comisaria y responsable de Artes del CERN (Ginebra, Suiza)</h6>
                   <p>En esta representación se explican los últimos diez años en al ámbito del aprendizaje en la Tate, y se exploran los cambios en las prácticas, las influencias teóricas y la pragmática del trabajo en un gran museo de arte. También se aborda el panorama social y cultural del momento y se propone la necesidad del cambio que nos obliga a reflexionar sobre lo que necesitamos para tener éxito o fracasar al generar experiencias relevantes y significativas con el arte que cubran las necesidades surgidas de nuestras responsabilidades con los alumnos.</p>
@@ -693,7 +715,7 @@
 
                        <p class="Speaker-committe-section-p speakers-page-p">Comisaria e historiadora del arte. En los últimos quince años se ha especializado en las perspectivas multidisciplinarias y las narrativas de la cultura tecnocientífica actual. Es comisaria y responsable de artes del CERN, la Organización Europea para la Investigación Nuclear, en Ginebra. Recientemente ha sido comisaria invitada en la Audemars Piguet Art Commission de Art Basel 2018. Antes de llegar a Ginebra, entre otros cargos ocupó el de directora artística de VIDA, Concurso Internacional de Arte y Vida Artificial (2010-2015), creado por Fundación Telefónica.</p>
 
-                       
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/monica_bello">@monica_bello</a>
 
                      </div>  
 
@@ -712,7 +734,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>16.10 - </h3>
+                <h3>16.05 - </h3>
 
 
               </div>  
@@ -735,7 +757,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>16.30 - </h3>
+                <h3>16.25 - </h3>
 
 
               </div>  
@@ -759,18 +781,18 @@
 
                 <div class="col-md-3 content-time">
 
-                  <h3>17.00 -</h3>
+                  <h3>16.55 -</h3>
                   <h4>CosmoCaixa</h4>
-                  <h4><span class="orange">Auditorium</span></h4>
+                  <h4><span class="orange">Auditorio</span></h4>
 
                 </div>  
 
                 <div class="col-md-9 content-program-info">
 
-                  <h3>Parece que se lo pasan bien, pero ¿aprenden?</h3>
+                  <h3>Designing for Tinkerability</h3>
                   <h6><strong>Sebastian Martin</strong>, Tinkering Studio. Exploratorium de San Francisco (Estados Unidos)</h6>
                   <h6><span class="orange">Local Peer:</span> <strong>Òscar M. Ciuró</strong>, gestor de educación cultural. Thinking Doing Digital, Education and MakerConvent, Barcelona</h6>
-                  <p>Profundizaremos en lo que significa crear experiencias de aprendizaje basado en STEAM en las que se adopte plenamente la estética como forma de motivar a los jóvenes tanto física como intelectual y emocionalmente. Cuando los alumnos juegan siempre hay sorpresa y deleite, y esto es la diversión. Por tanto, ¿por qué el juego (tinkering) está tan poco valorado en la educación? Es una pedagogía basada en el contacto activo con materiales e ideas que tiene como objetivo fomentar la curiosidad. Destacaremos las dimensiones del aprendizaje que contiene el tinkering, un proceso en el que tanto los docentes como los alumnos cambian su relación con las ideas, fenómenos científicos y entre ellos mismos, y redefinen lo que se considera aprendizaje.</p>
+                  <p>Profundizaremos en el diseño de experiencias de aprendizaje basado en STEAM que utilicen el tinkering para captar el interés de los jóvenes, desde un punto de vista tanto físico como intelectual y emocional. Siempre que los alumnos aprenden a través del tinkering lo hacen en un ambiente de alegría y sorpresa; por tanto, de diversión. Entonces, ¿por qué está tan infravalorado en la educación? Se trata de una pedagogía basada en el compromiso activo con materiales e ideas para estimular la curiosidad entre los estudiantes. Nos centraremos en las dimensiones del aprendizaje que contiene el tinkering, un proceso por el que tanto los docentes como los estudiantes están modificando su relación con las ideas y los fenómenos científicos y entre ellos mismos, además de redefiniendo lo que se considera aprendizaje.</p>
 
                   <div class="row content-program-speaker-row">
 
@@ -822,7 +844,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>17.50 - </h3>
+                <h3>17.40 - </h3>
 
 
               </div>  
@@ -844,9 +866,9 @@
 
                 <div class="col-md-3 content-time">
 
-                  <h3>18.10 -</h3>
+                  <h3>18.00 -</h3>
                   <h4>CosmoCaixa</h4>
-                  <h4><span class="orange">Auditorium</span></h4>
+                  <h4><span class="orange">Auditorio</span></h4>
 
                 </div>  
 
@@ -908,7 +930,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>18.45 - </h3>
+                <h3>18.40 - </h3>
 
 
               </div>  
@@ -943,7 +965,7 @@
 
                   <h3>10.00 -</h3>
                   <h4>CosmoCaixa</h4>
-                  <h4><span class="orange">Auditorium</span></h4>
+                  <h4><span class="orange">Auditorio</span></h4>
 
                 </div>  
 
@@ -1005,7 +1027,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>10.50 - </h3>
+                <h3>10.45 - </h3>
 
 
               </div>  
@@ -1027,7 +1049,7 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>11.10 - </h3>
+                <h3>11.05 - </h3>
 
 
               </div>  
@@ -1049,18 +1071,18 @@
 
                 <div class="col-md-3 content-time">
 
-                  <h3>11.40 -</h3>
+                  <h3>11.35 -</h3>
                   <h4>CosmoCaixa</h4>
-                  <h4><span class="orange">Auditorium</span></h4>
+                  <h4><span class="orange">Auditorio</span></h4>
 
                 </div>  
 
                 <div class="col-md-9 content-program-info">
 
-                  <h3>Trasladar la cultura de la evaluación al siglo xx, el poder de la evaluación innovadora</h3>
+                  <h3>Trasladar la cultura de la evaluación al siglo 21, el poder de la evaluación innovadora</h3>
                   <h6><strong>Juuso Henrik Nieminen</strong>, Grupo de Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia)</h6>
-                  <h6><span class="orange">Local Peer:</span> <strong>Victoria Eugenia Ibáñez</strong>, profesora de ciencias y matemáticas en educación secundaria, Barcelona</h6>
-                  <p>En 0,51 segundos, una búsqueda en Google devuelve más de 139 millones de resultados para «21st century skills» (‘competencias del siglo xx’). No hay duda de que en todos los niveles educativos, desde la primaria hasta la universidad, se da una gran importancia al aprendizaje durante toda la vida, las habilidades metacognitivas y el pensamiento crítico. Ahora bien, aunque los planes de estudio de todo el mundo empiezan ahora a valorar estas capacidades, la cultura de la evaluación se está quedando atrás. Es lo que sucede también en Finlandia, donde el plan de estudios nacional del 2016 introducía ideas nuevas como, por ejemplo, las competencias en programación y el aprendizaje multidisciplinar, pero apenas abordaba la cultura de la evaluación a cargo del profesorado. En esta sesión, Nieminen presentará las últimas novedades de la investigación en evaluación digital e innovadora desarrollada en la Universidad de Helsinki. Se ha afirmado que la base de nuestros métodos de evaluación prácticamente no ha variado en siglos y que los intentos «radicales» de cambiarlos no siempre han llegado a buen puerto. ¿Cómo se podría compatibilizar la autoevaluación y la evaluación de expertos con la accesibilidad, el empoderamiento estudiantil y la propiedad del aprendizaje?</p>
+                  <h6><span class="orange">Local Peer:</span> <strong>Caterina Calsamiglia</strong>, Profesora investigadora ICREA en el Instituto de Economia Política y Governanza (IPEG), Barcelona</h6>
+                  <p>En 0,51 segundos, una búsqueda en Google devuelve más de 139 millones de resultados para «21st century skills» (‘competencias del siglo 21’). No hay duda de que en todos los niveles educativos, desde la primaria hasta la universidad, se da una gran importancia al aprendizaje durante toda la vida, las habilidades metacognitivas y el pensamiento crítico. Ahora bien, aunque los planes de estudio de todo el mundo empiezan ahora a valorar estas capacidades, la cultura de la evaluación se está quedando atrás. Es lo que sucede también en Finlandia, donde el plan de estudios nacional del 2016 introducía ideas nuevas como, por ejemplo, las competencias en programación y el aprendizaje multidisciplinar, pero apenas abordaba la cultura de la evaluación a cargo del profesorado. En esta sesión, Nieminen presentará las últimas novedades de la investigación en evaluación digital e innovadora desarrollada en la Universidad de Helsinki. Se ha afirmado que la base de nuestros métodos de evaluación prácticamente no ha variado en siglos y que los intentos «radicales» de cambiarlos no siempre han llegado a buen puerto. ¿Cómo se podría compatibilizar la autoevaluación y la evaluación de expertos con la accesibilidad, el empoderamiento estudiantil y la propiedad del aprendizaje?</p>
 
                   <div class="row content-program-speaker-row">
 
@@ -1084,16 +1106,16 @@
                   <div class="row content-program-speaker-row">
 
                      <div class="col-md-3">
-                       <img class="page-text-container-image" src="../../../img/02/victoria_eugenia_ibanez.jpg" alt="SteamConf Speaker Victoria Eugenia Ibáñez">
+                       <img class="page-text-container-image" src="../../../img/02/caterina_calsamiglia.jpg" alt="SteamConf Speaker Caterina Calsamiglia">
                      </div>  
 
                      <div class="col-md-9">
 
-                       <h4 class="page-text-container-title">Victoria Eugenia Ibáñez</h4>
+                       <h4 class="page-text-container-title">Caterina Calsamiglia</h4>
 
-                       <p class="Speaker-committe-section-p speakers-page-p">Es química y catedrática de matemáticas, y trabaja como profesora de ciencias y matemáticas en educación secundaria. Formadora de profesores por el ICE de la UAB, la Asociación de Maestros Rosa Sensat y el Departamento de Educación, ha impartido diferentes cursos y seminarios a lo largo de su carrera profesional, tanto en Catalunya como en el resto de España, sobre la evaluación de los aprendizajes y el aprendizaje cooperativo. También es autora de diferentes publicaciones sobre el tema y ha participado en diversos grupos de trabajo en innovación educativa, tanto en la UB como en la UAB y en Rosa Sensat.</p>
+                       <p class="Speaker-committe-section-p speakers-page-p">Es profesora de investigación ICREA en IPEG y afiliada a CEPR. Obtuvo su doctorado en el Departamento de Economía de la Universidad de Yale en 2005. En 2014 obtuvo una beca ERC Starting Grant para investigar la importancia del diseño de los procedimientos de elección escolar para el entorno educativo y el desarrollo de nuevos indicadores de competencies no cognitivas. . Desde 2011 es miembro del grupo de Human Capital and Economic Opportunity de la Universidad de Chicago. Es la asesora científica de Escola Nova 21, una alianza entre escuelas, otras instituciones públicas y la sociedad civil, para un sistema educativo avanzado. Su investigación se enfoca en políticas públicas con énfasis en la elección de escuelas, políticas educativas, discriminación positiva y la evaluación de competencies no cognitivas.</p>
 
-                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/Vibanez60">@Vibanez60</a>
+                       
 
                      </div>  
 
@@ -1137,7 +1159,7 @@
 
                   <h3>12.40 -</h3>
                   <h4>CosmoCaixa</h4>
-                  <h4><span class="orange">Auditorium</span></h4>
+                  <h4><span class="orange">Auditorio</span></h4>
 
                 </div>  
 
@@ -1160,7 +1182,7 @@
 
                        <p class="Speaker-committe-section-p speakers-page-p">Director creativo de la Gary and Jerri-Ann Jacobs @hightechhigh de San Diego. Trabaja con los soñadores y emprendedores de la High Tech High’s Graduate School of Education, la School Retool de la Stanford d.School, Real World Scholars, Leadership &#43; Design y WildFire Education. Kaleb ha enseñado matemáticas y ciencia en secundaria, ha sido responsable de una web para alumnos de educación primaria y secundaria y formó parte del cuerpo de Marines del Ejército estadounidense. Es licenciado en Desarrollo Humano, tiene dos másteres y es doctor en Liderazgo Educativo. Es, también, cofundador de Unlocked, Inc., una organización sin ánimo de lucro de San Diego dedicada al diseño.</p>
 
-                      
+                      <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/kalebrashad">@kalebrashad</a>
 
                      </div>  
 
@@ -1179,7 +1201,7 @@
 
                        <p class="Speaker-committe-section-p speakers-page-p">Está interesado en los procesos de transformación con los que se puede conseguir una relación más amable y natural entre el conocimiento y el aprendizaje. Esto lo ha llevado a explorar maneras de compensar el peso de los materiales y el conocimiento estático con enfoques más cercanos a la acción, la producción, la creación, la resolución de problemas, el trabajo en equipo y el aprendizaje para las situaciones reales. A Sergi también le interesa todo lo que permite que la evaluación sea más un diagnóstico que un proceso coercitivo; y las aulas y la dinámica comunitaria que fomentan la autonomía, la iniciativa y la responsabilidad entre los chicos y las chicas. Actualmente forma parte del equipo directivo y docente del Institut-Escola Les Vinyes de Castellbisbal, y también del equipo que promueve BetaCamp, una experiencia muy gratificante de aprendizaje entre iguales.</p>
 
-                       
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/sergidelmoral">@sergidelmoral</a>
 
                      </div>  
 
@@ -1198,9 +1220,9 @@
 
               <div class="col-md-3 content-time">
 
-                <h3>13.20 - </h3>
+                <h3>13.25 - </h3>
                 <h4>CosmoCaixa</h4>
-                <h4><span class="orange">Auditorium</span></h4>
+                <h4><span class="orange">Auditorio</span></h4>
 
               </div>  
 
@@ -1208,13 +1230,13 @@
 
                 <h3>La creación de la próxima generación de escuelas</h3>
                 <h6 id="farewell-conversation">Conversación</h6>
-                <h6><span class="orange">Moderador:</span> <strong>Eduard Vallory</strong>, presidente del Centre UNESCO de Catalunya y director de Escola Nova 21, Barcelona</h6>
+                <h6><span class="orange">Moderador:</span> <strong>Eduard Vallory</strong>, director de Escola Nova 21, Barcelona</h6>
                 <h6><strong>Kaleb Rashad</strong>, director creativo de la Gary and Jerri-Ann Jacobs High Tech High, San Diego (Estados Unidos); <strong>Anna Cutler</strong>, directora de Aprendizaje e Investigación de la Tate, Londres (Reino Unido); <strong>Gever Tulley</strong>, fundador de la Brightworks School y «arquitecto pedagógico», San Francisco (Estados Unidos); <strong>Juuso Henrik Nieminen</strong>, Grupo de Recerca en Investigación en Enseñanza de las Matemáticas, University of Helsinki (Finlandia); <strong>Sam Aaron</strong>, programador de live coding, educador e investigador en el Laboratorio Informático de la University of Cambridge (Reino Unido)</h6>
 
                   <div class="row content-program-speaker-row">
 
                      <div class="col-md-3">
-                       <img class="page-text-container-image" src="../../../img/02/eduard-vallory.jpg" alt="SteamConf Speaker Juuso Henrik Nieminen">
+                       <img class="page-text-container-image" src="../../../img/02/eduard-vallory.jpg" alt="SteamConf Speaker eduard vallory">
                      </div>  
 
                      <div class="col-md-9">
@@ -1243,16 +1265,16 @@
 
                 <div class="col-md-3 content-time">
 
-                  <h3>14.00 -</h3>
+                  <h3>14.05 -</h3>
                   <h4>CosmoCaixa</h4>
-                  <h4><span class="orange">Auditorium</span></h4>
+                  <h4><span class="orange">Auditorio</span></h4>
 
                 </div>  
 
                 <div class="col-md-9 content-program-info">
 
                   <h3>Sesión de clausura de la conferencia</h3>
-                  <h6>A cargo de <strong>Lluís Noguera</strong>, director de CosmoCaixa</h6>
+                  <h6>A cargo de <strong>Lluís Noguera</strong>, director de CosmoCaixa, Barcelona</h6>
                   <p></p>
 
 
@@ -1268,7 +1290,7 @@
 
                        <p class="Speaker-committe-section-p speakers-page-p">Director del CosmoCaixa, el Museo de la Ciencia de la Fundació Bancària ”la Caixa”. Licenciado en Filosofía por la UAB y máster en Gestión Cultural por la UB y en Gestión Pública por ESADE, también ha estudiado Relaciones Culturales Internacionales. Ha sido subdirector del Área de Ciencia, Investigación y Medioambiente de la Fundació Bancària ”la Caixa”, donde ha llevado a cabo, entre otros proyectos, la evaluación del programa de divulgación científica.</p>
 
-                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/#">@define</a>
+                       <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/llnoguera">@llnoguera</a>
 
                      </div>  
 
@@ -1293,6 +1315,12 @@
 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+  <script type="text/javascript">
+    $(window).on('load',function(){
+        $('#st2020').modal('show');
+    });
+  </script>
+
 </div>
 
 
@@ -1313,10 +1341,11 @@
             <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-address.svg" alt="STEAMConf address">
 
             <h5 id="home-footer-title-01"><strong></strong></h5>
-
             <p class="home-footer-text-01">C / Isaac Newton, 26 (Ronda de Dalt)<br>
-            +34 902 22 30 40 93 212 60 50 (centraleta CosmoCaixa) <br>
-            <strong>obrasociallacaixa.org</strong></p>
+            +34 900 22 30 40 / +34  93 212 60 50<br>
+            <a class="black" href="https://cosmocaixa.com" target="_blank"><strong>cosmocaixa.com</strong></a><br>
+            <a class="black" href="https://obrasociallacaixa.org" target="_blank"><strong>obrasociallacaixa.org</strong></a></p>
+
         </div>
 
 
@@ -1325,7 +1354,8 @@
         <img class="how-to-arrive-icon" src=" ../../../img/01/steamconf-icon-bus.svg" alt="STEAMConf arrive by bus">
 
         <h5 id="home-footer-title-03"><strong>En Autobus</strong></h5>
-        <p class="home-footer-text-03">www.tmb.cat (Nos. 17, 22, 58, 73, 75, 60, 196)</p>
+        <p class="home-footer-text-03">H2 / H4 / V17 / V15 / V19 / V13 / 73 / 75 / 22 / 196<br>
+        <a class="black" href="https://www.tmb.cat/es/barcelona/autobuses/lineas" target="_blank"><strong>www.tmb.cat</strong></a></p>
 
         </div>  
 
@@ -1335,7 +1365,7 @@
           <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-car.svg" alt="STEAMConf arrive by car">
 
           <h5 id="home-footer-title-02"><strong>Por Carretera</strong></h5>
-          <p class="home-footer-text-02">Salidas 6 / 7 en Ronda de Dalt</p>
+          <p class="home-footer-text-02">Entrada por C/ Quatre Camins, 89, salidas 6 / 7 en Ronda de Dalt</p>
 
           <h5 id="home-footer-title-05"><strong>Aparcamiento</strong></h5>
           <p class="home-footer-text-05">Tarifa reducida para participantes de STEAMConf (1 € / h). Hay que presentar la entrada STEAMConf en la ventanilla del parking SABA.</p>
@@ -1350,7 +1380,8 @@
         <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-train.svg" alt="STEAMConf arrive by train">
 
           <h5 id="home-footer-title-04"><strong>Por Ferrocarriles de la Generalitat</strong></h5>
-          <p class="home-footer-text-04">www.fgc.es (Avinguda del Tibidabo)</p>
+          <p class="home-footer-text-03">Estación CosmoCaixa-Avinguda del Tibidabo<br>
+          <a class="black" href="https://www.fgc.cat/" target="_blank"><strong>www.fgc.cat</strong></a>
 
         </div>  
 
@@ -1385,17 +1416,19 @@
 
       <div class="title-dots page-dots contact-dots"></div>
 
-      <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@steamconf.com</p></a>
+      <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@soko.tech</p></a>
 
-      <a class="home-sub-footer-item" href=""><p class="home-sub-footer-text">+34 987 67 76 90</p></a>
+      <a class="home-sub-footer-item" href=""><p class="home-sub-footer-text">+34 699 57 18 97</p></a>
+
+      <a href="https://twitter.com/intent/tweet?button_hashtag=STEAMConf19&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #STEAMConf19</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
         <p class="home-sub-footer-submenu">
-            <a class="home-sub-footer-item-01" href="../registry">Registrate</a>  •
-            <a class="home-sub-footer-item-02" href="../program">Programa</a>  •
-            <a class="home-sub-footer-item-03" href="../schedule">Horario</a>  •
-            <a class="home-sub-footer-item-04" href="../workshops">Talleres</a>  •
-            <a class="home-sub-footer-item-05" href="../speakers">Conferenciantes</a>  •
-            <a class="home-sub-footer-item-06" href="../about">Sobre SteamConf</a>
+          <a class="home-sub-footer-item-01" href="../registry">Regístrate</a>  •
+          <a class="home-sub-footer-item-02" href="../program">Programa</a>  •
+          <a class="home-sub-footer-item-03" href="../schedule">Horario</a>  •
+          <a class="home-sub-footer-item-04" href="../workshops">Talleres</a>  •
+          <a class="home-sub-footer-item-05" href="../speakers">Conferenciantes</a>  •
+          <a class="home-sub-footer-item-06" href="../about">Sobre STEAMConf</a>
         </p>
 
     </div> 

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedule on STEAMConf</title>
-    <link>localhost:1313/schedule/</link>
+    <link>https://2019.steamconf.com/schedule/</link>
     <description>Recent content in Schedule on STEAMConf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© STEAMConf 2019</copyright>
     
-	<atom:link href="localhost:1313/schedule/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2019.steamconf.com/schedule/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

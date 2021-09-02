@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="SteamConf">
+    <meta name="description" content="STEAMConf arriba a la seva cinquena edició reunint a Barcelona un grup excepcional de creadors locals i internacionals que, en el seu dia a dia, aborden el món des d’una perspectiva (A) i amb la visió integral que afavoreix l’STE(A)M.">
     <meta name="author" content="SokoTech">
     <link rel="shortcut icon" type="image/png" href="../../../img/00/steamconf-icon-36x36.png">
     <base href="">
@@ -18,13 +18,32 @@
     <title>SteamConf 2019</title>
 
     
-    <link rel="stylesheet" type="text/css" href="/styles/custom.css">
+    <link rel="stylesheet" type="text/css" href="https://2019.steamconf.com/styles/custom.css">
 
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
     
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+
+    <script>
+    
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        document.getElementById("go-to-top-button").style.display = "block";
+      } else {
+        document.getElementById("go-to-top-button").style.display = "none";
+      }
+    }
+
+    
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
 
 </head>
 
@@ -33,7 +52,7 @@
 
       <body class="page-body">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="../">
+  <a class="navbar-brand" href="../../">
     <img src="../../../img/01/steamconf-logo.svg" alt="steamconf logo">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,7 +62,7 @@
     <ul class="navbar-nav">
 
       <li class="nav-item-01" id="nav-about">
-        <a class="nav-link" href="../about">Sobre SteamConf</a>
+        <a class="nav-link" href="../about">Sobre STEAMConf</a>
       </li>
 
       <li class="nav-item dropdown program-dropdown">
@@ -57,7 +76,7 @@
       </li>
 
       <li class="nav-item-03" id="nav-registry">
-        <a class="nav-link" href="../registry">Registrate</a>
+        <a class="nav-link" href="../registry">Regístrate</a>
       </li>
 
       <li class="nav-item-04" id="nav-registry">
@@ -67,15 +86,22 @@
       <li class="nav-item dropdown program-dropdown">
         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="program" role="button" aria-haspopup="true" aria-expanded="false">Idioma</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item nav-link"  href="">en</a>
-            <a class="dropdown-item nav-link"  href="">es</a>
-            <a class="dropdown-item nav-link" href="">ca</a>
+            <a class="dropdown-item nav-link"  href="../../..">en</a>
+            <a class="dropdown-item nav-link"  href="../../../es">es</a>
+            <a class="dropdown-item nav-link" href="../../../ca">ca</a>
+
+            
+
           </div>
       </li>
 
     </ul>
   </div>
 </nav>
+
+<div class="go-to-top-button">
+  <a onclick="topFunction()" id="go-to-top-button"><img src="../../../img/00/steamconf-go-to-top-button.svg" alt="steamconf go to top"></a>
+</div>
 
 
         <div class="page-header-section-speakers">
@@ -103,28 +129,107 @@
 
                 <div class="col-md-6 organizer-left">
 
-                <img class="page-text-container-image speakers-first-image" src="../../../img/02/oriol_marimon.jpg" alt="SteamConf Speaker committe">
+                  <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker Helena Gonzalez">
 
-                <h4 class="page-text-container-title speaker-title">Oriol Marimon</h4>
+                  <h4 class="page-text-container-title speaker-title">Helena González-Burón</h4>
 
-                <h6 class="page-text-container-subtitle speaker-subtitle">Big Van Ciencia</h6>
+                  <h6 class="page-text-container-subtitle speaker-subtitle">Big Van Ciencia</h6>
 
-                <p class="Speaker-committe-section-p speakers-page-p">Doctor en Química Orgánica y cofundador del grupo de comunicación científica Big Van, Científicos sobre Ruedas. Es codirector del Departamento de I&#43;D&#43;I y director de Proyectos Internacionales de Big Van Ciencia. Es, también, autor y actor de piezas teatrales de divulgación científica para todas las edades, y desde los escenarios ha llevado la ciencia punta a más de 250 000 espectadores.</p>
+                  <p class="Speaker-committe-section-p speakers-page-p">Es licenciada en Biología y en Bioquímica por la Universidad de Salamanca, y doctora en Biomedicina por la Universitat de Barcelona. Apasionada de los genes, la herencia, la ingeniería genética, la inestabilidad cromosómica y otras marranadas moleculares, se dedica a divulgar ciencia a través de Big Van Ciencia, asociación de la cual es directora y fundadora (2013). Está especialmente interesada en la educación científica en primaria, porque su mente de diez años empatiza perfectamente con este tipo de público.</p>
 
+                  <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
 
                 </div>  
 
                 <div class="col-md-6 organizer-right" id="helena">
 
-                      <img class="page-text-container-image" src="../../../img/02/helena_gonzalez.jpg" alt="SteamConf Speaker committe">
+                      <img class="page-text-container-image speakers-first-image" src="../../../img/02/oriol_marimon.jpg" alt="SteamConf Speaker Oriol Marimon">
 
-                      <h4 class="page-text-container-title speaker-title">Helena González-Burón</h4>
+                      <h4 class="page-text-container-title speaker-title">Oriol Marimon</h4>
 
                       <h6 class="page-text-container-subtitle speaker-subtitle">Big Van Ciencia</h6>
 
-                      <p class="Speaker-committe-section-p speakers-page-p">Es licenciada en Biología y en Bioquímica por la Universidad de Salamanca, y doctora en Biomedicina por la Universitat de Barcelona. Apasionada de los genes, la herencia, la ingeniería genética, la inestabilidad cromosómica y otras marranadas moleculares, se dedica a divulgar ciencia a través de Big Van Ciencia, asociación de la cual es directora y fundadora (2013). Está especialmente interesada en la educación científica en primaria, porque su mente de diez años empatiza perfectamente con este tipo de público.</p>
+                      <p class="Speaker-committe-section-p speakers-page-p">Doctor en Química Orgánica y cofundador del grupo de comunicación científica Big Van, Científicos sobre Ruedas. Es codirector del Departamento de I&#43;D&#43;I y director de Proyectos Internacionales de Big Van Ciencia. Es, también, autor y actor de piezas teatrales de divulgación científica para todas las edades, y desde los escenarios ha llevado la ciencia punta a más de 250 000 espectadores.</p>
 
-                      <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/HelenaArlequino">@HelenaArlequino</a>
+                </div>  
+
+              </div>
+
+            </div> 
+
+
+
+
+            <div class="page-text-container-group" id="anna">
+
+              <div class="row organizers-row">
+
+                <div class="col-md-6 organizer-right" id="anna">
+
+                    <img class="page-text-container-image" src="../../../img/02/anna_cutler.jpg" alt="SteamConf Speaker Anna Cuttler">
+
+                    <h4 class="page-text-container-title speaker-title">Anna Cutler</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Tate</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Directora de Aprendizaje e Investigación en la Tate Modern. Ha trabajado en el ámbito de la educación cultural durante treinta años, en diversas disciplinas. Es conocida por el carácter innovador de sus experimentos prácticos y la formulación de nuevas perspectivas teóricas. En septiembre del 2016 puso en marcha Tate Exchange, un espacio cívico destinado a abrir un diálogo sobre el arte, la sociedad y los problemas urgentes y complejos que nos toca abordar hoy en día.</p>
+
+                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/AnnaCutler">@AnnaCutler</a>
+
+
+                </div>  
+
+                <div class="col-md-6 organizer-right" id="monica">
+
+                    <img class="page-text-container-image" src="../../../img/02/monica_bello.jpg" alt="SteamConf Speaker Monica Bello">
+
+                    <h4 class="page-text-container-title speaker-title">Mónica Bello</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">CERN</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Comisaria e historiadora del arte. En los últimos quince años se ha especializado en las perspectivas multidisciplinarias y las narrativas de la cultura tecnocientífica actual. Es comisaria y responsable de artes del CERN, la Organización Europea para la Investigación Nuclear, en Ginebra. Recientemente ha sido comisaria invitada en la Audemars Piguet Art Commission de Art Basel 2018. Antes de llegar a Ginebra, entre otros cargos ocupó el de directora artística de VIDA, Concurso Internacional de Arte y Vida Artificial (2010-2015), creado por Fundación Telefónica.</p>
+
+                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/monica_bello">@monica_bello</a>
+
+                </div>  
+
+              </div>
+
+            </div> 
+
+
+
+
+            <div class="page-text-container-group" id="sebastian">
+
+              <div class="row organizers-row">
+
+                  <div class="col-md-6 organizer-left" id="sebastian">
+
+                      <img class="page-text-container-image" src="../../../img/02/sebastian_martin.jpg" alt="SteamConf Speaker Sebastian Martin">
+
+                      <h4 class="page-text-container-title speaker-title">Sebastian Martin</h4>
+
+                      <h6 class="page-text-container-subtitle speaker-subtitle">Tinkering Studio</h6>
+
+                      <p class="Speaker-committe-section-p speakers-page-p">Es educador en el Tinkering Studio del Exploratorium de San Francisco, un lugar en el que los visitantes participan activamente en la exploración de la ciencia, el arte y la tecnología a través del making y el tinkering. Fascinado por los aspectos creativos de las ciencias, Sebastian crea actividades lúdicas, promueve talleres de desarrollo profesional impactantes y concibe exposiciones interactivas de un carácter único. Como miembro del Tinkering Studio, ha participado en la elaboración de actividades que han sido recreadas y adaptadas en muchos centros científicos, aulas y markerspaces. Actualmente trabaja junto con colegas como el grupo Lifelong Kindergarten del MIT media lab, escuelas de Reggio Emilia y la LEGO Foundation para conocer a fondo las mejores prácticas y los últimos adelantos en educación.</p>
+
+                      <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/smartinseb">@smartinseb</a>
+
+
+                  </div>  
+
+                <div class="col-md-6 organizer-right" id="oscar">
+
+                    <img class="page-text-container-image" src="../../../img/02/oscar_ciuro.jpg" alt="SteamConf Speaker Oscar Ciuro">
+
+                    <h4 class="page-text-container-title speaker-title">Òscar M. Ciuró</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">MakerConvent</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Es gestor de educación cultural, y siempre está combinando educación, cultura y nuevas tecnologías. Desde el 2009 se ha especializado en los procesos relacionados con el aprendizaje, la fabricación digital y la innovación social. El proyecto MakerConvent es un proceso de innovación que nació de la participación de Traffic Projects en dos proyectos europeos de investigación y transferencia de conocimiento, Formalab (http://www.formalab.fr) y Declic&#39;in (http://declicin.info). La ubicación del proyecto en el Centro Cívico Convent de Sant Agustí no es casual. Los procesos de creación en el ámbito del DIWO, la alineación con trabajos en la red local y la innovación tecnológica del centro lo convierten en un espacio ideal.</p>
+
+                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/sarok">@sarok</a>
 
 
                 </div>  
@@ -136,16 +241,13 @@
 
 
 
-
-
-
             <div class="page-text-container-group" id="sam">
 
               <div class="row organizers-row">
 
-                <div class="col-md-6 organizer-left">
+                <div class="col-md-6 organizer-left" id="sam">
 
-                  <img class="page-text-container-image" src="../../../img/02/sam_aaron.jpg" alt="SteamConf Speaker committe">
+                  <img class="page-text-container-image" src="../../../img/02/sam_aaron.jpg" alt="SteamConf Speaker Sam Aaron">
 
                   <h4 class="page-text-container-title speaker-title">Sam Aaron</h4>
 
@@ -157,56 +259,18 @@
 
                 </div>  
 
-                <div class="col-md-6 organizer-right" id="sebastian">
 
-                    <img class="page-text-container-image" src="../../../img/02/sebastian_martin.jpg" alt="SteamConf Speaker committe">
+                <div class="col-md-6 organizer-right" id="carles">
 
-                    <h4 class="page-text-container-title speaker-title">Sebastian Martin</h4>
+                    <img class="page-text-container-image" src="../../../img/02/carles_ceacero.jpg" alt="SteamConf Speaker Carles Ceacero">
 
-                    <h6 class="page-text-container-subtitle speaker-subtitle">Tinkering Studio</h6>
+                    <h4 class="page-text-container-title speaker-title">Carles Ceacero</h4>
 
-                    <p class="Speaker-committe-section-p speakers-page-p">Es educador en el Tinkering Studio del Exploratorium de San Francisco, un lugar en el que los visitantes participan activamente en la exploración de la ciencia, el arte y la tecnología a través del making y el tinkering. Fascinado por los aspectos creativos de las ciencias, Sebastian crea actividades lúdicas, promueve talleres de desarrollo profesional impactantes y concibe exposiciones interactivas de un carácter único. Como miembro del Tinkering Studio, ha participado en la elaboración de actividades que han sido recreadas y adaptadas en muchos centros científicos, aulas y markerspaces. Actualmente trabaja junto con colegas como el grupo Lifelong Kindergarten del MIT media lab, escuelas de Reggio Emilia y la LEGO Foundation para conocer a fondo las mejores prácticas y los últimos adelantos en educación.</p>
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Escola Pereanton Granollers</h6>
 
-                </div>  
+                    <p class="Speaker-committe-section-p speakers-page-p">Es un músico versátil que enseña música en la escuela Pereanton de Granollers, donde es tutor y coordinador de las tecnologías para el aprendizaje y el conocimiento (TAC). Actualmente combina esta labor con la de embajador del programa &#34;STEAMCat&#34; en las comarcas del Maresme y el Vallès Oriental. Asimismo, Carles es miembro del consejo de la AEMCAT (Asociación de Profesores de Música de Catalunya) y participa muy activamente en la creación de proyectos STEAM que surgen de las necesidades del aula de música.</p>
 
-
-
-              </div>
-
-            </div> 
-
-
-
-
-
-
-            <div class="page-text-container-group" id="mike">
-
-              <div class="row organizers-row">
-
-                <div class="col-md-6 organizer-left">
-
-                    <img class="page-text-container-image" src="../../../img/02/kaleb_rashad.jpg" alt="SteamConf Speaker committe">
-
-                    <h4 class="page-text-container-title speaker-title">Kaleb Rashad</h4>
-
-                    <h6 class="page-text-container-subtitle speaker-subtitle">High Tech High</h6>
-
-                    <p class="Speaker-committe-section-p speakers-page-p">Director creativo de la Gary and Jerri-Ann Jacobs @hightechhigh de San Diego. Trabaja con los soñadores y emprendedores de la High Tech High’s Graduate School of Education, la School Retool de la Stanford d.School, Real World Scholars, Leadership &#43; Design y WildFire Education. Kaleb ha enseñado matemáticas y ciencia en secundaria, ha sido responsable de una web para alumnos de educación primaria y secundaria y formó parte del cuerpo de Marines del Ejército estadounidense. Es licenciado en Desarrollo Humano, tiene dos másteres y es doctor en Liderazgo Educativo. Es, también, cofundador de Unlocked, Inc., una organización sin ánimo de lucro de San Diego dedicada al diseño.</p>
-
-                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/kalebrashad">@kalebrashad</a>
-
-                </div>  
-
-                <div class="col-md-6 organizer-right" id="anna">
-
-                    <img class="page-text-container-image" src="../../../img/02/anna_cutler.jpg" alt="SteamConf Speaker committe">
-
-                    <h4 class="page-text-container-title speaker-title">Anna Cutler</h4>
-
-                    <h6 class="page-text-container-subtitle speaker-subtitle">TATE</h6>
-
-                    <p class="Speaker-committe-section-p speakers-page-p">Directora de Aprendizaje e Investigación en la Tate Modern. Ha trabajado en el ámbito de la educación cultural durante treinta años, en diversas disciplinas. Es conocida por el carácter innovador de sus experimentos prácticos y la formulación de nuevas perspectivas teóricas. En septiembre del 2016 puso en marcha Tate Exchange, un espacio cívico destinado a abrir un diálogo sobre el arte, la sociedad y los problemas urgentes y complejos que nos toca abordar hoy en día.</p>
+                      <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/musicarles">@musicarles</a>
 
 
                 </div>  
@@ -214,9 +278,6 @@
               </div>
 
             </div> 
-
-
-
 
 
 
@@ -225,9 +286,9 @@
 
               <div class="row organizers-row">
 
-                <div class="col-md-6 organizer-left">
+                <div class="col-md-6 offset-md-3 organizer-left" id="gever">
 
-                    <img class="page-text-container-image" src="../../../img/02/gever_tulley.jpg" alt="SteamConf Speaker committe">
+                    <img class="page-text-container-image" src="../../../img/02/gever_tulley.jpg" alt="SteamConf Speaker Gever Tulley">
 
                     <h4 class="page-text-container-title speaker-title">Gever Tulley</h4>
 
@@ -239,18 +300,18 @@
 
                 </div>  
 
-                <div class="col-md-6 organizer-right" id="mackenzie">
+                  <div class="col-md-6 organizer-right" id="mackenzie">
 
-                    <img class="page-text-container-image" src="../../../img/02/mackenzie_price.jpg" alt="SteamConf Speaker committe">
+                      <img class="page-text-container-image" src="../../../img/02/mackenzie_price.jpg" alt="SteamConf Speaker Mackenzie Price">
 
                     <h4 class="page-text-container-title speaker-title">Mackenzie Price</h4>
 
-                    <h6 class="page-text-container-subtitle speaker-subtitle">Brightworks</h6>
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Teachers Institute de Brightworks</h6>
 
                     <p class="Speaker-committe-section-p speakers-page-p">Es, sobre todo, exploradora del mundo. Como miembro fundador del equipo docente de Brightwoks, y en estrecha colaboración con Gever, sus experimentos y liderazgo fueron fundamentales para poner en marcha y perfeccionar el singular proyecto pedagógico de la escuela. Es la directora de IAT en el Teachers Institute de Brightworks. Sus puntos fuertes son la disposición para aprender al lado de los niños con la misma excitación y curiosidad que ellos y la capacidad de formularles preguntas con una precisión que los conduce a nuevos descubrimientos y a un aprendizaje profundo.</p>
 
 
-                </div>  
+                  </div>  
 
               </div>
 
@@ -259,19 +320,17 @@
 
 
 
-
-
             <div class="page-text-container-group" id="juuso">
 
               <div class="row organizers-row">
 
-                <div class="col-md-6 offset-md-3 organizer-left">
+                <div class="col-md-6 offset-md-3 organizer-left" id="juuso">
 
-                    <img class="page-text-container-image" src="../../../img/02/juuso_henrik_nieminen.jpg" alt="SteamConf Speaker committe">
+                    <img class="page-text-container-image" src="../../../img/02/juuso_henrik_nieminen.jpg" alt="SteamConf Speaker Juuso">
 
                     <h4 class="page-text-container-title speaker-title">Juuso Henrik Nieminen</h4>
 
-                    <h6 class="page-text-container-subtitle speaker-subtitle">University of Melbourne</h6>
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Universities of Helsinki &amp; Melbourn</h6>
 
                     <p class="Speaker-committe-section-p speakers-page-p">Investigador en educación y experto innovador en evaluación en la University of Helsinki. Ha enseñado matemáticas y programación en diversos niveles del sistema educativo finlandés y actualmente se dedica a la formación de futuros docentes en Helsinki. Su ámbito de investigación es la evaluación de las competencias del siglo xx, en cuanto a la manera de compatibilizar la evaluación digital innovadora con el desarrollo del pensamiento crítico y el aprendizaje durante toda la vida. Asimismo, Nieminen trabaja como educador especial, ámbito en el que lucha para conseguir un mundo más inclusivo a través de su tarea docente e investigadora. Actualmente escribe libros sobre la cultura de la evaluación en Finlandia y sobre la enseñanza innovadora de las matemáticas, y trabaja como especialista pedagógico en la Code School Finland. Además, es el responsable de la revolución que ha significado para el mundo de las matemáticas el proyecto Math Hunger, cuyo objetivo es conseguir que el aprendizaje de las matemáticas sea divertido y accesible para todos. En el 2018, Nieminen coordinó la sección «¿Qué deberemos aprender después?» en Dare lo Learn, la feria del aprendizaje más innovadora de Finlandia.</p>
 
@@ -279,9 +338,83 @@
 
                 </div>  
 
-                <div class="col-md-3 organizer-right" id="steamconf speaker">
+                  <div class="col-md-6 organizer-right" id="caterina">
+
+                      <img class="page-text-container-image" src="../../../img/02/caterina_calsamiglia.jpg" alt="SteamConf Speaker caterina calsamiglia">
+
+                    <h4 class="page-text-container-title speaker-title">Caterina Calsamiglia</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Institute of Political Economy and Governance, IPEG</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Es profesora de investigación en el IPG e investigadora asociada al CEPR. Se doctoró en el Departamento de Economía de la Yale University en el 2005, y en el 2004 obtuvo una ayuda ERC Starting Grant para investigar a fondo la importancia de la oferta educativa y la formulación de nuevos indicadores de competencias no cognitivas en el diseño de los trámites de elección de escuela. Desde el 2011 es miembro del grupo Human Capital and Economic Opportunity de la University of Chicago. Caterina es, también, asesora científica de Escola Nova 21, una alianza de escuelas e instituciones públicas y de la sociedad civil para un sistema educativo avanzado. Su actividad investigadora se centra en las políticas públicas, con un énfasis en la elección de escuela, las políticas educativas, la acción afirmativa y la evaluación de las competencias no cognitivas.</p>
+
+                    
 
 
+                  </div>  
+
+              </div>
+
+            </div> 
+
+
+
+
+            <div class="page-text-container-group" id="kaleb">
+
+              <div class="row organizers-row">
+
+                <div class="col-md-6 offset-md-3 organizer-left" id="kaleb">
+
+                     <img class="page-text-container-image" src="../../../img/02/kaleb_rashad.jpg" alt="SteamConf Speaker committe">
+
+                    <h4 class="page-text-container-title speaker-title">Kaleb Rashad</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">High Tech High</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Director creativo de la Gary and Jerri-Ann Jacobs @hightechhigh de San Diego. Trabaja con los soñadores y emprendedores de la High Tech High’s Graduate School of Education, la School Retool de la Stanford d.School, Real World Scholars, Leadership &#43; Design y WildFire Education. Kaleb ha enseñado matemáticas y ciencia en secundaria, ha sido responsable de una web para alumnos de educación primaria y secundaria y formó parte del cuerpo de Marines del Ejército estadounidense. Es licenciado en Desarrollo Humano, tiene dos másteres y es doctor en Liderazgo Educativo. Es, también, cofundador de Unlocked, Inc., una organización sin ánimo de lucro de San Diego dedicada al diseño.</p>
+
+                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/kalebrashad">@kalebrashad</a>
+
+                </div>  
+
+                  <div class="col-md-6 organizer-right" id="sergi">
+
+                      <img class="page-text-container-image" src="../../../img/04/sergi_moral.jpg" alt="SteamConf Speaker Sergi del Moral">
+
+                    <h4 class="page-text-container-title speaker-title">Sergi del Moral</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Institut-Escola Les Vinyes de Castellbisbal y BetaCamp</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Está interesado en los procesos de transformación con los que se puede conseguir una relación más amable y natural entre el conocimiento y el aprendizaje. Esto lo ha llevado a explorar maneras de compensar el peso de los materiales y el conocimiento estático con enfoques más cercanos a la acción, la producción, la creación, la resolución de problemas, el trabajo en equipo y el aprendizaje para las situaciones reales. A Sergi también le interesa todo lo que permite que la evaluación sea más un diagnóstico que un proceso coercitivo; y las aulas y la dinámica comunitaria que fomentan la autonomía, la iniciativa y la responsabilidad entre los chicos y las chicas. Actualmente forma parte del equipo directivo y docente del Institut-Escola Les Vinyes de Castellbisbal, y también del equipo que promueve BetaCamp, una experiencia muy gratificante de aprendizaje entre iguales.</p>
+
+                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/sergidelmoral">@sergidelmoral</a>
+
+
+                  </div>  
+
+              </div>
+
+            </div> 
+
+
+
+
+            <div class="page-text-container-group" id="eduard">
+
+              <div class="row organizers-row">
+
+                <div class="col-md-6 offset-md-3 organizer-left" id="eduard">
+
+                     <img class="page-text-container-image" src="../../../img/02/eduard-vallory.jpg" alt="SteamConf Speaker committe">
+
+                    <h4 class="page-text-container-title speaker-title">Eduard Vallory</h4>
+
+                    <h6 class="page-text-container-subtitle speaker-subtitle">Escola Nova 21</h6>
+
+                    <p class="Speaker-committe-section-p speakers-page-p">Es analista social y gestor del cambio. Preside el Centre UNESCO de Catalunya, dirige Escola Nova 21 e impulsa un programa universitario para la mejora del desarrollo profesionales de los maestros, por encargo de la Generalitat. Ha sido visiting scholar del Departamento de Sociología de la New York University, después de haber dirigido la Barcelona Graduate School of Economics. Es doctor en Ciencia Política, máster en Ciencias Sociales, diplomado en Alta Dirección de Empresas y licenciado en Filosofía y en Periodismo. Fue research fellow del Fitzwilliam College de la University of Cambridge, donde llevó a cabo una investigación sobre la educación en la ciudadanía global y el movimiento del escultismo mundial, publicada en catalán por Proa (2010) y en inglés por Palgrave Macmillan (2012). Fue jefe de gabinete del consejero de Universidades, Investigación y Sociedad de la Información de la Generalitat de Catalunya, Andreu Mas-Colell.</p>
+
+                    <a class="page-text-container-section-a" target="_blank" href="https://twitter.com/evallory">@evallory</a>
 
                 </div>  
 
@@ -304,6 +437,12 @@
 
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+  <script type="text/javascript">
+    $(window).on('load',function(){
+        $('#st2020').modal('show');
+    });
+  </script>
+
 </div>
 
 
@@ -324,10 +463,11 @@
             <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-address.svg" alt="STEAMConf address">
 
             <h5 id="home-footer-title-01"><strong></strong></h5>
-
             <p class="home-footer-text-01">C / Isaac Newton, 26 (Ronda de Dalt)<br>
-            +34 902 22 30 40 93 212 60 50 (centraleta CosmoCaixa) <br>
-            <strong>obrasociallacaixa.org</strong></p>
+            +34 900 22 30 40 / +34  93 212 60 50<br>
+            <a class="black" href="https://cosmocaixa.com" target="_blank"><strong>cosmocaixa.com</strong></a><br>
+            <a class="black" href="https://obrasociallacaixa.org" target="_blank"><strong>obrasociallacaixa.org</strong></a></p>
+
         </div>
 
 
@@ -336,7 +476,8 @@
         <img class="how-to-arrive-icon" src=" ../../../img/01/steamconf-icon-bus.svg" alt="STEAMConf arrive by bus">
 
         <h5 id="home-footer-title-03"><strong>En Autobus</strong></h5>
-        <p class="home-footer-text-03">www.tmb.cat (Nos. 17, 22, 58, 73, 75, 60, 196)</p>
+        <p class="home-footer-text-03">H2 / H4 / V17 / V15 / V19 / V13 / 73 / 75 / 22 / 196<br>
+        <a class="black" href="https://www.tmb.cat/es/barcelona/autobuses/lineas" target="_blank"><strong>www.tmb.cat</strong></a></p>
 
         </div>  
 
@@ -346,7 +487,7 @@
           <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-car.svg" alt="STEAMConf arrive by car">
 
           <h5 id="home-footer-title-02"><strong>Por Carretera</strong></h5>
-          <p class="home-footer-text-02">Salidas 6 / 7 en Ronda de Dalt</p>
+          <p class="home-footer-text-02">Entrada por C/ Quatre Camins, 89, salidas 6 / 7 en Ronda de Dalt</p>
 
           <h5 id="home-footer-title-05"><strong>Aparcamiento</strong></h5>
           <p class="home-footer-text-05">Tarifa reducida para participantes de STEAMConf (1 € / h). Hay que presentar la entrada STEAMConf en la ventanilla del parking SABA.</p>
@@ -361,7 +502,8 @@
         <img class="how-to-arrive-icon" src="../../../img/01/steamconf-icon-train.svg" alt="STEAMConf arrive by train">
 
           <h5 id="home-footer-title-04"><strong>Por Ferrocarriles de la Generalitat</strong></h5>
-          <p class="home-footer-text-04">www.fgc.es (Avinguda del Tibidabo)</p>
+          <p class="home-footer-text-03">Estación CosmoCaixa-Avinguda del Tibidabo<br>
+          <a class="black" href="https://www.fgc.cat/" target="_blank"><strong>www.fgc.cat</strong></a>
 
         </div>  
 
@@ -396,17 +538,19 @@
 
       <div class="title-dots page-dots contact-dots"></div>
 
-      <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@steamconf.com</p></a>
+      <a class="home-sub-footer-item" href="mailto:hello@steamconf.com"><p class="home-sub-footer-text">hello@soko.tech</p></a>
 
-      <a class="home-sub-footer-item" href=""><p class="home-sub-footer-text">+34 987 67 76 90</p></a>
+      <a class="home-sub-footer-item" href=""><p class="home-sub-footer-text">+34 699 57 18 97</p></a>
+
+      <a href="https://twitter.com/intent/tweet?button_hashtag=STEAMConf19&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #STEAMConf19</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
         <p class="home-sub-footer-submenu">
-            <a class="home-sub-footer-item-01" href="../registry">Registrate</a>  •
-            <a class="home-sub-footer-item-02" href="../program">Programa</a>  •
-            <a class="home-sub-footer-item-03" href="../schedule">Horario</a>  •
-            <a class="home-sub-footer-item-04" href="../workshops">Talleres</a>  •
-            <a class="home-sub-footer-item-05" href="../speakers">Conferenciantes</a>  •
-            <a class="home-sub-footer-item-06" href="../about">Sobre SteamConf</a>
+          <a class="home-sub-footer-item-01" href="../registry">Regístrate</a>  •
+          <a class="home-sub-footer-item-02" href="../program">Programa</a>  •
+          <a class="home-sub-footer-item-03" href="../schedule">Horario</a>  •
+          <a class="home-sub-footer-item-04" href="../workshops">Talleres</a>  •
+          <a class="home-sub-footer-item-05" href="../speakers">Conferenciantes</a>  •
+          <a class="home-sub-footer-item-06" href="../about">Sobre STEAMConf</a>
         </p>
 
     </div> 
